@@ -1,0 +1,701 @@
+Lemma	Upos	Type1	Type2
+România	PROPRN	Loc	Org
+București	PROPRN	Loc	
+oficialitate	NOUN	Org	
+ROMÂNIA	PROPRN	Loc	Org
+Jador	PROPRN	Om	
+Gigi Becali	PROPRN	Om	
+Italia	PROPRN	Loc	
+FCSB	PROPRN	Org	
+Dinamo	PROPRN	Org	
+actor	NOUN	Om	
+sportivă	NOUN	Om	
+Carmen	PROPRN	Om	
+Germania	PROPRN	Loc	
+Franța	PROPRN	Loc	
+deținător	NOUN	Om	
+Anca Serea	PROPRN	Om	
+Bianca	PROPRN	Om	
+Dumnezeu	PROPRN	Om	
+Spania	PROPRN	Loc	
+Vrancea	PROPRN	Loc	
+Iași	PROPRN	Loc	
+Alex Bodi	PROPRN	Om	
+China	PROPRN	Loc	
+pictor	NOUN	Om	
+Bacău	PROPRN	Loc	
+rumân	NOUN	Om	
+Constanța	PROPRN	Loc	
+Mamaia	PROPRN	Loc	
+Bianca Drăgușanu	PROPRN	Om	
+evreu	NOUN	Om	
+Brigitte	PROPRN	Om	
+Suceava	PROPRN	Loc	
+Daniela Crudu	PROPRN	Om	
+Cluj	PROPRN	Loc	
+Becali	PROPRN	Om	
+Grecia	PROPRN	Loc	
+Antonia	PROPRN	Om	
+mamă	NOUN	Om	
+Belgia	PROPRN	Loc	
+Irinel Columbeanu	PROPRN	Om	
+Florin Salam	PROPRN	Om	
+Oana Zăvoranu	PROPRN	Om	
+Richter	PROPRN	Om	
+Zanni	PROPRN	Om	
+Andreea	PROPRN	Om	
+Andreea Bănică	PROPRN	Om	
+Gabriela Cristea	PROPRN	Om	
+Europa	PROPRN	Loc	
+poet	NOUN	Om	
+Klaus Iohannis	PROPRN	Om	
+Andra	PROPRN	Om	
+Craiova	PROPRN	Loc	
+Bucuresti	PROPRN	Loc	
+Turcia	PROPRN	Loc	
+Raed Arafat	PROPRN	Om	
+ofițer	NOUN	Om	
+Austria	PROPRN	Loc	
+Andrei	PROPRN	Om	
+Elveția	PROPRN	Loc	
+Bogdan	PROPRN	Om	
+Smiley	PROPRN	Om	
+Sibiu	PROPRN	Loc	
+Elena	PROPRN	Om	
+Olanda	PROPRN	Loc	
+Daniela	PROPRN	Om	
+Arad	PROPRN	Loc	
+Florin pastramă	PROPRN	Om	
+Oana Roman	PROPRN	Om	
+Gigi	PROPRN	Om	
+Paris	PROPRN	Loc	
+Adi Sînă	PROPRN	Om	
+Timișoara	PROPRN	Loc	
+Brașov	PROPRN	Loc	
+Marcel Pavel	PROPRN	Om	
+Dani Oțil	PROPRN	Om	
+Alex Velea	PROPRN	Om	
+copil	NOUN	Om	
+Simona	PROPRN	Om	
+Livian	PROPRN	Om	
+America	PROPRN	Loc	
+Pipera	PROPRN	Loc	
+Nelson	PROPRN	Om	
+Nelson mondialu	PROPRN	Om	
+Galați	PROPRN	Loc	
+Maria	PROPRN	Om	
+Andreea Bălan	PROPRN	Om	
+Mihaela Rădulescu	PROPRN	Om	
+Giurgiu	PROPRN	Loc	
+Japonia	PROPRN	Loc	
+Andreea Marin	PROPRN	Om	
+stăpân	NOUN	Om	
+Georgiana	PROPRN	Om	
+Biancăi	PROPRN	Om	
+Oana	PROPRN	Om	
+suplinitor	NOUN	Om	
+Cristina Șișcanu	PROPRN	Om	
+Emi pian	PROPRN	Om	
+Bianca Pop	PROPRN	Om	
+Focșani	PROPRN	Loc	
+Ilfov	PROPRN	Loc	
+Nelu Tătaru	PROPRN	Om	
+Ella	PROPRN	Om	
+Ioana	PROPRN	Om	
+Nicolae	PROPRN	Om	
+Buzău	PROPRN	Loc	
+Ialomița	PROPRN	Loc	
+Brazilia	PROPRN	Loc	
+Meghan Markle	PROPRN	Om	
+Matei Balș	PROPRN	Loc	
+Florin	PROPRN	Om	
+Marius	PROPRN	Om	
+Mihai	PROPRN	Om	
+Ruby	PROPRN	Om	
+Cristina	PROPRN	Om	
+Clejani	PROPRN	Loc	
+Denis Alibec	PROPRN	Om	
+Negoiță	PROPRN	Om	
+profesor	NOUN	Om	
+David	PROPRN	Om	
+Elena Marin	PROPRN	Om	
+Luxemburg	PROPRN	Loc	
+Costi Ioniță	PROPRN	Om	
+Gina pistol	PROPRN	Om	
+Hunedoara	PROPRN	Loc	
+Bulgaria	PROPRN	Loc	
+Suedia	PROPRN	Loc	
+Cătălin	PROPRN	Om	
+Majda	PROPRN	Om	
+Andreea Mantea	PROPRN	Om	
+ticălos	NOUN	Om	
+Pepe	PROPRN	Om	
+Bogdan Mocanu	PROPRN	Om	
+Emi	PROPRN	Om	
+fată	NOUN	Om	
+doamnă	NOUN	Om	
+Marty	PROPRN	Om	
+Botoșani	PROPRN	Loc	
+Olt	PROPRN	Loc	
+Tunisia	PROPRN	Loc	
+Talpan	PROPRN	Om	
+Emi Pian	PROPRN	Om	
+Selly	PROPRN	Om	
+Syda	PROPRN	Om	
+Mădălin Ionescu	PROPRN	Om	
+Ioana ginghină	PROPRN	Om	
+Prahova	PROPRN	Loc	
+Adrian	PROPRN	Om	
+Namibia	PROPRN	Loc	
+Mihaela	PROPRN	Om	
+Alex	PROPRN	Om	
+Margherita	PROPRN	Om	
+Ramona	PROPRN	Om	
+Antonio	PROPRN	Om	
+Ilie Năstase	PROPRN	Om	
+Timiș	PROPRN	Loc	
+Indonezia	PROPRN	Loc	
+Simona trașc	PROPRN	Om	
+Elena Băsescu	PROPRN	Om	
+Leo	PROPRN	Om	
+Silviu prigoană	PROPRN	Om	
+Marcel Toader	PROPRN	Om	
+Bebino	PROPRN	Om	
+Alexandra	PROPRN	Om	
+excursionist	NOUN	Om	
+Moldova	PROPRN	Loc	
+Irlanda	PROPRN	Loc	
+Berceni	PROPRN	Loc	
+George Burcea	PROPRN	Om	
+Răzvan	PROPRN	Om	
+Bibiloi	PROPRN	Om	
+Luana	PROPRN	Om	
+Răzvan Simion	PROPRN	Om	
+Adda	PROPRN	Om	
+Brăila	PROPRN	Loc	
+Neamț	PROPRN	Loc	
+Vica Blochina	PROPRN	Om	
+Ungaria	PROPRN	Loc	
+Ludovic Orban	PROPRN	Om	
+Salam	PROPRN	Om	
+militar	NOUN	Om	
+Simona Hapciuc	PROPRN	Om	
+Ana	PROPRN	Om	
+Ramona Olaru	PROPRN	Om	
+Loredana Chivu	PROPRN	Om	
+Anamaria Prodan	PROPRN	Om	
+Gică Hagi	PROPRN	Om	
+Ploiești	PROPRN	Loc	
+Oana Cojocaru	PROPRN	Om	
+Liviu Vârciu	PROPRN	Om	
+persoană	NOUN	Om	
+Jacobo	PROPRN	Om	
+poliție	NOUN	Org	
+deținut	NOUN	Om	
+grupare	NOUN	Org	
+guvern	NOUN	Org	
+comisie	NOUN	Org	
+parlament	NOUN	Org	
+domnitor	NOUN	Om	
+medic	NOUN	Om	
+român	NOUN	Om	
+agent	NOUN	Om	
+ascultător	NOUN	Om	
+rege	NOUN	Om	
+trecător	NOUN	Om	
+sfânt	NOUN	Om	
+autoritate	NOUN	Org	
+ambasador	NOUN	Om	
+străin	NOUN	Om	
+doamnă	NOUN	Om	
+bărbat	NOUN	Om	
+suveran	NOUN	Om	
+persoană	NOUN	Om	
+junior	NOUN	Om	
+sportiv	NOUN	Om	
+om	NOUN	Om	
+notar	NOUN	Om	
+cetățean	NOUN	Om	
+muncitor	NOUN	Om	
+contribuabil	NOUN	Om	
+diplomat	NOUN	Om	
+solicitant	NOUN	Om	
+jandarm	NOUN	Om	
+etnic	NOUN	Om	
+polonez	NOUN	Om	
+deputat	NOUN	Om	
+pelerin	NOUN	Om	
+client	NOUN	Om	
+populație	NOUN	Org	
+elev	NOUN	Om	
+electorat	NOUN	Om	
+sărac	NOUN	Om	
+lucrător	NOUN	Om	
+navigator	NOUN	Om	
+personal	NOUN	Org	
+comunitate	NOUN	Org	
+organizație	NOUN	Org	
+secretariat	NOUN	Org	
+importator	NOUN	Om	
+consiliu	NOUN	Org	
+consumator	NOUN	Om	
+membru	NOUN	Om	
+broker	NOUN	Om	
+asigurat	NOUN	Om	
+comerciant	NOUN	Om	
+președinte	NOUN	Om	
+istoric	NOUN	Om	
+cititor	NOUN	Om	
+regină	NOUN	Om	
+autor	NOUN	Om	
+păstor	NOUN	Om	
+angajator	NOUN	Om	
+cal	NOUN	Animal	
+fecior	NOUN	Om	
+pește	NOUN	Animal	
+cardinal	NOUN	Om	
+fată	NOUN	Om	
+copil	NOUN	Om	
+pacient	NOUN	Om	
+femeie	NOUN	Om	
+solistă	NOUN	Om	
+șef	NOUN	Om	
+operator	NOUN	Om	
+ortac	NOUN	Om	
+țigan	NOUN	Om	
+ministru	NOUN	Om	
+mujahedin	NOUN	Om	
+fiu	NOUN	Om	
+telespectator	NOUN	Om	
+avocat	NOUN	Om	
+pilot	NOUN	Om	
+tribunal	NOUN	Org	
+marinar	NOUN	Om	
+animal	NOUN	Om	
+administrație	NOUN	Org	
+domn	NOUN	Om	
+cârmuire	NOUN	Org	
+doctor	NOUN	Om	
+președinte	NOUN	Om	
+om	NOUN	Om	
+pelerin	NOUN	Om	
+europarlamentar	NOUN	Om	
+omenire	NOUN	Org	
+admirator	NOUN	Om	
+maestru	NOUN	Om	
+scriitor	NOUN	Om	
+personaj	NOUN	Om	
+eseist	NOUN	Om	
+Grigorie	NOUN	Om	
+August	NOUN	Om	
+țăran	NOUN	Om	
+șef	NOUN	Om	
+medic	NOUN	Om	
+pacient	NOUN	Om	
+istoric	NOUN	Om	
+corespondent	NOUN	Om	
+părinte	NOUN	Om	
+copchilul	NOUN	Om	
+domnișoară	NOUN	Om	
+ministru	NOUN	Om	
+echipă	NOUN	Om	
+delegație	NOUN	Om	
+beneficiar	NOUN	Om	
+client	NOUN	Om	
+ibovnică	NOUN	Om	
+stat	NOUN	Org	
+arbitru	NOUN	Om	
+elev	NOUN	Om	
+balaoacheș	NOUN	Om	
+tată	NOUN	Om	
+ucenic	NOUN	Om	
+patroană	NOUN	Om	
+valoare	NOUN	Om	
+autor	NOUN	Om	
+Academia_Română	NOUN	Org	
+tânăr	NOUN	Om	
+agă	NOUN	Om	
+arhondar	NOUN	Om	
+hangiu	NOUN	Om	
+căpitan	NOUN	Om	
+castor	NOUN	Animal	
+om	NOUN	Om	
+scriitor	NOUN	Om	
+batsman	NOUN	Om	
+asigurător	NOUN	Om	
+fecior	NOUN	Om	
+cetățean	NOUN	Om	
+comisar	NOUN	Om	
+comitet	NOUN	Org	
+comisie	NOUN	Org	
+proprietar	NOUN	Om	
+prizonier	NOUN	Om	
+individ	NOUN	Om	
+mort	NOUN	Om	
+bătrân	NOUN	Om	
+candidat	NOUN	Om	
+organizator	NOUN	Om	
+tejghetar	NOUN	Om	
+drum	NOUN	Om	
+Alexandru	NOUN	Om	
+drac	NOUN	Om	
+credincios	NOUN	Om	
+mitropolit	NOUN	Om	
+asistent	NOUN	Om	
+membru	NOUN	Om	
+comentator	NOUN	Om	
+tătar	NOUN	Om	
+tânăr	NOUN	Om	
+ministru	NOUN	Om	
+tip	NOUN	Om	
+bolnav	NOUN	Om	
+tată	NOUN	Om	
+dramaturg	NOUN	Om	
+iraqian	NOUN	Om	
+poet	NOUN	Om	
+agresor	NOUN	Om	
+cititor	NOUN	Om	
+moș	NOUN	Om	
+titular	NOUN	Om	
+achizitor	NOUN	Om	
+lume	NOUN	Org	
+prăvăliaș	NOUN	Om	
+benjamin	NOUN	Om	
+bătrân	NOUN	Om	
+președinte	NOUN	Om	
+pan	NOUN	Om	
+soție	NOUN	Om	
+Sir	NOUN	Om	
+Ion	NOUN	Om	
+Ștefan	NOUN	Om	
+tejghetar	NOUN	Om	
+fată	NOUN	Om	
+director	NOUN	Om	
+soț	NOUN	Om	
+lider	NOUN	Om	
+francez	NOUN	Om	
+japonez	NOUN	Om	
+domn	NOUN	Om	
+părinte	NOUN	Om	
+frate	NOUN	Om	
+diacon	NOUN	Om	
+membru	NOUN	Om	
+mamă	NOUN	Om	
+duducă	NOUN	Om	
+medic	NOUN	Om	
+mândruca	NOUN	Om	
+domnișoară	NOUN	Om	
+soră	NOUN	Om	
+străbunic	NOUN	Om	
+concurent	NOUN	Om	
+general	NOUN	Om	
+ins	NOUN	Om	
+portar	NOUN	Om	
+pensionar	NOUN	Om	
+brutar	NOUN	Om	
+conducător	NOUN	Om	
+prieten	NOUN	Om	
+moștenitor	NOUN	Om	
+dușman	NOUN	Om	
+șalău	NOUN	Om	
+publicist	NOUN	Om	
+nătărău	NOUN	Om	
+pungaș	NOUN	Om	
+aromân	NOUN	Om	
+prietenă	NOUN	Om	
+arhanghel	NOUN	Om	
+boier	NOUN	Om	
+prinț	NOUN	Om	
+soldat	NOUN	Om	
+gospodar	NOUN	Om	
+nenorocit	NOUN	Om	
+mormoloc	NOUN	Animal	
+est-german	NOUN	Om	
+companie	NOUN	Om	
+omuleț	NOUN	Om	
+cumnată	NOUN	Om	
+cercetător	NOUN	Om	
+redactor	NOUN	Om	
+adolescent	NOUN	Om	
+șomer	NOUN	Om	
+sud-african	NOUN	Om	
+bolnavă	NOUN	Om	
+socialist	NOUN	Om	
+tanti	NOUN	Om	
+ciobănel	NOUN	Om	
+rus	NOUN	Om	
+cârciumar	NOUN	Om	
+crainic	NOUN	Om	
+trupă	NOUN	Org	
+personalitate	NOUN	Om	
+polițist	NOUN	Om	
+ardelean	NOUN	Om	
+actriță	NOUN	Om	
+turc	NOUN	Om	
+ignorant	NOUN	Om	
+naiv	NOUN	Om	
+neam	NOUN	Org	
+star	NOUN	Om	
+pacientă	NOUN	Om	
+locuitor	NOUN	Om	
+lady	NOUN	Om	
+țigancă	NOUN	Om	
+șopârlă	NOUN	Animal	
+țipenie	NOUN	Org	
+tigru	NOUN	Animal	
+militant	NOUN	Om	
+tineret	NOUN	Org	
+prozator	NOUN	Om	
+primar	NOUN	Om	
+găgăuz	NOUN	Om	
+madam	NOUN	Om	
+votant	NOUN	Om	
+participant	NOUN	Om	
+bătrână	NOUN	Om	
+Constantin	NOUN	Om	
+firmă	NOUN	Org	
+selecționer	NOUN	Om	
+romancier	NOUN	Om	
+secretar	NOUN	Om	
+sentinelă	NOUN	Om	
+uzurpator	NOUN	Om	
+Nicolae	NOUN	Om	
+unchi	NOUN	Om	
+erou	NOUN	Om	
+drăguță	NOUN	Om	
+dascăl	NOUN	Om	
+supraveghetor	NOUN	Om	
+George	NOUN	Om	
+corporație	NOUN	Org	
+monarh	NOUN	Om	
+campion	NOUN	Om	
+campioană	NOUN	Om	
+salariat	NOUN	Om	
+băiat	NOUN	Om	
+fierar	NOUN	Om	
+sultan	NOUN	Om	
+funcționar	NOUN	Om	
+vulpe	NOUN	Animal	
+musulman	NOUN	Om	
+generație	NOUN	Org	
+armăsar	NOUN	Om	
+pinguin	NOUN	Animal	
+sindicat	NOUN	Org	
+mire	NOUN	Om	
+atacant	NOUN	Om	
+căpetenie	NOUN	Om	
+narator	NOUN	Om	
+deținătoare	NOUN	Om	
+locotenent	NOUN	Om	
+găină	NOUN	Om	
+elită	NOUN	Om	
+mijlocaș	NOUN	Om	
+familie	NOUN	Om	
+câine	NOUN	Animal	
+colonist	NOUN	Om	
+armată	NOUN	Org	
+ficior	NOUN	Om	
+călugăr	NOUN	Om	
+partid	NOUN	Org	
+nevastă	NOUN	Om	
+bunic	NOUN	Om	
+camarad	NOUN	Om	
+vânător	NOUN	Om	
+fermier	NOUN	Om	
+ministeriabil	NOUN	Om	
+rudă	NOUN	Om	
+palestinian	NOUN	Om	
+naș	NOUN	Om	
+văduvă	NOUN	Om	
+controlor	NOUN	Om	
+coleg	NOUN	Om	
+stilistician	NOUN	Om	
+zeu	NOUN	Om	
+reprezentant	NOUN	Om	
+Federația_Română_de_Fotbal	NOUN	Org	
+conducere	NOUN	Om	
+nebun	NOUN	Om	
+bebeluș	NOUN	Om	
+patriarh	NOUN	Om	
+subdirector	NOUN	Om	
+armator	NOUN	Om	
+babă	NOUN	Om	
+Ștefan	NOUN	Om	
+cipriot	NOUN	Om	
+exportator	NOUN	Om	
+partener	NOUN	Om	
+Eugen	NOUN	Om	
+destinatar	NOUN	Om	
+pescar	NOUN	Om	
+maimuță	NOUN	Om	
+Bănuțiu	NOUN	Om	
+cancelar	NOUN	Om	
+B.	NOUN	Om	
+huligan	NOUN	Om	
+cofetar	NOUN	Om	
+mam'mare	NOUN	Om	
+oaie	NOUN	Om	
+priueghietoarea	NOUN	Animal	
+corb	NOUN	Om	
+Z.M.	NOUN	Om	
+fetiță	NOUN	Om	
+furnizor	NOUN	Om	
+dohtor	NOUN	Om	
+student	NOUN	Om	
+muiere	NOUN	Om	
+popor	NOUN	Om	
+gospodariu	NOUN	Om	
+oaspete	NOUN	Om	
+guvernator	NOUN	Om	
+C	NOUN	Om	
+gardian	NOUN	Om	
+sergent-major	NOUN	Om	
+aristocrație	NOUN	Org	
+mireasă	NOUN	Om	
+M.M.	NOUN	Om	
+anchetator	NOUN	Om	
+șeic	NOUN	Om	
+înger	NOUN	Om	
+consoartă	NOUN	Om	
+Partidul_Democrat	NOUN	Org	
+căprioară	NOUN	Animal	
+țar	NOUN	Om	
+bou	NOUN	Om	
+barosan	NOUN	Om	
+adversar	NOUN	Om	
+catolic	NOUN	Om	
+țânc	NOUN	Om	
+delegat	NOUN	Om	
+cumpărător	NOUN	Om	
+acuzat	NOUN	Om	
+clientă	NOUN	Om	
+studentă	NOUN	Om	
+subordonat	NOUN	Om	
+semnatar	NOUN	Om	
+gazdă	NOUN	Om	
+frăție	NOUN	Om	
+flăcău	NOUN	Om	
+fanatic	NOUN	Om	
+D.	NOUN	Om	
+jefuitor	NOUN	Om	
+gimnastă	NOUN	Om	
+vinovată	NOUN	Om	
+consilier	NOUN	Om	
+șobolan	NOUN	Animal	
+mușteriu	NOUN	Om	
+spectator	NOUN	Om	
+împărat	NOUN	Om	
+cuconiță	NOUN	Om	
+stol	NOUN	Om	
+I.	NOUN	Om	
+gazetar	NOUN	Om	
+bulgar	NOUN	Om	
+turturea	NOUN	Om	
+gilbert	NOUN	Om	
+arendaș	NOUN	Om	
+inginer	NOUN	Om	
+vecin	NOUN	Om	
+papă	NOUN	Om	
+școlar	NOUN	Om	
+biograf	NOUN	Om	
+vrăjmaș	NOUN	Om	
+cronicar	NOUN	Om	
+negustor	NOUN	Om	
+haiduc	NOUN	Om	
+femelă	NOUN	Om	
+derbedeu	NOUN	Om	
+antrenor	NOUN	Om	
+inspector	NOUN	Om	
+administrator	NOUN	Om	
+schopenhauer	NOUN	Om	
+iubit	NOUN	Om	
+turist	NOUN	Om	
+hoț	NOUN	Om	
+nene	NOUN	Om	
+Octavian	NOUN	Om	
+arhitect	NOUN	Om	
+orășean	NOUN	Om	
+cunoscător	NOUN	Om	
+meșter	NOUN	Om	
+luceafăr	NOUN	Om	
+echipaj	NOUN	Om	
+critic	NOUN	Om	
+premier	NOUN	Om	
+napolitan	NOUN	Om	
+cântăreț	NOUN	Om	
+judecător	NOUN	Om	
+victimă	NOUN	Om	
+vită	NOUN	Animal	
+cangur	NOUN	Animal	
+patron	NOUN	Om	
+psiholog	NOUN	Om	
+jucător	NOUN	Om	
+succesor	NOUN	Om	
+subprefect	NOUN	Om	
+supraviețuitor	NOUN	Om	
+rănit	NOUN	Om	
+plătică	NOUN	Om	
+ex-premier	NOUN	Om	
+celebritate	NOUN	Om	
+tehnician	NOUN	Om	
+păsărea	NOUN	Animal	
+albină	NOUN	Animal	
+literat	NOUN	Om	
+teoretician	NOUN	Om	
+Mihail	NOUN	Om	
+apostol	NOUN	Om	
+Barbu	NOUN	Om	
+bibliotecar	NOUN	Om	
+calfă	NOUN	Om	
+traducător	NOUN	Om	
+artist	NOUN	Om	
+oaste	NOUN	Om	
+colaborator	NOUN	Om	
+silvie	NOUN	Om	
+ziarist	NOUN	Om	
+artistă	NOUN	Om	
+pământean	NOUN	Om	
+ibovnic	NOUN	Om	
+streajă	NOUN	Om	
+farmacist	NOUN	Om	
+asistentă	NOUN	Om	
+adult	NOUN	Om	
+episcop	NOUN	Om	
+prințesă	NOUN	Om	
+fiică	NOUN	Om	
+infirm	NOUN	Om	
+expert	NOUN	Om	
+supleant	NOUN	Om	
+galerie	NOUN	Om	
+chirurg	NOUN	Om	
+bărbier	NOUN	Om	
+miliție	NOUN	Org	
+prefect	NOUN	Om	
+strămoș	NOUN	Om	
+oștean	NOUN	Om	
+stat	NOUN	Org	
+societate	NOUN	Org	
+reasigurător	NOUN	Org	
+asociație	NOUN	Org	
+voievod	NOUN	Om	
+COVID-19	PROPRN		
+Instagram	PROPRN		
+Facebook	PROPRN		
+Sălciua	PROPRN		
+COVID	PROPRN		
+Covid-19	PROPRN		
+Survivor România	PROPRN		
+Kanal D	PROPRN		
+SARS-CoV-2	PROPRN		
+Europa League	PROPRN		
+Survivor	PROPRN		
+TELVERDE	PROPRN		
+ATI	PROPRN		
+Capricorn	PROPRN		
+Playboy	PROPRN		
+sat	NOUN	Org	
+Scorpion	PROPRN		
+Venus	PROPRN		
+si	PROPRN		
+UPDATE	PROPRN		
+R______ L___	PROPRN		

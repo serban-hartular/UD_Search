@@ -1,0 +1,5084 @@
+Lemma	Count	Type1	Type2
+România	1063	Loc	Org
+București	396	Loc	
+COVID-19	339		
+ROMÂNIA	290	Loc	Org
+Jador	246	Om	
+Gigi Becali	177	Om	
+Italia	165	Loc	
+FCSB	132	Org	
+Dinamo	129	Org	
+Instagram	124		
+Facebook	113		
+Carmen	110	Om	
+Germania	95	Loc	
+Franța	88	Loc	
+Sălciua	87		
+Anca Serea	84	Om	
+Bianca	84	Om	
+Dumnezeu	82	Om	
+Spania	80	Loc	
+Vrancea	79	Loc	
+Iași	76	Loc	
+Alex Bodi	74	Om	
+China	74	Loc	
+COVID	72		
+Bacău	71	Loc	
+Covid-19	71		
+Constanța	70	Loc	
+Mamaia	69	Loc	
+Bianca Drăgușanu	67	Om	
+Survivor România	65		
+Brigitte	62	Om	
+Suceava	61	Loc	
+Daniela Crudu	60	Om	
+Cluj	59	Loc	
+Becali	58	Om	
+Grecia	57	Loc	
+Antonia	56	Om	
+Kanal D	53		
+Belgia	53	Loc	
+Irinel Columbeanu	53	Om	
+Florin Salam	51	Om	
+Oana Zăvoranu	51	Om	
+Richter	51	Om	
+Zanni	50	Om	
+Andreea	49	Om	
+Andreea Bănică	49	Om	
+Gabriela Cristea	49	Om	
+Europa	47	Loc	
+SARS-CoV-2	45		
+Klaus Iohannis	44	Om	
+Andra	44	Om	
+Craiova	43	Loc	
+Bucuresti	43	Loc	
+Turcia	42	Loc	
+Raed Arafat	42	Om	
+Europa League	42		
+Austria	41	Loc	
+Andrei	40	Om	
+Elveția	40	Loc	
+Bogdan	40	Om	
+Smiley	39	Om	
+Sibiu	39	Loc	
+Elena	39	Om	
+Olanda	39	Loc	
+Daniela	38	Om	
+Arad	37	Loc	
+Florin pastramă	37	Om	
+Oana Roman	37	Om	
+Gigi	37	Om	
+Paris	37	Loc	
+Adi Sînă	36	Om	
+Timișoara	36	Loc	
+Brașov	35	Loc	
+Marcel Pavel	35	Om	
+Dani Oțil	35	Om	
+Alex Velea	35	Om	
+Survivor	35		
+Simona	35	Om	
+Livian	35	Om	
+America	34	Loc	
+Pipera	34	Loc	
+Nelson	34	Om	
+Nelson mondialu	33	Om	
+Galați	32	Loc	
+Maria	32	Om	
+Andreea Bălan	32	Om	
+Mihaela Rădulescu	32	Om	
+Giurgiu	31	Loc	
+Japonia	31	Loc	
+Andreea Marin	31	Om	
+TELVERDE	30		
+Georgiana	30	Om	
+Biancăi	30	Om	
+Oana	30	Om	
+ATI	30		
+Cristina Șișcanu	30	Om	
+Emi pian	30	Om	
+Bianca Pop	30	Om	
+Focșani	30	Loc	
+Ilfov	29	Loc	
+Nelu Tătaru	29	Om	
+Ella	29	Om	
+Ioana	29	Om	
+Nicolae	29	Om	
+Buzău	28	Loc	
+Ialomița	28	Loc	
+Brazilia	28	Loc	
+Meghan Markle	28	Om	
+Matei Balș	27	Loc	
+Florin	27	Om	
+Marius	27	Om	
+Mihai	27	Om	
+Ruby	27	Om	
+Cristina	27	Om	
+Clejani	27	Loc	
+Denis Alibec	27	Om	
+Negoiță	27	Om	
+Capricorn	27		
+David	26	Om	
+Elena Marin	26	Om	
+Luxemburg	26	Loc	
+Costi Ioniță	26	Om	
+Gina pistol	25	Om	
+Hunedoara	25	Loc	
+Bulgaria	25	Loc	
+Suedia	25	Loc	
+Cătălin	25	Om	
+Majda	25	Om	
+Andreea Mantea	25	Om	
+Playboy	25		
+Pepe	25	Om	
+Bogdan Mocanu	25	Om	
+Emi	25	Om	
+Scorpion	25		
+Venus	25		
+Marty	25	Om	
+Botoșani	24	Loc	
+Olt	24	Loc	
+Tunisia	24	Loc	
+Talpan	24	Om	
+Emi Pian	24	Om	
+Selly	24	Om	
+Syda	24	Om	
+Mădălin Ionescu	24	Om	
+Ioana ginghină	24	Om	
+Prahova	23	Loc	
+Adrian	23	Om	
+Namibia	23	Loc	
+Mihaela	23	Om	
+Alex	23	Om	
+Margherita	23	Om	
+Ramona	23	Om	
+Antonio	23	Om	
+Ilie Năstase	23	Om	
+Timiș	22	Loc	
+Indonezia	22	Loc	
+Simona trașc	22	Om	
+Elena Băsescu	22	Om	
+Leo	22	Om	
+Silviu prigoană	22	Om	
+Marcel Toader	22	Om	
+Bebino	22	Om	
+Alexandra	22	Om	
+si	21		
+Moldova	21	Loc	
+Irlanda	21	Loc	
+Berceni	21	Loc	
+George Burcea	21	Om	
+Răzvan	21	Om	
+Bibiloi	21	Om	
+Luana	21	Om	
+Răzvan Simion	21	Om	
+Adda	21	Om	
+Brăila	20	Loc	
+Neamț	20	Loc	
+Vica Blochina	20	Om	
+Ungaria	20	Loc	
+Ludovic Orban	20	Om	
+Salam	20	Om	
+UPDATE	20		
+Simona Hapciuc	20	Om	
+Ana	20	Om	
+Ramona Olaru	20	Om	
+Loredana Chivu	20	Om	
+Anamaria Prodan	20	Om	
+Gică Hagi	20	Om	
+Ploiești	20	Loc	
+Oana Cojocaru	20	Om	
+Liviu Vârciu	20	Om	
+R______ L___	20		
+Jacobo	20	Om	
+Coronavirus	19		
+Dâmbovița	19	Loc	
+Alina Vidican	19	Om	
+Floreasca	19	Loc	
+Anca	19	Om	
+Ucraina	19	Loc	
+Kanal D.	19		
+papă Francisc	19	Om	
+Ionuț Negoiță	19	Om	
+Londra	19	Loc	
+Adelina Pestrițu	19	Om	
+Hagi	19	Om	
+Ionel	19	Om	
+Mizrahi	19		
+Argeș	18	Loc	
+Cristi Borcea	18	Om	
+Noah	18	Om	
+Marius Elisa	18	Om	
+Mariana	18	Om	
+Otopeni	18	Loc	
+Adriana Bahmuțeanu	18	Om	
+Ada	18	Om	
+Champions League	18		
+Mircea Rednic	18	Om	
+Gemeni	18		
+DALI	18		
+Alexandru Papadopol	18	Om	
+SARS	17		
+CoV	17		
+Anglia	17	Loc	
+BMW	17	Obiect	
+Traian Băsescu	17	Om	
+Islanda	17	Loc	
+Cipru	17	Loc	
+AFLĂ	17		
+Wuhan	17	Loc	
+Victor Pițurcă	17	Om	
+FOTO	17		
+Dorian Popa	17	Om	
+Luana Rednic	17	Om	
+Bogdan Ionescu	17	Om	
+Crăciun	16	Eveniment	
+Rusia	16	Loc	
+Argentina	16	Loc	
+Alexandru Rafila	16	Om	
+Florin Talpan	16	Om	
+Gabriela	16	Om	
+Irina	16	Om	
+Iulian	16	Om	
+Melania cârjă	16	Om	
+Lucian Mitrea	16	Om	
+Arafat	16	Om	
+Gina	15	Om	
+Monaco	15	Loc	
+Satu	15	Loc	
+Portugalia	15	Loc	
+Stelei	15		
+Georgiana Lupu	15	Om	
+Dubai	15	Loc	
+George Pian	15	Om	
+Robert	15	Om	
+PC	15		
+Dan Petrescu	15	Om	
+Romania	15		
+Harlem Gnohere	15	Om	
+Alibec	15		
+Răzvan Burleanu	15	Om	
+Gică Popescu	15	Om	
+Cheloo	15	Om	
+Roma	14	Loc	
+Mureș	14	Loc	
+Stars	14		
+Alina	14	Om	
+Roxana	14	Om	
+OK	14		
+India	14	Loc	
+Pro Television	14		
+OMS	14	Org	
+Cezar	14	Om	
+Anda Adam	14	Om	
+Dan Capatos	14	Om	
+Cristina Dorobanțu	14	Om	
+Dani Mocanu	14	Om	
+România Television	14		
+Lugoj	14	Loc	
+Cosmin contră	14	Om	
+Ilie	14	Om	
+Gerard Depardieu	14	Om	
+Atena	14	Loc	
+Cehia	14	Loc	
+Vica	14	Om	
+Rac	14		
+Mercur	14		
+Alex Ashraf	14	Om	
+Marcel Ciolacu	14	Om	
+Andreea Antonescu	14	Om	
+Alba	13	Loc	
+Bihor	13	Loc	
+Dolj	13	Loc	
+Lucian	13	Om	
+Raluca	13	Om	
+Pfizer	13		
+Maramureș	13	Loc	
+Malta	13	Loc	
+Milano	13	Loc	
+Cătălin Moroșanu	13	Om	
+Oradea	13	Loc	
+Mercedes	13	Obiect	
+Stan mustață	13	Om	
+Mircea Nebunu	13	Om	
+Deea	13	Om	
+Denis	13	Om	
+Victor Becali	13	Om	
+Dumitru Sechelariu	13	Om	
+Mihnea	13	Om	
+Chiron	13		
+Nicolae Badea	13	Om	
+Vaslui	12	Loc	
+Bravo	12		
+Digi24	12		
+Belarus	12	Loc	
+Congo	12	Loc	
+Iran	12	Loc	
+Polonia	12	Loc	
+PRO Television	12		
+Gabriela fire	12	Om	
+Pițurcă	12	Om	
+Piedone	12	Om	
+Roxana Vancea	12	Om	
+Karina	12	Om	
+Victor Slav	12	Om	
+Elena Udrea	12	Om	
+Duduianu	12	Om	
+Agerpres	12		
+Foca Victor	12	Om	
+Burleanu	12	Om	
+Alina Binder	12	Om	
+Asia Express	12		
+Mihai Voduț	12	Om	
+OMV	12		
+Hamude	12		
+Sussex	12		
+Momentan	11		
+TikTok	11		
+Caraș-Severin	11	Loc	
+Mehedinți	11	Loc	
+Vâlcea	11	Loc	
+Sara	11	Om	
+Marcel	11	Om	
+blondinei	11	Om	
+Alexandru	11	Om	
+Geneva	11	Loc	
+Vlad	11	Om	
+Sorin	11	Om	
+Rareș	11	Om	
+Marcel Vela	11	Om	
+Exatlon	11		
+Cluj-Napoca	11	Loc	
+TOP	11		
+Cosmin	11	Om	
+Maria Constantin	11	Om	
+Daria	11	Om	
+Istanbul	11	Loc	
+Suhaib	11		
+Strehaia	11	Loc	
+Mediaș	11	Loc	
+Andreea Pirui	11	Om	
+Andreei	11	Om	
+Dani	11	Om	
+Marcel Drăgan	11	Om	
+Astra	11		
+Nebunu	11	Om	
+Cristian Daminuță	11	Om	
+AEK	11		
+Pitești	11		
+Ana Baniciu	11	Om	
+Anda Călin	11	Om	
+Grigoriu	11	Om	
+the Four	11		
+bruneta	10	Om	
+Digi	10		
+AstraZeneca	10		
+Israel	10	Loc	
+Bistrița-Năsăud	10	Om	
+Britanie	10	Loc	
+Croația	10	Loc	
+Africa	10	Loc	
+Gerota	10		
+Victor Babeș	10	Om	
+Nuba	10		
+Armand	10	Om	
+Andra Volos	10	Om	
+Adelina	10	Om	
+Vulpița	10	Om	
+Ioana Filimon	10	Om	
+Giulești	10	Loc	
+Rahova	10	Loc	
+Gabriel Stati	10	Om	
+Iohannis	10	Om	
+Fane Spoitoru	10	Om	
+Bianca rus	10	Om	
+Ovidiu	10	Om	
+Iasmina	10	Om	
+Gnohere	10		
+Torino	10	Loc	
+Micula	10		
+Viorica Dăncilă	10	Om	
+Bentley	10	Obiect	
+Irinel	10	Om	
+Bela Urasi	10	Om	
+Vărsător	10		
+Felix Baumgartner	10	Om	
+Dominic	10	Om	
+Tudorel Toader	10	Om	
+Ioana ginghin	10	Om	
+Bănică	10	Om	
+Mărioara	10	Om	
+Meghan	10	Om	
+RT-PCR	9		
+Alexandru Arșinel	9	Om	
+Antena	9		
+Instagram Stories	9		
+Egipt	9	Loc	
+Oanei	9	Om	
+Ferrari	9	Obiect	
+Adi	9	Om	
+Sălaj	9	Loc	
+Roxana Nemeș	9	Om	
+Bosnia	9	Loc	
+Serbia	9	Loc	
+Kazakhstan	9	Loc	
+Danemarca	9	Loc	
+Canada	9	Loc	
+Corona	9		
+Lora	9	Om	
+Cruduța	9	Om	
+Răzvan Botezatu	9	Om	
+Jilava	9	Loc	
+Victor	9	Om	
+Vitan	9	Loc	
+VIVA	9		
+Anamaria	9	Om	
+Mihai Pleșu	9	Om	
+Giani	9	Om	
+Victor Ponta	9	Om	
+Albania	9	Loc	
+Gică	9	Om	
+Florinel Coman	9	Om	
+Sinaia	9	Loc	
+Simona Halep	9	Om	
+Rednic	9	Om	
+Gabor	9	Om	
+Giovani	9	Om	
+Jupiter	9		
+Săgetător	9		
+Covasna	9	Loc	
+Feli	9		
+Nicu	9	Om	
+Carlos	9	Om	
+Țăndărei	9	Loc	
+Marian	9	Om	
+Cengiz Șıklaroğlu	9	Om	
+Georgianei	8	Om	
+Claude	8	Om	
+Liviu	8	Om	
+Ava	8	Om	
+Cătălin Botezatu	8	Om	
+Cristi	8	Om	
+Si	8		
+Cernica	8	Loc	
+asa	8		
+Gent	8		
+New york	8	Loc	
+Madrid	8	Loc	
+Bruxelles	8	Loc	
+Sebi	8	Om	
+Australia	8	Loc	
+Hong Kong	8	Loc	
+Târgoviște	8	Loc	
+Norvegia	8	Loc	
+X2	8	Obiect	
+Anda	8	Om	
+Musty	8		
+Andreea bănic	8	Om	
+Alexandra Stan	8	Om	
+Amna	8		
+Lucian Barbu	8	Om	
+Crudu	8	Om	
+George	8	Om	
+Rapido	8		
+Ioniță	8	Om	
+Asia express	8		
+Cătălin Ion	8	Om	
+Ion	8	Om	
+Denisa Despa	8	Om	
+Herăstrău	8	Loc	
+NUBA	8		
+Marius Manolache	8	Om	
+Nicușor Dumitrescu	8	Om	
+Dorinel Munteanu	8	Om	
+Ștefan	8	Om	
+Ajax	8	Org	
+LOFT	8		
+Ilie Dumitrescu	8	Om	
+Liverpool	8		
+PARFUMERIA.RO	8		
+Mexic	8	Loc	
+Otilia Bilionera	8	Om	
+Iulian Stanciu	8	Om	
+Ștefan mare	8		
+Badea	8	Om	
+Cătălin Cazacu	8	Om	
+Rellys Tonu	8	Om	
+Dragoș	8	Om	
+Omer Tetik	8	Om	
+Sorin Peneș	8	Om	
+Gheorghe Mărmureanu	8	Om	
+Marte	8		
+Carla’s Dreams	8	Om	
+Alexandru Ilinca	8	Om	
+Tavi Clonda	8	Om	
+Suraia	8	Om	
+Nicos	8	Om	
+Daiana	8	Om	
+Catalonia	8	Loc	
+Virgil Popescu	8	Om	
+Anghel	7	Om	
+Artista	7	Om	
+Laurette	7	Om	
+Teleorman	7	Loc	
+Borcea	7	Om	
+Gorj	7	Loc	
+Valentina Pelinel	7	Om	
+Loredana	7	Om	
+Iulia Albu	7	Om	
+Florin Cîțu	7	Om	
+Tulcea	7	Loc	
+Măruță	7	Om	
+Slovenia	7	Loc	
+Babi	7		
+Ana Porgras	7	Om	
+Gheorghe Hagi	7	Om	
+SMS	7		
+Antwerp	7	Loc	
+Cătălin Măruță	7	Om	
+Anna Lesko	7	Om	
+Crina Abrudan	7	Om	
+Moroșanu	7	Om	
+Brignac	7		
+Lino Golden	7		
+Cosmina	7	Om	
+Alexandru Enea	7	Om	
+Gabriel	7	Om	
+Vitalie Proca	7	Om	
+Proca	7	Om	
+Bogdan Andone	7	Om	
+Amsterdam	7	Loc	
+Jorge	7	Om	
+Andrei Ciomu	7	Om	
+Matei	7	Om	
+Athos	7	Loc	
+eMag	7		
+Mădălina	7	Om	
+Ovidiu Popescu	7	Om	
+Audi	7	Obiect	
+Ionel Dănciulescu	7	Om	
+Praga	7	Loc	
+Trabzonspor	7		
+PSF	7		
+Mlada Boleslav	7		
+Sepsi	7		
+Ligue	7		
+Mirel Rădoi	7	Om	
+Iulia Roșca	7	Om	
+Dumitru Stativă	7	Om	
+Ion Iliescu	7	Om	
+Cotroceni	7	Loc	
+Irina Columbeanu	7	Om	
+Mircea Sandu	7	Om	
+Corneliu Iacobov	7	Om	
+Dan Constantin Grigoriu	7	Om	
+Giovani Becali	7	Om	
+Mugur Isărescu	7	Om	
+Colentina	7	Loc	
+Victoria	7		
+Frusinica Ionescu	7	Om	
+Lăzău	7		
+Bogdan Despescu	7	Om	
+Călin Geambașu	7	Om	
+Simina	7	Om	
+Orban	7	Om	
+Down	7		
+Teo show	6		
+Brigitte pastramă	6	Om	
+Miami	6	Loc	
+Hollywood	6	Loc	
+Florida	6	Loc	
+Ozana Barabancea	6	Om	
+Liviu Guță	6	Om	
+Leah-Maria	6	Om	
+Daria Radionova	6	Om	
+Hamas	6	Org	
+Viena	6	Loc	
+SARS–CoV–2	6		
+Vatican	6		
+Finlanda	6	Loc	
+Lombardia	6	Loc	
+Chinei	6	Loc	
+Teo Trandafir	6	Om	
+Virgil Musta	6	Om	
+Cosmin Stanciu	6	Om	
+Luțu	6	Om	
+Carmen Harra	6	Om	
+Sector	6		
+Mellina	6	Om	
+Kamara	6		
+Costi	6	Om	
+Starlin	6		
+Biancăi Drăgușanu	6	Om	
+BAC	6		
+Andreea Esca	6	Om	
+Bodi	6		
+Margheritei	6	Om	
+Daniel	6	Om	
+Mario Fresh	6	Om	
+Izoleta	6		
+Dan	6	Om	
+Buftea	6	Loc	
+Năstase	6	Om	
+Pantelimon	6	Loc	
+Abi talent	6		
+Slobozia	6	Loc	
+Adrian Cristea	6	Om	
+Mircea Băluș	6	Om	
+Mânache	6		
+Ion boschet	6	Om	
+Rusescu	6	Om	
+Claudiu Răducanu	6	Om	
+Nicolae Dică	6	Om	
+Dinu Maxer	6	Om	
+Andrei Pleșu	6	Om	
+Anghel Iordănescu	6	Om	
+Ciomu	6	Om	
+Billel Omrani	6	Om	
+Gruia	6	Om	
+Omrani	6		
+Astazi	6		
+Vasile Miriuță	6	Om	
+Internazionale Milano	6	Org	
+Lituania	6	Loc	
+Mihai Pintilii	6	Om	
+Ștefan cel mare	6		
+Laurențiu Reghecampf	6	Om	
+Celtic	6	Org	
+Corneliu papură	6	Om	
+Marius Onofraș	6	Om	
+Marius Croitoru	6	Om	
+Clinceni	6		
+Dana	6	Om	
+Raluka	6	Om	
+Edy Harlem Gnohere	6	Om	
+WhatsApp	6		
+Ionuț Brâncoveanu	6	Om	
+Diana	6	Om	
+Rellys	6	Om	
+Iulian Dîrnea	6	Om	
+Victoraș Micula	6	Om	
+Primăverii	6	Loc	
+Audemars Piguet	6		
+Ioan	6	Om	
+Maybach	6	Obiect	
+Columbeanu	6	Om	
+Sandu	6	Om	
+Costes	6		
+Traian	6	Om	
+Vrancei	6	Loc	
+Gheorghe Vladan	6	Om	
+Samuel	6	Om	
+Panciu	6		
+Arsenie Boca	6	Om	
+Dacian Cioloș	6	Om	
+Nicu Panaitescu	6	Om	
+George Ploscaru	6	Om	
+Jose Torres	6	Om	
+Iancu	6	Om	
+HTA	6		
+Serebrennikov	6		
+Ruxi	6	Om	
+Google	6		
+Nicolae Zăvoranu	6	Om	
+Darren	6		
+Cristina Mihaela Dorobanțu	6	Om	
+Raluca podea	6	Om	
+Buddy	6		
+Archie	6	Om	
+Harry	6	Om	
+Doru Paul	6	Om	
+Royal dance Academy	6		
+Caracal	6	Loc	
+Glicheria	5	Om	
+Călugăreni	5	Loc	
+Johnson & Johnson	5		
+Alinei	5	Om	
+Milan	5	Loc	
+Brigitte Sfăt	5	Om	
+anti-rOVID	5		
+Carol Davila	5		
+Drăgușanu	5	Om	
+Ancăi Serea	5	Om	
+Gândul.ro	5		
+Băneasa	5	Loc	
+Pfizer BioNTech	5		
+GCS	5		
+ARN	5		
+Filip Poplingher	5	Om	
+Sarah	5	Om	
+Muntenegru	5	Loc	
+Qatar	5	Loc	
+Yves Gaudin	5		
+Techirghiol	5	Loc	
+Reuters	5		
+Covid	5		
+Hermannstadt	5		
+Cancan	5		
+Mihai Eminescu	5	Om	
+Dică	5		
+Insta	5		
+Carmen brumă	5	Om	
+Daniela Iliescu	5	Om	
+Ramona Gabor	5	Om	
+Capatos	5	Om	
+Cristina Mihaela	5	Om	
+Diana Munteanu	5	Om	
+Gabi Popescu	5	Om	
+Transilvania	5	Loc	
+Maria Marinescu	5	Om	
+Cristi Brancu	5	Om	
+Antena Stars	5		
+George pian	5	Om	
+Daniela Racolța	5	Om	
+Viorica	5	Om	
+Vasile Ciobanu	5	Om	
+Anatol Basarab	5	Om	
+Ioaneee	5	Om	
+Chișinău	5	Loc	
+Anatol Stati	5	Om	
+Larisa	5	Om	
+Larisa Stati	5	Om	
+Pamela	5	Om	
+Florin Călinescu	5	Om	
+Edward Sanda	5	Om	
+Claudiu	5	Om	
+Dan negru	5	Om	
+CANCAN .rodor	5		
+Sandu Lungu	5	Om	
+Hayssam	5	Om	
+Maya	5	Om	
+Viva	5		
+Mega-scandal	5		
+Cristi Tănase	5	Om	
+Stancu	5	Om	
+Digi sport	5		
+Mircea Lucescu	5	Om	
+Chelsea	5		
+Deea Maxer	5	Om	
+Ana Maria	5	Om	
+Iasmina Halas	5	Om	
+Răzvan Ciobanu	5	Om	
+Cat	5		
+Black Friday	5		
+Boubacar Mansaly	5		
+Astra Giurgiu	5	Org	
+Tiraspol	5	Loc	
+Lucian Sânmărtean	5	Om	
+Slovacia	5	Loc	
+Emilia Stroe	5	Om	
+Pintilii	5	Om	
+Lucian Sanmartean	5	Om	
+Ianis	5	Om	
+Florin Prunea	5	Om	
+Telekom	5		
+Celtic Glasgow	5	Org	
+Belgrad	5	Loc	
+Rosenborg	5		
+GG-	5		
+AEK Atena	5		
+Guimaraes	5		
+Urziceni	5		
+AIK	5		
+Premier League	5		
+Vitoria Guimaraes	5		
+Chindia	5		
+Florin Ristei	5	Om	
+Vlad Chiricheș	5	Om	
+Ilinca	5	Om	
+Loverboy	5		
+Victoraș	5	Om	
+Ozana	5	Om	
+Adrian Alexandrov	5	Om	
+Monicăi Gabor	5	Om	
+Ferrari FF	5	Obiect	
+Slatina	5	Loc	
+Ami Teiceanu	5	Om	
+Carmina	5		
+Speak	5		
+Mihnea Grigoriu	5	Om	
+Beijing	5	Loc	
+Ionescu	5	Om	
+Ionuț Andrei Radu	5	Om	
+Vladimir Putin	5	Om	
+Opticris	5		
+Gabriela Prisacariu	5	Om	
+Nehoiu	5		
+Costin Mărculescu	5	Om	
+Torriellec	5		
+Oltenia	5	Loc	
+Mutu	5	Om	
+Nadia	5	Om	
+Cecilia Mihoc	5	Om	
+Găgești	5		
+Făget	5		
+Isabela	5	Om	
+Cristian Neguțescu	5	Om	
+J____	5		
+DAS	5		
+Băleni	5		
+Florin Lăzău	5	Om	
+Alina Borovină	5	Om	
+Deva	5	Loc	
+Filiași	5		
+Giuseppe Conte	5	Om	
+Petre Roman	5	Om	
+Leonard Doroftei	5	Om	
+Wei Guixian	5		
+Ruxandra	5	Om	
+Ioanei	5	Om	
+Mihai Mitoșeru	5	Om	
+CNSSU	5		
+Sofia	5		
+Giuseppe Remuzzi	5	Om	
+Giovanni	5	Om	
+Rafila	5	Om	
+Mihai Tudose	5	Om	
+Dan Tătaru	5	Om	
+Tiberiu argint	5	Om	
+Nae Alexandru	5	Om	
+Ducesa	5	Om	
+Josephine	4	Om	
+BongaCams	4		
+Moise Petru	4	Om	
+Botezatu	4	Om	
+Angelo	4	Om	
+CANCAN NEWS	4		
+Anca Sina Serea	4	Om	
+Iulia	4	Om	
+CNCCI	4		
+SEE	4		
+San marină	4		
+Cornetu	4		
+UK	4	Loc	
+Mami	4	Loc	
+Singapore	4	Loc	
+Herțegovina	4	Loc	
+GÂNDUL.RO	4		
+Coronavirusul	4		
+Adela Popescu	4	Om	
+Cove	4		
+ACE1	4		
+CNSCBT	4		
+Georgiana Elisa	4	Om	
+Teo trandafir	4	Om	
+Andreei Bălan	4	Om	
+Clonda	4		
+Sebastian Chitoșcă	4	Om	
+Figaro	4		
+ASSMB	4		
+Sars-CoV-2	4		
+Pixabay	4		
+Moro	4		
+Ionuț Luțu	4	Om	
+AMBELE	4		
+1X	4	Obiect	
+Reșița	4	Loc	
+pop	4		
+Albert	4	Om	
+Eva	4	Om	
+Ilinca Vandici	4	Om	
+Nicoleta Luciu	4	Om	
+Bianca Comănici	4	Om	
+Iancu sterp	4	Om	
+IT	4		
+Augsburg	4		
+Nelson Mondialu’	4	Om	
+Sharky	4		
+Nikolas	4	Om	
+Denisa	4	Om	
+Berna	4	Loc	
+Viorel	4	Om	
+None	4		
+Mamăăăă	4	Om	
+Liana	4	Om	
+Eforie	4	Loc	
+Marius Baldovin	4	Om	
+Baldovin	4	Om	
+Denom	4		
+Nelson Mondialu`	4	Om	
+Gherla	4	Loc	
+Anastasia Fotachi	4	Om	
+Stati	4		
+Saint Tropez	4	Loc	
+Simonei	4	Om	
+SUV	4	Obiect	
+Nikos Papadopoulos	4	Om	
+Cleopatra Stratan	4	Om	
+Petricani	4	Loc	
+MĂDĂLIN	4	Om	
+SOFRONIE	4	Om	
+Suhaib Meshah	4		
+Omar Hayssam	4	Om	
+Irak	4	Loc	
+Moscova	4	Loc	
+Cristi Calu	4	Om	
+Ovidiu Ohanesian	4	Om	
+Betty	4	Om	
+Pleșu Mihai–Alexandru	4	Om	
+Alice Peneacă	4	Om	
+Ionuț	4	Om	
+Satu mare	4	Loc	
+Alex Iordănescu	4	Om	
+Macedonia	4	Loc	
+Younes Hamza	4		
+Basarab Panduru	4	Om	
+Ciprian Marica	4	Om	
+Pandi	4		
+Baia	4		
+Hapoel	4		
+Olimpia	4		
+Esther Perel	4	Om	
+Gabi Enache	4	Om	
+Sanmartean	4	Om	
+Insa	4		
+Letonia	4	Loc	
+Play-off	4		
+Coman	4		
+Prunea	4	Om	
+Nicolae Medforth-Mills	4	Om	
+Juventus	4	Org	
+Ionela Prodan	4	Om	
+Puiu	4	Om	
+Ventspils	4		
+Espanyol	4		
+Metan	4		
+APOEL	4		
+Krasnodar	4		
+League	4		
+Vergil Andronache	4	Om	
+Dudelange	4		
+Napoli	4	Loc	
+Dana Ganea	4	Om	
+Făgăraș	4	Loc	
+Râmnicu sărat	4	Loc	
+Olteanu	4	Om	
+Luminita Becali	4	Om	
+Mobil5	4		
+stirileprotv.ro	4		
+MAE	4	Org	
+Ilinca Obădescu	4	Om	
+Raluca Tonu	4	Om	
+Balotești	4	Om	
+Flavia	4	Om	
+Range Rover Mansory	4	Obiect	
+Neptun	4		
+Anastasia	4		
+Fratelli	4		
+Tomah Khaled Alsamarra’i	4	Om	
+Iri	4	Om	
+Peneș	4		
+Mona	4	Om	
+Freitas	4		
+Irinei	4	Om	
+Los Angeles	4	Loc	
+Tsunami	4		
+Beller	4	Loc	
+Jimbolia	4		
+Virgil	4	Om	
+Mirea	4	Om	
+Urasi	4		
+Cătălin Tomată	4	Om	
+Maria Grigoriu	4	Om	
+Bela	4	Om	
+Bill Gates	4	Om	
+Uranus	4		
+Saturn	4		
+Vincenzo Castellano	4	Om	
+Bogdan Vladan	4	Om	
+Buzăului	4		
+Horia Brenciu	4	Om	
+Marius Marinescu	4	Om	
+Samuel el Torriellec	4		
+MasterChef	4		
+Raldia	4		
+Tirana	4	Loc	
+Toader	4	Om	
+Gabi Cristea	4	Om	
+Râmnicu Vâlcea	4	Loc	
+Julia Balint	4	Om	
+Milcov	4	Loc	
+Certeze	4		
+Camelia Sandu	4	Om	
+Adjud	4	Loc	
+Victor Slăvescu	4	Om	
+MedLife	4		
+ONG	4		
+Șișcanu	4		
+Mădălin	4		
+Petra	4		
+Karinei	4	Om	
+Padova	4	Loc	
+C____ J____	4		
+Lenuța	4	Om	
+Ion Marcel Vela	4	Om	
+Lorenzo Sanz	4		
+Streinu-Cercel	4	Om	
+Buenos Aires	4	Loc	
+Singerman	4		
+Star Wars	4		
+Freedom Watch	4	Org	
+Mara Mareș	4	Om	
+Andi Moisescu	4	Om	
+Zăvoranu	4	Om	
+Delia	4	Om	
+Marinescu	4	Om	
+Mitrea	4	Om	
+Sebastian Radu	4	Om	
+Andrada	4	Om	
+Alina Plugaru	4	Om	
+Cantacuzino	4		
+Columbia	4		
+Philip	4	Om	
+Okinawa	4	Loc	
+5G	4		
+Kate	4	Om	
+Ciprian Napy	4	Om	
+CSÎD	4		
+Viorel teacă	4	Om	
+Roxana Ghiță	3	Om	
+Tracia	3		
+Hristos	3	Om	
+HoReCa	3		
+Andrei Carandino	3	Om	
+Marian tătic	3	Om	
+Sarei	3	Om	
+SARS-CoV2	3		
+Raluca Bădulescu	3	Om	
+CNCAV	3		
+Insta Story	3		
+Gloria	3		
+Husein Daniel Gabriel	3	Om	
+Dasaev	3		
+Darrell Bowie	3		
+Joseph McClain	3		
+constantă	3		
+Max	3		
+Mario	3		
+Velea	3	Om	
+Loredana Groza	3	Om	
+Edan	3		
+Marian Cozma	3	Om	
+Andorra	3	Loc	
+Anthony Fauci	3	Om	
+Harghita	3	Loc	
+Adrian Sînă	3	Om	
+Click.ro	3		
+Radu Țibulcă	3	Om	
+Coreea	3	Loc	
+Pakistan	3	Loc	
+Kuwait	3	Loc	
+Johnson	3		
+Marriam	3		
+Moise	3	Om	
+Orient	3	Loc	
+Cîțu	3	Om	
+Betty Blue	3		
+Gabrielei Cristea	3	Om	
+Marius Tucă show	3		
+Pache Protopopescu	3		
+Treviso	3		
+papă	3	Om	
+Francisc	3	Om	
+Wolfgang Wodarg	3	Om	
+Asia	3	Loc	
+Laura Giurcanu	3	Om	
+HIV	3		
+Aurel	3	Om	
+Bobești	3		
+Alexandru Boc	3	Om	
+Mirela Oprișor	3	Om	
+Tonino Alfonso	3		
+Isus	3	Om	
+Johns Hopkins	3		
+Harra	3	Om	
+STB	3		
+Majdei	3		
+Bistrița	3	Loc	
+Năsăud	3	Loc	
+Ioan Becali	3	Om	
+Marcel Boloș	3	Om	
+Remdesivir	3		
+Taberei	3		
+Snagov	3	Loc	
+Turzii	3		
+R&B	3		
+GFA74	3		
+Brugge	3		
+Cristian Popescu	3	Om	
+Evei	3	Om	
+Laura Cosoi	3	Om	
+Elena Gheorghe	3	Om	
+Nemeș	3	Om	
+Zannidache	3		
+Maria Hîngu	3	Om	
+Sky News	3		
+Niculae Bădălău	3	Om	
+Claudia Pătrășcanu	3	Om	
+Inna	3	Om	
+Carmen de	3	Om	
+Nilă	3		
+Roxana Ionescu	3	Om	
+Emilia	3	Om	
+Jay Maly	3		
+FINALE	3		
+Camelia Sucu	3	Om	
+CANCAN	3		
+Seco Dubravko	3		
+Instastory	3		
+Apropo	3		
+Anna	3	Om	
+Mocanu	3	Om	
+Alba Iulia	3	Loc	
+Fuego	3	Om	
+Vaida	3		
+Târgu Jiu	3	Loc	
+Florin Mototolea	3	Om	
+Pablo Escobar	3	Om	
+Panama	3	Loc	
+Axinte	3		
+Rinu	3		
+Nicolae Duduianu	3	Om	
+Sofian văduvă	3	Om	
+Adrian Iancu	3	Om	
+Gabi Stati	3	Om	
+Rolls	3	Obiect	
+5GANG	3		
+BMW X5	3	Obiect	
+Nikos	3	Om	
+Silviu	3	Om	
+Honorius	3	Om	
+Cleopatra	3	Om	
+Audi Q7	3	Obiect	
+Napy	3		
+Mototolea	3		
+Nicolae Guță	3	Om	
+Inquam	3		
+Photos	3		
+Paul George lung	3	Om	
+Raluca pastramă	3	Om	
+Napi	3		
+Vasile prigoană	3	Om	
+Florentina Raiciu	3	Om	
+Carol	3	Om	
+Mariciu	3	Om	
+Abi	3		
+Bamboo	3	Loc	
+Bihorului	3		
+Drăgan	3		
+Mihai Stoica	3	Om	
+Mircea	3	Om	
+Marius Ianuli	3	Om	
+Iasmin Latovlevici	3	Om	
+Tănase	3	Om	
+Niculescu	3	Om	
+Cand	3		
+Apostol	3	Om	
+Flavius Stoican	3	Om	
+Ion Migdal	3	Om	
+Dodel	3	Om	
+Nemec	3	Om	
+Titu	3	Om	
+Florin Oprea	3	Om	
+Dinu	3	Om	
+Alice	3	Om	
+Pleșu Mihai –Alexandru	3	Om	
+Bobby Păunescu	3	Om	
+Obelix	3		
+Ștefan Bănică jilopascal	3	Om	
+Emilia Popescu	3	Om	
+Ștefan Bănică	3	Om	
+George Țucudean	3	Om	
+Camora	3		
+Eric	3	Om	
+Antonia Raisa	3	Om	
+Marius Vizer	3	Om	
+Cătălin Mișu	3	Om	
+Manea	3	Om	
+Cristian	3	Om	
+Modena	3		
+L’Aquila	3		
+Zakho	3		
+Nir	3		
+Ramat-HaSharon	3		
+Abano Calcio	3		
+România U17	3		
+România U19	3		
+Arabia Saudită	3	Loc	
+Cristi Petre	3	Om	
+Alexandru Tudorie	3	Om	
+Alina Popescu	3	Om	
+Victor Piturca	3	Om	
+Scoția	3	Loc	
+Estonia	3	Loc	
+Ianis Hagi	3	Om	
+Fiorentina	3	Org	
+Pietro Chiodi	3		
+Hagi scandal	3		
+Balaj	3		
+Alina-Maria Binder	3	Om	
+Cancan .rodor	3		
+Bucovina	3	Loc	
+Radu Enache	3	Om	
+Hapoel Beer Sheva	3		
+Verona	3	Loc	
+Cătălin Golofca	3	Om	
+HCM Slobozia	3		
+Nimely	3		
+Iordănescu	3	Om	
+Vitoria	3		
+Apollon	3		
+Tbilisi	3	Loc	
+Slavia Praga	3		
+PAOK	3		
+Olympiacos	3		
+LASK	3		
+Maribor	3		
+Cluj-	3		
+Florin Tănase	3	Om	
+Dumitru Bucșaru	3	Om	
+Bucșaru	3		
+Telekom sport	3		
+WTA	3		
+Sarajevo	3	Loc	
+Varșovia	3	Loc	
+Atromitos	3		
+Zorya	3		
+Astana	3		
+Rijeka	3	Loc	
+Rangers	3	Org	
+Bănie	3		
+Dinamo București	3	Org	
+Leverkusen	3		
+Dortmund	3		
+Zilei-	3		
+Minaur	3		
+Djokovic	3	Om	
+Bogdan Argeș Vintilă	3	Om	
+Constantin	3	Om	
+Young Boys	3		
+Olympiakos	3		
+Petrea	3		
+Novak Djokovic	3	Om	
+Georgiana Drăgan	3	Om	
+Dan Adamescu	3	Om	
+Ionel Ganea	3	Om	
+Inter	3		
+Nuțu Cămătaru	3	Om	
+Sorinel Puștiu	3	Om	
+Libia	3	Loc	
+Roxanei Vancea	3	Om	
+Andei Adam	3	Om	
+Vicăi	3	Om	
+Yashar Hassan Abbas Helmy	3	Om	
+Dragoș Nedelcu	3	Om	
+Nedelcu	3	Om	
+Viorel Micula	3	Om	
+BMW X	3	Obiect	
+Porsche Cayenne Hamann	3	Obiect	
+Nissan GTR	3	Obiect	
+Harley Davidson	3	Obiect	
+Route	3		
+Toscanei	3		
+Donald Tusk	3	Om	
+Jean-Claude Juncker	3	Om	
+Forbes	3		
+Tomah Khaled	3	Om	
+Ahmed Khaled Alsamarra’i	3	Om	
+Mega Press	3		
+Irinel Colmbeanu	3	Om	
+Alexandru Zainea	3	Om	
+Lincoln Continental	3	Obiect	
+Beach	3		
+Anthony	3		
+Iugoslavia	3	Loc	
+Bancorex	3		
+Range Rover	3	Obiect	
+Cayenne Hamann	3		
+Range	3	Obiect	
+Romaniei	3		
+Loto	3		
+U21	3		
+Rădoi	3	Om	
+Ema	3	Om	
+Ionuț vână	3	Om	
+Codin Maticiuc	3	Om	
+Adrian Brâncoveanu	3	Om	
+Vladan	3	Om	
+Mircea Radulian	3	Om	
+Buble	3		
+Marin Adrian	3	Om	
+DCNews	3		
+Palm Beach Gardens	3		
+Gheorghe Burleanu	3	Om	
+Gică Burleanu	3	Om	
+Melania Ursu	3	Om	
+Seismografele	3		
+Ioana Balu	3	Om	
+Ploiesti	3	Loc	
+Stan Vitalie	3	Om	
+Dragoș Udilă	3	Om	
+Challengerii	3		
+Ralflo	3		
+CIAO	3		
+PAID	3		
+Odobești	3		
+Seche	3		
+Bacă	3		
+Sechelariu	3		
+Doru Sechelariu	3	Om	
+Bella victorie Margot	3		
+Julia	3	Om	
+Dimitrie Gusti	3		
+Oradia	3		
+Pleșoiu	3		
+Cătălin Mihalache	3	Om	
+MIG	3		
+Bordușelu	3		
+Focșaniului	3		
+Nicolae Munteanu	3	Om	
+Putna	3		
+NICOLETA CRISTEA	3	Om	
+Cristian Cazacu	3	Om	
+Mariana Preda	3	Om	
+Marianei	3	Om	
+Mariana stancă	3	Om	
+Calu Machedonu	3	Om	
+P_______ G_____	3		
+Carlos Machan	3		
+J___ Leitao	3		
+da Constantic J____	3		
+DAPI	3		
+Excelsior	3		
+Alina Bârgăoanu	3	Om	
+mare Britania	3		
+Reims	3		
+Adrian romanică	3	Om	
+Adrian romanic	3	Om	
+Viorel Demean	3	Om	
+Câmpina	3		
+SCBI Craiova	3		
+Mioara	3	Om	
+Doroftei	3	Om	
+Ana Cardoș	3	Om	
+Maria Cardoș	3	Om	
+Corina Maniu	3	Om	
+Dina	3		
+Horia Țuțuianu	3	Om	
+Luca Singerman	3	Om	
+Montevideo	3	Loc	
+Huanan	3		
+Codruț Kegheș	3	Om	
+Dan Dumitrescu	3	Om	
+Ioana Ginghină	3	Om	
+Carolina Radu	3	Om	
+Mărioara Zăvoranu	3	Om	
+Masked Singer România	3		
+Nababul	3	Om	
+Hârșova	3		
+Julie	3		
+Block	3		
+Marian Dragoș Stoican	3	Om	
+Ibiza	3	Loc	
+Transporturi_Aeriene_Române	3		
+HR	3		
+Veklury	3		
+Hannelore Ulrich	3	Om	
+Cătălin Rizea	3	Om	
+Klaus	3	Om	
+SARS CoV-2	3		
+Adrian Oros	3	Om	
+ROBOR	3		
+Robert Cazanciuc	3	Om	
+Lizeta Haralambie	3	Om	
+5Gang	3		
+Bali	3	Loc	
+Tiberiu	3	Om	
+Emilian Popovici	3	Om	
+Constantin Nicu	3	Om	
+Buckingham	3		
+Lidia	3	Om	
+Sorin Rada	3	Om	
+Mărioara Chetraru	3	Om	
+Daiana Jelescu	3	Om	
+Gheorghe Dima	3	Om	
+Onești	3	Loc	
+Buhuși	3	Loc	
+Ion Doru Iagăru	3	Om	
+Vidin	3	Loc	
+Monica Anghel	2	Om	
+Alin Stoica	2	Om	
+Mugur Mihăescu	2	Om	
+Buteni	2		
+Costel	2	Om	
+Dobrogeanu	2	Om	
+DJ	2	Om	
+Andrei Ștefînescu	2	Om	
+Ok	2		
+Arșinel	2	Om	
+Damian Drăghici	2	Om	
+Vali Vijelie	2	Om	
+@IDF	2		
+Iron domă	2		
+Holon	2		
+Tel Aviv	2	Loc	
+Sztojka Ivan	2		
+Sztojka	2		
+Budapesta	2	Loc	
+Sorin Cîmpeanu	2	Om	
+Cîmpeanu	2	Om	
+Valeriu Gheorghiță	2	Om	
+Mihai Craiu	2	Om	
+Johnson &Johnson	2		
+Sînă-Serea	2	Om	
+Serea	2	Om	
+Adi Sîna	2	Om	
+Daniela Gyorfi	2	Om	
+Bă…da	2		
+Oxford	2	Loc	
+eu	2		
+insa	2		
+Asa	2		
+Ion Petrișor	2	Om	
+Ovidiu Torj	2	Om	
+UGent	2		
+Soir	2		
+Bayern	2		
+France	2		
+Leah	2		
+Alina Pușcaș	2	Om	
+Cosmin Seleși	2	Om	
+Jojo	2		
+Adrian Streinu Cercel	2	Om	
+Adrian Marinescu	2	Om	
+SARS-Cov-2	2		
+Movilița	2	Loc	
+Eforie nord	2	Loc	
+Tătaru	2		
+the Lancet	2		
+South China Morning post	2		
+TelVerde	2		
+Lienz	2		
+Jinping	2		
+the Tablet	2		
+Via Crucis	2		
+Glasgow	2		
+Kenya	2	Loc	
+Oana Cuzino	2	Om	
+CDC	2		
+Pontif	2	Om	
+KanalD	2		
+Atalanta	2		
+Valencia	2		
+Bergamo	2		
+Netflix	2		
+Claudiu Dumitrescu	2	Om	
+Cătălin Apostolescu	2	Om	
+Agepres	2		
+Repubblica	2		
+Iancului	2		
+Urbi et orb	2		
+LIVE	2		
+Arcom	2		
+Lucian Știube	2		
+Constantin Drăgănescu	2		
+Justin Lessler	2		
+Tokyo	2		
+BPay	2		
+Boloș	2		
+LIVERPOOL	2		
+REAL	2		
+MADRID	2		
+MANCHESTER	2		
+UNITED	2		
+ROSENBORG	2		
+CRAIOVA	2		
+Bloomberg	2		
+Boroi	2		
+Scheletron	2		
+Schel	2		
+Evelin	2		
+Andra Măruță	2		
+Titus Munteanu	2		
+si R&B	2		
+Eva Maria Ioana	2		
+Alexandra Irina Măruță	2		
+Andra Gogan	2		
+Fb	2		
+SEXY	2		
+FB	2		
+Alin sălăjean	2		
+Alin	2		
+Genk	2		
+Roxana Ilie	2		
+Geanina Ilieș	2		
+Angelina Jolie	2		
+tabere	2		
+Sebastian	2		
+BlvckMatias	2		
+Marilena Cuciurean	2		
+Albert Oprea	2		
+Sorin Pușcașu	2		
+Belen	2		
+Musty camară	2		
+Lavinia Pârva	2		
+Raluca Sandu	2		
+Romică Țociu	2		
+Sonia Ferrari	2		
+Remus Ionuț Dumitrache	2		
+WOWbiz	2		
+Suhaib Meshan	2		
+Lupu	2		
+Gabi	2		
+Gabi Bădălău	2		
+getă	2		
+Lisina	2		
+Delia Matache	2		
+Florica Crudu	2		
+Cosmina Păsărin	2		
+Dodo	2		
+Livian Pop	2		
+Cosminei	2		
+Mario fresh	2		
+Lino	2		
+Tanti Rozalia	2		
+Rozalia	2		
+Brancu	2		
+Zsolt Csergo	2		
+Natalia	2		
+nea Mărin	2		
+Aslan	2		
+Range Rover Evoque	2		
+DrugTest	2		
+Aoleu Simina	2		
+Ricardo	2		
+Ellei	2		
+Alexandra Bodi	2		
+Temptation Island	2		
+Bote	2		
+Roxana Ciuhulescu	2		
+Vioricăi	2		
+Daniel Dumitru	2		
+Dogo Canario	2		
+Carmen Racolța	2		
+Fulgy	2		
+Killa	2		
+Nicu Paleru	2		
+Nelson mondial	2		
+Mirela Vaida	2		
+Shaggy	2		
+Samsung	2		
+Richard Gheorghe Emanuel	2		
+Elias	2		
+Richard	2		
+Ruby Regina	2		
+Rubyna	2		
+Rubycon	2		
+Pely	2		
+Kim Jong	2		
+Maria Ilioiu	2		
+Sincer	2		
+Tudor Vladimirescu	2		
+Pian	2		
+Strugurel	2		
+Andreea Raicu	2		
+Cristina rus	2		
+Lili Sandu	2		
+Natalia Diacov	2		
+Rolls Royce-urile	2		
+Ford	2		
+Stati&Co	2		
+Leonardo Di Caprio	2		
+Pro Fonsimotlum	2		
+Dorian	2		
+Leonardo DiCaprio	2		
+Anatol	2		
+Rolls Royce	2		
+BMW X6	2		
+X5	2		
+CASCO	2		
+Nikolaos Papadopoulos	2		
+Minodora	2		
+Eduard	2		
+Maximus	2		
+Silvius	2		
+Andrei Tiberiu Maria	2		
+Miltiade văduvă	2		
+Stan Iulian	2		
+Mototolea Florin	2		
+Ciprian pian	2		
+Dan Bursuc	2		
+Și…	2		
+Ionuț Nicolae	2		
+Rosa Alexandra	2		
+Spynews	2		
+Radu Tudor	2		
+wowbiz	2		
+Văliug	2		
+Ferma”	2		
+Oanei Turcu	2		
+King Kong	2		
+Cezar Petcu	2		
+Robert Petriceanu	2		
+Florentina	2		
+Răzvan & Dani	2		
+Manolache	2		
+Tancu	2		
+XXX	2		
+Magda	2		
+Andrei Șelaru	2		
+Gami	2		
+Pain	2		
+Ionuț Mitrică	2		
+Ionuț mitrică	2		
+Joshua Castellano	2		
+Salvatore	2		
+Joshua	2		
+Lorette Luca	2		
+Cristea	2		
+Andreea Staicu	2		
+Mararu	2		
+Ioan Mironescu	2		
+Răzvan Mararu	2		
+BMW X3	2		
+Mihai Teja	2		
+Teo	2		
+Mircea Ursu	2		
+VIP	2		
+Dorinel	2		
+Corado	2		
+Mircea Nebunu’	2		
+Ardeal	2		
+Galatasaray	2		
+Felicitari	2		
+Marie Jeanne Ion	2		
+Sorin Mișcoci	2		
+Desi	2		
+Betty Stroe	2		
+Radu Baron	2		
+Copou	2		
+Lucian Becali	2		
+Bogdan Stancu	2		
+Kazahstan	2		
+Braga	2		
+Genclerbirligi	2		
+Florica	2		
+Sheffield Wednesday	2		
+Southampton	2		
+Răducanu Claudiu Nicu	2		
+Mitroi Elisabeta	2		
+Mitroi Ana	2		
+Mitroi Nicolae	2		
+Fundeni	2		
+Alexandra Marin	2		
+Viktoria Plzen	2		
+Lăcătuș	2		
+Comana	2		
+Bambi	2		
+Elena Merișoreanu	2		
+Andreas	2		
+Răducanu	2		
+Pleșu Mihai-Alexandru	2		
+George Păunescu	2		
+Delta Dunăre	2		
+Metropolitan București	2		
+Aqua	2		
+staff	2		
+Cyrano	2		
+Bergerac	2		
+Mohammad Murad	2		
+Phoenicia	2		
+Vivant	2		
+L’Insoumis	2		
+Lavinia	2		
+Anca Pavlon	2		
+MDMA	2		
+I____	2		
+Decebal	2		
+RATB	2		
+Naum Ciomu	2		
+Ion Jiga	2		
+Depardieu	2		
+Uber	2		
+Pro România	2		
+Prodromu	2		
+Ioan Botezătorul	2		
+Băluță	2		
+Antonio Giani	2		
+Mirko Pigliacelli	2		
+Morais	2		
+Oliveira	2		
+Jonathan	2		
+Rodriguez	2		
+Fortes	2		
+Montini	2		
+Martic	2		
+Diego Fabbrini	2		
+Tristan Tate	2		
+Larisa Munteanu	2		
+Fashion Days	2		
+Juli	2		
+Network One Distribution	2		
+Flanco	2		
+National arenă	2		
+Irina Vizer	2		
+Cosmin Contra	2		
+Marica	2		
+Cristian Manea	2		
+Apollon Limassol	2		
+Jeremy Bokila	2		
+Diogo Salomao	2		
+Tha’er Bawab	2		
+Daminuță	2		
+⁣	2		
+Esther	2		
+Perel	2		
+Didier Deschamps	2		
+FFF	2		
+Deschamps	2		
+Stade	2		
+Alex Tudorie	2		
+Gabriel Enache	2		
+Nordului	2		
+Hapoel Beersheva	2		
+Lampard	2		
+Gabriela Pintilii	2		
+Georgia	2		
+Liechtenstein	2		
+Pompiliu Popescu	2		
+Ionuț Lupescu	2		
+Breaking news	2		
+Breaking	2		
+astazi	2		
+Cristi Daminuță	2		
+https://goo.gl/GPd2xrScandalos!	2		
+Cezar Ouatu	2		
+Ouatu	2		
+Mihai &	2		
+lady Di	2		
+Argeșului	2		
+regină	2		
+Heinz Binder	2		
+Rin	2		
+Medforth Mills	2		
+Atterbury	2		
+Sexy-impresara	2		
+Prodancei	2		
+Bălan	2		
+Ioan Andone	2		
+Andone	2		
+Sorin Condurache	2		
+Diana Maria	2		
+Ekeng	2		
+Adrian Motoacă	2		
+Ghencea	2		
+DINAMO	2		
+Midtjylland	2		
+Luzern	2		
+Larnaca	2		
+Reagy Ofosu	2		
+Eduard Pap	2		
+Enriko papă	2		
+Răzvan Pleșca	2		
+Scoției	2		
+Neil Lennon	2		
+Nicolae Stanciu	2		
+Alexandru Băluță	2		
+Zagreb	2		
+Ferencváros	2		
+Copenhaga	2		
+Porto	2		
+Champions	2		
+1X2	2		
+TG	2		
+Krasnodar-	2		
+Mlada	2		
+Epaminonda Nicu	2		
+Croitoru	2		
+Naomi Osaka	2		
+Ashleigh Barty	2		
+Zilei- pariu 1X2	2		
+Stockholm	2		
+Ludogorets	2		
+Atena-	2		
+Linfield	2		
+Slovan	2		
+Bratislava	2		
+Ararat-Armenia	2		
+Riga	2		
+Feyenoord	2		
+Tel	2		
+Aviv	2		
+Yehuda	2		
+Malmo	2		
+Sheva	2		
+Alkmaar	2		
+Mariupol	2		
+Frankfurt	2		
+Strasbourg	2		
+Molde	2		
+Jurgen Klopp	2		
+Jorginho	2		
+Panțîru	2		
+Bilbao	2		
+Lyon	2		
+Hermannstadt-	2		
+Dușan Uhrin jilopar	2		
+Ilie Oană	2		
+Gheorghe	2		
+Iasi	2		
+Paderborn	2		
+Manchester City	2		
+Tottenham	2		
+Masopus	2		
+AZ Alkmaar	2		
+Sorin Cârțu	2		
+Astana-	2		
+Celtic-	2		
+Ludogorets-	2		
+Wolverhampton	2		
+Bălgrădean	2		
+Dusan Uhrin jilopar	2		
+Dinamo Zagreb	2		
+Maksimir	2		
+Young	2		
+Boys	2		
+Gibbs	2		
+Grand slam	2		
+Crawley	2		
+Norwich	2		
+Fortuna	2		
+Cristiano Bergodi	2		
+UTA Arad	2		
+KYRGIOS	2		
+DRĂGAN GEORGIANA MIRELA	2		
+Carmen Adamescu	2		
+Ganea	2		
+Tudor Barbu	2		
+Luana Rednic”	2		
+Nuțu cămătaru	2		
+Beverly Hills	2		
+Luminita	2		
+Daca	2		
+Mircea Baniciu	2		
+Puljic	2		
+Cristian Gheorghiță	2		
+Ștefan Bănică Junior	2		
+Tuncay Öztürk	2		
+Roman	2		
+Tuncay Ozturk	2		
+Neatza	2		
+Brigitte Năstase	2		
+Blochina	2		
+Vader	2		
+Adrian minune	2		
+Thailanda	2		
+FCM Bacău	2		
+Micula jilopascal	2		
+Omar Farag	2		
+Faraon	2		
+Omar	2		
+Anisia Gafton	2		
+Cătălin Bordea	2		
+Silviu Andrei	2		
+Bujor Sion	2		
+Ioana Pavelescu	2		
+RA-APPS	2		
+Helmuth Duckadam	2		
+Olimp	2		
+Mirela Boureanu Vaida	2		
+Costa Rica	2		
+Uță Ștefan	2		
+Lujerului	2		
+Sofian	2		
+Wael	2		
+Cayenne	2		
+Gabriel Bivolaru	2		
+Carminei	2		
+Don Vito Corleone	2		
+the	2		
+M*a*s*h	2		
+Artmark	2		
+Ferrari F399	2		
+Michael Schumacher	2		
+V12	2		
+Ami	2		
+Monica	2		
+Vasile Blaga	2		
+Victor Marcu	2		
+DigiSign său	2		
+Dan Berendel	2		
+FSDP	2		
+Adelinei Pestrițu	2		
+Anastasia Maria	2		
+Nissan	2		
+GTR	2		
+Dan Grigoriu	2		
+Isărescu	2		
+Virgil Steblea	2		
+Mansory	2		
+LOFT Mamaia	2		
+George Călin	2		
+Leryn	2		
+Novak	2		
+Mercedes AMG S Coupe	2		
+Băsescu	2		
+Eba	2		
+Alin Petrache	2		
+Craciun	2		
+Kabirou	2		
+Mirunica	2		
+Voduț	2		
+Totti	2		
+Cătălin Tomata	2		
+Paulei Milea	2		
+Roger Bilham	2		
+the Guardian	2		
+Ioan Verdeș	2		
+Peru	2		
+Donald Trump	2		
+Alessia	2		
+Hector	2		
+Supermodels by Cătălin Botezatu	2		
+Akim Alexandru	2		
+Vincenzo	2		
+Ștefania	2		
+Cătălin Gheorghe Tomată	2		
+BaZi	2		
+Akim	2		
+Neața	2		
+Felix	2		
+Gherghe	2		
+Târgu Secuiesc	2		
+RO-ALERT	2		
+pierce	2		
+Am/N-am	2		
+Yin	2		
+‘Neatza	2		
+Loredana Dinu	2		
+Anna Szeles	2		
+Iurie Darie	2		
+Alexandru Repan	2		
+Palm Beach County	2		
+Vasile Geambazi	2		
+Ciolpani	2		
+Dacia	2		
+Marius Bodochi	2		
+Bodochi	2		
+B___ E_________	2		
+’Neatza	2		
+PRO	2		
+Masterchef	2		
+McLaren	2		
+NE-SV	2		
+Alexandra Crișan	2		
+Vlad Musta	2		
+Francesca Ilie	2		
+Francesca	2		
+Carla’s	2		
+Dreams	2		
+challenger	2		
+Foa	2		
+Nicoleta Radu	2		
+Hough	2		
+Baguette Caprese	2		
+Baguette Peking	2		
+Baguette tandoor	2		
+Michelin	2		
+OMV Aktiengesellschaft	2		
+Cătălina Cristea	2		
+Anamaria Ferentz	2		
+Diana Ghenu	2		
+Biblie	2		
+Robert Olandezu’	2		
+Bentley Bentayaga First Edition	2		
+Orlești	2		
+Horezu	2		
+Doru Sirius Sechelariu	2		
+Doru	2		
+Maybach S500	2		
+Cosmin Dragu	2		
+Alex Drăghici	2		
+Ialomiței	2		
+Luciu	2		
+Ana Banu	2		
+Adrian Mutu	2		
+Ion Păunel	2		
+Momordica	2		
+Galenus	2		
+Simona Balint	2		
+Quimperlé	2		
+Olandeza	2		
+Măriuca	2		
+Haga	2		
+Frusinica	2		
+Cecilia	2		
+Tudor	2		
+Ceaușescu	2		
+Focșaniul	2		
+Florin dîrdală	2		
+Unirei	2		
+Oituz	2		
+Cristian mantă	2		
+Costică Budu	2		
+Marian Apostu	2		
+Mărășești	2		
+Cosma	2		
+Slăvescu	2		
+Barbu Catargiu	2		
+Laurențiu Tudor	2		
+Cioloș	2		
+Vulturu	2		
+Ioan Lefter	2		
+Nicoleta Plugaru	2		
+Ionel Petrea	2		
+Elisabeta	2		
+Cuba	2		
+Romanii	2		
+HKU University of the Arts Utrecht	2		
+Maria Isabela	2		
+Dan Diaconescu	2		
+Madalin Ionescu	2		
+Mădălin Ionescu show	2		
+Bella Victoria Margot	2		
+Halep	2		
+Del Piero	2		
+Andrei Barzaghideanu	2		
+Due Carrare	2		
+Anamaria Nyeki Popa	2		
+alias Calu	2		
+Grisogono	2		
+B____	2		
+G________ Statele_Unite_ale_Ammivertifis	2		
+J___ _	2		
+P_______	2		
+Acid_Dezoxiribonucleic	2		
+Ion Peligrad	2		
+Irlandă	2		
+Parisien	2		
+Imagetrak	2		
+Chicago	2		
+Carmen Kraiczar	2		
+Alinuța	2		
+Marian Popovici	2		
+Sabin	2		
+Bogdan Nica	2		
+UPU	2		
+Tunari	2		
+Sanz	2		
+Lucian Bute	2		
+Putin	2		
+Kremlinului	2		
+Kremlin	2		
+Trump	2		
+Vela	2		
+MARCEL VELA	2		
+STREINU-CERCEL	2		
+DZ	2		
+Hunedoara-	2		
+Parkinson	2		
+Adrian Streinu-Cercel	2		
+Ioan cel	2		
+Colosseum Tournament	2		
+Nedim Nuhanovic	2		
+Balcanilor	2		
+Marianne Faithfull	2		
+the Royal London Hospital	2		
+Britania	2		
+John Borison	2		
+Antena3	2		
+Luca	2		
+București-Ilfov	2		
+Madonna	2		
+Mike Ryan	2		
+##statiacasa	2		
+SARS-COV2	2		
+Larry Klayman	2		
+Buzz Photos	2		
+Davin	2		
+Jen Andonian	2		
+Matt Shearer	2		
+Alex Papadopol	2		
+alexandru Papadopol	2		
+Ruxandr	2		
+Horia Talfeș	2		
+Gertjan Medema	2		
+KWR	2		
+Viorel cataramă	2		
+Oanei Zăvoranu	2		
+Wowbiz	2		
+Stelian Ogică	2		
+Ana Morodan	2		
+Ioana Zăvoranu	2		
+Ioan Bănicioiu	2		
+Bănicioiu	2		
+Ionuț Nicolae Pascu	2		
+Ionașcu	2		
+Hrebenciuc	2		
+Ramonei Bădescu	2		
+Rocsanei Marcu	2		
+Cristina Noapteș	2		
+Narcis Godeanu	2		
+Alexandru Noapteș	2		
+Rosa	2		
+Mihaela Dorobanțu	2		
+Victor Slav show	2		
+Bursucu	2		
+Hartner	2		
+Molnar Geza	2		
+Noah Andrei	2		
+UV	2		
+Cașcavelei	2		
+Zalău	2		
+Belgiei	2		
+Tomiță	2		
+Europol	2		
+Lili	2		
+Alexandru Abramiuc	2		
+Cezar Osiceanu	2		
+Akebono	2		
+Cristian Comănici	2		
+Marinela Mavrodin	2		
+Patria	2		
+CRSC	2		
+Raluca Marina	2		
+Daniel ambrozie	2		
+Bubu	2		
+AAPR	2		
+Tedros Ghebreyesus	2		
+Ghebreyesus	2		
+OncoGen	2		
+GRECIA	2		
+Nicolae Ciucă	2		
+Dragoș Turcitu	2		
+Turcitu	2		
+america	2		
+Bang&Olufsen	2		
+Nicolae Titulescu	2		
+Baumgarten	2		
+Ionuț Ghenu	2		
+Andre	2		
+Traian Spak	2		
+Pais	2		
+Muntenia	2		
+Dobrogea	2		
+Time	2		
+RT	2		
+Calistrat	2		
+Stylianos Syrmoglou	2		
+Dan Voiculescu	2		
+Ex-concurenta	2		
+Otiliei Bilionera	2		
+Esquire	2		
+Petru	2		
+Ovidiu Wlassopol	2		
+Iisus Hristos	2		
+Windsor	2		
+Landshut	2		
+Multumesc	2		
+Ionel Oprea	2		
+Lidiei	2		
+Octavian Sfăt	2		
+Romexpo	2		
+Happy	2		
+Oprah Winfrey	2		
+Mihai burtă	2		
+Insider	2		
+ALEXANDRU RAFILA	2		
+Astrid Fodor	2		
+Drobeta Turnu Severin	2		
+Daianei	2		
+Liviu Miroșeanu	2		
+Domenico arc	2		
+Doru Nemuritoru	2		
+Negruța	1		
+Antonin Pius	1		
+Antonin	1		
+Zeus	1		
+Sun Leader	1		
+Vio	1		
+Ingrid Carandino	1		
+Ingrid	1		
+Fanatik	1		
+Happy feet	1		
+Constantin Tănase	1		
+Matei Bals	1		
+Excusiv VIP	1		
+Alexa	1		
+Ivona	1		
+Mugur	1		
+Ivona Mihăescu	1		
+Acb	1		
+Porperties	1		
+Inc	1		
+Alina Cristian Borcea	1		
+Acb United_States_domânia LLC	1		
+Transpeco LLC	1		
+Aivid LLC	1		
+Bode	1		
+Ineu	1		
+Constantin Stăncună	1		
+Costel Dobrogeanu	1		
+Sile Pietroi	1		
+Mihăilești	1		
+Tacataca	1		
+Sexy	1		
+Kanal D. Cătălin Botezatu	1		
+Mihai Lucan	1		
+Sao Paulo	1		
+Mihaela Borcea	1		
+Patrick	1		
+Melissa	1		
+George Alexandru	1		
+Simona Dana Voiculescu	1		
+Andreina	1		
+Carolyn Christine	1		
+Indira Maria	1		
+the Music pub	1		
+Husein Daniel Gabriel Dasaev	1		
+Husein Gabriel Daniel	1		
+Dasaev”	1		
+Craciun jilopascal	1		
+Nicu Craciun	1		
+Viorel Jinga	1		
+anti-COVID-19	1		
+PLAY	1		
+Senteș	1		
+Jean	1		
+RMN	1		
+Palestina	1		
+benjamin Netanyahu	1		
+Hanadi	1		
+Jihadului	1		
+This is the that	1		
+Israel Security Agency carried out	1		
+Samah Abed al-Mamluk & other senior members of his unit	1		
+They were among those responsible for hundreds of rockets fired at Israelis	1		
+Israel Defense Forces	1		
+May	1		
+the Jerusalem post	1		
+One of the 100s of rockets that were just fired from Gaza toward Tel	1		
+Israel Aviv and central exploded on	1		
+Hamas’	1		
+clear	1		
+Israeli	1		
+We won’t happen	1		
+Israel Defense Forces May	1		
+Ben-Gurion	1		
+Lefler	1		
+Oana Roman…	1		
+Albu	1		
+Oanei Roman	1		
+Szombbatahely	1		
+Siófok	1		
+.hu	1		
+Veszprem	1		
+wellness	1		
+Sse	1		
+Citeșt	1		
+CEPCB	1		
+Johns Hopkins CSSE	1		
+EFE	1		
+Janssen	1		
+Florin Căruceru	1		
+FOCUS	1		
+Andreea Berecleanu	1		
+Marius Saizu	1		
+Sînă	1		
+Buurești	1		
+Vedetei	1		
+Varna	1		
+Maria Gyori Tal	1		
+Gyorfi	1		
+WalKeR	1		
+Cristoiu	1		
+Cozmin Gușă	1		
+Radu	1		
+Nemeș”	1		
+Altcineva	1		
+♬ astronaut	1		
+the Ocean	1		
+Masked Wolf Jador	1		
+Adi sână	1		
+Traian Bădulescu	1		
+BioNTech	1		
+fanatik	1		
+Marriam Ahmad	1		
+Grange	1		
+Cwmbran	1		
+Khadija	1		
+DUPA	1		
+CMSU București	1		
+Anca Sere	1		
+Iul	1		
+Intotdeauna	1		
+Leeah	1		
+Patronule	1		
+Robi”	1		
+Brigitte &Pastramă	1		
+Pro tv	1		
+Sasha Pavel	1		
+ADELA	1		
+COVE	1		
+Europa de est	1		
+Balcani	1		
+Limbourg	1		
+Hainaut	1		
+Joris Delanghe	1		
+Est„	1		
+Veneto	1		
+Emila Romagna	1		
+Piemonte	1		
+Cataluna	1		
+Castilla	1		
+Mancha	1		
+Nordrhein-Westfalen	1		
+Baden-Wurttemberg	1		
+Île	1		
+Grand est	1		
+Auvergne-Rhone-Alpes	1		
+London	1		
+Midlands	1		
+North West	1		
+Vaud	1		
+Tessin	1		
+Zurich	1		
+Flandra	1		
+Valonia	1		
+Noord Brabant	1		
+Noord Holland	1		
+Zuid Holland	1		
+Graz	1		
+Landeck	1		
+New Jersey	1		
+Michigan	1		
+Louisiana	1		
+California	1		
+Jiu	1		
+MS	1		
+santos	1		
+David…	1		
+#rezista	1		
+Ramona Gabro	1		
+Paul Ene	1		
+Constantin Adrian glugă	1		
+Roxana Dobre	1		
+IG Story	1		
+TouTube	1		
+SARS-COV-2	1		
+Andrei Ștefănescu	1		
+Virguil Musta	1		
+Bettencourt	1		
+Spike	1		
+Filip	1		
+University of Washington	1		
+IHME	1		
+Sandoz	1		
+Monicăi	1		
+Victor Costache	1		
+Unteatru	1		
+Nature	1		
+StockSnap	1		
+Michael Minan	1		
+Harvard Tnademie_șeontel School of public Health	1		
+TIR	1		
+Și… Cătălin	1		
+henri Coandă	1		
+Trento	1		
+Innsbruck	1		
+Messenger	1		
+Xinhua	1		
+Xi	1		
+UNICEF	1		
+Huși	1		
+Marin Lila	1		
+COVID-19 deocamdată	1		
+SARS-CoV	1		
+MERS-CoV	1		
+Renate Weber	1		
+papă Francis	1		
+CLUJUL	1		
+Ischgl	1		
+Hendrik Streeck	1		
+Bonn	1		
+Fabiano Di Marco	1		
+papă Giovanni	1		
+Corriere della Sera	1		
+CENTRU	1		
+GALAȚI	1		
+Periș detaliu	1		
+SCBI	1		
+CT	1		
+SCBI CT	1		
+Daniel Iancu	1		
+Dan Cameramanu	1		
+Anca Pop	1		
+Necula	1		
+David Pop	1		
+Cărturești	1		
+Ioana Gramă	1		
+STAY AT	1		
+HOME	1		
+SERIOS	1		
+SEE Yondul_Monetar_Internațională_de_Române SOON	1		
+Laura Giurcan	1		
+Multimilionarul	1		
+Prof Matei	1		
+SICAP	1		
+GMT	1		
+papa Francisc	1		
+ProTV	1		
+Apostol Petru	1		
+Pope Francis delivers blessing from Vatican City to coronavirus pandemic LIVE coronavirus	1		
+Pope delivers blessing from Vatican City	1		
+Francis	1		
+Samaritean	1		
+In15,13	1		
+Schmidt	1		
+alias Aspirina	1		
+Papă	1		
+Romei	1		
+Alfonso Tonino	1		
+suflet…Papa Francisc	1		
+papă Francisc…	1		
+MADE	1		
+CHINA	1		
+ceremonoa	1		
+Kyodo	1		
+Matsushima	1		
+Yamashita	1		
+Seiko Hashimoto	1		
+Tadahiro Nomura	1		
+Saori Yoshida	1		
+J-Village	1		
+Fukushima	1		
+STB său	1		
+Spiegel	1		
+Charité	1		
+Christian Drosten	1		
+Gérard Krause	1		
+Helmholtz	1		
+Braunschweig	1		
+Robert Koch	1		
+Majda Aboulumousha	1		
+Robert Negoiță	1		
+Becali George	1		
+Boroș	1		
+Oman	1		
+IMM	1		
+Zhang Xinmin	1		
+Favipiravir	1		
+GERMANIA –DFB	1		
+POKAL	1		
+LEIPZIG	1		
+ANGLIA	1		
+PREMIER LEAGUE ASTON VILLA	1		
+ITALIA	1		
+CROTONE	1		
+VERONA	1		
+SPANIA	1		
+EIBAR	1		
+GRANADA	1		
+BELGIA	1		
+JUPILLER	1		
+LEAGUE	1		
+ANTWERP	1		
+CLUB	1		
+BRUGGE	1		
+LIEGE	1		
+MECHELEN	1		
+NORVEGIA	1		
+VIKING	1		
+PLAY-OFF	1		
+CSIKSZEREDA	1		
+TIMIȘOARA	1		
+Hapciuc	1		
+Mihai Netea	1		
+Radboud	1		
+Universty	1		
+BCG	1		
+Nicolae Ceaușescu	1		
+Daniel Băluță	1		
+Alexandru Oprea	1		
+GSC	1		
+George Becali	1		
+Dușa	1		
+Vali Argăseală	1		
+Boroi argăseal	1		
+DigiSport	1		
+Becali-CSA	1		
+ANL	1		
+Vârfu	1		
+Volkswagen	1		
+Dolce sport	1		
+Vlad”	1		
+VLAD	1		
+Adrian Vlad	1		
+Anghel Damian	1		
+Adrian Nartea	1		
+Ștefan Dragomir	1		
+Andrei Aradits	1		
+Leonard Cazacu	1		
+Emilian Oprea	1		
+Bebe Cotimanis	1		
+Elizei	1		
+Gigi Becali Crăciun	1		
+Dimitrie Gerota	1		
+G4 medie	1		
+bullied	1		
+Calabria	1		
+BMW i8	1		
+Sorin Andrei Nicolescu	1		
+Alexandra Irina Mihai	1		
+Alexandra Irina	1		
+Centenar	1		
+Nicolae Tonu	1		
+univ	1		
+Ioan bolovan	1		
+Babeș-Bolyai	1		
+Alexandru borză	1		
+Puck” Cluj-Napoca	1		
+Octavian Goga	1		
+Lucian Nastasă-Kovacs	1		
+Cluj Napoca	1		
+Ioana Em	1		
+Petrescu”	1		
+Cristian Ursu	1		
+UPU-SMURD Cluj	1		
+Prodglob	1		
+Glass Statele_Unite_ale_Americii	1		
+Gheorghe Turcu	1		
+Handbal club	1		
+Potaissa Turda	1		
+Romanian top	1		
+Disney Channel	1		
+Răzvan Gogan	1		
+CD	1		
+Andrei Sebastian	1		
+Flick	1		
+Emilly	1		
+Emily	1		
+Inastagram	1		
+the Grand	1		
+OK magazină	1		
+Cori Grămescu	1		
+Pilates	1		
+Maria Spătar	1		
+R&B”	1		
+SHOWBIZ	1		
+ANDRA MĂRUȚĂ	1		
+BIANCA DRĂGUȘANU	1		
+STEJEREANU	1		
+MIHAELA	1		
+DOROBANȚU	1		
+MIRCEA EREMIA	1		
+LORELEI	1		
+FLORIN GROZEA	1		
+BIANCA GIURCANU	1		
+DEEA MAXER	1		
+Toulouse	1		
+Montpellier	1		
+Jupiler League	1		
+Cristian Popescu-Piedone	1		
+Totodata	1		
+Emil Racovita	1		
+Ahile	1		
+Saulea	1		
+CAMELTOE	1		
+Larisa Tănăsoiu	1		
+Cristina Ich	1		
+Lavinia Pîrva	1		
+Zannidache Hubert	1		
+Roxana Nemes	1		
+Aseară	1		
+ProTv	1		
+Maruta !😇❤/ Cataline	1		
+Giorgiana-Elena Lupu	1		
+Roxana Georgiana Ghita	1		
+Melina Dumitru	1		
+Andreea Moșneagu	1		
+Alin Salajean	1		
+Mariano Starlin Medina	1		
+Elena Lupu	1		
+Roxana Georgiana Ghiță	1		
+Mellina Andreea Moșneagu	1		
+Alin Sălăjean	1		
+Mariano Starlin	1		
+Medina	1		
+Majda Sandra Aboulumosha	1		
+Deliei Matache	1		
+Denisei Nichifor	1		
+Raluca Tănase	1		
+Mihai Bendeac	1		
+Mădălina Pamfile	1		
+Crina Matei	1		
+Simo	1		
+North Middlesex Hospital	1		
+dee	1		
+Maria Hîncu	1		
+Lisabona	1		
+Carmen Racolta	1		
+Sep	1		
+@carmendelasalciua	1		
+Munchen	1		
+Dominica	1		
+Daniel Pavel	1		
+#provocareade10ani	1		
+TOP # 10YearChallenge	1		
+Laura	1		
+Mirelei Vaida	1		
+Danello	1		
+‘iUmor’	1		
+Bădălău Senior	1		
+Marin	1		
+Survivor România Zanni	1		
+Gabriela Morar	1		
+Porgras	1		
+.iliescu	1		
+🤭❤️”	1		
+Instagramul	1		
+Yared	1		
+Noah si Bryan	1		
+Nuba & loft	1		
+Guinesns World Records	1		
+Cristina ICH	1		
+Eva Kent	1		
+Simona Sensual	1		
+Iulia Vântur	1		
+Iuliana	1		
+Nicoletei	1		
+Culita	1		
+Danza Kuduro	1		
+Lucenzo	1		
+Don Omar	1		
+Leșin”	1		
+Mihai Costea	1		
+Spiru	1		
+Andrei Valentin Prisecaru	1		
+Prince d’Armeny	1		
+Antonis Remos	1		
+Șampania-gigant	1		
+Davide	1		
+Exatlon România	1		
+Florin Nek	1		
+Nek!	1		
+Dansez	1		
+Iar…	1		
+Duban	1		
+Jador adevărat	1		
+Camelia	1		
+Dan Șucu	1		
+Alexandru zice cioc	1		
+Cristina Șucu	1		
+Alexandru Ciocârlan	1		
+Carme	1		
+Alina Crișan	1		
+Sylvia	1		
+Ana Crudu	1		
+What’s UP	1		
+Iata	1		
+Andreea Balan Andreea Balan	1		
+Crina Abrudan Crina Abduran	1		
+Dragos	1		
+Dragos bucura	1		
+si Dragos	1		
+Laurette Laurette	1		
+Bad Girl	1		
+Simona Sensual sex	1		
+Onuca	1		
+Nicoleta Luciu Nicoleta	1		
+sps Jador	1		
+XNS	1		
+Dom’le	1		
+Nelson Mondialu’ Nelson	1		
+Tulcea si	1		
+Ramnicu Valcea	1		
+Casanova	1		
+alin	1		
+Spy	1		
+Cristina Sucu	1		
+Mobexpert	1		
+si Vlad	1		
+Alexander	1		
+Frank colin	1		
+Cristina Zegheru	1		
+Catalin Catoiu	1		
+Alexandru Ciucu	1		
+sI	1		
+SpyNews.ro	1		
+#business	1		
+see u later alligator 🐊 😘 #blessed #business #bussinesswoman #travel #happy #glamour #🎬 #newproject #comingsoon	1		
+🌟	1		
+Nov on	1		
+Simona Iftimi	1		
+Armand Cristinoiu	1		
+Alex Erbasu	1		
+Sile pietroi	1		
+Catalin Lascut	1		
+Catalin	1		
+Lascut	1		
+Alina atză	1		
+Scurtand	1		
+ZBANG	1		
+SPUSH… Cosmina	1		
+SPUF	1		
+Caran	1		
+VIP-uri	1		
+Alice Nastase	1		
+nene Marin	1		
+Mrgherita	1		
+Mediaș Alex	1		
+Nașule	1		
+Deei	1		
+Jona	1		
+Sălciua de jos	1		
+Tiktok	1		
+Baby	1		
+Acum…Jador	1		
+Star matinal	1		
+Andreea Popescu	1		
+Adelina Postelnicu	1		
+Heaven	1		
+Iulia Vîntur	1		
+Carmen Negoiță	1		
+Corina Caragea	1		
+Giulia Anghelescu	1		
+Strahaia	1		
+Ioan Andrei Necea	1		
+Kanal D. Andra	1		
+Bia	1		
+Sharky Dumitru	1		
+Caesar	1		
+Dogo Canario superb	1		
+Seven Sharky	1		
+Pussycat	1		
+Lion Nice	1		
+Anabelle Blue	1		
+Dudu Steel	1		
+Lena Miclăuș	1		
+Nicoleta Guță	1		
+Cristina Pucean	1		
+Pirui	1		
+C!#^@	1		
+IML	1		
+Totodadă	1		
+Trendingul	1		
+Alex Ceaușu	1		
+Uzzy…	1		
+Lento	1		
+RUBY	1		
+Maria Ghiorghiu	1		
+Carmen Hara	1		
+Jadore	1		
+Esca	1		
+Alexia	1		
+Pablo Escobar”	1		
+Uzi” Scorpion	1		
+Raj	1		
+Cristian Daniel Paraschiv	1		
+Vasile Raj”	1		
+Sile cămătaru	1		
+Andra Voloș	1		
+Daddy Yankee	1		
+Nicky Jam	1		
+Reykon	1		
+Ion Mincu	1		
+Kat DeLuna	1		
+Mynele Television	1		
+Băăăăi	1		
+Rafaelo	1		
+Diana Enache	1		
+Dincă	1		
+Grațian	1		
+voua	1		
+Rusine	1		
+♥️	1		
+Doamnee	1		
+Eforie sud	1		
+CS Medgidia	1		
+Michael Jackson	1		
+Ioaneeee	1		
+papă Benedict	1		
+COVID Of	1		
+Biancăi Pop	1		
+Senior	1		
+Militiade văduvă	1		
+Stelian Burcă	1		
+Adrian copil minune	1		
+Bikini	1		
+Galyna Pînzari	1		
+Fotachi	1		
+Dumitru Diacov	1		
+Tristan	1		
+Nichita	1		
+Rolls Royce Phantom	1		
+Aston Martin DB9	1		
+GTB	1		
+Cadillac	1		
+Escalade	1		
+Timati	1		
+Chevrolet	1		
+Tahoe	1		
+C200	1		
+E220	1		
+CLS320	1		
+Sprinter	1		
+Transit	1		
+Volkswagen golf	1		
+NELSON mondidut	1		
+JADOR	1		
+ELLA Scleroză_Multiplă	1		
+LIVIAN oameni	1		
+Telecomanda	1		
+Bono	1		
+Marion Cotillard	1		
+Jared Leto	1		
+Robin Thicke	1		
+Selena Gomez	1		
+DiCaprio	1		
+Sand Explorer Scleraminultub	1		
+Larisei Stati	1		
+Nicoleta	1		
+Nicomedia Scleraminultub	1		
+Larisei	1		
+Swarovski	1		
+X6	1		
+Simona trașcă	1		
+Salonic	1		
+Meteora	1		
+Adriana	1		
+Bahmuțeanu	1		
+Stratan	1		
+Ghiță	1		
+Pavel Stratan	1		
+Edward	1		
+Ginei	1		
+andrei	1		
+AsiaExpres	1		
+Zapaciti	1		
+😂😂😂😂	1		
+Ionuț văduvă	1		
+Niculae Duduianu	1		
+Ion parnic	1		
+Stan	1		
+”Eu	1		
+DGASPC	1		
+Duduieni	1		
+M2TV	1		
+know how	1		
+Lazarov	1		
+Next	1		
+Star	1		
+România’	1		
+Hahaha Production	1		
+HaHaHa Production	1		
+Cumetere	1		
+Nuba Beach	1		
+Paul lung	1		
+Dorobanțu	1		
+Paul Lungu	1		
+Raluca scufiță roșu	1		
+Tango	1		
+Mihaela Botezatu	1		
+Michael Kors	1		
+Red Bull	1		
+nene	1		
+Ajunge…	1		
+henri	1		
+Chitila	1		
+Tâmpitule	1		
+Tati prigoană	1		
+Biliboi	1		
+Napoleon Gheorghe	1		
+National Television	1		
+American	1		
+Bully	1		
+Deputatul-Pensie	1		
+Berlin	1		
+Electrecord	1		
+Marianei Angelica Manolache	1		
+Predeal	1		
+Marian Ionescu	1		
+Ariel Constantinov	1		
+Adrian Anghel	1		
+Ariel	1		
+Mariciule	1		
+Uber jet	1		
+Businessmanul	1		
+Eminescu	1		
+Bădrăgan	1		
+Daniel Bădrăgan	1		
+Petrică Frumușelu	1		
+Petre Frumușelu	1		
+Spaniolu	1		
+Puștiul-fenomen	1		
+Smaranda Știrbu	1		
+Diana Condurache	1		
+Alberto	1		
+Kundalini	1		
+Wodan”	1		
+Kick-boxingul	1		
+Cătinaș	1		
+K1	1		
+Coco rus	1		
+Dan ANDREI	1		
+AMF București	1		
+Adina Ioniță	1		
+Adina	1		
+Lionel Messi	1		
+Cristiano Ronaldo	1		
+Laurențiu Hagiu	1		
+Marian Hagiu	1		
+MESHAH SUHAIB ABDEL NASER	1		
+Meshah Suhaib Abdel Naser	1		
+Mărgineni	1		
+Manhattan	1		
+AK	1		
+Ioan Dumitru Mironescu	1		
+Dumitru Mironescu	1		
+Răzvan Isăilă	1		
+Ion Morțun	1		
+Audi A6	1		
+AK74	1		
+Proca Vitalie	1		
+Makarov	1		
+Sculeni	1		
+Scotland Yard	1		
+Gorbunțov	1		
+Anton-Bogdan	1		
+Nicolae-Răzvan Mararu	1		
+Marius șumudică	1		
+Șumi	1		
+Vasile Ionela	1		
+Maia	1		
+Mayei	1		
+Maiei	1		
+Kuweit	1		
+€	1		
+Sun Plaza	1		
+Gheorghe mustață	1		
+Cornel râpă	1		
+Alex Bourceanu	1		
+Karabukspor	1		
+Bourceanu	1		
+Reghe	1		
+Reghe jilopar	1		
+KIM Kardashian	1		
+Like	1		
+Sorin Dumitru Miscoci	1		
+si Eduard	1		
+Romania liberă	1		
+Bagdad	1		
+Mohammad Munaf	1		
+Irakului	1		
+Manhattan’	1		
+Romanie	1		
+Al Jazeera	1		
+Sorin Miscoci	1		
+Traian Basescu	1		
+Marie Jeanne	1		
+Euronews	1		
+Laolalta	1		
+Mircea Balus	1		
+Berceniului	1		
+Ioan Vivi Fizidean	1		
+Victor Zagrean	1		
+Turda	1		
+Tambal Mafiotu	1		
+Valy is online	1		
+astept	1		
+Danyel	1		
+Maria Apostol	1		
+Catalina David	1		
+Zsolt Kapros	1		
+Baron	1		
+Andrei Cristea	1		
+Flavius	1		
+Stoican	1		
+Andreea Spătaru	1		
+Motanu	1		
+Osmanlispor	1		
+Sevilla	1		
+Bursaspor	1		
+Motanu”	1		
+Karabükspor	1		
+Foggia	1		
+Genoa	1		
+Bradford	1		
+Claudiu Răducanu blocnotes	1		
+Espanol Barcelona	1		
+Claudia	1		
+Mircea Nebunu'	1		
+nene Milică	1		
+Bellu	1		
+Toni Ciolac	1		
+nene Milica Posted by	1		
+Florin Salam Adevarat Officiall on Friday	1		
+October	1		
+M____ C_______	1		
+M____	1		
+N______	1		
+S___ A______ N_ _andiopitate_a_Stat	1		
+V____ E____	1		
+V____ R_____	1		
+O____ F_____	1		
+G_______ G___	1		
+C.pen	1		
+T___	1		
+Penny Market	1		
+M____ A_ _andii E____	1		
+Metan Mediaș	1		
+Mache	1		
+Grasshoppers Zurich	1		
+Dumitrescu	1		
+FCSB-Steaua	1		
+Iovan	1		
+Aelena	1		
+Tudorel Stoica	1		
+Bumbescu	1		
+Gabi Balint	1		
+CRISTIAN	1		
+BLĂNUȚĂ	1		
+Claudiu Blocnotes”	1		
+Mihai Alexandru Pleșu	1		
+Gosav Sabina	1		
+Basarabi	1		
+Mihai Plesu	1		
+F.V	1		
+Monica Bărlâdeanu	1		
+Gianni Ionut	1		
+Antonio Luigi Gottschling	1		
+Gottschling	1		
+Bac	1		
+Adrian Gottschling	1		
+It’s	1		
+girl	1		
+Maxer	1		
+Mercedes S class	1		
+Gérard Xavier Marcel Depardieu	1		
+Chateaux	1		
+Indre	1		
+Chateauroux	1		
+Jean Laurent cochet	1		
+Claude Jade	1		
+Alain Doutey	1		
+Elisabeth Guignot	1		
+Guillaume Depardieu	1		
+Julie Depardieu	1		
+Michel Audiard	1		
+Cri du cormoran soir	1		
+jonques	1		
+Patrick Dewaere et Miou-Miou	1		
+Les Valseuses	1		
+Bertrand Blier	1		
+Bernardo Bertolucci	1		
+Marco Ferreri	1		
+Maurice Piialat	1		
+Sous	1		
+soleil	1		
+Satan	1		
+Veneția	1		
+Francois Truffaut	1		
+Dernier Metro	1		
+Cesar	1		
+Green card	1		
+Andie Macdowell	1		
+Andreei Esca	1		
+Europa Fonsimotlum	1		
+Liz Taylor	1		
+Nicu Constantin	1		
+Violeta	1		
+Radu Ștefan	1		
+Laviniei	1		
+Probota	1		
+G________ M_ F___ _andiopitate_a_Stat CNP xxxxxxxxxxxxx-	1		
+V_ _andii B_____	1		
+I_	1		
+L_____ cnp xxxxxxxxxxxxx	1		
+Ion Titișor	1		
+Fane	1		
+Nelu Florea	1		
+Spoitoru	1		
+Andreei Mironescu	1		
+Ștelist	1		
+Mercedes S	1		
+Theodor Burghele	1		
+Vladimir Pleșu	1		
+încolo”	1		
+Victor Ciutacu	1		
+Ciutacu	1		
+Vigla	1		
+Athonului	1		
+Ctitorița	1		
+Grigorie Alexandru Ghica	1		
+Atos	1		
+Kareia	1		
+Καρυές	1		
+Karyes	1		
+Iasminei	1		
+Andrei si	1		
+Asadar	1		
+andrei Ciomu	1		
+Ciomu si	1		
+Adi minune	1		
+Tatal	1		
+Mario Camora	1		
+Bushbacher Philip John	1		
+Bushbacher	1		
+Philip John	1		
+START	1		
+Kevin	1		
+Junior	1		
+Billel	1		
+Carlo	1		
+Harlem	1		
+Mattia	1		
+Jesus	1		
+Fernandez	1		
+Paulo	1		
+Vinicius	1		
+Bradley de	1		
+Nooijer	1		
+Najib	1		
+Ammari	1		
+Dunăre	1		
+Ivan	1		
+Pigliacelli	1		
+Hervin Ongenda	1		
+Matteo Fedele	1		
+Bogdan Planici	1		
+Ciobanu	1		
+#imakehimlaugh	1		
+Hmmm…	1		
+instamod	1		
+Gheorg	1		
+Sat-Mare	1		
+Otilia	1		
+Sinan Akcil	1		
+Junior Morais	1		
+Rodrigo Alves	1		
+Ken	1		
+Rodrigo	1		
+Flanco”	1		
+Pegas	1		
+Moncler	1		
+Juli”	1		
+ABBA	1		
+Boney M	1		
+U-Grow	1		
+Heinner	1		
+Tucia	1		
+Andrei Tinu	1		
+Contra	1		
+Mansaly Boubacar	1		
+MC	1		
+always and forever	1		
+Tommo Production	1		
+Why	1		
+Raisa	1		
+Bravo!	1		
+Zdob si Zdub	1		
+daca Romania	1		
+Irina Nicolae	1		
+Valentina Pelinel si	1		
+Crisi Borcea	1		
+Gigi Nețoiu	1		
+CANCAN,RO	1		
+Vizer	1		
+Marius si Irina	1		
+Gundel	1		
+Cipri	1		
+CIPRIAN MARICA	1		
+VLAD MUNTEANU	1		
+CRISTIAN RIZEA	1		
+Contra-Mișu	1		
+Panduru	1		
+Mouscron	1		
+Petrescu	1		
+Andreea Alina	1		
+Filipe Nascimento &	1		
+Afroditei	1		
+Navarro Romera	1		
+Luka Maric	1		
+Filipe Nascimento	1		
+Mahlangu May	1		
+Condordia Chiajna	1		
+Eli”	1		
+Eli	1		
+Lucian Sănmărtean	1		
+Noël el Graët	1		
+Didier	1		
+Laurent Blanc	1		
+Les Bleus	1		
+Köln	1		
+Juventus Torino	1		
+Olympique Marseille	1		
+Michel Hidalgo	1		
+Denis Zabludovski	1		
+Ievgheni Iemelianenko	1		
+Pavlo Borisenko	1		
+Anton Butocinov	1		
+Vitali Kricenko	1		
+Kateryna Sassa	1		
+Kateryna Zhydachevsa	1		
+DJ Cooper	1		
+William	1		
+Amorim	1		
+Kehinde Fatai	1		
+Mario Jorge Malino Paulino	1		
+Filip Despotovski	1		
+Giordan Watson	1		
+Albert Saritov	1		
+Savio Valadares	1		
+Felipe Oliveira	1		
+Patrik Polk	1		
+Simone Tempestini	1		
+HALUCINANT… Jucătorul-problemă	1		
+Tudorie	1		
+Mădălinei	1		
+Enache	1		
+Dennis Matia	1		
+Mădălina Enache	1		
+FCSB-Hapoel Beersheva	1		
+Alina Popescu Ada	1		
+Arabia Saudita	1		
+cand	1		
+Piturca	1		
+UPDATE România	1		
+Bosnia-Herțegovina	1		
+San	1		
+marină	1		
+Azerbaijan	1		
+Feroe	1		
+Kosovo	1		
+Armenia	1		
+Gibraltar	1		
+Cosmin Cotra	1		
+Arnold”	1		
+Pindu	1		
+Calcio	1		
+Mbappé	1		
+Florinele	1		
+Florinel	1		
+FCSB Hapoel	1		
+Lupescu	1		
+Stelea	1		
+Neluțu Sabău	1		
+Mihali	1		
+Ciobotariu	1		
+Pușcaș	1		
+Marcel Pușcaș	1		
+Victoraș Iacob	1		
+Romania Television	1		
+Inter Milano	1		
+Anemona	1		
+Denis”	1		
+Il Luce	1		
+Principesa Elena & lady	1		
+Eduard Uzunov	1		
+Scheii	1		
+Brasovului	1		
+Muscel	1		
+Regina Maria	1		
+Mihai Ion	1		
+Robin Medforth-Mills	1		
+Meyrin	1		
+Miha	1		
+MARSAY	1		
+Cornwell	1		
+Rodica	1		
+Negoiță Pinocchio	1		
+Dragoș Săvulescu	1		
+ACS pol Timișoara	1		
+new Dinamo”	1		
+Turcu	1		
+Săvulescu	1		
+NEPI	1		
+Rockcastle	1		
+Growthpoint Properties	1		
+Globalworth	1		
+Ioannis Papalekas	1		
+Iulius	1		
+Openville	1		
+Giani Kiriță	1		
+Kiriță	1		
+Dudea	1		
+Costache	1		
+Katsikas	1		
+Victor Râmniceanu	1		
+ACS pol Timișoara-Viitorul	1		
+Râmniceanu	1		
+CS U Craiova	1		
+FCSB-iștii Alibec	1		
+Eduard Iordănescu	1		
+BOA	1		
+Virgil Colfescu	1		
+Alessandro acru	1		
+Good luck Golofca	1		
+Business-urile	1		
+Ando	1		
+Hanca	1		
+Palic &	1		
+Ioan Niculae	1		
+pa	1		
+Ovidiu Sabău	1		
+IONEL DĂNCIULESCU	1		
+Al Wahda	1		
+Petrică pană	1		
+Cornelia Catanga	1		
+Aurel Pădureanu	1		
+Radu Ciordaș	1		
+Aurel Datcu	1		
+Florin Răducioiu	1		
+IONELA PRODAN	1		
+ANAMARIA și	1		
+Giani căpușă	1		
+Motoacă	1		
+Baciu	1		
+Belo	1		
+Belodedici	1		
+Constantin Popescu	1		
+Barcelonei	1		
+Eeuropa League	1		
+Europa Legaue	1		
+Nyon	1		
+Mlada Austira Viena	1		
+Boleslav	1		
+Limassol	1		
+Rangers(	1		
+Shakhtyor Soligorsk	1		
+Feynoord	1		
+Iisus	1		
+Chiajna	1		
+Mariana Ilie	1		
+Alex Țigănașu	1		
+Chamed	1		
+Marius Constantin	1		
+Ofosu	1		
+Patache	1		
+Andronic	1		
+Răzvan Andronic	1		
+Jonathan Rodriguez	1		
+Golakeeperul	1		
+Eduard Florescu	1		
+Răzvan pleșcă	1		
+Pleșca	1		
+Robert Dumitru	1		
+Astana si Maccabi Tel Aviv	1		
+Bayo	1		
+Eboue	1		
+Rogic	1		
+Tierney	1		
+AIK Stockholm	1		
+Sherriff Tiraspol	1		
+Ziyech	1		
+Akpom	1		
+Matos	1		
+Huntelaar	1		
+Ferencvaros	1		
+Qarabağ	1		
+Dynamo Kyiv	1		
+Zagreb-	1		
+Brugge-	1		
+Dynamo	1		
+Kyiv	1		
+Roșie-	1		
+İstanbul Bașakșehir	1		
+Pireu	1		
+Basel	1		
+Champions League tur APOEL-	1		
+Bașakșehir	1		
+İstanbul	1		
+Maribor- Rosenborg Rosenborg	1		
+Cluj- Celtic	1		
+Basel-	1		
+Linz Basel	1		
+Mihai Bordeianu	1		
+Ion Oblemenco	1		
+Petros Mantalos	1		
+Marko Livaja	1		
+Forin Tănase	1		
+Onofraș	1		
+Green City	1		
+George Galamaz	1		
+Răzvan Pădurețu	1		
+Iulian Apostol	1		
+Pădurețu	1		
+Galamaz	1		
+Toronto	1		
+Rogers cup	1		
+Bianca Andreescu	1		
+Begu	1		
+Sorana Cîrstea	1		
+Mihaela Buzărnescu	1		
+Patricia Țig	1		
+Ana Bogdan	1		
+Elena-Gabriela rus	1		
+Irina bară	1		
+Kiki Bertens	1		
+Petra Kvitova	1		
+Elina svitolină	1		
+Serena Williams	1		
+Arina Sabalenka	1		
+Sloane Stephens	1		
+Karolina Pliskova	1		
+Perianu	1		
+Ricardinho	1		
+Astra Girugiu	1		
+Liverpool-	1		
+Europa League Atromitos-Legia Legia	1		
+Guimaraes- Ventspils	1		
+H-2	1		
+Saburtalo-	1		
+Ararat	1		
+Zilei- pariu 1X2 Europa	1		
+Sheriff	1		
+Spartak Moscova- Thun GG-	1		
+BATE-	1		
+TNS- Ludogorets	1		
+Rangers- Midtjyland GG-	1		
+Midtjyland	1		
+H-1	1		
+Kalju	1		
+Sutjeska	1		
+Dundalk	1		
+Saburtalo	1		
+HJK	1		
+Thun	1		
+Soligorsk	1		
+Suduva	1		
+Zrinjski	1		
+Neftci	1		
+Baku	1		
+Malatyaspor	1		
+Partizan	1		
+Beer	1		
+Norrkoping	1		
+TNS	1		
+Plzen	1		
+Vaduz	1		
+PSV	1		
+Haugesund	1		
+Lok	1		
+Aris	1		
+Valletta	1		
+Plovdiv	1		
+Aberdeen	1		
+Brondby	1		
+Wolves	1		
+Pyunik	1		
+Stephanie Frappart	1		
+Manuela Nicolosi	1		
+Michelle O’Neal	1		
+Mane	1		
+Giroud	1		
+Firmino	1		
+Fabinho	1		
+Origi	1		
+Alexander-Arnold	1		
+Salah	1		
+Barkley	1		
+Mount	1		
+Emerson	1		
+Abraham	1		
+Moutinho	1		
+Athletic	1		
+Barcelona Athletic	1		
+Bayern-Hertha	1		
+Lyon- Angers	1		
+Chindia Târgoviște- &	1		
+București X2	1		
+Chindia Târgoviște	1		
+Botoșani-	1		
+Voluntari-	1		
+Giurgiu-	1		
+Chidnia	1		
+Târgoviște-	1		
+Eredivisie	1		
+Burnley	1		
+Heracles	1		
+Eindhoven	1		
+Atletico	1		
+Getafe	1		
+Tottenham gol	1		
+Bayer	1		
+Borussia	1		
+Cheslea	1		
+Stabek	1		
+Vaaalerenga	1		
+Liverpool- Chelsea	1		
+Liveprool	1		
+Stabek- Vaalerenga	1		
+Valerenga	1		
+Vaanaken	1		
+LASK Linz- club Brugge	1		
+Răzvan Marina	1		
+Cipriu	1		
+Dinamo Zagreb- Rosenborg	1		
+Olympiakos- Krasnodar	1		
+Young Boys- stea	1		
+Champions League miercuri	1		
+Olympiakos Piraeus	1		
+Krasnodar Dinamo Zagreb	1		
+Rosenborg Young Boys	1		
+Slavia Praga LASK	1		
+AEK Larnaca	1		
+Gent- AEK Larnaca	1		
+AZ Alkmaar- Mariupol	1		
+ppe	1		
+Europa League FCSB- Vitoria	1		
+Ararat-	1		
+Malmo-	1		
+Bnei	1		
+1X &	1		
+Torino-	1		
+Wanderers	1		
+Gent- PSF	1		
+Alkmaar-	1		
+Antwerp 1X &	1		
+Andrei Vlad	1		
+oe Vlad	1		
+FCSB-	1		
+Planic	1		
+Soiledis	1		
+Oaidă	1		
+Gnohere antrenor	1		
+Vergil Andronache Guimaraes	1		
+Miguel Silva Sacko	1		
+Tapsoba	1		
+Pedrao	1		
+Hanin	1		
+Al Musrati	1		
+Rochihna	1		
+Almeida	1		
+Davidson	1		
+Guedas antrenor	1		
+Ivo Vieira arbitru	1		
+Matej jug	1		
+Matej Zunici	1		
+Grega Kordez	1		
+Borisov	1		
+Legia	1		
+Eintracht Frankfurt	1		
+AIK Stochkolm	1		
+Ararat-Armenia- F91 Yehuda	1		
+Malmö FF- Bnei	1		
+Sūduva-	1		
+Feyenoord- Hapoel Be’er	1		
+Copenhaga-	1		
+Varșovia-	1		
+AEK Atena-	1		
+AZ- Antwerp	1		
+Vitória	1		
+Guimarães	1		
+Strasbourg-	1		
+Eintracht	1		
+Gent-	1		
+Linfield- Qaraba	1		
+Sporting Braga-	1		
+Spartak	1		
+Espanyol- Zorya	1		
+Partizan-	1		
+Slovan Bratislava- PAOK	1		
+Torino- Wolverhampton Wanderers	1		
+Zilei- România-	1		
+Iași-	1		
+Târgoviște pol Iași	1		
+Craiova-	1		
+1x&	1		
+X2 &	1		
+Anglia-	1		
+Premier	1		
+Aston Villa- Everton	1		
+Belgia- Jupiler League	1		
+Anderlecht	1		
+Germania-	1		
+Koln	1		
+Clinceni-	1		
+Botoșani 1X &	1		
+Parma- Juventus Cristiano	1		
+Fiorentina- PsF	1		
+Hoffenheim- GG-	1		
+Werder	1		
+Augsburg- Union Berlin Augsburg	1		
+Dusseldorf-	1		
+Shalke	1		
+Bayern X2	1		
+Madrid-	1		
+Valladolid Partidul_Comânia	1		
+Getafe-	1		
+PsF	1		
+Pariuri1x2 .rodor	1		
+Combo	1		
+DUSSELDORF	1		
+LEVERKUSEN	1		
+VALLADOLID	1		
+PALACE	1		
+CRYSTAL	1		
+VIITORUL	1		
+PORTIMONENSE	1		
+SPORTING	1		
+OASPETII	1		
+Querrey	1		
+Londero	1		
+Țucudean	1		
+Arlauskis	1		
+Rondon	1		
+Slavia	1		
+Mediaș de gaz Metan	1		
+Edward Iordănescu	1		
+Olaru	1		
+Cardoso	1		
+Velisar	1		
+Iulian Cristea	1		
+Chorbadzhiyski	1		
+Diego	1		
+Fabbrini	1		
+Ousmane Viera	1		
+Srdjan Luchin	1		
+Trondheim	1		
+Zageb	1		
+Petković	1		
+Orsic	1		
+Eirik Horneland	1		
+Livakovic	1		
+Darren Cahill	1		
+Simonei Halep	1		
+Flushing Meadows	1		
+Cahill	1		
+Nicole Gibbs	1		
+Townsend	1		
+Kozlova	1		
+EFL	1		
+Belgrad-	1		
+Leeds Brentford	1		
+Feyenord	1		
+AZ	1		
+Sheriff Tiraspol	1		
+Mioveni	1		
+UTA	1		
+PSG	1		
+Chapeau	1		
+Lens	1		
+Lorient	1		
+Toulouse si Amiens	1		
+Bordeaux-Nantes	1		
+Lille-Renes	1		
+Conference League	1		
+Intertoto	1		
+Viitorul-UTA	1		
+Astra-FCSB	1		
+0ctombrie	1		
+Premier al League	1		
+Toni Petrea	1		
+ONJN	1		
+Valeriu Iftime	1		
+Alex Chipciu	1		
+Jakub Vojtus	1		
+Andrei Burcă	1		
+Laszlo Balint	1		
+Dușan Uhrin jilopascal	1		
+Sergiu Buș	1		
+Ioan horă	1		
+Marius Constantin gaz	1		
+Uhrin	1		
+Olimpiu Moruțan	1		
+Inter-	1		
+Lecce	1		
+Dinamo- fotbal_club Hermannstadt	1		
+Turcia-	1		
+Gaziantep	1		
+Constanța-	1		
+Olanda-	1		
+Jong PSV	1		
+Maastricht	1		
+Tenis-	1		
+Dayana Yastremska	1		
+Niculescu-cota	1		
+Minaur A.	1		
+Roberto Carballes Baena	1		
+Djokovic-	1		
+Sexy urlat	1		
+București-Secția	1		
+Botoșaniului	1		
+Winmasters	1		
+Man	1		
+Tanase	1		
+Adrian Petre	1		
+winmasters .rodor	1		
+Georgi Kitanov	1		
+Ionut Biceanu	1		
+Dusan Uhrin Junior	1		
+Champions Leaue	1		
+ZILEI-PARIURI	1		
+TENIS-	1		
+OPEN	1		
+POPYRIN	1		
+DELBONIS	1		
+VOLYNETS-	1		
+ANDREESCU	1		
+AZARENKA	1		
+HALEP	1		
+GIBBS	1		
+GAME-URI	1		
+SABALENKA	1		
+GREȘELI-	1		
+JOHNSON-	1		
+FOTBAL-ASIA	1		
+ORA14:30	1		
+SHANGHAI	1		
+URAWA	1		
+ITTIHAD	1		
+HILAL	1		
+FOTBAL-	1		
+EUROPA	1		
+KRASNODAR	1		
+OLYMPIAKOS	1		
+GOLURI-	1		
+YOUNG	1		
+BOYS	1		
+ZAGREB	1		
+_____	1		
+Palade	1		
+Adamescu	1		
+Denisa Nechifor	1		
+Adio”	1		
+Danei	1		
+Florin Petrișor	1		
+Mircea Banicu	1		
+Răzvan Lucescu	1		
+Lucești	1		
+Zenit Sankt Petersburg	1		
+Pisa	1		
+Brescia	1		
+Reggiana	1		
+Beșiktaș	1		
+Șahtior	1		
+Donețk	1		
+Zenit	1		
+Sankt	1		
+Petersburg	1		
+Reclamantul-victimă	1		
+Anchor George	1		
+Eiffel	1		
+Ion Balint	1		
+Nuțu	1		
+Claudia braziliancă	1		
+Jilava călare	1		
+Sexy-finuța	1		
+Tibi Bălan	1		
+Ionut Luțu	1		
+Patricia	1		
+Andreas Ionut	1		
+CANCAN .ro	1		
+sar Gigi	1		
+Luminitei	1		
+Asia expres	1		
+CANCAN.RO.SITE-UL NR.1	1		
+Mircea Rednic Luana	1		
+MEDIA Scleraminultub	1		
+Al Faisaly	1		
+Ana Maria Ilac	1		
+Andreei Marin	1		
+Ana Violeta	1		
+Ștefan Bănică Jr	1		
+Mihășan	1		
+Flavia Mihășan	1		
+Razvan si Dani	1		
+Audi A5 Coupe	1		
+Maradona	1		
+Matthaus	1		
+Benfica Lisabona	1		
+Petre Grigoraș	1		
+Vezuviu	1		
+Buggy	1		
+Vicăi Blochina	1		
+Somalia	1		
+Ilinca obădi	1		
+Anna Roman	1		
+Ilinca Obădeascu	1		
+Munteanu	1		
+Mozzafiato	1		
+Prut	1		
+Andrei Adam	1		
+Naomi Câmpulung	1		
+Andreei Tonciu	1		
+Dîrnea	1		
+Ramonei Gabor	1		
+Gureșoaie	1		
+Mercedes CL	1		
+Giani Pîrvu	1		
+Fălticeni	1		
+Dumitru stativ	1		
+Dumitru stativă	1		
+George Tal	1		
+Cătălin Crișan	1		
+Cornel Palade	1		
+Anca Țurcașiu	1		
+Porumboiu patron	1		
+Ceahlăul Piatra Neamț	1		
+Mircea Badea	1		
+Moldova Vica Blochina	1		
+Klaipeda	1		
+Melody	1		
+CamModels	1		
+Alexandra B	1		
+Ana Maria Mocanu	1		
+Futti	1		
+Futti fresh	1		
+Micula Jr	1		
+Valentines Day’s	1		
+Ozana Pușcaș	1		
+Yashar Hassan Abbas	1		
+Arabia	1		
+Lucian Prințu	1		
+Vioricăi Dăncilă	1		
+Mihai Bujor Sion	1		
+Sion	1		
+Agora	1		
+Ozanei	1		
+Mirela	1		
+Rica	1		
+Harley Davidson Fat bob	1		
+Vespa	1		
+Corvette Stingray	1		
+Easy Rider	1		
+Denis Hopper	1		
+jack Nicholson	1		
+Peter Fonda	1		
+ALINEI GORGHIU	1		
+Sorana Pașcu	1		
+Ioan Mircea Pașcu	1		
+Evolve Bamboo Series	1		
+Tetik	1		
+Mihai Gâdea	1		
+Victor Dăncilă	1		
+Videle	1		
+Klaus Werner Iohannis	1		
+Călin Popescu Tăriceanu	1		
+Antonio Tajani	1		
+Sevilla `86	1		
+Ioan Micula	1		
+Boureanu Vaida	1		
+Boureanu	1		
+Cima	1		
+San Jose	1		
+Bute	1		
+Rudel Obreja	1		
+Ion Ariton	1		
+HOT	1		
+Dan Tecu Lescu	1		
+Mircea N. Stoian	1		
+Breeze	1		
+Crazy Beach	1		
+Franco Baronu’	1		
+Halkidiki	1		
+Breeze Mamaia	1		
+Bamboo Mamaia	1		
+Crazy Beach Mamaia	1		
+Sexy-logodnica	1		
+Tac’su	1		
+Ahmed	1		
+Porsche Panamera S	1		
+Mercedes Maybach	1		
+Mercedes AMG	1		
+Porsche Cayenne S	1		
+Audi A4	1		
+Hyperion	1		
+Transilvania Models	1		
+Vârciu	1		
+Khaled Alsamarra’i jilopascal	1		
+Panamera	1		
+AMG	1		
+A4	1		
+Wael Khaled	1		
+Michael Corleone	1		
+Tomah	1		
+Khaled Alsamarra’ia	1		
+Irakian	1		
+Tomah Khaled Alsamarra’ia	1		
+Khaled Alsamarra’i	1		
+Bentayga	1		
+Porsche Cayenne	1		
+Forbes România	1		
+Monica Gabor	1		
+don Juan	1		
+Târgu-Cărbunești	1		
+ABM Investments	1		
+Iacobov	1		
+Kiseleff	1		
+Antony	1		
+Jeep Wyllis	1		
+Ford Mustang	1		
+Jim Morrison	1		
+HWY	1		
+MB-T	1		
+Willys Mihromelontern	1		
+Francis Ford Coppola	1		
+Lincoln	1		
+Ford Motor si	1		
+Maranello	1		
+View	1		
+Cocktail	1		
+P________ ÎCCJ- Daxa_pentornalorifional	1		
+V_____ P______	1		
+V_ P______	1		
+S____ M_____	1		
+Corneliu Iacobov împreună	1		
+Vacamuuu	1		
+Rafo	1		
+with miligram mom	1		
+@monicagabor888 and miligram dad	1		
+Dec on	1		
+Christoph Daum	1		
+CS	1		
+those	1		
+Șefu'	1		
+Florin Gardoș	1		
+Neaga	1		
+Alzheimer…	1		
+Carmina Maria	1		
+FF	1		
+Ion Cristoiu	1		
+București Mugur	1		
+Radu Beller	1		
+A-Z	1		
+Range Manssory	1		
+Radu Frâncu	1		
+Oanei Marica	1		
+Asesoft	1		
+Costi Silinescu	1		
+Rover	1		
+BMW E700	1		
+Mihnea crește	1		
+Florin Danu	1		
+Bravo Anda	1		
+INFINIT	1		
+Panama Papers	1		
+Mossack Fonseca	1		
+RISEProject.ro	1		
+Beny Steinmetz	1		
+Frank Timiș	1		
+Leryn si Novak	1		
+Alexandru Mazilu	1		
+Leryn Franco	1		
+Miss Paraguay	1		
+Lerynei	1		
+Franco	1		
+SFAT	1		
+Iulian Costandache	1		
+Romana	1		
+Bogdan Vladimirescu	1		
+Alex Mihaiescu	1		
+Iulian impreuna	1		
+Nicorescu ară Lamborghini	1		
+Bogdan Syda”	1		
+Șefu”	1		
+Adrian Petrache	1		
+rose	1		
+Remus Nica	1		
+Remus	1		
+Anais	1		
+Traian jilopascal	1		
+Alex Erbașu	1		
+Ionuț Andrei	1		
+România U21	1		
+Bosnia-Herțegovina u21	1		
+Ionuț Radu	1		
+Bosniei-Herțegovina👉 #LuptamImpreuna	1		
+Pff” Adelina	1		
+Mihai Voduț Hahahaa	1		
+Mihai Voduț Voduț	1		
+SuperPromotia	1		
+Rolls-Royce Wraith	1		
+Bozo	1		
+Laciu	1		
+Kabirou Mbodje	1		
+București-Paris	1		
+Fraței	1		
+SPA	1		
+vrea…Ceilalți	1		
+Cătălin Gheorghe	1		
+Tomată	1		
+alias Syada	1		
+Drăguș	1		
+AS Roma	1		
+Francesci Totti	1		
+Primavera	1		
+Bălașa	1		
+Maicon	1		
+Florenzi	1		
+Crotone	1		
+Gervinho	1		
+Rudi Garcia	1		
+Lobonț	1		
+Borriello	1		
+Benatia	1		
+Fane Dediu	1		
+Cătălin tomată	1		
+Agnes	1		
+Nicoleta nucă	1		
+Paula Milea	1		
+University of Colorado in Boulder	1		
+Rebecca Bendick	1		
+University of Montana in Missoula	1		
+Geological Society of America	1		
+Vrâncioaia	1		
+Jairo Osco	1		
+Center	1		
+Hector Bitar	1		
+Ciudad	1		
+Mexico	1		
+Bran	1		
+Bitar	1		
+Pena	1		
+Carlos Slim	1		
+Alessia Miroslava	1		
+Irina Cristescu	1		
+Lucian Burchel	1		
+Romario	1		
+Benzar	1		
+Răzvan Marin	1		
+Liege	1		
+Alexandru Mitriță	1		
+Pescara	1		
+Aurelian Chițu	1		
+Valenciennes	1		
+Gabriel Iancu	1		
+Alin Toșca	1		
+Alexandru Târnovan	1		
+Mihai Bălașa	1		
+Ioan Filip	1		
+Debrecen	1		
+Neluț Roșu	1		
+Levski Sofia	1		
+Nelson Bonilla	1		
+Zira	1		
+Robert Grecu	1		
+FCSB+clauză	1		
+Elicpsa	1		
+Gabor & milopascal Pink… Gina pistol & Smiley	1		
+Felix Baumgartner Mihaela	1		
+Antonia Alex	1		
+Maya Rosaria	1		
+Ionuț Luțu Ionuț Luțu	1		
+SPEAK Cristina Ștefania	1		
+Adrian Alexandrov Elena Udrea	1		
+Cătălin Tomată EBA	1		
+Malibu	1		
+Smiley Smiley	1		
+Brusli	1		
+Gheorge Vladan	1		
+Florina	1		
+Horoscop	1		
+yang	1		
+Chanel	1		
+Adi Constantin beauty center	1		
+Tudor Vianu	1		
+Melania Vasile	1		
+Adi Constantin	1		
+Princess	1		
+Supermodels by Cătălin	1		
+Panduri	1		
+Vasile Lascăr	1		
+Titulescu	1		
+IMGB	1		
+Târgu	1		
+Secuiesc	1		
+Maldive	1		
+Gheorghiță Stamate	1		
+STOP	1		
+Constantin Ionescu	1		
+Manole	1		
+Facebook Center- predicție	1		
+Recomandam	1		
+Telegram	1		
+MR	1		
+Facebook Center predicție	1		
+Capra	1		
+Slănic-Moldova	1		
+Bucureștii	1		
+Colței	1		
+Calton	1		
+Iutei	1		
+Irinel Columebeanu	1		
+Rio Janeiro	1		
+Craioveia	1		
+Dani Oțil…	1		
+Irinel Columbeanua	1		
+Romania pret	1		
+Toma Caragiu	1		
+Anatol Emilian Baconsky	1		
+Muntii	1		
+Ion Barbu	1		
+Dan Grigore	1		
+Daniela Crăsnaru	1		
+Laurențiu Damian	1		
+Ana Szeles	1		
+Acapulco	1		
+Constantin Dinischiotu regizor	1		
+Ion Lucian	1		
+Melania	1		
+Palm Gardens	1		
+Palm County	1		
+Silent Friends	1		
+Les fêtes galantes	1		
+Sanda	1		
+nea Puiu	1		
+Edenland Park	1		
+Măgurele	1		
+Dâmboviței	1		
+Nereju	1		
+Alexandria	1		
+#SEISM2018	1		
+București- Alexandria	1		
+EU-MODEX	1		
+Coșbuc	1		
+Bucur	1		
+Dorobanti	1		
+Magheru	1		
+P+6	1		
+P+8	1		
+Radu Zamfir	1		
+Mihail	1		
+POS Scleraminultub	1		
+Costin Mărculescu Scleraminultub	1		
+Mărculescu	1		
+B_ e_ navtevini	1		
+B___	1		
+I__ B___ Nicolae A_ _andii S_ _andiopitate_a_Stat	1		
+Ma________ C_____	1		
+CNP-xxxxxxxxxxxxx	1		
+C_ Ma_______ & P__ Statele_Unite_ale_Americii	1		
+Dani Oți	1		
+Samuel Torriellec	1		
+Cherbourg	1		
+Normandia	1		
+PROTV	1		
+Tour d’Argint	1		
+Anamaria Tulumb	1		
+Ruseși	1		
+Florin scripcă	1		
+Florin Scripcă	1		
+FOA	1		
+Brasov	1		
+Bacau	1		
+Galati	1		
+Braila	1		
+Pitesti	1		
+Chisinau	1		
+Cristina Spătar	1		
+Catrinel Sandu	1		
+Dragoș udilă	1		
+Dana Markitan	1		
+Eurovision	1		
+Raluca Diana	1		
+Rafael Wehlner	1		
+Keo	1		
+Rafael	1		
+Angelo Terigan	1		
+Banat	1		
+Georgiana Agarici	1		
+James Brown	1		
+Florin Scripca	1		
+Ioana Aian Balu	1		
+Totusi	1		
+Mastechef Foa	1		
+Ion Țiriac	1		
+Pool	1		
+San Andreas	1		
+Science	1		
+Maya Rosaria Castellano	1		
+Samuel el	1		
+Nicolaescu	1		
+VIVA Cafe	1		
+Marketing	1		
+RCA	1		
+Râmnicu	1		
+Adria	1		
+Madagascarul	1		
+anil	1		
+FCM	1		
+Selena Bacău	1		
+Bacovia	1		
+Cursaru	1		
+CNN	1		
+Bogdan Lobonț	1		
+Ana Maria Ferencz	1		
+Dragoș Săndulache	1		
+Mirel	1		
+A8	1		
+Bentley Continental GT	1		
+Mercedes enKlassă	1		
+Aston Martin	1		
+Al Hilal	1		
+Al Ain	1		
+Ahli	1		
+Arabi	1		
+Mireal Rădoi	1		
+Lichtenstein	1		
+Gheorghe Ilinca	1		
+Costești	1		
+INCDFP	1		
+CSEM	1		
+Prizren	1		
+Skopje	1		
+Bari	1		
+Pristina	1		
+Taranto	1		
+Nis	1		
+Sechelariu Junior	1		
+Computerland	1		
+FCD	1		
+ACS	1		
+Marius Bacria	1		
+Wowbiz .rodor	1		
+Odorheiul Secuiesc	1		
+Amara	1		
+Balint	1		
+Șimnic	1		
+Bombus	1		
+Ștefan Anuța	1		
+Mârșani-Dolj	1		
+Drăghici	1		
+Roxana Boitaș	1		
+Tudorii	1		
+Adi Mutu	1		
+the New Dinamo	1		
+the Same Old Dinamo	1		
+Ana Manole	1		
+Alexandru Bostangică	1		
+Luțuleee	1		
+Bostangică	1		
+Velența	1		
+Oradea Gavril buboi	1		
+Octavian Muth	1		
+Gavril Buboi	1		
+Gavril buboi	1		
+Charitatis sfânt Nicolae	1		
+ADHD	1		
+Nepal	1		
+Mihalache	1		
+Tudor Mihalache	1		
+Ștefan Popa Popa’s	1		
+ELENA	1		
+prof	1		
+Heliogabal	1		
+Tertulian	1		
+Siracuza	1		
+Claudius Marcellus	1		
+Scipio African	1		
+Hadrianus	1		
+Bretania	1		
+Codrin	1		
+IT -ist	1		
+Chechiș	1		
+Maria Tetișan	1		
+FOCȘANI	1		
+Berende	1		
+.transilvania-tv.ro	1		
+Marian Tudor	1		
+paroh	1		
+Vizantea-Livezi	1		
+Vidra	1		
+Vizantea	1		
+Glodeanu-Siliștea	1		
+Glodeanu	1		
+SWIFT RNCBROBU reprezentant	1		
+Tudor partidul_Comânia Marian	1		
+Bolotești	1		
+Marian Florin dîrdală	1		
+Brăilei	1		
+Cuza vodă	1		
+Brătianu	1		
+Nică Tătaru	1		
+Cristian Manta	1		
+Rareș Miclăuș	1		
+Olimpia Satu mare	1		
+Lego	1		
+Olimpia Satu	1		
+lego	1		
+Cosmin Miclăuș	1		
+B6	1		
+.Goji	1		
+Răzvan Sava	1		
+GAC	1		
+Mocanu Gheorghe	1		
+Vasile neculiță	1		
+Marin Crăciun	1		
+Butuceni	1		
+Dogaru	1		
+Marin Apostu	1		
+Neculai	1		
+Vadu Roșca	1		
+Babeș	1		
+Piccadilli	1		
+Robin Cosma	1		
+Interex	1		
+Romtelecom	1		
+Slobozia Ciorăști	1		
+Biliești	1		
+Siret	1		
+Hidroelectrica	1		
+Zăbrăuț	1		
+Maior International_Cemocial Ghîtză	1		
+Vasile Vledoianu	1		
+Hristudor Manoliu	1		
+Lahovari	1		
+’44	1		
+Florin dârdală	1		
+Blank & Constantin	1		
+Rucăr/Muscel	1		
+Sighet	1		
+Marius Neagîrnac	1		
+Marian Ursea	1		
+Marius Nagîrneac	1		
+Laurențiu Tudor bombă	1		
+Sudiți	1		
+Mărculești	1		
+Al.I.Cuza	1		
+Grigore Gheba	1		
+Iuliu Maniu	1		
+Mircea Ciobotaru	1		
+Ana Viorica Pușcașu	1		
+Burca	1		
+Klebsiella	1		
+Medlife	1		
+Gostat	1		
+Elena Boț	1		
+Ionel Țuțac	1		
+Jebel	1		
+Danielescu	1		
+Ionel Petrea director	1		
+Aura Danielescu	1		
+DAN ANDREI	1		
+Paula Crăciunescu	1		
+Paula	1		
+Bălașa doamnă	1		
+Nai clasic/contemporan	1		
+Maria Tănase	1		
+Maria Lătărețu	1		
+Panfluit concourse	1		
+Princess Christina festival	1		
+Uitmarkt	1		
+Music	1		
+Tour	1		
+Rotterdam	1		
+Havana	1		
+Chicago Center	1		
+Jacksonville	1		
+Sunrise	1		
+the Untold Story	1		
+Felicia Filip	1		
+Zamfir	1		
+Nikolas Grasso	1		
+Preda	1		
+Ionela	1		
+Ion Caramitru Mariana	1		
+Pippo Franco	1		
+Grigore Leșe	1		
+Benone Sinulescu	1		
+Ciocârlia	1		
+Maria Dinulescu	1		
+Ion Caramitru	1		
+Daisuke Kanamaru	1		
+Armin van Buuren	1		
+David Guetta	1		
+Yanni	1		
+Franco Battiato	1		
+Ennio Morricone	1		
+acum…	1		
+MAYA RADU	1		
+Facebook Mădălin	1		
+Bianca Călin	1		
+Bârlad	1		
+Stradivarius	1		
+LAURA MIRON	1		
+George Papari	1		
+Papari	1		
+Serghei Mizil	1		
+Mihai Morar	1		
+Adrian Danciu	1		
+Nephentis	1		
+Pișcolt	1		
+Karlsruhe	1		
+Odobescu	1		
+Timișoara/	1		
+Doinei Dumitru	1		
+Comenius	1		
+Reykjavík	1		
+VIDEO	1		
+Mediko Hire	1		
+A2	1		
+B2	1		
+Quarantena	1		
+Atletico Madrid	1		
+Juve	1		
+🙈🙈🙈	1		
+Barzaghideanu Daniel	1		
+Daniel Barzaghideanu	1		
+Sep on	1		
+Nyeki Popa	1		
+Mariana Stanca	1		
+Cristina Bordoiu	1		
+TERENTE	1		
+van	1		
+C4	1		
+Bismarck	1		
+Neguțescu	1		
+Simon Idita	1		
+Sibiului	1		
+Idita	1		
+Mircea Onel	1		
+Gologan	1		
+Marbella	1		
+UBER	1		
+M____ A____	1		
+O___Chaoui	1		
+Orient mijlociu	1		
+O__	1		
+Chaoui	1		
+O___ Chaoui	1		
+da Constantic J___	1		
+Amsterdamul	1		
+da	1		
+R______ L___ D	1		
+P_______G_____	1		
+belle cose	1		
+Mizrahi»	1		
+Jacobo”	1		
+R______	1		
+L___	1		
+C____ J___	1		
+G_____	1		
+swift	1		
+Cendrine Ver	1		
+Matei Stănciuc	1		
+Gabriel Oprea	1		
+Tanti Lenuța	1		
+Lenuțea	1		
+Diana mai	1		
+DGL	1		
+Carmen Dan	1		
+Intradevar	1		
+CJCCI	1		
+COVID-19 Art	1		
+Bernard González	1		
+Bernard Gonzales	1		
+Arnaud robinet	1		
+Bernard Gonzale	1		
+David Guion	1		
+L’Equipe	1		
+Lois Gibson	1		
+Einstein	1		
+Adriana Oprea-Popescu	1		
+Sorin Rogia	1		
+ANDREEA LOPĂTARU	1		
+Schengen	1		
+Bogdan Alexandru	1		
+DGMRU	1		
+Virgil vulpe	1		
+SRI	1		
+Antitero	1		
+Management	1		
+Tata-socru	1		
+Intergrare Schengen	1		
+Alina Borovina	1		
+Bogdan romanic	1		
+DGIPI	1		
+Mongolia	1		
+Banat de munte	1		
+Mărioara Vîrtop	1		
+Bozovici	1		
+Macar	1		
+Chiara	1		
+Ferragni	1		
+Florin Oancea	1		
+Movila	1		
+SMC	1		
+COVI	1		
+DPS Prahova	1		
+Victor doctor Babeș București	1		
+Filiaș	1		
+Delia Rexha	1		
+Raed Arafat suțin	1		
+As”	1		
+Fernando	1		
+Madridul	1		
+Mijatovic si Suker	1		
+Florentino Perez	1		
+Raúl González Blanco	1		
+@RaulGonzalez	1		
+March	1		
+Harap	1		
+Rocky	1		
+Dălhăuți	1		
+Negrești Oaș	1		
+Cardoș	1		
+Skynews	1		
+Kremlinul	1		
+Vasilyeva	1		
+Novgorod	1		
+Noah Harari	1		
+Dan boanță	1		
+Camogli	1		
+Genova	1		
+Țăndărăi	1		
+Costel Alexe	1		
+NELU TĂTARU	1		
+FFP2	1		
+Andora	1		
+RAED ARAFAT	1		
+Câmpulung Muscel	1		
+CORINA MANIU	1		
+Mihnea Ciolan	1		
+Pahonțu	1		
+România LIVE	1		
+MICUL-DEJUN AL	1		
+NEAMȚ	1		
+Marcela	1		
+Elena Welter	1		
+COVID-19 deces	1		
+Pradder Willi	1		
+SCBIT	1		
+Victor Babeș București	1		
+INCDMM CANTACUZINO	1		
+ARDS	1		
+SCBI Vasile Babeș	1		
+BI adult	1		
+Bronhopneumopatie	1		
+INBI Matei Balș	1		
+Marius Tucă	1		
+Woolhouse	1		
+Boris Johnson	1		
+Neil Ferguson	1		
+Chris Whitty	1		
+Blaj	1		
+Diana Mârza	1		
+Ion Dumitrel	1		
+N95	1		
+MiniArtShow	1		
+Ioana Ghingină	1		
+CJSU	1		
+CJSU Galați	1		
+coronavirus/COVID-19	1		
+Constantin Dina	1		
+Dinan	1		
+Erol Zimmerman	1		
+alias	1		
+Mihail Kogălniceanu	1		
+Țuțuianu	1		
+Penny arcad	1		
+Marianne	1		
+Bataclan	1		
+mare	1		
+Argenitina	1		
+REMAT	1		
+O2	1		
+Malaria	1		
+Gonorrea	1		
+Buenos Aires Cricket	1		
+Pablo Singerman	1		
+Pablo	1		
+Qingming	1		
+Starting at	1		
+people across China observed three minutes of silence	1		
+Sirens of automobiles	1		
+Air defense warnings also went off	1		
+@ChinaDaily	1		
+April	1		
+Ciurel	1		
+Ghica	1		
+park& ride Cora Pantelimon	1		
+Nicolae Grigorescu-Splai Dudescu	1		
+Bill	1		
+Melinda Gates	1		
+Gates	1		
+the Gates Philanthropy Partners’ COVID-19 Therapeutics accelerator	1		
+Horia Teodorescu	1		
+VLADIMIR PUTIN	1		
+Kirill Semyonovich Serebrennikov	1		
+Don Quijote	1		
+Miguel de	1		
+Cervantes	1		
+Lev Tolstoi	1		
+Ulise	1		
+James Joyce	1		
+Alzheimer	1		
+Cannes	1		
+San Sebastian	1		
+Victor Tsoi	1		
+Maria Van Kerkhove	1		
+Hubei	1		
+Tedros Adhanom Ghebreyesus	1		
+Wuhan Union	1		
+Jill McCullough	1		
+Andrew	1		
+Andrew jack	1		
+Star Wars Episode	1		
+Lucasfilm	1		
+Disney	1		
+Jedi	1		
+Darth Vader	1		
+Sorin Busuioc	1		
+Dezbrăcatu’	1		
+Șerban Huidu Dezbrăcatu’	1		
+Cătălin Dezbrăcatu’	1		
+Codruțeeeeeeee…	1		
+Codrut Keghes-Dezbracatu	1		
+Adriana Titieni	1		
+China nou	1		
+Alibaba	1		
+Liège	1		
+Shenzhen	1		
+Facbook	1		
+Covid postmortem	1		
+Vasilescu Sorin	1		
+Gerd Altmann	1		
+Ruxy	1		
+globa	1		
+Stirileprotv.ro	1		
+Texas	1		
+Shi Zhengli	1		
+Chen Wei	1		
+Geambașu Călin Alexandru	1		
+PEGI	1		
+Corbeanca	1		
+Next Star	1		
+Călin	1		
+Geambașu	1		
+Jen	1		
+Matt	1		
+Ether	1		
+MPH	1		
+MGH Center for Disaster Medicine	1		
+Johns Hopkins Center for Health Health	1		
+Johns Hopkins Bloomberg School of public Health	1		
+Gianina Ursu	1		
+Gianina	1		
+SIR	1		
+Cătălin Cazau	1		
+Noemi Mitoșeru	1		
+Noemi	1		
+Iona ginghină	1		
+Radu Budae	1		
+Raed Araft	1		
+Metrorex	1		
+Laminorului	1		
+Nieuwegein	1		
+Elle Style Awards	1		
+Sexy-deputata	1		
+GOLIAT &	1		
+Iulian Stamate	1		
+Zăvo	1		
+WOWBiz	1		
+Mădălin lonescu	1		
+Kanal D. cancandron	1		
+…Jorge	1		
+Kanal D. INNA	1		
+Extravaganța	1		
+’84	1		
+Nelu Bănicioiu	1		
+Pascu Ionuț Nicolae nesincer	1		
+Ionuț Pacu	1		
+Cristian Ionașcu	1		
+Maria Gurău	1		
+COVID 19.	1		
+Valentin Boldea	1		
+Cristina Noaptes	1		
+Hrebe jilopascal	1		
+Maurițius	1		
+Andrei Hrebenciuc	1		
+Multimilionara	1		
+Alexandru Noaptes	1		
+Rocsana Marcu	1		
+Narcis	1		
+Ramona Bădescu	1		
+Islam	1		
+Andrei-Bogdan Zidaru	1		
+Darren Buttrick	1		
+New Cross	1		
+VIP Booking Scleraminultub	1		
+Booking Scleraminultub	1		
+Andreei bănic	1		
+Corina	1		
+Antipa	1		
+Swarovsky	1		
+Patriarhia	1		
+Șatena	1		
+Livia Gomez	1		
+Caraiman	1		
+IMPREVIZIBILA…SI	1		
+Kanal D. Cristina Mihaela Dorobanțu	1		
+Budimex	1		
+Posted by OANA ZAVORANU OFFICIAL on Saturday	1		
+December	1		
+Nelu Tatătaru	1		
+Săăă	1		
+Doamnne	1		
+Luni/Vineri	1		
+Miercuri/Sâmbătă	1		
+Marți/Joi	1		
+Maria Sofia	1		
+Măriuța	1		
+Number onă 🤭💪❤️	1		
+Toe show	1		
+Woaw Andreea	1		
+Emilia Ghinescu	1		
+Monodora	1		
+Gheorghe Gheorghiu	1		
+Aurel Moldoveanu	1		
+Cristian Dumitrescu	1		
+Georgeta Olteanu	1		
+Andreei Piriu	1		
+Andreei Pirui	1		
+L’Express	1		
+Ionuț Bănică	1		
+Maggie de Block	1		
+Maggie	1		
+Worldnewsdailyreport	1		
+Leopold	1		
+Hațeg	1		
+Tu!	1		
+lockdown	1		
+Lockdown	1		
+Stelios Petsas	1		
+Kanal D. David	1		
+Favius	1		
+Bălan Mihai Cătălin	1		
+Goe	1		
+Mariana Stoican	1		
+Ionuț avornices	1		
+Câmpulung	1		
+Red light district	1		
+Oostende	1		
+Lori	1		
+Dane	1		
+Cre	1		
+Newscastle	1		
+www.localescorts.com, Vivastreet.com	1		
+Adultlook.uk	1		
+Ghimiș Romeo Tomiță	1		
+Money gram	1		
+western Union	1		
+Zdreanțo	1		
+Martini Fiero	1		
+Mario negru	1		
+the Times	1		
+CCTV	1		
+Microbiologi	1		
+Bioeasy	1		
+Pop	1		
+Negostina	1		
+LT	1		
+Tanti crăiță	1		
+Claudia Crăița	1		
+DRU	1		
+DGASPC Sector	1		
+Cristina Dorobanțiu	1		
+Lascăr Catargiu	1		
+Pavel Krahmalev	1		
+Diana Trofim	1		
+Serghei virstă	1		
+Constanța- Mamaia	1		
+Constanței	1		
+Bella	1		
+Geo	1		
+Daniel jilopar	1		
+Bubulinu	1		
+Unifarm	1		
+Legea-cadru	1		
+Mioara Roman	1		
+RAPPS	1		
+Silvia Chifiriuc	1		
+Elgi	1		
+Kanal D. Giovanni	1		
+Hannelore	1		
+Dezvăluirea-bombă	1		
+Biancăi Comănici	1		
+Raluca Turcan	1		
+Aregș	1		
+Nicoleta Bîrcă	1		
+Oros	1		
+Kanal D. indiciu	1		
+Tecuci	1		
+BI Vasile Babeș Timișoara	1		
+Huedin	1		
+Addei	1		
+Mendez	1		
+Mircea Ioan Popa	1		
+Binaca	1		
+SRM	1		
+Carmen Dorobăț	1		
+Ioana Stăncel	1		
+Mantea	1		
+Worldometers	1		
+Vietnamul	1		
+USR-PLUS	1		
+USR-Plus	1		
+Cantacuzino…	1		
+Dumnezeu…	1		
+DC News	1		
+Matias	1		
+Kanal D. astăzi	1		
+Ralucăi	1		
+Iar… Raluca	1		
+Lamborghini URUS	1		
+Mercedes Brabus	1		
+Ludovic Orban Orban	1		
+Ciolacu	1		
+Moinești	1		
+COVID-19 #Declaratii # NeluTataru	1		
+Mario Tănase	1		
+Caraș Severin	1		
+SHI Argeș-Vedea	1		
+Neculai stratulat	1		
+Andreea Ciopleiaș	1		
+Rucăr	1		
+InstaStory	1		
+☀️	1		
+Mar on	1		
+Birkenau	1		
+Raef Arafat	1		
+Anca Busuianu	1		
+Alsacia	1		
+TGV	1		
+Denny Tamaki	1		
+Begoña Santiago-Garcia	1		
+Gregorio Marañón	1		
+Marc Tebruegge	1		
+Staten Island	1		
+Robert Mahoney	1		
+National	1		
+Geographic	1		
+Influenza	1		
+Influenzei	1		
+Raluca Podea	1		
+”Ea	1		
+Dia	1		
+Corneliu carafă	1		
+Micutzu	1		
+Cristi Popovici	1		
+VIRUS	1		
+Programme	1		
+Release	1		
+lei/MWh	1		
+Dragnea	1		
+Vâlcov	1		
+Violeta Alexandru	1		
+ANPC	1		
+Adhanom	1		
+Hemoroizii face	1		
+Mihai Alexandru-Nicolae	1		
+Nae	1		
+OUG	1		
+Niculae	1		
+Sienna	1		
+Andreei Antonescu	1		
+Antoneasco	1		
+Loredana…	1		
+ProSport LIVE	1		
+Victor Vrînceanu	1		
+spania	1		
+Aragon	1		
+Josep Maria Argimon	1		
+Marius Nasta	1		
+Ana Aslan	1		
+Luxembrug	1		
+Calistat Chifan	1		
+Calistat	1		
+Calistrat Chifan	1		
+King’s College	1		
+Claire Steves	1		
+Syrmoglou	1		
+Camelia Voiculescu	1		
+Sorin Alexandrescu	1		
+Antena group	1		
+once	1		
+DOGAN	1		
+KANAL D	1		
+CME	1		
+Liliana Coldea	1		
+non-Hodgkin	1		
+Decebal todăriță	1		
+CTS Sibiu	1		
+Livia Mareș	1		
+Xtra Night show	1		
+Thassos	1		
+Lefkada	1		
+ROBOR 3M	1		
+ROBOR 6orn	1		
+Crina Adrudan	1		
+Crina Abdrudan	1		
+Cosmin Olăroiu	1		
+Luminița	1		
+Gabriel Avrămescu	1		
+Valentin Pârvu	1		
+Ludovic	1		
+Anisie	1		
+Laloșu	1		
+Mologești	1		
+Alexandru Bodi	1		
+PSD-ista	1		
+Edi pian	1		
+Hossu	1		
+DIICOT	1		
+papei	1		
+Bologna	1		
+Barcelona	1		
+Lia Olguța Vasilescu	1		
+Claudiu Manda	1		
+Olgutei Vasilescu	1		
+CNVM	1		
+Niceea	1		
+Ionuț Aștefănoae	1		
+Nisan	1		
+Posted by Daniel	1		
+Edinburgh	1		
+King Edward	1		
+Georgeta Țapu	1		
+Isarului	1		
+Georgeta	1		
+Haag an der Amper	1		
+Marian Tapu	1		
+Programul-pilot	1		
+Aether	1		
+Cov-19	1		
+Ioan cel nou	1		
+Ștefan cel mare Suceava	1		
+Oprea	1		
+Cristina Mototolea	1		
+Oprah	1		
+BCR	1		
+First Bank	1		
+Aryanna Maria	1		
+Aileen Ioana	1		
+Ramona Ioana	1		
+Ramona Ioana Bruynseels	1		
+Harvard	1		
+Saint-Tropez	1		
+Robert Sfăt	1		
+Cornelia Malac	1		
+Mariana Rădulescu	1		
+Țimiș	1		
+SUCEAVA	1		
+Ludivic Orban	1		
+Humorului	1		
+Programului-pilot	1		
+Daniela Ioana Suciu	1		
+Carmen Bujan	1		
+Sleepy	1		
+Sneezy	1		
+Hap-Ciu	1		
+Grumpy	1		
+Dopey	1		
+Mutulică	1		
+Lidia Buble	1		
+Cristofor Duduianu	1		
+Ferentari	1		
+Walk with faith”	1		
+❤️❤️”	1		
+Ovidiu Bejinariu	1		
+Ava memorial Suceava	1		
+Siofor	1		
+Rachel Meghan	1		
+Archie Harrison	1		
+the Sun	1		
+Cambridge	1		
+the sun	1		
+Evening standard	1		
+TASS	1		
+Digi24.ro	1		
+Alexandru bun	1		
+Cipy	1		
+Emy pian	1		
+Elvis Duduianu	1		
+Ciprian	1		
+Alin Băsășteanu	1		
+British Fashion Awards	1		
+Royal Academy of Art	1		
+Balkan	1		
+pană	1		
+New york Times	1		
+Ducesa de Sussex	1		
+Meghan Markle Ducesa	1		
+Archie Mountbatten-Windsor	1		
+Archie public	1		
+Winsdor	1		
+Charles	1		
+Dumbarton	1		
+Presbiterian	1		
+Weill Cornell Medicine	1		
+Rituximab	1		
+New york Presbyterian Hospital	1		
+Liang et al cancer patients in infection	1		
+Lancet Oncology march	1		
+Isi	1		
+Avicola Afumati	1		
+Gaman	1		
+Break	1		
+Rada	1		
+`94	1		
+Hola	1		
+Associated Newspapers	1		
+Remembrance Day	1		
+Coach Core Awards	1		
+Oscar	1		
+Daily mail	1		
+Archie Harrison Mountbatten-Windsor	1		
+Elizabeth	1		
+Chetraru	1		
+Sucevița	1		
+Mauritius	1		
+Constantin Chetraru	1		
+Drobeta Severin	1		
+Turnu	1		
+Covid- Orșova	1		
+Pașcani	1		
+antena3 .rodor	1		
+Adriana Sas	1		
+Ioan Oros	1		
+Sorin Simon	1		
+Agnita	1		
+Benești	1		
+Euthyrox	1		
+Ciorani	1		
+Scornicești	1		
+Down CER	1		
+Raluca Avram	1		
+Ovidiu Damian	1		
+Wheels for lifă	1		
+Camelia Crișan	1		
+Iașul	1		
+non-COVID-19	1		
+Sorin Brașoveanu	1		
+Dragoș Benea	1		
+Fiera	1		
+Andrei Marius	1		
+Maximilian Balasescu	1		
+Harry Theoharis	1		
+Theoharis	1		
+Doru Ion Iagăru	1		
+Drăghiceni	1		
+Candy Bar Caracal	1		
+Mickey & Minnie	1		
+ORL	1		
+Timocului	1		
+Balș	1		
+Corabia	1		
+Cezieni	1		
+Fălcoiu	1		
+Băbiciu	1		
+Iagăru	1		
+Sveta Petka	1		
+Vidinului	1		
+Patriarh Daniel	1		
+Illinois	1		
+Happy 5th miligram love	1		
+Thank you for all outstanding moments together	1		
+these	1		
+mihaelaradulescuschwartzenberg #aniversare	1		
+Hope they will be many many moră	1		
+“You	1		
+together	1		
+Love is great	1		
+Evelyne	1		

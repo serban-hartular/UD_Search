@@ -1,0 +1,44 @@
+Auxiliary	VerbForm	Mood	Tense	Person	Number
+am	Part	Ind	Perf	1	
+ai	Part	Ind	Perf	2	Sing
+a	Part	Ind	Perf	3	Sing
+ați	Part	Ind	Perf	2	Plur
+au	Part	Ind	Perf	3	Plur
+voi	Inf	Ind	Future	1	Sing
+vei	Inf	Ind	Future	2	Sing
+va	Inf	Ind	Future	3	Sing
+vom	Inf	Ind	Future	1	Plur
+veți	Inf	Ind	Future	2	Plur
+vor	Inf	Ind	Future	3	Plur
+aș	Inf	Cond	Pres	1	Sing
+ai	Inf	Cond	Pres	2	Sing
+ar	Inf	Cond	Pres	3	
+am	Inf	Cond	Pres	1	Plur
+ați	Inf	Cond	Pres	2	Plur
+aș fi	Part	Cond	Perf	1	Sing
+ai fi	Part	Cond	Perf	2	Sing
+ar fi	Part	Cond	Perf	3	
+am fi	Part	Cond	Perf	1	Plur
+ați fi	Part	Cond	Perf	2	Plur
+oi	Inf	Prez	Pres	1,2	Sing
+o	Inf	Prez	Pres	3	Sing
+om	Inf	Prez	Pres	3	Plur
+oți	Inf	Prez	Pres	1	Plur
+or	Inf	Prez	Pres	2	Plur
+oi fi	Part	Perf	Pres	1,2	Sing
+o fi	Part	Perf	Pres	3	Sing
+om fi	Part	Perf	Pres	3	Plur
+oți fi	Part	Perf	Pres	1	Plur
+or fi	Part	Perf	Pres	2	Plur
+oi fi	Ger	Prog	Pres	1,2	Sing
+o fi	Ger	Prog	Pres	3	Sing
+om fi	Ger	Prog	Pres	3	Plur
+oți fi	Ger	Prog	Pres	1	Plur
+or fi	Ger	Prog	Pres	2	Plur
+o să	Fin	Ind	Future		
+am să	Fin	Ind	Future	1	Sing
+ai să	Fin	Ind	Future	2	Sing
+are să	Fin	Ind	Future	3	Sing
+avem să	Fin	Ind	Future	1	Plur
+aveți să	Fin	Ind	Future	2	Plur
+au să	Fin	Ind	Future	3	Plur

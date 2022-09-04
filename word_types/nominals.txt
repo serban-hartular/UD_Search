@@ -1,0 +1,14573 @@
+Lemma	Count
+an	1744
+România	1063
+zi	995
+persoană	907
+om	706
+număr	661
+coronavirus	656
+timp	656
+moment	650
+lună	647
+caz	646
+viață	630
+oră	605
+cancandron	582
+dată	539
+copil	538
+euro	533
+lucru	505
+perioadă	497
+relație	470
+ban	460
+spital	426
+casă	420
+familie	417
+lume	401
+București	396
+situație	394
+loc	380
+fapt	372
+țară	367
+femeie	353
+sită	347
+bărbat	343
+COVID-19	339
+măsură	328
+mamă	326
+echipă	319
+soție	317
+zonă	306
+problemă	304
+imagine	292
+sursă	290
+ROMÂNIA	290
+virus	287
+parte	285
+leu	281
+site_	279
+tânăr	272
+medic	270
+deces	270
+pacient	268
+fată	263
+stare	258
+emisiune	256
+săptămână	255
+soț	253
+Jador	246
+afacere	236
+mașină	236
+nivel	231
+tată	229
+vârstă	229
+prieten	228
+informație	227
+sănătate	218
+mesaj	217
+pandemie	217
+oară	217
+dragoste	211
+motiv	210
+urgență	205
+artist	204
+început	202
+poveste	200
+club	200
+nume	196
+zodie	193
+boală	191
+decizie	190
+test	185
+fel	185
+vreme	184
+declarație	183
+punct	183
+autoritate	178
+capitală	177
+Gigi Becali	177
+fan	175
+eveniment	174
+părinte	171
+vedetă	169
+stat	169
+artistă	168
+detaliu	166
+băiat	165
+mână	165
+Italia	165
+mod	164
+muncă	163
+iubire	160
+județ	160
+meci	159
+față de	158
+fiu	157
+Nicolae	154
+fotbalist	154
+român	153
+activitate	152
+putere	150
+NR.1	150
+rând	149
+sumă	149
+cetățean	148
+cotă	147
+valoare	142
+coleg	142
+președinte	142
+rezultat	141
+curs	140
+cutremur	140
+grup	136
+școală	135
+nativ	134
+atenție	132
+martie	132
+iulie	132
+ochi	132
+FCSB	132
+Television	131
+minister	131
+poliție	131
+condiție	130
+centru	130
+cap	130
+oraș	129
+Dinamo	129
+ministru	127
+serviciu	127
+fotbal	127
+carantină	126
+infecție	125
+proiect	125
+iubită	125
+Instagram	124
+scandal	124
+jucător	124
+plan	122
+dosar	121
+izolare	120
+piesă	119
+lege	118
+cont	118
+fiică	118
+șansă	118
+cuplu	117
+articol	117
+ligă	117
+vedeta	116
+brunetă	116
+categorie	115
+anchetă	115
+nuntă	115
+suflet	113
+protecție	113
+vedere	113
+Facebook	113
+joc	113
+act	113
+iubit	112
+fetiță	112
+șef	112
+frate	112
+domiciliu	111
+proces	111
+presă	111
+grad	111
+Carmen	110
+picior	109
+ianuarie	109
+competiție	109
+formă	108
+bază	107
+discuție	107
+drum	107
+milionar	107
+fotografie	106
+infectare	106
+teren	106
+prietenie	105
+minut	105
+ajutor	103
+instanță	103
+pas	102
+exclusivitate	102
+poză	101
+kilometru	101
+risc	100
+divorț	100
+sistem	99
+socializare	99
+noapte	98
+față	98
+pagină	98
+si	98
+companie	97
+petrecere	97
+lux	96
+polițist	96
+jumătate	96
+concurent	96
+iunie	96
+creștere	95
+legătură	95
+domn	95
+Germania	95
+patron	94
+partener	94
+muzică	94
+aspect	93
+succes	93
+doctor	93
+vorbă	93
+drept	93
+comunicare	92
+sector	92
+apă	92
+august	92
+videochat	92
+n.r.	91
+public	91
+acțiune	91
+contract	91
+semn	90
+interviu	89
+sală	89
+showbiz	89
+decembrie	89
+străinătate	89
+ofițer	89
+apel	88
+masă	88
+specialist	88
+cameră	88
+vedete	88
+viitor	88
+Franța	88
+gând	88
+membru	88
+studio	87
+epidemie	87
+piață	87
+cântăreață	87
+Sălciua	87
+ocazie	86
+gest	86
+sport	85
+nevoie	85
+criză	85
+duel	85
+teritoriu	84
+Anca Serea	84
+antenă	84
+seară	84
+cuvânt	84
+Bianca	84
+antrenor	84
+treabă	83
+moutubă	83
+restaurant	82
+tip	82
+sezon	82
+online	82
+rețea	82
+melodie	82
+martor	82
+schimbare	82
+Dumnezeu	82
+gol	82
+studiu	82
+stradă	81
+preț	81
+aprilie	80
+secție	80
+inculpat	80
+final	80
+Spania	80
+vară	79
+telefon	79
+Vrancea	79
+interlop	79
+show	79
+guvern	79
+vis	78
+apariție	78
+plajă	78
+dimineață	77
+tratament	77
+stea	77
+top	77
+metru	77
+carieră	77
+spațiu	76
+Iași	76
+intervenție	76
+linie	75
+serie	75
+idee	75
+dolar	75
+vacanță	75
+film	75
+cancan.ro	75
+rege	75
+apartament	74
+vaccin	74
+cerere	74
+unitate	74
+Alex Bodi	74
+China	74
+Statele_Unite_ale_Americii	74
+profesor	74
+scenă	73
+contact	73
+regulă	73
+întâlnire	73
+salariu	73
+bilet	73
+COVID	72
+domeniu	72
+naștere	72
+moarte	72
+reacție	72
+distanță	72
+mediu	71
+control	71
+Bacău	71
+Covid-19	71
+adresă	71
+context	70
+pământ	70
+firmă	70
+răspândire	70
+operație	70
+Constanța	70
+hotel	69
+bancă	69
+pasiune	69
+personal	69
+Mamaia	69
+magnitudine	69
+conflict	68
+afacerist	68
+luptă	68
+mai	67
+durere	67
+televiziune	67
+scară	67
+Bianca Drăgușanu	67
+elev	66
+actor	66
+clan	66
+post	66
+program	66
+sportiv	66
+judecată	66
+mâncare	66
+Survivor România	65
+anunț	65
+institut	65
+scop	65
+transport	65
+rudă	65
+dovadă	65
+experiență	64
+plângere	64
+joi	64
+localitate	64
+direcție	64
+posesie	64
+populație	64
+biserică	64
+judecător	64
+lider	64
+răspuns	63
+interval	63
+model	63
+produs	63
+locuință	63
+soluție	62
+Brigitte	62
+carte	62
+septembrie	62
+ordonanță	62
+nr.1	62
+veste	61
+simptom	61
+întrebare	61
+părere	61
+deplasare	61
+Suceava	61
+document	61
+ofertă	60
+restricție	60
+filmare	60
+manelist	60
+clipă	60
+plată	60
+război	60
+Daniela Crudu	60
+cauză	59
+Cluj	59
+închisoare	59
+litoral	59
+bloc	59
+plantă	59
+soare	58
+victimă	58
+reprezentant	58
+despărțire	58
+vineri	58
+frică	58
+cale	58
+Becali	58
+prezentatoare	57
+postare	57
+Grecia	57
+inimă	56
+cadru	56
+pat	56
+noiembrie	56
+Antonia	56
+client	55
+probă	55
+secret	55
+doamnă	55
+colaborare	55
+fond	55
+bolnav	55
+curte	55
+focar	55
+sfârșit	55
+talent	55
+gură	54
+energie	54
+căsătorie	54
+alegere	54
+medie	54
+grupă	54
+etapă	54
+titlu	54
+Kanal D	53
+monedă	53
+corp	53
+Belgia	53
+pariu	53
+asistentă	53
+notă	53
+Irinel Columbeanu	53
+funcție	52
+sens	52
+testare	52
+rochie	52
+episod	52
+obiect	52
+element	52
+$	52
+aer	51
+sarcină	51
+kilogram	51
+grijă	51
+încredere	51
+director	51
+prietenă	51
+miercuri	51
+februarie	51
+Florin Salam	51
+floare	51
+octombrie	51
+Fonume_tluinonucleic	51
+Oana Zăvoranu	51
+Richter	51
+majoritate	50
+venit	50
+surpriză	50
+haină	50
+mariaj	50
+penitenciar	50
+anturaj	50
+cântăreț	50
+Zanni	50
+comentariu	50
+informare	49
+spate	49
+conducere	49
+stil	49
+premier	49
+natură	49
+marți	49
+lovitură	49
+sex	49
+câine	49
+instituție	49
+prezentator	49
+trup	49
+Andreea	49
+actriță	49
+formație	49
+citește	49
+Andreea Bănică	49
+seism	49
+Gabriela Cristea	49
+platou	48
+costum	48
+baie	48
+vilă	48
+cercetare	48
+transfer	48
+republică	48
+îmbolnăvire	48
+magazin	48
+victorie	48
+soră	48
+ședință	47
+sânge	47
+jurnalist	47
+modă	47
+Europa	47
+mișcare	47
+sfânt	46
+mască	46
+căsnicie	46
+rest	46
+judecătorie	46
+liceu	46
+gen	46
+apărare	45
+copie	45
+accident	45
+SARS-CoV-2	45
+trecut	45
+capitol	45
+istorie	45
+concurs	45
+procuror	45
+primărie	45
+play-off	45
+atacant	45
+posibilitate	44
+sprijin	44
+vaccinare	44
+internet	44
+distanțare	44
+variantă	44
+universitate	44
+mare	44
+ordin	44
+datorie	44
+termen	44
+Klaus Iohannis	44
+interes	44
+secundă	44
+Andra	44
+privire	44
+cadou	44
+campionat	44
+structură	43
+noroc	43
+cancer	43
+Craiova	43
+libertate	43
+intrare	43
+prezent	43
+cheltuială	43
+nas	43
+departament	43
+partidă	43
+asigurare	43
+Deleforelosfostan	43
+selecție	43
+Bucuresti	43
+blondină	43
+distracție	42
+rol	42
+comportament	42
+scenariu	42
+tribunal	42
+mijloc	42
+Turcia	42
+terapie	42
+societate	42
+sfat	42
+calitate	42
+meserie	42
+Raed Arafat	42
+Europa League	42
+bijuterie	41
+listă	41
+prezență	41
+premieră	41
+atac	41
+subiect	41
+braț	41
+adevăr	41
+durată	41
+șofer	41
+Austria	41
+efect	41
+lacrimă	41
+sentiment	41
+foc	41
+reclamant	41
+scor	41
+tur	41
+lipsă	40
+Andrei	40
+comitet	40
+alertă	40
+pereche	40
+poziție	40
+personaj	40
+sărbătoare	40
+weekend	40
+aeroport	40
+ușă	40
+Elveția	40
+bunică	40
+aur	40
+mast	40
+partid	40
+culiță	40
+pârât	40
+Bogdan	40
+Smiley	39
+avocat	39
+Sibiu	39
+dorință	39
+autoturism	39
+bilanț	39
+amănunt	39
+palat	39
+prevenire	39
+regim	39
+analiză	39
+efort	39
+Elena	39
+Olanda	39
+iarnă	39
+bun	39
+vizită	39
+consiliu	39
+artă	39
+horoscop	39
+municipiu	38
+wowbiz.ro	38
+angajat	38
+sediu	38
+comorbiditate	38
+Daniela	38
+planetă	38
+ieșire	38
+birou	38
+apropiere	38
+primar	38
+vecin	38
+canal	38
+bătaie	38
+local	38
+cutie	38
+pierdere	38
+beci	38
+dezvăluire	37
+spectacol	37
+clasă	37
+Arad	37
+Florin pastramă	37
+Oana Roman	37
+acces	37
+concert	37
+mare Britanie	37
+senzație	37
+Gigi	37
+Paris	37
+credință	36
+voce	36
+pic	36
+trafic	36
+Adi Sînă	36
+replică	36
+glumă	36
+asistent	36
+febră	36
+livă	36
+emoție	36
+verificare	36
+Timișoara	36
+evoluție	36
+oficial	36
+metodă	36
+echipament	36
+poartă	36
+cartier	36
+urmă	36
+legumă	36
+stadion	36
+siguranță	35
+relaxare	35
+Brașov	35
+Marcel Pavel	35
+sân	35
+acord	35
+nepot	35
+sat	35
+Dani Oțil	35
+Alex Velea	35
+concluzie	35
+Survivor	35
+asociație	35
+tensiune	35
+forță	35
+toamnă	35
+manager	35
+Simona	35
+performanță	35
+Livian	35
+gaz	35
+fotbal_club	35
+Căile_Ferate_Române	35
+Federația_Română_de_Fotbal	35
+monică	34
+revistă	34
+respect	34
+America	34
+apropiat	34
+pericol	34
+înregistrare	34
+fază	34
+avion	34
+Pipera	34
+propunere	34
+modificare	34
+prevedere	34
+imobil	34
+federație	34
+suferință	34
+dispoziție	34
+nord	34
+speranță	34
+scaun	34
+pompier	34
+salon	34
+Nelson	34
+tranzit	34
+colegă	33
+prag	33
+averă	33
+culoare	33
+foto	33
+greșeală	33
+știre	33
+provocare	33
+cod	33
+cercetător	33
+minte	33
+ordine	33
+cântărețe	33
+princip	33
+Nelson mondialu	33
+peste	33
+eclipsă	33
+inel	32
+videoclip	32
+Galați	32
+acuzație	32
+comună	32
+teamă	32
+infracțiune	32
+Maria	32
+magistrație	32
+trending	32
+excepție	32
+urmare	32
+procedură	32
+călătorie	32
+viată	32
+Andreea Bălan	32
+producător	32
+vedet	32
+bombă	32
+Mihaela Rădulescu	32
+rată	31
+scădere	31
+comunitate	31
+zâmbet	31
+fericire	31
+circulație	31
+pană	31
+Giurgiu	31
+clip	31
+total	31
+împăcare	31
+grupare	31
+sancțiune	31
+chestie	31
+Japonia	31
+transmitere	31
+parlament	31
+calcul	31
+recomandare	31
+Andreea Marin	31
+presiune	31
+agent	31
+preot	31
+cultură	31
+nerv	31
+job	31
+protagonist	31
+superior	31
+TELVERDE	30
+Georgiana	30
+anchetator	30
+amenințare	30
+magistrat	30
+fiță	30
+Biancăi	30
+Oana	30
+economie	30
+turist	30
+piele	30
+ATI	30
+lumină	30
+afecțiune	30
+hotărâre	30
+duminică	30
+vânzare	30
+cumpărătură	30
+vârf	30
+premiu	30
+A	30
+industrie	30
+masină	30
+Cristina Șișcanu	30
+Emi pian	30
+Bianca Pop	30
+antrenament	30
+Focșani	30
+Ilfov	29
+inspectorat	29
+comunicat	29
+piatră	29
+atitudine	29
+ediție	29
+student	29
+Nelu Tătaru	29
+parteneră	29
+raport	29
+justiție	29
+prejudiciu	29
+divă	29
+bolid	29
+Ella	29
+angajare	29
+Ioana	29
+cetățenie	29
+adâncime	29
+atmosferă	28
+clădire	28
+Buzău	28
+Ialomița	28
+mărturisire	28
+adult	28
+plecare	28
+campanie	28
+capăt	28
+temperatură	28
+Brazilia	28
+material	28
+frumusețe	28
+parcare	28
+finanțator	28
+miliardar	28
+pachet	28
+academie	28
+alineat	28
+internă	28
+ceas	28
+finală	28
+calificare	28
+cutremure	28
+Meghan Markle	28
+raportare	27
+sticlă	27
+dans	27
+locuitor	27
+Matei Balș	27
+temă	27
+Florin	27
+fermă	27
+impact	27
+afirmație	27
+locație	27
+armată	27
+Marius	27
+paște	27
+diferență	27
+combatere	27
+faptă	27
+fine	27
+bucurie	27
+știință	27
+câștigător	27
+latifundiar	27
+altar	27
+Cota_Elar	27
+deschidere	27
+selecționer	27
+lot	27
+tradiție	27
+aparat	27
+cadră	27
+Mihai	27
+Ruby	27
+Cristina	27
+cununie	27
+Clejani	27
+drog	27
+reducere	27
+negociere	27
+Denis Alibec	27
+Negoiță	27
+Capricorn	27
+avantaj	26
+capacitate	26
+deget	26
+șoc	26
+interior	26
+mal	26
+individ	26
+David	26
+organ	26
+televizor	26
+bagaj	26
+Crăciun	26
+munte	26
+misiune	26
+Elena Marin	26
+Luxemburg	26
+monitorizare	26
+minune	26
+apropiație	26
+pace	26
+mărturie	26
+limită	26
+copilărie	26
+concurentă	26
+Costi Ioniță	26
+amantă	26
+protocol	25
+aventură	25
+Gina pistol	25
+panică	25
+Hunedoara	25
+câștig	25
+întoarcere	25
+comandă	25
+incident	25
+proprietar	25
+Si	25
+cifră	25
+Bulgaria	25
+dinte	25
+complex	25
+Suedia	25
+primăvară	25
+regiune	25
+bucătărie	25
+medicament	25
+secol	25
+card	25
+Cătălin	25
+iveală	25
+Majda	25
+clinică	25
+cunoștință	25
+Andreea Mantea	25
+Playboy	25
+Pepe	25
+vin	25
+lucrare	25
+Bogdan Mocanu	25
+marfă	25
+plăcere	25
+Emi	25
+tehnician	25
+berbec	25
+Scorpion	25
+Venus	25
+Marty	25
+explicație	24
+blondă	24
+micuță	24
+situație de urgență	24
+Botoșani	24
+Olt	24
+ambulanță	24
+producție	24
+fire	24
+drag	24
+ipostaz	24
+Tunisia	24
+secretar	24
+chef	24
+exercițiu	24
+pauză	24
+debut	24
+buzunar	24
+ceremonie	24
+Talpan	24
+fabrică	24
+investiție	24
+golur	24
+Emi Pian	24
+Selly	24
+fermier	24
+prelungire	24
+Syda	24
+Mădălin Ionescu	24
+Ioana ginghină	24
+val	23
+liră	23
+urmăritor	23
+curent	23
+teatru	23
+Prahova	23
+trecere	23
+pantalon	23
+origine	23
+Adrian	23
+Namibia	23
+exemplu	23
+buză	23
+bătrân	23
+gripă	23
+taxă	23
+administrație	23
+campion	23
+aparate	23
+tranzacție	23
+pregătire	23
+repriză	23
+limbă	23
+marcă	23
+ținută	23
+Mihaela	23
+clasament	23
+trupă	23
+Alex	23
+posterior	23
+armă	23
+cuțit	23
+telespectator	23
+louTubă	23
+destin	23
+Margherita	23
+ispită	23
+Ramona	23
+super	23
+Antonio	23
+Ilie Năstase	23
+bizon	23
+băutură	22
+întâmplare	22
+Timiș	22
+cert	22
+responsabilitate	22
+așteptare	22
+cursă	22
+ziar	22
+mort	22
+pian	22
+profil	22
+Indonezia	22
+intenție	22
+tragedie	22
+ritm	22
+tuse	22
+solicitare	22
+Comunitatea_Economică_Europeană	22
+concurenție	22
+dispută	22
+realizare	22
+Simona trașc	22
+Elena Băsescu	22
+galerie	22
+politician	22
+prințesă	22
+notar	22
+Leo	22
+Silviu prigoană	22
+Marcel Toader	22
+parchet	22
+Bebino	22
+Partidul_Social_Democrat	22
+vestiar	22
+cazare	22
+Alexandra	22
+pont	22
+vers	21
+modalitate	21
+violență	21
+jurat	21
+plămân	21
+zbor	21
+pușcărie	21
+șampanie	21
+conferință	21
+publicație	21
+faimos	21
+insulă	21
+internaut	21
+Moldova	21
+Irlanda	21
+turism	21
+scuză	21
+depistare	21
+vot	21
+suprafață	21
+tânăre	21
+gât	21
+Berceni	21
+onoare	21
+opinie	21
+accesoriu	21
+grădină	21
+prinț	21
+George Burcea	21
+bunic	21
+fost	21
+vlog	21
+Răzvan	21
+construcție	21
+mandat	21
+Bibiloi	21
+tenis	21
+Luana	21
+tendință	21
+Răzvan Simion	21
+Adda	21
+respectare	20
+bar	20
+râs	20
+mămică	20
+Brăila	20
+Neamț	20
+prioritate	20
+Vica Blochina	20
+băiețel	20
+avans	20
+obligație	20
+matinal	20
+vizualizare	20
+Ungaria	20
+normă	20
+Ludovic Orban	20
+dsp	20
+Salam	20
+business	20
+ceartă	20
+UPDATE	20
+start	20
+țintă	20
+organizație	20
+scrisoare	20
+încercare	20
+caracter	20
+viteză	20
+criteriu	20
+oboseală	20
+Simona Hapciuc	20
+daună	20
+Ana	20
+buget	20
+hoț	20
+cupă	20
+Ramona Olaru	20
+Loredana Chivu	20
+colecție	20
+Anamaria Prodan	20
+mireasă	20
+vulpiță	20
+Gică Hagi	20
+Ploiești	20
+diamantă	20
+Oana Cojocaru	20
+Liviu Vârciu	20
+Bentral_Croadcasting_Corporation	20
+angajată	20
+taur	20
+stație	20
+R______ L___	20
+Jacobo	20
+Coronavirus	19
+dor	19
+botez	19
+proprietate	19
+somn	19
+culme	19
+păr	19
+Dâmbovița	19
+pușcă	19
+Alina Vidican	19
+răspundere	19
+conducător	19
+separare	19
+Floreasca	19
+curaj	19
+etaj	19
+șefie	19
+revenire	19
+răbdare	19
+dosare	19
+expert	19
+Anca	19
+Ucraina	19
+nevastă	19
+Kanal D.	19
+bucătar	19
+semnal	19
+resursă	19
+aliment	19
+pahar	19
+stațiune	19
+traseu	19
+papă Francisc	19
+achiziție	19
+sine	19
+animal	19
+Ionuț Negoiță	19
+precedent	19
+națională	19
+record	19
+Londra	19
+logodnic	19
+dramă	19
+înălțime	19
+conținut	19
+amintire	19
+facultate	19
+destinație	19
+Adelina Pestrițu	19
+perete	19
+reporter	19
+prostituție	19
+Hagi	19
+manșă	19
+Ionel	19
+Mizrahi	19
+dominicană	18
+praf	18
+tehnologie	18
+mister	18
+stres	18
+angajație	18
+Argeș	18
+Sara	18
+Cristi Borcea	18
+pensie	18
+schimb	18
+amendă	18
+video	18
+Noah	18
+magazină	18
+coordonare	18
+Marius Elisa	18
+româncă	18
+Mariana	18
+liniște	18
+învățământ	18
+piscină	18
+eliminare	18
+tură	18
+cabinet	18
+Uniunea_Europeană	18
+credit	18
+simț	18
+comisie	18
+invitație	18
+strategie	18
+volan	18
+Otopeni	18
+monitor	18
+foame	18
+admirator	18
+aplicație	18
+promovare	18
+general	18
+brigadă	18
+influență	18
+silicon	18
+geantă	18
+examen	18
+fenomen	18
+Ion	18
+Adriana Bahmuțeanu	18
+retur	18
+lecție	18
+împrumut	18
+Ada	18
+Champions League	18
+1X2	18
+Mircea Rednic	18
+Gemeni	18
+DALI	18
+Alexandru Papadopol	18
+prinț Harry	18
+controversă	17
+terasă	17
+rază	17
+educație	17
+SARS	17
+CoV	17
+generație	17
+Anglia	17
+adolescentă	17
+carantinare	17
+sexy	17
+doză	17
+dificultate	17
+bale	17
+arest	17
+zvon	17
+click	17
+jignire	17
+greutate	17
+BMW	17
+.rodor	17
+igienă	17
+parc	17
+pneumonie	17
+Traian Băsescu	17
+încălcare	17
+organism	17
+geam	17
+statistică	17
+Islanda	17
+Cipru	17
+decret	17
+vamă	17
+ou	17
+răsturnare	17
+evaluare	17
+dezinfectant	17
+lemn	17
+AFLĂ	17
+Wuhan	17
+respirație	17
+înfrumusețare	17
+frunte	17
+existență	17
+despăgubire	17
+asistență	17
+apreciere	17
+Victor Pițurcă	17
+războinic	17
+producere	17
+FOTO	17
+străin	17
+reușită	17
+felicitare	17
+candidat	17
+sotie	17
+duduiană	17
+furnizor	17
+Dorian Popa	17
+revelion	17
+Dandional_Comunodeficie	17
+puști	17
+promotie	17
+Căile_Ferate_Române Cluj	17
+Luana Rednic	17
+Bogdan Ionescu	17
+zodiu	17
+gospodărie	17
+autovehicul	17
+concurență	16
+factor	16
+suport	16
+invidiat	16
+grădiniță	16
+redeschidere	16
+participant	16
+soartă	16
+logodnă	16
+replic	16
+prezentare	16
+încheiere	16
+avere	16
+mană	16
+bombardament	16
+rezervă	16
+Rusia	16
+tricou	16
+Argentina	16
+reședință	16
+dezvoltare	16
+Alexandru Rafila	16
+domnișoară	16
+procent	16
+literă	16
+dezastru	16
+săvârșire	16
+Florin Talpan	16
+jurist	16
+alarmă	16
+Gabriela	16
+campioană	16
+sofie	16
+evidență	16
+turneu	16
+unire	16
+dotare	16
+concediu	16
+revoluție	16
+urmărire	16
+autor	16
+gaming	16
+profit	16
+tineret	16
+tricolor	16
+Irina	16
+căpitan	16
+Iulian	16
+Melania cârjă	16
+profesoră	16
+confirmare	16
+completare	16
+Lucian Mitrea	16
+Arafat	16
+păcat	15
+popor	15
+închidere	15
+Gina	15
+pâine	15
+supraveghere	15
+autoizolare	15
+calculator	15
+farmacie	15
+designer	15
+eliberare	15
+masca	15
+izoletă	15
+voie	15
+Monaco	15
+publicitate	15
+rușine	15
+Satu	15
+emirat	15
+Portugalia	15
+comă	15
+imunitate	15
+atingere	15
+S	15
+hectare	15
+ravagiu	15
+mall	15
+celebritate	15
+gestionare	15
+miez	15
+junglă	15
+pedeapsă	15
+medalie	15
+văr	15
+Scleroză_Multiplă	15
+beneficiu	15
+Stelei	15
+gust	15
+festival	15
+odihnă	15
+invita	15
+Georgiana Lupu	15
+burlăciță	15
+dreaptă	15
+hărțuire	15
+Dubai	15
+miere	15
+identitate	15
+George Pian	15
+naș	15
+barbut	15
+țigară	15
+€	15
+automobil	15
+pagubă	15
+Robert	15
+PC	15
+Dan Petrescu	15
+moară	15
+Romania	15
+net	15
+consumator	15
+sâmbătă	15
+Harlem Gnohere	15
+Alibec	15
+Răzvan Burleanu	15
+Gică Popescu	15
+slujbă	15
+sacrificiu	15
+securitate	15
+finanță	15
+International_Commission	15
+balanță	15
+Cheloo	15
+scenar	15
+guvernator	14
+Roma	14
+parcurs	14
+chirie	14
+prostie	14
+platformă	14
+genunchi	14
+Mureș	14
+Stars	14
+Alina	14
+frontieră	14
+echipaj	14
+acordare	14
+îngrijire	14
+Roxana	14
+gelozie	14
+pictorial	14
+rană	14
+înmormântare	14
+echilibru	14
+avent	14
+cimitir	14
+Diana	14
+ruptură	14
+OK	14
+limitare	14
+voluntar	14
+celulă	14
+speculație	14
+șosea	14
+curiozitate	14
+India	14
+certificat	14
+impresar	14
+Pro Television	14
+toaletă	14
+prevenție	14
+organizare	14
+statut	14
+cafea	14
+credincios	14
+OMS	14
+tren	14
+laptop	14
+specialitate	14
+seamă	14
+Acid_Dezoxiribonucleic	14
+câmp	14
+suporter	14
+Cezar	14
+Anda Adam	14
+dorobant	14
+lac	14
+adversar	14
+trofeu	14
+tatuaj	14
+amic	14
+tristețe	14
+sportivă	14
+Dan Capatos	14
+fotomodel	14
+Cristina Dorobanțu	14
+elicopter	14
+bord	14
+bacalaureat	14
+relatie	14
+atelier	14
+Dani Mocanu	14
+șefă	14
+îndrăgostit	14
+motor	14
+fruct	14
+România Television	14
+abuz	14
+Lugoj	14
+balet	14
+jud	14
+Cosmin contră	14
+Ilie	14
+bluză	14
+Gerard Depardieu	14
+icoană	14
+Atena	14
+rețetă	14
+Cehia	14
+cruce	14
+oltean	14
+șantaj	14
+Vica	14
+monică Gabor	14
+seismă	14
+cutremură	14
+probabilitate	14
+mercur	14
+Rac	14
+Mercur	14
+bazin	14
+servietă	14
+polițistă	14
+Alex Ashraf	14
+Marcel Ciolacu	14
+Andreea Antonescu	14
+teras	13
+obicei	13
+fiicei	13
+chip	13
+Alba	13
+Bihor	13
+Dolj	13
+oportunitate	13
+Lucian	13
+porc	13
+margine	13
+pumn	13
+dezinfecție	13
+fotograf	13
+Raluca	13
+Pfizer	13
+efectuare	13
+brand	13
+suspect	13
+deceniu	13
+ipostază	13
+click.ro	13
+minor	13
+zădărnicire	13
+combater	13
+Maramureș	13
+cantitate	13
+est	13
+Malta	13
+plimbare	13
+substanță	13
+aprovizionare	13
+practică	13
+supermarketură	13
+Milano	13
+garaj	13
+epicentru	13
+Cătălin Moroșanu	13
+vas	13
+înțelegere	13
+cot	13
+pază	13
+tonă	13
+cumnat	13
+realitate	13
+cuantum	13
+confuzie	13
+disperare	13
+instrument	13
+personalitate	13
+vlogger	13
+obiectiv	13
+internauție	13
+arhivă	13
+redacție	13
+rod	13
+pantof	13
+consum	13
+centimetru	13
+exemplar	13
+cinste	13
+audiere	13
+filmă	13
+staff	13
+azi-noapte	13
+mulțime	13
+grat	13
+desfășurare	13
+carne	13
+priveghi	13
+Oradea	13
+Mercedes	13
+bodyguard	13
+Stan mustață	13
+Mircea Nebunu	13
+filosofie	13
+portar	13
+Deea	13
+Foca Victor	13
+Denis	13
+Victor Becali	13
+Dumitru Sechelariu	13
+izvoran	13
+muzeu	13
+Partidul_Național_Liberal	13
+Mihnea	13
+Chiron	13
+Nicolae Badea	13
+portret	13
+rugăciune	12
+umbră	12
+ploaie	12
+plac	12
+spusă	12
+eu	12
+prefect	12
+fizică	12
+Vaslui	12
+Bravo	12
+rău	12
+bină	12
+International_Organization	12
+lucrător	12
+suspendare	12
+lungime	12
+modernă	12
+hotare	12
+expresie	12
+implicare	12
+arestare	12
+medicină	12
+investigație	12
+autobuz	12
+purtător	12
+purtare	12
+participare	12
+Digi24	12
+publicare	12
+proporție	12
+sută	12
+ureche	12
+mezină	12
+X	12
+Belarus	12
+Congo	12
+Iran	12
+Polonia	12
+graniță	12
+supraviețuire	12
+star	12
+PRO Television	12
+contaminare	12
+nemulțumire	12
+ulei	12
+impresie	12
+nominalizare	12
+bucureștean	12
+donație	12
+săpun	12
+spirit	12
+canca_ian	12
+alcool	12
+navă	12
+pol	12
+lapte	12
+Organizația_Națiunilor_Unite	12
+lăutar	12
+hârtie	12
+tăcere	12
+paste	12
+neînțelegere	12
+serial	12
+tabără	12
+Acania_autonomă	12
+dreptate	12
+demers	12
+majorare	12
+bulevard	12
+Gabriela fire	12
+Pițurcă	12
+raft	12
+album	12
+Piedone	12
+Roxana Vancea	12
+culiță sterp	12
+jurământ	12
+oglindă	12
+cerc	12
+Karina	12
+îmbunătățire	12
+coroană	12
+barbat	12
+nebunie	12
+zori	12
+Victor Slav	12
+exces	12
+lumânare	12
+foștie	12
+miros	12
+grăsime	12
+percheziție	12
+Elena Udrea	12
+acoperire	12
+dialog	12
+Duduianu	12
+ambiție	12
+Dratele_Unite_ale_Americii	12
+partaj	12
+funcționar	12
+dializă	12
+telenovelă	12
+Agerpres	12
+demisie	12
+boss	12
+Eubon	12
+insuficiență	12
+Burleanu	12
+Alina Binder	12
+nerespectare	12
+Asia Express	12
+Mihai Voduț	12
+înțelepciune	12
+prudență	12
+OMV	12
+diamant	12
+pun_vvi G_____	12
+Hamude	12
+Sussex	12
+par	11
+pistol	11
+Momentan	11
+TikTok	11
+potențial	11
+Caraș-Severin	11
+Mehedinți	11
+Vâlcea	11
+stadiu	11
+ecran	11
+cămin	11
+adolescent	11
+reținere	11
+Marcel	11
+psiholog	11
+lenjerie	11
+toc	11
+bust	11
+decolteu	11
+blondinei	11
+ochelari	11
+ton	11
+condamnare	11
+Alexandru	11
+doliu	11
+diagnostic	11
+jar	11
+țigan	11
+măște	11
+direcție de sănătate	11
+militar	11
+pădure	11
+jandarmie	11
+mire	11
+creier	11
+burtică	11
+jucărie	11
+a	11
+agenție	11
+actualizare	11
+mănușă	11
+armonie	11
+D	11
+vest	11
+Geneva	11
+răceală	11
+înviere	11
+jandarmerie	11
+tav Clonda	11
+Vlad	11
+favorit	11
+Sorin	11
+mecanism	11
+zână	11
+trai	11
+buchet	11
+suveran	11
+diabet	11
+necesitate	11
+fact	11
+Rareș	11
+discurs	11
+câștigătoare	11
+figură	11
+pârâtă	11
+satisfacție	11
+Marcel Vela	11
+rival	11
+Exatlon	11
+regizor	11
+buletin	11
+Cluj-Napoca	11
+TOP	11
+dansatoare	11
+penalty	11
+glume	11
+infidelitate	11
+furoare	11
+Cosmin	11
+furt	11
+confruntare	11
+aroganță	11
+prestație	11
+Maria Constantin	11
+dimensiune	11
+Daria	11
+proxenet	11
+Istanbul	11
+Suhaib	11
+tv	11
+Strehaia	11
+înfățișare	11
+Mediaș	11
+Andreea Pirui	11
+Andreei	11
+intensitate	11
+nisip	11
+crimă	11
+gafă	11
+grămadă	11
+umăr	11
+depresie	11
+sfert	11
+muri	11
+coșmar	11
+tehnică	11
+politică	11
+Dani	11
+lanț	11
+mormânt	11
+Marcel Drăgan	11
+suspiciune	11
+Astra	11
+stabilire	11
+Nebunu	11
+soi	11
+prânz	11
+noutate	11
+introducere	11
+investitor	11
+executare	11
+adresa	11
+Cristian Daminuță	11
+numer	11
+națiune	11
+AEK	11
+Pitești	11
+manechin	11
+Ana Baniciu	11
+Anda Călin	11
+Grigoriu	11
+vărsător	11
+parteneriat	11
+alimentare	11
+the Four	11
+tunel	11
+punere	10
+aplicare	10
+pensiune	10
+tătic	10
+bruneta	10
+punct de	10
+anonimat	10
+curățenie	10
+Digi	10
+sesizare	10
+colaborator	10
+AstraZeneca	10
+bată	10
+pilot	10
+imunizare	10
+fier	10
+Israel	10
+cer	10
+trend	10
+normalitate	10
+oxigen	10
+accidentare	10
+Bistrița-Năsăud	10
+transformare	10
+vină	10
+Britanie	10
+Croația	10
+inițiativă	10
+restaurantă	10
+groapă	10
+maică	10
+cormnariu	10
+variație	10
+Africa	10
+Gerota	10
+componentă	10
+târg	10
+tav	10
+Victor Babeș	10
+proteină	10
+timbru	10
+metal	10
+teorie	10
+amploare	10
+maximum	10
+obraz	10
+bere	10
+palmă	10
+întreținere	10
+frigider	10
+maște	10
+ajun	10
+gratis	10
+arenă	10
+demnitate	10
+pisică	10
+funcționare	10
+achiziționare	10
+aprobare	10
+sindrom	10
+semnătură	10
+noră	10
+chemare	10
+legendă	10
+piept	10
+dansator	10
+adăpost	10
+furie	10
+interpretare	10
+hit	10
+păpușă	10
+galertate	10
+lansare	10
+vicecampioana	10
+logodnică	10
+disciplină	10
+practicare	10
+cardiac	10
+Nuba	10
+Armand	10
+preparat	10
+înger	10
+Andra Volos	10
+zgomot	10
+Adelina	10
+Vulpița	10
+crescător	10
+sud	10
+tavă	10
+mascul	10
+gală	10
+Ioana Filimon	10
+Giulești	10
+postură	10
+Rahova	10
+Gabriel Stati	10
+salvare	10
+Iohannis	10
+shopping	10
+deține	10
+circuit	10
+maternitate	10
+reclamanta	10
+mijlocaș	10
+Fane Spoitoru	10
+coafor	10
+Bianca rus	10
+cădea	10
+tenismen	10
+Ovidiu	10
+titular	10
+Iasmina	10
+Union_of_European_Football_Associations	10
+Gnohere	10
+stoc	10
+principe	10
+Torino	10
+retrogradare	10
+iepuraș	10
+comision	10
+Micula	10
+puștiu	10
+Viorica Dăncilă	10
+Bentley	10
+maxim	10
+Irinel	10
+rochi	10
+Bela Urasi	10
+rac	10
+Vărsător	10
+Felix Baumgartner	10
+Dominic	10
+infrastructură	10
+țăran	10
+Tudorel Toader	10
+nai	10
+pediatrie	10
+particulă	10
+Ioana ginghin	10
+Bănică	10
+Mărioara	10
+minimă	10
+Meghan	10
+RT-PCR	9
+creștină	9
+chin	9
+confort	9
+suprafeță	9
+alimentație	9
+filmuleț	9
+cost	9
+traumă	9
+Alexandru Arșinel	9
+site-	9
+ceai	9
+cheie	9
+Scudeulibal_Commission	9
+Antena	9
+Instagram Stories	9
+Egipt	9
+Oanei	9
+burtă	9
+Ferrari	9
+îmbrățișare	9
+oficiu	9
+slăbiciune	9
+f	9
+vindecare	9
+vioară	9
+Adi	9
+Sălaj	9
+anticorp	9
+jurnal	9
+gagică	9
+răutate	9
+Roxana Nemeș	9
+Bosnia	9
+Serbia	9
+Kazakhstan	9
+Danemarca	9
+precauție	9
+ritual	9
+geacă	9
+solist	9
+cântare	9
+memorie	9
+folosire	9
+Canada	9
+cină	9
+chestiune	9
+impas	9
+soprafeță	9
+surprindere	9
+joacă	9
+mobilier	9
+posibil	9
+religie	9
+universitate Craiova	9
+conduită	9
+pastel	9
+contestație	9
+competență	9
+contradictoriu	9
+internare	9
+eșec	9
+Corona	9
+fir	9
+divizie	9
+regină	9
+gazdă	9
+oaspete	9
+langă	9
+look	9
+laudă	9
+Lora	9
+operator	9
+proba	9
+profesionist	9
+piasă	9
+imaginație	9
+ingredient	9
+amor	9
+inhibiție	9
+importanță	9
+gay	9
+domnișor	9
+rezolvare	9
+calvar	9
+placă	9
+Cruduța	9
+profesie	9
+nirede	9
+soacră	9
+infarct	9
+blog	9
+musculos	9
+Răzvan Botezatu	9
+șezlong	9
+calendar	9
+Jilava	9
+impreună	9
+meniu	9
+vaste	9
+Tedatelonom	9
+sexoasă	9
+stomac	9
+box	9
+Victor	9
+croitorie	9
+păstrare	9
+motivare	9
+deținut	9
+bucată	9
+dâns	9
+dedicație	9
+jucătoare	9
+diicoritatea_pentrucțe	9
+Vitan	9
+onorariu	9
+consolă	9
+VIVA	9
+Anamaria	9
+cantonament	9
+subofițer	9
+verighetă	9
+Mihai Pleșu	9
+Giani	9
+francez	9
+gleznă	9
+penis	9
+Victor Ponta	9
+roman	9
+Albania	9
+baraj	9
+Gică	9
+Florinel Coman	9
+Sinaia	9
+neregulă	9
+Simona Halep	9
+goluri-cotă	9
+M	9
+Orta_Națională_de_Române	9
+Rednic	9
+subsol	9
+monitoare	9
+pivniță	9
+mers	9
+milopascal Pink	9
+Gabor	9
+Giovani	9
+laborator	9
+Jupiter	9
+Săgetător	9
+Covasna	9
+lidie	9
+atribuție	9
+Feli	9
+opincă	9
+meșteșug	9
+solar	9
+lego	9
+gustare	9
+Nicu	9
+hrănire	9
+Carlos	9
+Țăndărei	9
+Marian	9
+gardă	9
+canalizare	9
+Cengiz Șıklaroğlu	9
+ducesă	9
+Georgianei	8
+acoperiș	8
+zăpadă	8
+semnificație	8
+regret	8
+discreție	8
+transplant	8
+abordare	8
+Claude	8
+acționar	8
+jandarm	8
+intersecție	8
+certitudine	8
+perspectivă	8
+Liviu	8
+agresiune	8
+cămașă	8
+Ava	8
+Cătălin Botezatu	8
+critică	8
+fizic	8
+ser	8
+escapadă	8
+maestru	8
+Cristi	8
+baiat	8
+tanar	8
+parint	8
+dușman	8
+dublu	8
+vizor	8
+șatenă	8
+grafic	8
+procedeu	8
+revedere	8
+Cernica	8
+nefericire	8
+papuc	8
+cumpănă	8
+declanșare	8
+distribuție	8
+tabel	8
+discriminare	8
+bebeluș	8
+frig	8
+asa	8
+sicriu	8
+dezinfectare	8
+Gent	8
+New york	8
+Madrid	8
+Bruxelles	8
+liverte	8
+situatie	8
+apetit	8
+nerăbdare	8
+urmaș	8
+faimoșie	8
+Sebi	8
+Australia	8
+fugă	8
+Hong Kong	8
+segment	8
+interacțiune	8
+Tirtichul_Umite	8
+microbuz	8
+angajator	8
+istoric	8
+materie	8
+alianță	8
+condoleanță	8
+Târgoviște	8
+limbaj	8
+coadă	8
+susținere	8
+pensionar	8
+interdicție	8
+tort	8
+valiză	8
+palmares	8
+prefectură	8
+gară	8
+fitness	8
+taxa_pe_valoarea_adăugată	8
+Norvegia	8
+X2	8
+gou	8
+edil	8
+mărime	8
+bătălie	8
+cântec	8
+cash	8
+Anda	8
+brânză	8
+catedrală	8
+folos	8
+admirație	8
+Musty	8
+scoală	8
+copac	8
+Andreea bănic	8
+orfelinat	8
+regie	8
+indicație	8
+dare	8
+Alexandra Stan	8
+Amna	8
+Lucian Barbu	8
+filmat	8
+Crudu	8
+focoasă	8
+machiaj	8
+tabloid	8
+ură	8
+ținut	8
+fund	8
+supremație	8
+fană	8
+pricină	8
+italian	8
+atu	8
+paparazzie	8
+rotadiu	8
+nepoată	8
+ființă	8
+milă	8
+șir	8
+George	8
+suflare	8
+sinceritate	8
+set	8
+oară de cât oară	8
+Rapido	8
+Ioniță	8
+ghinion	8
+Asia express	8
+Cătălin Ion	8
+cartof	8
+seif	8
+petrol	8
+Denisa Despa	8
+cal	8
+cumătru	8
+Herăstrău	8
+NUBA	8
+situație de	8
+parfum	8
+aeronavă	8
+obținere	8
+dos	8
+Marius Manolache	8
+rau	8
+consilier	8
+începere	8
+temei	8
+Nicușor Dumitrescu	8
+ciment	8
+Dorinel Munteanu	8
+bogătaș	8
+Ștefan	8
+Ajax	8
+scriitor	8
+LOFT	8
+port	8
+Ilie Dumitrescu	8
+Liverpool	8
+mănăstire	8
+PARFUMERIA.RO	8
+Mexic	8
+numit	8
+comedie	8
+poftă	8
+cafene	8
+supă	8
+ardelean	8
+Otilia Bilionera	8
+Iulian Stanciu	8
+oficie	8
+Ștefan mare	8
+tragere	8
+Badea	8
+undă	8
+fotbal_club Botoșani	8
+rundă	8
+legie	8
+handicap	8
+ascensiune	8
+promoție	8
+pixabay	8
+Cătălin Cazacu	8
+Rellys Tonu	8
+Dragoș	8
+Omer Tetik	8
+motocicletă	8
+Sin	8
+Sorin Peneș	8
+Gheorghe Mărmureanu	8
+Marte	8
+nativă	8
+senator	8
+Carla’s Dreams	8
+Alexandru Ilinca	8
+Tavi Clonda	8
+porumb	8
+legumicultor	8
+agricultură	8
+guvernare	8
+fibră	8
+Suraia	8
+goangă	8
+Nicos	8
+Daiana	8
+Catalonia	8
+Virgil Popescu	8
+retestare	7
+definiție	7
+provincie	7
+obstacol	7
+opțiune	7
+balcon	7
+ansamblu	7
+siluetă	7
+Anghel	7
+Artista	7
+Laurette	7
+mie	7
+Teleorman	7
+complicație	7
+recuperare	7
+web	7
+utilizator	7
+moderator	7
+binecuvântare	7
+Borcea	7
+avertizare	7
+susținător	7
+Gorj	7
+registru	7
+Valentina Pelinel	7
+avocată	7
+mutare	7
+insistență	7
+bibliotecă	7
+buton	7
+neuitat	7
+Loredana	7
+anemie	7
+călător	7
+Iulia Albu	7
+d	7
+altercație	7
+dinamovist	7
+renunțare	7
+precizare	7
+transmisiune	7
+latură	7
+coloană	7
+Florin Cîțu	7
+Tulcea	7
+dietă	7
+Măruță	7
+hăinuță	7
+minciună	7
+nedrept	7
+epidemiolog	7
+pretenție	7
+Slovenia	7
+adeverință	7
+Partidul_Umanist_dimit	7
+univers	7
+pastramă	7
+centrală	7
+Partidul_Democrat	7
+fortă	7
+Babi	7
+merit	7
+stat unit	7
+simptomatologie	7
+copilaș	7
+petrecărete	7
+schemă	7
+Ana Porgras	7
+reanimare	7
+moștenitor	7
+utilizare	7
+reper	7
+previziune	7
+avertisment	7
+ambalaj	7
+strat	7
+mortalitate	7
+livrare	7
+camion	7
+supărare	7
+indulgență	7
+descoperire	7
+bătrână	7
+avort	7
+gândire	7
+Comunitatea_Europeană	7
+conversație	7
+parter	7
+arbitru	7
+_iclioteca	7
+Ministerul_Apărării_Naționale	7
+Gheorghe Hagi	7
+zid	7
+iad	7
+flacără	7
+SMS	7
+combinezon	7
+spital de urgență	7
+reputație	7
+Daxa_pentornalorifional	7
+siglă	7
+jaf	7
+roț	7
+șampon	7
+faimă	7
+creație	7
+audiență	7
+car	7
+Antwerp	7
+cladire	7
+Cătălin Măruță	7
+surpriz	7
+Anna Lesko	7
+Crina Abrudan	7
+decor	7
+atracție	7
+abonat	7
+luptător	7
+Moroșanu	7
+mândrie	7
+monden	7
+plai	7
+transsexual	7
+atletism	7
+primire	7
+fanie	7
+mtră Night show	7
+umilință	7
+obsesie	7
+masaj	7
+văz	7
+abilitate	7
+prilej	7
+domnișoare	7
+factură	7
+fantezie	7
+implant	7
+amator	7
+Brignac	7
+Lino Golden	7
+fară	7
+asediu	7
+sufragerie	7
+acasă	7
+cat	7
+sesiune	7
+cucerire	7
+epuizare	7
+Cosmina	7
+atentie	7
+versiune	7
+iaurt	7
+grație	7
+trăsnet	7
+încălzire	7
+dezamăgire	7
+treaptă	7
+necaz	7
+mascat	7
+gram	7
+licență	7
+muncitor	7
+omor	7
+erou	7
+Alexandru Enea	7
+enoriaș	7
+notorietate	7
+miss	7
+republică Moldova	7
+Gabriel	7
+ciorbă	7
+grece	7
+mentalitate	7
+custodie	7
+format	7
+desfacere	7
+șpriț	7
+sorț	7
+comercializare	7
+garde	7
+text	7
+luare	7
+minge	7
+mega-scandalul	7
+alin.1	7
+exploatare	7
+anexă	7
+Vitalie Proca	7
+Proca	7
+bancher	7
+Bogdan Andone	7
+suc	7
+plasmă	7
+contră	7
+golgheter	7
+Amsterdam	7
+ac	7
+Jorge	7
+găsire	7
+Andrei Ciomu	7
+tribună	7
+Matei	7
+Athos	7
+schit	7
+regulament	7
+cafenea	7
+finalizare	7
+eMag	7
+cablu	7
+guriță	7
+astad	7
+Mădălina	7
+Ovidiu Popescu	7
+C	7
+formare	7
+culisă	7
+mediafax	7
+formulă	7
+Audi	7
+junior	7
+Ionel Dănciulescu	7
+Praga	7
+Trabzonspor	7
+PSF	7
+Mlada Boleslav	7
+remiză	7
+Sepsi	7
+supercupă	7
+Ligue	7
+United_Nation	7
+Mirel Rădoi	7
+turn	7
+amiază	7
+Iulia Roșca	7
+prismă	7
+Dumitru Stativă	7
+balerină	7
+Ion Iliescu	7
+Cotroceni	7
+șeic	7
+Irina Columbeanu	7
+Mircea Sandu	7
+Corneliu Iacobov	7
+Dan Constantin Grigoriu	7
+Giovani Becali	7
+Mugur Isărescu	7
+mânecă	7
+vapor	7
+spor	7
+cumpărare	7
+fecioară	7
+mistreț	7
+alarmare	7
+distrugere	7
+Colentina	7
+Victoria	7
+challenger	7
+iertare	7
+bondar	7
+sare	7
+exterior	7
+parohie	7
+desen	7
+Frusinica Ionescu	7
+mălai	7
+salariat	7
+femur	7
+externare	7
+gândac	7
+Lăzău	7
+Bogdan Despescu	7
+Călin Geambașu	7
+investigator	7
+Simina	7
+Orban	7
+maximă	7
+Down	7
+Teo show	6
+imperiu	6
+vânt	6
+cafenă	6
+monică Anghel	6
+incidență	6
+principiu	6
+Brigitte pastramă	6
+Miami	6
+specific	6
+Hollywood	6
+Florida	6
+Ozana Barabancea	6
+emisie	6
+Liviu Guță	6
+Leah-Maria	6
+talie	6
+următoarea	6
+peisaj	6
+albastru	6
+hol	6
+indiciu	6
+preocupare	6
+performantă	6
+Daria Radionova	6
+hemoglobină	6
+Hamas	6
+…	6
+coeficient	6
+Viena	6
+SARS–CoV–2	6
+beneficiar	6
+umor	6
+călăraș	6
+mapamond	6
+reflectoare	6
+căsuță	6
+îngrijorare	6
+duș	6
+consult	6
+sunet	6
+stop	6
+fustă	6
+ciocolată	6
+Vatican	6
+Finlanda	6
+obligativitate	6
+consultant	6
+cezariană	6
+căldură	6
+optimism	6
+dimineată	6
+verde	6
+intimitate	6
+mobilă	6
+cotidian	6
+polimorfism	6
+Lombardia	6
+Chinei	6
+identificare	6
+subordine	6
+Teo Trandafir	6
+Virgil Musta	6
+ipoteză	6
+reluare	6
+estimare	6
+plastic	6
+spălare	6
+oțel	6
+provizie	6
+peninsulă	6
+roșu	6
+pix	6
+catastrofă	6
+scutec	6
+sărut	6
+lift	6
+greață	6
+sensibilitate	6
+alin.(	6
+cort	6
+Cosmin Stanciu	6
+multimilionar	6
+televizoare	6
+simulare	6
+oprire	6
+Luțu	6
+argument	6
+casație	6
+rechizitoriu	6
+bacterie	6
+Carmen Harra	6
+nenorocire	6
+nord-est	6
+protejare	6
+emitere	6
+căutare	6
+flacon	6
+hal	6
+minim	6
+calomnie	6
+trecător	6
+împrejurare	6
+referință	6
+recunoaștere	6
+Sector	6
+capital	6
+coronă	6
+mențiune	6
+accent	6
+numitor	6
+Mellina	6
+Kamara	6
+aș	6
+unitat	6
+incintă	6
+likă	6
+frățior	6
+n.r	6
+frumoasă	6
+frâu	6
+minun	6
+preferință	6
+uzină	6
+patimă	6
+Costi	6
+Starlin	6
+magnet	6
+boliz	6
+aseară	6
+Regina	6
+asă	6
+adversare	6
+Diana Munteanu	6
+topor	6
+numar	6
+sot	6
+tot	6
+Biancăi Drăgușanu	6
+BAC	6
+tatal	6
+Andreea Esca	6
+portbagaj	6
+chimie	6
+Bodi	6
+croat	6
+cheag	6
+tir	6
+lule	6
+Margheritei	6
+gunoi	6
+colant	6
+Daniel	6
+intermediu	6
+admiratoare	6
+reclamă	6
+Mario Fresh	6
+groază	6
+dejun	6
+viziune	6
+manevră	6
+Izoleta	6
+tarabă	6
+veac	6
+aver	6
+vicepreședinte	6
+cremă	6
+facebook	6
+os	6
+sertar	6
+deputat	6
+văduvă	6
+Dan	6
+ridicare	6
+Buftea	6
+Năstase	6
+teekend	6
+Pantelimon	6
+combinație	6
+tentativă	6
+adevar	6
+demnitar	6
+colegiu	6
+Abi talent	6
+amprentă	6
+Slobozia	6
+Adrian Cristea	6
+b	6
+obligare	6
+terorist	6
+încăpere	6
+moldovean	6
+roș-albaștre	6
+Mircea Băluș	6
+stelist	6
+Mânache	6
+tară	6
+inchisoare	6
+teavă	6
+Ion boschet	6
+Rusescu	6
+blocnotes	6
+Claudiu Răducanu	6
+unchi	6
+lățime	6
+Nicolae Dică	6
+înfrângere	6
+Dinu Maxer	6
+Andrei Pleșu	6
+motorină	6
+grabă	6
+evacuare	6
+Anghel Iordănescu	6
+Ciomu	6
+argint	6
+chil	6
+Billel Omrani	6
+Gruia	6
+Omrani	6
+șut	6
+ospătar	6
+poștă	6
+zahăr	6
+tare	6
+Astazi	6
+primare	6
+fundaș	6
+Vasile Miriuță	6
+Internazionale Milano	6
+Lituania	6
+reprezentare	6
+Mihai Pintilii	6
+Ștefan cel mare	6
+amici	6
+perlă	6
+mușchi	6
+anulare	6
+voal	6
+lăcaș	6
+socru	6
+insolvență	6
+Laurențiu Reghecampf	6
+Celtic	6
+Corneliu papură	6
+Marius Onofraș	6
+somație	6
+Marius Croitoru	6
+fals	6
+bundesliga	6
+academică	6
+Clinceni	6
+apelant	6
+Dana	6
+Raluka	6
+Edy Harlem Gnohere	6
+pasaj	6
+blestem	6
+WhatsApp	6
+amânare	6
+Ionuț Brâncoveanu	6
+Rellys	6
+Iulian Dîrnea	6
+instinct	6
+Victoraș Micula	6
+Primăverii	6
+Audemars Piguet	6
+alifie	6
+pasionat	6
+Ioan	6
+actorie	6
+porsche	6
+Maybach	6
+Columbeanu	6
+pret	6
+pornire	6
+Sandu	6
+cola	6
+Costes	6
+mirunică	6
+Traian	6
+Vrancei	6
+Cercetare-Dezvoltare	6
+săgetător	6
+finanțare	6
+consolidare	6
+determinare	6
+reevaluare	6
+Gheorghe Vladan	6
+hobby	6
+localnic	6
+lidie Buble	6
+predicție	6
+veselie	6
+Samuel	6
+Panciu	6
+tomată	6
+Arsenie Boca	6
+castravetă	6
+soldat	6
+lavandă	6
+gălbenă	6
+Dacian Cioloș	6
+ins	6
+sirenă	6
+diurnă	6
+Nicu Panaitescu	6
+seră	6
+subcomisar	6
+George Ploscaru	6
+Jose Torres	6
+gemolog	6
+comunicație	6
+abatere	6
+tâlhar	6
+Iancu	6
+preluare	6
+HTA	6
+Serebrennikov	6
+Ruxi	6
+Google	6
+motan	6
+Nicolae Zăvoranu	6
+Darren	6
+Cristina Mihaela Dorobanțu	6
+măslină	6
+plușică	6
+Raluca podea	6
+Buddy	6
+Archie	6
+Harry	6
+Doru Paul	6
+Royal dance Academy	6
+Caracal	6
+Glicheria	5
+împărat	5
+reglementare	5
+pergoală	5
+pergolă	5
+mămic	5
+banc	5
+consecință	5
+chirurgie	5
+gină	5
+moștenitoare	5
+preajmă	5
+pungă	5
+socoteală	5
+Călugăreni	5
+bestialitate	5
+privință	5
+coș	5
+rubrică	5
+vestimentație	5
+Johnson & Johnson	5
+excursie	5
+poșetă	5
+Alinei	5
+Milan	5
+insomnie	5
+Brigitte Sfăt	5
+incă	5
+anti-rOVID	5
+covid	5
+Carol Davila	5
+Drăgușanu	5
+podcast	5
+contribuție	5
+iarbă	5
+Ancăi Serea	5
+tinerețe	5
+@anca_sina_se	5
+ofensivă	5
+omenire	5
+rachetă	5
+Gândul.ro	5
+micuț	5
+criminal	5
+înlocuire	5
+metodologie	5
+autospecială	5
+răce	5
+Băneasa	5
+schi	5
+Pfizer BioNTech	5
+GCS	5
+ocupare	5
+programare	5
+ARN	5
+stirileprotv.ro	5
+Filip Poplingher	5
+rutină	5
+Sarah	5
+metru_pătrat	5
+șilopascal	5
+șervețel	5
+plasă	5
+ședere	5
+fostă	5
+ventilator	5
+maladie	5
+urăr	5
+‘	5
+Muntenegru	5
+Qatar	5
+pretent	5
+posesor	5
+filmulețe	5
+cafenel	5
+social	5
+abdomen	5
+tablou	5
+jale	5
+caracteristică	5
+asociere	5
+tratare	5
+escapad	5
+viva.ro	5
+după-amiază	5
+bebelus	5
+giner	5
+omletă	5
+colț	5
+Yves Gaudin	5
+rezistență	5
+moștenire	5
+Techirghiol	5
+constituție	5
+spirt	5
+spectator	5
+ghid	5
+mall-	5
+bancnot	5
+stabilitate	5
+expunere	5
+hrană	5
+dezvălui	5
+rută	5
+picătură	5
+aterizare	5
+sosire	5
+isterie	5
+Reuters	5
+chinez	5
+răzbunare	5
+caritate	5
+folosință	5
+față în față	5
+sânziană	5
+diaree	5
+Covid	5
+trădare	5
+pelerinaj	5
+aglomerație	5
+zi de zi	5
+umanitate	5
+încasare	5
+Hermannstadt	5
+fragment	5
+donatie	5
+antibiotic	5
+strănut	5
+calatorie	5
+AFP	5
+operațiune	5
+teroare	5
+patologie	5
+fisc	5
+Cancan	5
+curte de	5
+trotuar	5
+Mihai Eminescu	5
+Dică	5
+inginer	5
+ironie	5
+câmpie	5
+distincție	5
+angajar	5
+permanență	5
+Insta	5
+management	5
+Carmen brumă	5
+șmecherie	5
+duhovnic	5
+bob	5
+at	5
+împlinire	5
+vicecampioană	5
+plasament	5
+gimnastă	5
+Daniela Iliescu	5
+fereastră	5
+trăire	5
+Ramona Gabor	5
+Capatos	5
+muzician	5
+Cristina Mihaela	5
+maie	5
+jur	5
+căsnică	5
+scurgere	5
+basm	5
+cântăreat	5
+Gabi Popescu	5
+facultate de drept	5
+absolvent	5
+print	5
+Transilvania	5
+c	5
+Maria Marinescu	5
+uitare	5
+amicie	5
+bătrânică	5
+tanti	5
+Cristi Brancu	5
+Antena Stars	5
+heroină	5
+verișor	5
+George pian	5
+clopot	5
+adidaș	5
+senzuală	5
+șantier	5
+rasă	5
+Daniela Racolța	5
+margherită	5
+stupefiant	5
+haz	5
+șapcă	5
+live-	5
+mirelă	5
+Viorica	5
+Vasile Ciobanu	5
+Anatol Basarab	5
+diplomă	5
+convorbire	5
+Liana	5
+hemoragie	5
+ornament	5
+tarif	5
+gresie	5
+Ioaneee	5
+baltă	5
+înjurătură	5
+taxi	5
+orfan	5
+funeralii	5
+permisie	5
+priză	5
+leșin	5
+renume	5
+Chișinău	5
+prințișor	5
+poiană	5
+Anatol Stati	5
+Larisa	5
+Larisa Stati	5
+Pamela	5
+Florin Călinescu	5
+garsonieră	5
+recepție	5
+cârcotaș	5
+simpatie	5
+Edward Sanda	5
+Claudiu	5
+escort	5
+secure	5
+Dan negru	5
+boliză	5
+arsenal	5
+sabie	5
+CANCAN .rodor	5
+ambasadă	5
+egalitate	5
+avocatură	5
+aleasă	5
+mită	5
+detate	5
+ring	5
+Sandu Lungu	5
+ierarhie	5
+sac	5
+iordanian	5
+Hayssam	5
+leziune	5
+recurs	5
+Maya	5
+Viva	5
+bec	5
+Mega-scandal	5
+M.C.	5
+Cristi Tănase	5
+impresară	5
+ziarist	5
+dusman	5
+Stancu	5
+Digi sport	5
+Mircea Lucescu	5
+verdict	5
+Chelsea	5
+încadrare	5
+agonie	5
+concubina	5
+ascundere	5
+circumstanță	5
+Deea Maxer	5
+castigă	5
+cannabis	5
+sentință	5
+Ana Maria	5
+robot	5
+renumit	5
+circ	5
+aripă	5
+reclamantă	5
+cumpărător	5
+chirurg	5
+ales	5
+sete	5
+Iasmina Halas	5
+dar	5
+experiment	5
+hocheist	5
+hochei	5
+Răzvan Ciobanu	5
+prim-plan	5
+Cat	5
+Black Friday	5
+retailer	5
+Boubacar Mansaly	5
+Astra Giurgiu	5
+sponsor	5
+Acimetobacter	5
+Tiraspol	5
+Olimpia	5
+Lucian Sânmărtean	5
+olimpiadă	5
+senior	5
+Slovacia	5
+Emilia Stroe	5
+Pintilii	5
+Lucian Sanmartean	5
+chel	5
+rupere	5
+auricol	5
+Ianis	5
+fumat	5
+Florin Prunea	5
+interventie	5
+alteță	5
+decurs	5
+alb-roș	5
+Telekom	5
+rănit	5
+@#$	5
+pânză	5
+administrator	5
+favoare	5
+spartă	5
+marcaj	5
+Celtic Glasgow	5
+Belgrad	5
+Rosenborg	5
+GG-	5
+AEK Atena	5
+minitram	5
+Guimaraes	5
+Urziceni	5
+hârt	5
+AIK	5
+Premier League	5
+Vitoria Guimaraes	5
+Chindia	5
+week-end	5
+fotbal_club Hermannstadt	5
+eșalon	5
+victime	5
+nud	5
+prostituată	5
+ex-iubit	5
+muniție	5
+îndeletnicire	5
+amestec	5
+Florin Ristei	5
+Vlad Chiricheș	5
+pacientă	5
+Ilinca	5
+zor	5
+Loverboy	5
+coastă	5
+Victoraș	5
+Ozana	5
+Adrian Alexandrov	5
+Monicăi Gabor	5
+Ferrari FF	5
+ex-giner	5
+sexy-logodnica	5
+Slatina	5
+clinic	5
+statuie	5
+mail	5
+V	5
+faliment	5
+Ami Teiceanu	5
+buggy	5
+Carmina	5
+barbă	5
+contrabandă	5
+Speak	5
+bugetar	5
+Mihnea Grigoriu	5
+tinută	5
+Beijing	5
+vicie	5
+Ionescu	5
+Ionuț Andrei Radu	5
+Vladimir Putin	5
+Opticris	5
+lună nou	5
+evitare	5
+taurie	5
+perfecționare	5
+zodiac	5
+tumult	5
+Gabriela Prisacariu	5
+Nehoiu	5
+yang	5
+unealtă	5
+meșter	5
+prognoză	5
+Zondul_club	5
+Costin Mărculescu	5
+Torriellec	5
+operă	5
+chef FOA	5
+continent	5
+opincar	5
+Oltenia	5
+foaie	5
+albină	5
+instituire	5
+covor	5
+Mutu	5
+credincioș	5
+profesoară	5
+pompă	5
+lală	5
+Nadia	5
+Cecilia Mihoc	5
+vâltoare	5
+Găgești	5
+precizie	5
+inspector	5
+urechi	5
+sațietate	5
+revoltă	5
+adăpostire	5
+dispozitiv	5
+dulap	5
+utilitate	5
+aviz	5
+comendă	5
+pirotehnist	5
+Făget	5
+Isabela	5
+Cristian Neguțescu	5
+umiditate	5
+congelator	5
+S.C.	5
+J____	5
+subalternă	5
+chestor	5
+DAS	5
+Băleni	5
+ventilatoare	5
+Florin Lăzău	5
+Alina Borovină	5
+Deva	5
+doctoriță	5
+Filiași	5
+Giuseppe Conte	5
+Petre Roman	5
+Leonard Doroftei	5
+Wei Guixian	5
+Ruxandra	5
+Ioanei	5
+gospodar	5
+Mihai Mitoșeru	5
+trust	5
+CNSSU	5
+Sofia	5
+exudat	5
+moleculă	5
+spumă	5
+proxeneț	5
+prostitutie	5
+Giuseppe Remuzzi	5
+broșură	5
+cotație	5
+Giovanni	5
+Rafila	5
+Mihai Tudose	5
+Dan Tătaru	5
+Tiberiu argint	5
+adaos	5
+Nae Alexandru	5
+aversă	5
+pt	5
+Ducesa	5
+senin	4
+glas	4
+lat	4
+gamă	4
+extindere	4
+design	4
+supliment	4
+contur	4
+Josephine	4
+țipăt	4
+ciclu	4
+anti_virut_Veteric	4
+venă	4
+sferă	4
+BongaCams	4
+noțiune	4
+ocean	4
+profesionalism	4
+calm	4
+a.c.	4
+permis	4
+Moise Petru	4
+bravo	4
+Botezatu	4
+creator	4
+rinichi	4
+ciudă	4
+impact.ro	4
+pălărie	4
+fanatik.ro	4
+Angelo	4
+refacere	4
+varstă	4
+vacantă	4
+fită	4
+eficiență	4
+studentă	4
+news.ro	4
+CANCAN NEWS	4
+informații-bombă	4
+depozit	4
+Anca Sina Serea	4
+rachet	4
+comandant	4
+stand	4
+aviație	4
+Iulia	4
+perfecțiune	4
+CNCCI	4
+injectare	4
+alergă	4
+investigare	4
+SEE	4
+regat	4
+San marină	4
+volum	4
+disconfort	4
+administrare	4
+worldometers	4
+Cornetu	4
+ștafetă	4
+centură	4
+transfuzie	4
+front	4
+UK	4
+pitică	4
+așa…	4
+răutăti	4
+mizerie	4
+lămurire	4
+Mami	4
+Singapore	4
+Herțegovina	4
+facilitate	4
+GÂNDUL.RO	4
+Coronavirusul	4
+gal	4
+astm	4
+miracol	4
+bicicletă	4
+paletă	4
+nuantă	4
+galben	4
+alatură	4
+sigurantă	4
+tăicuț	4
+fast	4
+Adela Popescu	4
+Cove	4
+strictețe	4
+ACE1	4
+geană	4
+secvență	4
+CNSCBT	4
+pedepse	4
+Georgiana Elisa	4
+tun	4
+Teo trandafir	4
+amuzament	4
+manelă	4
+repetiție	4
+Andreei Bălan	4
+Clonda	4
+monică Roșu	4
+canape	4
+Sebastian Chitoșcă	4
+Figaro	4
+eroare	4
+ASSMB	4
+cuie	4
+a1.ro	4
+glonț	4
+Sars-CoV-2	4
+șerveță	4
+Pixabay	4
+varietate	4
+litru	4
+vitrină	4
+menținere	4
+bancomat	4
+localizare	4
+hartă	4
+gel	4
+topire	4
+papă	4
+voință	4
+împărtășanie	4
+privat	4
+manifestare	4
+contractare	4
+lichid	4
+eșantion	4
+declarare	4
+restrângere	4
+legislație	4
+Moro	4
+tribune	4
+autocar	4
+selfie	4
+mâner	4
+solidaritate	4
+clor	4
+&	4
+alee	4
+Ionuț Luțu	4
+halate	4
+divinitate	4
+reabilitare	4
+petent	4
+comerț	4
+sculptură	4
+vorbărie	4
+sărac	4
+acid	4
+festivitate	4
+mobil	4
+virologie	4
+adaptare	4
+venire	4
+pancreatită	4
+grefă	4
+gratie	4
+cocktail	4
+AMBELE	4
+Lică	4
+1X	4
+Reșița	4
+infecta	4
+dicționar	4
+oaie	4
+literatură	4
+vinovăție	4
+închiriere	4
+denumire	4
+spital de	4
+invitate	4
+admitere	4
+pop	4
+născut	4
+Albert	4
+master	4
+cristină	4
+protejat	4
+hoție	4
+nevinovăție	4
+împotrivă	4
+sal	4
+Eva	4
+surioară	4
+superlativ	4
+Ilinca Vandici	4
+hot	4
+orez	4
+războinici	4
+Nicoleta Luciu	4
+dormitor	4
+fotoreportere	4
+graț	4
+preferat	4
+orientare	4
+salcie	4
+s	4
+#	4
+cadavru	4
+videmterul_Commite	4
+popularitate	4
+motivație	4
+afiș	4
+remarcă	4
+Bianca Comănici	4
+dezechilibru	4
+restricționare	4
+conditie	4
+meditație	4
+podium	4
+adolescență	4
+microfon	4
+Iancu sterp	4
+fiic	4
+IT	4
+modestie	4
+jală	4
+dacă	4
+îmbătrânire	4
+tinereț	4
+cruduță	4
+adio	4
+stângă	4
+Augsburg	4
+tata	4
+Nelson Mondialu’	4
+generală	4
+creatoare	4
+rivală	4
+insă	4
+prostituate	4
+tovarăș	4
+reușit	4
+fractură	4
+agenție VIP	4
+măr	4
+discordie	4
+International_Commile	4
+recoltare	4
+alin.2	4
+gălăgie	4
+rochiță	4
+trimitere	4
+cezar	4
+trăsătură	4
+cățel	4
+gospodină	4
+reproș	4
+povestie	4
+amice	4
+fasole	4
+negru	4
+privitor	4
+îndemână	4
+duet	4
+înșelăciune	4
+Sharky	4
+reproducere	4
+elevă	4
+porno	4
+Nikolas	4
+starletă	4
+Denisa	4
+artificiu	4
+Berna	4
+camcere	4
+politie	4
+senzualitate	4
+Viorel	4
+splendoare	4
+tipare	4
+inspirație	4
+flagrant	4
+dealer	4
+None	4
+Mamăăăă	4
+sejur	4
+curion	4
+razna	4
+finalist	4
+status	4
+ce-i	4
+Eforie	4
+Marius Baldovin	4
+Baldovin	4
+Denom	4
+funeral	4
+Nelson Mondialu`	4
+brățară	4
+dantură	4
+Gherla	4
+Anastasia Fotachi	4
+nașă	4
+Stati	4
+dubă	4
+playboy	4
+gigant	4
+Saint Tropez	4
+roată	4
+Simonei	4
+simpatic	4
+gaură	4
+ciocan	4
+parier	4
+castel	4
+SUV	4
+Nikos Papadopoulos	4
+Cleopatra Stratan	4
+prenume	4
+aflare	4
+alinare	4
+vehicul	4
+singur	4
+aplauze	4
+io	4
+tăiet	4
+Petricani	4
+măcel	4
+gașcă	4
+celebru	4
+fustiță	4
+pește	4
+blogger	4
+cocoș	4
+mustață	4
+golan	4
+karat	4
+penitenciară	4
+golănie	4
+tertip	4
+fluier	4
+MĂDĂLIN	4
+SOFRONIE	4
+Suhaib Meshah	4
+Omar Hayssam	4
+răpire	4
+Irak	4
+mitralieră	4
+curte de apel	4
+portieră	4
+parbriz	4
+Moscova	4
+permite	4
+miză	4
+Cristi Calu	4
+câștigare	4
+exactitate	4
+Ovidiu Ohanesian	4
+Betty	4
+inapoi	4
+amical	4
+premeditare	4
+podea	4
+concubină	4
+_nvinvintun_Cu	4
+ezitare	4
+săpa	4
+ieșean	4
+Pleșu Mihai–Alexandru	4
+apelare	4
+Alice Peneacă	4
+coincidență	4
+Ionuț	4
+Satu mare	4
+râu	4
+cinematografie	4
+cultivare	4
+Alex Iordănescu	4
+nabab	4
+incendiu	4
+Macedonia	4
+Mtitele_Unite_ale_Americii	4
+îndeplinire	4
+gheață	4
+U	4
+ușurință	4
+Noddare	4
+retailere	4
+Younes Hamza	4
+simbol	4
+Basarab Panduru	4
+Ciprian Marica	4
+Pandi	4
+pol Timișoara	4
+Baia	4
+Hapoel	4
+fotbal_club voluntar	4
+Esther Perel	4
+concept	4
+federație de	4
+anomalie	4
+cunoscuție	4
+Gabi Enache	4
+Sanmartean	4
+Insa	4
+Letonia	4
+Play-off	4
+Coman	4
+viciu	4
+Prunea	4
+candidatură	4
+ultraș	4
+limuzină	4
+cult	4
+Nicolae Medforth-Mills	4
+succesiune	4
+majestate	4
+Juventus	4
+portofoliu	4
+bursă	4
+dacie	4
+Fodume_tlun Bacău	4
+Ionela Prodan	4
+baciu	4
+Puiu	4
+Ventspils	4
+Espanyol	4
+Metan	4
+stâlp	4
+larg	4
+APOEL	4
+Krasnodar	4
+League	4
+Vergil Andronache	4
+Dudelange	4
+continuitate	4
+papură	4
+favorită	4
+derby	4
+internațional	4
+urnă	4
+Napoli	4
+Uniunea_Europeană Open	4
+corespondență	4
+industriaș	4
+barou	4
+puștiulică	4
+Dana Ganea	4
+Făgăraș	4
+farfurie	4
+Râmnicu sărat	4
+recital	4
+Olteanu	4
+detectiv	4
+ex	4
+capac	4
+tobă	4
+facultate de agronomie	4
+masterat	4
+inginerie	4
+cumparatură	4
+Luminita Becali	4
+mirare	4
+Mobil5	4
+euro/lună	4
+prăjitură	4
+cons	4
+MAE	4
+Ilinca Obădescu	4
+ultimatum	4
+Raluca Tonu	4
+seducție	4
+Balotești	4
+sfoară	4
+farmaciu	4
+Flavia	4
+Range Rover Mansory	4
+ponefte	4
+uniune	4
+referire	4
+Neptun	4
+Anastasia	4
+Fratelli	4
+dorobanți	4
+Tomah Khaled Alsamarra’i	4
+Iri	4
+Peneș	4
+Mona	4
+Freitas	4
+boșie	4
+vită	4
+Irinei	4
+jumatate	4
+farmec	4
+carmină	4
+Los Angeles	4
+Tsunami	4
+Beller	4
+Jimbolia	4
+embargou	4
+Virgil	4
+pijamal	4
+cantină	4
+cunoscut	4
+Mirea	4
+auz	4
+Urasi	4
+Erăditatea_Națională	4
+Cătălin Tomată	4
+Maria Grigoriu	4
+aniversare	4
+shot	4
+tărie	4
+Bela	4
+Bill Gates	4
+Uranus	4
+posesivitate	4
+suprasolicitare	4
+Saturn	4
+Vincenzo Castellano	4
+Bogdan Vladan	4
+sange	4
+Buzăului	4
+prejudecat	4
+fizică pământ	4
+blocaj	4
+Horia Brenciu	4
+nudist	4
+Marius Marinescu	4
+morgă	4
+terț	4
+concentrare	4
+carburant	4
+poprire	4
+Samuel el Torriellec	4
+MasterChef	4
+întârziere	4
+jurație	4
+Raldia	4
+challengere	4
+depozitare	4
+Tirana	4
+marmură	4
+Toader	4
+Gabi Cristea	4
+Râmnicu Vâlcea	4
+anișor	4
+Julia Balint	4
+insect	4
+instalație	4
+luciu	4
+șezător	4
+bărăgan	4
+paroh	4
+agricultor	4
+sămânță	4
+Milcov	4
+caricatură	4
+tăviță	4
+creion	4
+creșă	4
+roșie	4
+Certeze	4
+pârâu	4
+az	4
+comerciant	4
+bașcă	4
+pernă	4
+macheta	4
+Camelia Sandu	4
+documentar	4
+adăpostură	4
+Adjud	4
+inundație	4
+cheltuire	4
+Victor Slăvescu	4
+salarie	4
+Meni_amia_Paloră	4
+proiectil	4
+MedLife	4
+ONG	4
+Șișcanu	4
+Mădălin	4
+Petra	4
+desenă	4
+Karinei	4
+Padova	4
+goange	4
+ambarcațiune	4
+submarin	4
+C____ J____	4
+scotch	4
+audit	4
+International_Organization București-Ilfov	4
+tentă	4
+Lenuța	4
+comisar	4
+aparatură	4
+regat unit	4
+mare Britania	4
+coridor	4
+contravenție	4
+izolare/carantină	4
+Ion Marcel Vela	4
+Lorenzo Sanz	4
+vigoare	4
+talon	4
+obezitate	4
+Streinu-Cercel	4
+Buenos Aires	4
+Singerman	4
+pietonie	4
+Star Wars	4
+spital-suport	4
+diagnosticare	4
+urină	4
+Freedom Watch	4
+infirmiere	4
+epidemiologie	4
+Mara Mareș	4
+șefiu	4
+Andi Moisescu	4
+Zăvoranu	4
+banda	4
+zăvo	4
+puf	4
+craniu	4
+Delia	4
+Marinescu	4
+bănică	4
+Mitrea	4
+Sebastian Radu	4
+cezariane	4
+doctoriț	4
+cașcaval	4
+per.e	4
+Andrada	4
+Alina Plugaru	4
+Cantacuzino	4
+Columbia	4
+Philip	4
+Okinawa	4
+ANPC	4
+răgușeală	4
+5G	4
+Kate	4
+riveran	4
+Ciprian Napy	4
+CSÎD	4
+acoperis	4
+ghips	4
+Viorel teacă	4
+Roxana Ghiță	3
+cetate	3
+Tracia	3
+Hristos	3
+adunare	3
+iubitor	3
+foișor	3
+HoReCa	3
+hohot	3
+răsputere	3
+cădere	3
+Andrei Carandino	3
+poreclă	3
+Marian tătic	3
+agresor	3
+expertiză	3
+rapel	3
+webcam	3
+înscriere	3
+metropolă	3
+carismă	3
+Sarei	3
+United_States_domânia	3
+inițială	3
+butelie	3
+vehemență	3
+pasager	3
+dubiu	3
+stopare	3
+SARS-CoV2	3
+tentație	3
+Raluca Bădulescu	3
+gemeniu	3
+CNCAV	3
+călcâi	3
+Insta Story	3
+făgaș	3
+Gloria	3
+afaceristă	3
+menajere	3
+Husein Daniel Gabriel	3
+Dasaev	3
+baschetbalist	3
+Darrell Bowie	3
+Joseph McClain	3
+constantă	3
+Max	3
+maraton	3
+particularitate	3
+Mario	3
+aurioa	3
+Velea	3
+Loredana Groza	3
+testament	3
+palestinian	3
+Edan	3
+handbalist	3
+Marian Cozma	3
+progres	3
+flux	3
+finanțe	3
+cefaleu	3
+Andorra	3
+mamaie	3
+jador	3
+Anthony Fauci	3
+Harghita	3
+Adrian Sînă	3
+bârfă	3
+Click.ro	3
+sere	3
+înștiințare	3
+karaoke	3
+pateu	3
+Radu Țibulcă	3
+obuz	3
+instagram	3
+mânuță	3
+venin	3
+săptâmân	3
+întâmpinare	3
+închipuire	3
+nenorocit	3
+❤	3
+dispecerat	3
+Coreea	3
+Pakistan	3
+Kuwait	3
+considerare	3
+Johnson	3
+membră	3
+generozitate	3
+Marriam	3
+sărit	3
+instalator	3
+aragaz	3
+biciclet	3
+cazinou	3
+unghi	3
+alb	3
+pată	3
+compozitor	3
+Moise	3
+căpătâi	3
+shaormerie	3
+moft	3
+butuc	3
+singlă	3
+genă	3
+clanță	3
+Orient	3
+canton	3
+vale	3
+import	3
+întrerupere	3
+pitic	3
+răsărit	3
+Cîțu	3
+vamă vechi	3
+Betty Blue	3
+ustensile	3
+X factor	3
+Gabrielei Cristea	3
+antipatie	3
+tabletă	3
+mutație	3
+corecție	3
+virusolog	3
+vânzare-cumpărare	3
+Marius Tucă show	3
+spălat	3
+pri Television	3
+graviduță	3
+semeniu	3
+Pache Protopopescu	3
+fundație	3
+asumare	3
+frumos	3
+rațiune	3
+doc.ro	3
+pantă	3
+mastodont	3
+Treviso	3
+biscuit	3
+supermarket	3
+piatră Neamț	3
+telecomandă	3
+ghețar	3
+incendii	3
+Francisc	3
+Wolfgang Wodarg	3
+conspirație	3
+mass-media	3
+virusologie	3
+Asia	3
+copilă	3
+recreere	3
+strângere	3
+igienizare	3
+Laura Giurcanu	3
+vizitator	3
+făt	3
+calup	3
+email	3
+cinemă	3
+grupuleț	3
+HIV	3
+Aurel	3
+Bobești	3
+bănuție	3
+periuță	3
+vitamină	3
+coranovirus	3
+interzicere	3
+contagier	3
+ispravă	3
+euef	3
+Alexandru Boc	3
+plic	3
+tentativa	3
+cireașă	3
+Mirela Oprișor	3
+Tonino Alfonso	3
+Isus	3
+preoție	3
+Johns Hopkins	3
+haos	3
+Harra	3
+Flacăra	3
+japonezie	3
+STB	3
+orar	3
+Majdei	3
+toxi-infecție	3
+Bistrița	3
+Năsăud	3
+litigiu	3
+Ioan Becali	3
+soluționare	3
+Marcel Boloș	3
+șomaj	3
+masură	3
+decontare	3
+Remdesivir	3
+comunism	3
+vârstnică	3
+arteră	3
+non-stop	3
+nebun	3
+canală	3
+.com	3
+fondator	3
+Nodumenterate_Române	3
+Taberei	3
+piedici	3
+mentor	3
+colindătoare	3
+colindător	3
+portofel	3
+Snagov	3
+tocietate_pe_acțiuni	3
+frunză	3
+Turzii	3
+câmpie Turzii	3
+valorificare	3
+R&B	3
+clujean	3
+glob	3
+radio	3
+Fb	3
+bănuță	3
+realityshow	3
+terminare	3
+GFA74	3
+Brugge	3
+dezvoltar	3
+after	3
+gradinită	3
+modernizare	3
+Cristian Popescu	3
+primarie	3
+Evei	3
+bikină	3
+compromis	3
+egal	3
+Laura Cosoi	3
+Elena Gheorghe	3
+pai	3
+perdea	3
+coechipiere	3
+recompensă	3
+Nemeș	3
+verigă	3
+Zannidache	3
+Maria Hîngu	3
+hepatită	3
+casting	3
+înot	3
+hormon	3
+mișto	3
+Sky News	3
+absență	3
+comparație	3
+sfârc	3
+invidie	3
+temere	3
+promo	3
+neputință	3
+părăsire	3
+wowbiz	3
+puțin	3
+cusur	3
+Niculae Bădălău	3
+Claudia Pătrășcanu	3
+aberație	3
+intrig	3
+sufletul-pereche	3
+idilă	3
+patos	3
+războinica	3
+minivacanță	3
+Inna	3
+topless	3
+podoabă	3
+micșorare	3
+Carmen de	3
+promisiune	3
+Nilă	3
+animator	3
+modelling	3
+loft	3
+marketing	3
+mulțumire	3
+mini_vacantă	3
+Roxana Ionescu	3
+cioc	3
+singurătate	3
+ursit	3
+confesiune	3
+chei	3
+chilot	3
+Emilia	3
+Jay Maly	3
+atuu	3
+cautare	3
+curios	3
+sansă	3
+emot	3
+contestatie	3
+rezeltate	3
+FINALE	3
+A.	3
+maxilar	3
+saptaman	3
+Camelia Sucu	3
+ginere	3
+CANCAN	3
+carismatic	3
+Seco Dubravko	3
+tandreț	3
+paliere	3
+glorie	3
+informatie	3
+neființă	3
+plagă	3
+video-	3
+nasă	3
+ceaun	3
+neatenție	3
+trandafir	3
+Instastory	3
+artilerie	3
+Apropo	3
+caterincă	3
+răsplată	3
+super-mașină	3
+aspirator	3
+toi	3
+cârtiță	3
+săgeată	3
+gimnastică	3
+Anna	3
+maiou	3
+rolă	3
+acces direct	3
+probatoriu	3
+blană	3
+pelicul	3
+pensionară	3
+Mocanu	3
+narghie	3
+maturitate	3
+română	3
+mânie	3
+Alba Iulia	3
+flow	3
+Fuego	3
+sol	3
+Vaida	3
+veronică	3
+blăgest	3
+supriză	3
+verișoară	3
+fresh	3
+Târgu Jiu	3
+bătăuș	3
+masacru	3
+manieră	3
+Florin Mototolea	3
+premisă	3
+Pablo Escobar	3
+Panama	3
+cocaină	3
+dumnezeu	3
+contrariu	3
+Axinte	3
+premium	3
+deliciu	3
+exagerare	3
+asasinare	3
+interlopie	3
+Rinu	3
+sărăcie	3
+hată	3
+tron	3
+tandem	3
+Pop	3
+taximetrist	3
+Nicolae Duduianu	3
+Sofian văduvă	3
+crăciun	3
+gardian	3
+stomatolog	3
+interpret	3
+Adrian Iancu	3
+Prut	3
+deținător	3
+Gabi Stati	3
+Rolls	3
+Ford	3
+tinerel	3
+masc	3
+alfa	3
+plătitor	3
+5GANG	3
+radiografie	3
+Băscuță	3
+eleganță	3
+reprezentație	3
+permisiune	3
+BMW X5	3
+Nikos	3
+felef	3
+Silviu	3
+Honorius	3
+rugăminte	3
+Cleopatra	3
+eienopație	3
+Audi Q7	3
+Napy	3
+izbucnire	3
+cenușă	3
+consiliere	3
+Mototolea	3
+Nicolae Guță	3
+soliște	3
+Inquam	3
+Photos	3
+rădăcină	3
+divertisment	3
+observator.tv	3
+horror	3
+schelet	3
+sărutare	3
+Paul George lung	3
+Raluca pastramă	3
+fin	3
+furtură	3
+situație urgență	3
+nene	3
+închisor	3
+Napi	3
+L	3
+oțet	3
+stăpân	3
+Vasile prigoană	3
+cusut	3
+Florentina Raiciu	3
+intra	3
+Comunitatea_Statelor_Independente	3
+Carol	3
+Mariciu	3
+bodyguarz	3
+strună	3
+briceag	3
+ANP	3
+indiferență	3
+papuc Gucci	3
+puștoaică	3
+Abi	3
+trap	3
+bronz	3
+sutien	3
+Bamboo	3
+temeliu	3
+Bihorului	3
+înaintare	3
+tipă	3
+playstation	3
+dascăl	3
+Drăgan	3
+drapel	3
+olimpic	3
+activ Slobozia	3
+balon	3
+handbal	3
+pasă	3
+comitere	3
+cușcă	3
+atacator	3
+rapid	3
+Mihai Stoica	3
+refugiat	3
+pronunțare	3
+apărător	3
+furnizare	3
+socrie	3
+Mircea	3
+Marius Ianuli	3
+Iasmin Latovlevici	3
+Tănase	3
+regește	3
+agentă	3
+adjunct	3
+sef	3
+news	3
+Niculescu	3
+jenă	3
+cantareată	3
+experientă	3
+Cand	3
+Apostol	3
+pol Iași	3
+Flavius Stoican	3
+roș-albaștrii	3
+bou	3
+Ion Migdal	3
+Dodel	3
+Nemec	3
+deținătoare	3
+portughezie	3
+component	3
+revocare	3
+repunere	3
+solidar	3
+Titu	3
+Florin Oprea	3
+manichiură	3
+u.p.	3
+convingere	3
+lamă	3
+manipulare	3
+n	3
+emblemă	3
+Dinu	3
+Alice	3
+avansare	3
+Pleșu Mihai –Alexandru	3
+dimineție	3
+scenarist	3
+Bobby Păunescu	3
+vocație	3
+sos	3
+miss România	3
+tatuajă	3
+Obelix	3
+peripeție	3
+depardieu	3
+patronat	3
+revelație	3
+Ștefan Bănică jilopascal	3
+Emilia Popescu	3
+Ștefan Bănică	3
+bănică jilopascal	3
+criminalitate	3
+derulare	3
+_amcvvin_tuntun	3
+clauză	3
+tranșă	3
+procesiune	3
+alfabet	3
+George Țucudean	3
+intamplare	3
+naturalizare	3
+Camora	3
+Eric	3
+under	3
+curier	3
+Antonia Raisa	3
+Marius Vizer	3
+Cătălin Mișu	3
+gălăgios	3
+preliminar	3
+Manea	3
+Cristian	3
+moral	3
+haită	3
+da	3
+focos	3
+Modena	3
+L’Aquila	3
+Zakho	3
+Nir	3
+Ramat-HaSharon	3
+Abano Calcio	3
+România U17	3
+România U19	3
+Arabia Saudită	3
+⁣	3
+romantism	3
+Cristi Petre	3
+american	3
+fantom	3
+Alexandru Tudorie	3
+Alina Popescu	3
+contuzie	3
+Victor Piturca	3
+instalare	3
+arab	3
+Scoția	3
+Estonia	3
+B	3
+gsp.ro	3
+Ianis Hagi	3
+Fiorentina	3
+Pietro Chiodi	3
+Hagi scandal	3
+Balaj	3
+fecală	3
+detinut	3
+timișoreancă	3
+Alina-Maria Binder	3
+mega-eveniment	3
+Cancan .rodor	3
+Bucovina	3
+măiestrie	3
+Radu Enache	3
+entuziasm	3
+contestatare	3
+Hapoel Beer Sheva	3
+pont@cancan.ro	3
+Verona	3
+interlocutor	3
+Cătălin Golofca	3
+frustrare	3
+angajament	3
+fălcos	3
+rot	3
+HCM Slobozia	3
+Nimely	3
+pârghie	3
+Iordănescu	3
+Vitoria	3
+învingătoare	3
+Apollon	3
+Tbilisi	3
+municipal	3
+gaz Metan Mediaș	3
+mitan	3
+gaz Metan	3
+Slavia Praga	3
+PAOK	3
+Olympiacos	3
+LASK	3
+Maribor	3
+Cluj-	3
+cartonaș	3
+Florin Tănase	3
+Dumitru Bucșaru	3
+Bucșaru	3
+Telekom sport	3
+Wtatele_Unite_ale_Americii	3
+WTA	3
+Paftidul_Democrat	3
+Sarajevo	3
+Varșovia	3
+Atromitos	3
+S.	3
+Zorya	3
+Astana	3
+Rijeka	3
+Rangers	3
+franțuzoaică	3
+compatrioată	3
+Bănie	3
+Dinamo București	3
+Leverkusen	3
+Dortmund	3
+cehe	3
+Zilei-	3
+bandă	3
+vână	3
+Minaur	3
+Djokovic	3
+bară	3
+Bogdan Argeș Vintilă	3
+Constantin	3
+Young Boys	3
+Olympiakos	3
+lockdown	3
+pronostic	3
+Petrea	3
+Novak Djokovic	3
+Georgiana Drăgan	3
+sechestru	3
+notificare	3
+infidelă	3
+Dan Adamescu	3
+ex-fotbalist	3
+Ionel Ganea	3
+divort	3
+tam-tam	3
+Inter	3
+Dreptate_și_Adevăr	3
+U. Eugen	3
+Luca	3
+Nuțu Cămătaru	3
+Sorinel Puștiu	3
+hainute	3
+bonus	3
+scapă	3
+consul	3
+Libia	3
+charismă	3
+italiană	3
+vică	3
+ex-președinte	3
+imobiliar	3
+Roxanei Vancea	3
+Andei Adam	3
+Vicăi	3
+îndemn	3
+blondin	3
+Yashar Hassan Abbas Helmy	3
+steag	3
+Dragoș Nedelcu	3
+Nedelcu	3
+renovare	3
+Viorel Micula	3
+secretară	3
+detenție	3
+BMW X	3
+Porsche Cayenne Hamann	3
+Nissan GTR	3
+pretendent	3
+Harley Davidson	3
+Route	3
+drumeție	3
+Toscanei	3
+zero_flag	3
+președinție	3
+Donald Tusk	3
+Jean-Claude Juncker	3
+Forbes	3
+etnie	3
+bogăție	3
+Tomah Khaled	3
+Ahmed Khaled Alsamarra’i	3
+tipografie	3
+Mega Press	3
+Irinel Colmbeanu	3
+Alexandru Zainea	3
+colectie	3
+licitatie	3
+Lincoln Continental	3
+monopost	3
+km/h	3
+carbon	3
+Beach	3
+mega-scandal	3
+Anthony	3
+statură	3
+Iugoslavia	3
+ofițer de securitate	3
+restituire	3
+fortăreață	3
+Bancorex	3
+ret	3
+rafinare	3
+tablă	3
+Range Rover	3
+Cayenne Hamann	3
+vid	3
+Range	3
+light	3
+salată	3
+ramă	3
+Romaniei	3
+vecină	3
+Loto	3
+U21	3
+Rădoi	3
+Ema	3
+electricitate	3
+fumător	3
+chipurile	3
+păhărea	3
+burlac	3
+sexy-juristă	3
+Ionuț vână	3
+Codin Maticiuc	3
+seismologie	3
+observator	3
+șaman	3
+erupție	3
+detecție	3
+arhitect	3
+taină	3
+retail	3
+turnură	3
+irascibilitate	3
+mreje	3
+mic	3
+continuare	3
+fecior	3
+augur	3
+frământare	3
+Adrian Brâncoveanu	3
+alias	3
+Vladan	3
+întorsură	3
+Mircea Radulian	3
+anotimp	3
+astrologie	3
+neplăcere	3
+Buble	3
+remedie	3
+Marin Adrian	3
+egoism	3
+grindă	3
+îndrumătoare	3
+delegat	3
+cunoaștere	3
+alertă cutremur	3
+DCNews	3
+flirt	3
+reînnoire	3
+achitare	3
+diată	3
+ruletă	3
+pianist	3
+Palm Beach Gardens	3
+Gheorghe Burleanu	3
+Gică Burleanu	3
+clar	3
+zeu	3
+Melania Ursu	3
+colaps	3
+creditor	3
+validare	3
+michelin	3
+chef Samuel	3
+sud-vest	3
+Seismografele	3
+Ioana Balu	3
+cărucior	3
+contrasens	3
+diagonală	3
+Ploiesti	3
+N	3
+subducție	3
+Stan Vitalie	3
+Dragoș Udilă	3
+Challengerii	3
+Ralflo	3
+chef Foa	3
+CIAO	3
+PAID	3
+creare	3
+Odobești	3
+supraviețuitor	3
+bacă	3
+Seche	3
+urbe	3
+Bacă	3
+Sechelariu	3
+subteran	3
+lichidator	3
+expoziție	3
+reculegere	3
+Doru Sechelariu	3
+resentiment	3
+bebelușă	3
+Bella victorie Margot	3
+Julia	3
+Dimitrie Gusti	3
+polenizare	3
+colonie	3
+cuib	3
+plantație	3
+miță Ilie	3
+flacă	3
+doină	3
+lampă	3
+țesut	3
+Oradia	3
+sponsorizare	3
+dizabilitate	3
+castraveție	3
+castravet	3
+Pleșoiu	3
+antioxidant	3
+Cătălin Mihalache	3
+beton	3
+MIG	3
+picnic	3
+codruță	3
+codruță Ionescu	3
+neg	3
+excrement	3
+vaci	3
+trudă	3
+viză	3
+puncție	3
+Bordușelu	3
+viceprimar	3
+măcinat	3
+lagăr	3
+Focșaniului	3
+demolare	3
+supoziție	3
+beciu	3
+zâmb	3
+ricolae	3
+banană	3
+somon	3
+colectivizare	3
+Nicolae Munteanu	3
+alune	3
+cub	3
+sireană	3
+incendă	3
+tranșeu	3
+Putna	3
+NICOLETA CRISTEA	3
+Cristian Cazacu	3
+International_Organization Ialomița	3
+centimertip	3
+constrângere	3
+ortopedie	3
+uretră	3
+sechelă	3
+escare	3
+sfânt Ioan	3
+neurologie	3
+fârde	3
+barieră	3
+Mariana Preda	3
+Marianei	3
+ealker	3
+ajungă	3
+gheată	3
+specie	3
+Mariana stancă	3
+grozăvie	3
+gândacie	3
+grilă	3
+Calu Machedonu	3
+P_______ G_____	3
+Constantic J____	3
+prefix	3
+Carlos Machan	3
+J___ Leitao	3
+da Constantic J____	3
+DAPI	3
+Excelsior	3
+încrengătură	3
+suportabilitate	3
+hărțui	3
+clarificare	3
+Alina Bârgăoanu	3
+capptop	3
+formular	3
+Reims	3
+portret-robot	3
+Adrian romanică	3
+Adrian romanic	3
+influencer	3
+Viorel Demean	3
+câmpină	3
+Câmpina	3
+United_States_Dollar	3
+SCBI Craiova	3
+Mioara	3
+Real Madrid	3
+Doroftei	3
+Ana Cardoș	3
+Maria Cardoș	3
+intrare în	3
+răcel	3
+locuinței/gpodărie	3
+Corina Maniu	3
+analizare	3
+Dina	3
+Horia Țuțuianu	3
+Luca Singerman	3
+Montevideo	3
+gravitate	3
+Consppul_Efon	3
+Huanan	3
+cronică	3
+Codruț Kegheș	3
+Dan Dumitrescu	3
+Ioana Ginghină	3
+microbiologie	3
+oncologie	3
+corupere	3
+angelică Cadar	3
+implementare	3
+catastrof	3
+însușire	3
+Carolina Radu	3
+draft	3
+Mărioara Zăvoranu	3
+Masked Singer România	3
+mărioară	3
+umilire	3
+Nababul	3
+bjuterie	3
+Hârșova	3
+faleză	3
+patriarh	3
+#NAME?	3
+apendicită	3
+procură	3
+reconstrucție	3
+birocrație	3
+Julie	3
+Bicere	3
+Pepublica_Populară_Democrată_a_României	3
+Block	3
+vitrine	3
+Marian Dragoș Stoican	3
+iaht	3
+Ibiza	3
+Transporturi_Aeriene_Române	3
+HR	3
+lei/euro	3
+videoconferință	3
+Veklury	3
+Hannelore Ulrich	3
+Cătălin Rizea	3
+Klaus	3
+SARS CoV-2	3
+Auil_Dezoxiribonucleic	3
+Adrian Oros	3
+hipertensiune	3
+ROBOR	3
+deznodământ	3
+Robert Cazanciuc	3
+predictibilitate	3
+Lizeta Haralambie	3
+formulare	3
+reintrare	3
+5Gang	3
+transmie	3
+liberalizare	3
+Bali	3
+aleș	3
+Dimție_șera	3
+Tiberiu	3
+instabilitate	3
+concurenta-vedetă	3
+Emilian Popovici	3
+semestru	3
+Constantin Nicu	3
+Buckingham	3
+daruire	3
+emotională	3
+Lidia	3
+regasire	3
+tzancă	3
+Sorin Rada	3
+injectie	3
+Mărioara Chetraru	3
+paramedică	3
+Daiana Jelescu	3
+Gheorghe Dima	3
+Onești	3
+Buhuși	3
+Ion Doru Iagăru	3
+Vidin	3
+idol	2
+fiare	2
+amfiteatru	2
+verandă	2
+pergol	2
+piscine	2
+amenajare	2
+cititor	2
+task	2
+șotie	2
+Monica Anghel	2
+botox	2
+vasă	2
+violator	2
+mulatră	2
+Alin Stoica	2
+rating	2
+truc	2
+pod	2
+Mugur Mihăescu	2
+poruncă	2
+covrig	2
+Buteni	2
+Costel	2
+Dobrogeanu	2
+sclav	2
+împrejurime	2
+DJ	2
+autovehic	2
+Hesume_Flag	2
+exercitare	2
+Andrei Ștefînescu	2
+Ok	2
+sandal	2
+Arșinel	2
+sarutare	2
+nuanță	2
+adrenalină	2
+asemanare	2
+menajer	2
+călcat	2
+pradă	2
+mielușel	2
+agresare	2
+curand	2
+majorat	2
+tactică	2
+sondaj	2
+rector	2
+sprânceană	2
+estă	2
+Damian Drăghici	2
+Vali Vijelie	2
+anemia	2
+cură	2
+pupitru	2
+ripostă	2
+fâșie Gaza	2
+@IDF	2
+Iron domă	2
+Holon	2
+Tel Aviv	2
+calmare	2
+Sztojka Ivan	2
+ucigaș	2
+Sztojka	2
+Budapesta	2
+Sorin Cîmpeanu	2
+minstru	2
+Cîmpeanu	2
+județului/localitate	2
+Valeriu Gheorghiță	2
+Mihai Craiu	2
+coordonator	2
+purtătoare	2
+saturație	2
+antenă Stars	2
+stejar	2
+zi zi	2
+slavă	2
+mialgă	2
+artralg	2
+astenie	2
+urticarie	2
+frizer	2
+meu	2
+ligament	2
+EFE	2
+Johnson &Johnson	2
+manual	2
+instruire	2
+instrucțiune	2
+colac	2
+Sînă-Serea	2
+Serea	2
+Adi Sîna	2
+parcă	2
+autostradă	2
+porțiune	2
+tututor	2
+na	2
+Daniela Gyorfi	2
+Bă…da	2
+oară…mamă	2
+fete…Nu	2
+naibă	2
+bulendru	2
+moș Nicolae	2
+dulce	2
+catife	2
+fulger	2
+detractor	2
+dv	2
+explicat	2
+pașaport	2
+Oxford	2
+bunătate	2
+empatie	2
+f.	2
+furtună	2
+țeapă	2
+sculă	2
+puls	2
+nuuu	2
+colorată	2
+oară de cat oară	2
+puritate	2
+prospetime	2
+semnifactie	2
+insa	2
+pictor	2
+imbinare	2
+compozitie	2
+alegorie	2
+Asa	2
+Ion Petrișor	2
+demon	2
+Ovidiu Torj	2
+suspin	2
+recipient	2
+UGent	2
+Soir	2
+mânere	2
+frecvență	2
+Bayern	2
+France	2
+gamdel	2
+confluare	2
+fane	2
+Leah	2
+viroză	2
+vouă	2
+însănătoșire	2
+trimestru	2
+distrație	2
+calmul	2
+Alina Pușcaș	2
+Cosmin Seleși	2
+Jojo	2
+salutare	2
+pluș	2
+”rimomelonmer	2
+sperantă	2
+liniuță	2
+living	2
+conjunctură	2
+Adrian Streinu Cercel	2
+Adrian Marinescu	2
+genom	2
+SARS-Cov-2	2
+implicație	2
+emisferă	2
+Movilița	2
+Eforie nord	2
+triaj	2
+presupunere	2
+Tătaru	2
+disponibilitate	2
+instantaneu	2
+beber	2
+sămân	2
+defensivă	2
+inițiative	2
+patogen	2
+the Lancet	2
+South China Morning post	2
+carton	2
+atent	2
+raportuldegarda.ro	2
+risipă	2
+mililitru	2
+culcare	2
+metabolism	2
+depreciere	2
+yoga	2
+tonus	2
+blat	2
+termometru	2
+TelVerde	2
+Lienz	2
+tangență	2
+cinematograf	2
+Jinping	2
+sugestie	2
+the Tablet	2
+e-mail	2
+coronovirus	2
+penitențiarie	2
+celebrare	2
+liturghie	2
+recitare	2
+rozariu	2
+Via Crucis	2
+devoțiune	2
+crez	2
+invocație	2
+spovadă	2
+influențare	2
+Glasgow	2
+Kenya	2
+cornavirus	2
+Oana Cuzino	2
+CDC	2
+salivă	2
+incubație	2
+codie	2
+influenceriță	2
+flexibilizare	2
+link	2
+secreție	2
+mucoasă	2
+gravid	2
+rapiditate	2
+Pontif	2
+grupulet	2
+bisericuță	2
+multe	2
+KanalD	2
+Atalanta	2
+Valencia	2
+Bergamo	2
+german	2
+acumulare	2
+horă	2
+pastă	2
+vlogeriță	2
+iamă	2
+Netflix	2
+folosiță	2
+Claudiu Dumitrescu	2
+Cătălin Apostolescu	2
+mediafax.ro	2
+Agepres	2
+Repubblica	2
+compasiune	2
+reîntoarcere	2
+concretețe	2
+aspirație	2
+buzna	2
+Iancului	2
+Urbi et orb	2
+răposat	2
+LIVE	2
+Arcom	2
+evaziune	2
+Lucian Știube	2
+luțu	2
+albire	2
+îndreptare	2
+Constantin Drăgănescu	2
+infracționalitate	2
+episcop	2
+respirator	2
+grotă	2
+rai	2
+comor	2
+Justin Lessler	2
+farmacist	2
+judokă	2
+luptătoare	2
+Tokyo	2
+mas	2
+reîncărcare	2
+abonament	2
+BPay	2
+donare	2
+retentie	2
+detox	2
+sângerare	2
+dengue	2
+neonatologie	2
+fluidizare	2
+suplimentare	2
+patrimoniu	2
+procurare	2
+Boloș	2
+circular	2
+LIVERPOOL	2
+REAL	2
+MADRID	2
+MANCHESTER	2
+UNITED	2
+GOL	2
+reprize	2
+ROSENBORG	2
+U”	2
+CRAIOVA	2
+construire	2
+tuberculoză	2
+Bloomberg	2
+trotuare	2
+autoutilitare	2
+inamic	2
+defăimare	2
+insultă	2
+diavol	2
+înșiruire	2
+relevanță	2
+acuz	2
+Boroi	2
+încurcătură	2
+leasing	2
+prescurtare	2
+diferend	2
+teanc	2
+covid-19	2
+Scheletron	2
+Schel	2
+perfecte.ro	2
+Evelin	2
+igienica	2
+ploală	2
+fakă	2
+faimoasă	2
+Andra Măruță	2
+tip top Minitop	2
+baladă	2
+toamnă berbecană	2
+Titus Munteanu	2
+tătal Andrei	2
+minivedet	2
+doctor Costi	2
+pop-dance	2
+si R&B	2
+hit-	2
+secțiune	2
+dance si	2
+Eva Maria Ioana	2
+redefinire	2
+Alexandra Irina Măruță	2
+disc	2
+joi după-amiază	2
+trezire	2
+Andra Gogan	2
+doritor	2
+editor	2
+supranum	2
+SEXY	2
+FB	2
+zann	2
+Alin sălăjean	2
+Alin	2
+club Brugge	2
+Genk	2
+invatamant	2
+gradinit	2
+condit	2
+sfarsit	2
+expertizare	2
+aparitie	2
+arierat	2
+fundulețe	2
+nenumărație	2
+funduleț	2
+Roxana Ilie	2
+lupă	2
+Geanina Ilieș	2
+Angelina Jolie	2
+enjoy	2
+milion	2
+pizzerie	2
+tabere	2
+Sebastian	2
+antidot	2
+întrunire	2
+domicilie	2
+BlvckMatias	2
+reality	2
+nucă	2
+cocos	2
+Marilena Cuciurean	2
+Albert Oprea	2
+Sorin Pușcașu	2
+Belen	2
+Musty camară	2
+preselecție	2
+monstru	2
+paparazd	2
+ajustare	2
+Lavinia Pârva	2
+Raluca Sandu	2
+monică Bârlădeanu	2
+Romică Țociu	2
+misogin	2
+sonie Ferrari	2
+Sonia Ferrari	2
+normal	2
+Remus Ionuț Dumitrache	2
+falsitate	2
+ocupație	2
+zeiță	2
+remodelare	2
+bunicut	2
+resiță	2
+WOWbiz	2
+republică dominican	2
+aproapă	2
+păi	2
+brazdă	2
+poezie	2
+balenă	2
+iumor	2
+ileană	2
+convenție	2
+Suhaib Meshan	2
+Lupu	2
+Gabi	2
+Gabi Bădălău	2
+minus	2
+plânge	2
+️	2
+getă	2
+tabiet	2
+Lisina	2
+Delia Matache	2
+impediment	2
+opulență	2
+darie	2
+peripeț	2
+remix	2
+coregrafie	2
+Florica Crudu	2
+vior	2
+uimire	2
+mega-show	2
+rapper	2
+play	2
+louTubă România	2
+baby	2
+satisfacere	2
+ras	2
+prosop	2
+mărire	2
+parlamentar	2
+tinut	2
+bisturiu	2
+domnisoară	2
+castigator	2
+pozitie	2
+domnisor	2
+asalt	2
+discotecă	2
+amant	2
+povestire	2
+cântărate	2
+profunzime	2
+sexy-div	2
+tratat	2
+standard	2
+elixir	2
+Cosmina Păsărin	2
+repeat	2
+story	2
+Dodo	2
+intimă	2
+piată	2
+dragă	2
+descriere	2
+Livian Pop	2
+bac	2
+plictiseală	2
+razboi	2
+premiant	2
+tupeu	2
+A.F.	2
+educatie	2
+incheiere	2
+aritmetică	2
+zecimal	2
+rotunjire	2
+părlă	2
+drac	2
+competent	2
+oras	2
+publica	2
+retetă	2
+sambată	2
+vinovat	2
+@biancadragusanu18	2
+povestioară	2
+donjuan	2
+rand	2
+filaj	2
+insotită	2
+Cosminei	2
+pulbere	2
+sectie	2
+replicaonline	2
+Mario fresh	2
+Lino	2
+Tanti Rozalia	2
+Rozalia	2
+Brancu	2
+darie Radionova	2
+Zsolt Csergo	2
+Natalia	2
+nea Mărin	2
+nebunulă	2
+Aslan	2
+Range Rover Evoque	2
+DrugTest	2
+desert	2
+spynews.ro	2
+pară	2
+Aoleu Simina	2
+hitură	2
+desanto	2
+Ricardo	2
+destrămare	2
+Ellei	2
+reclamație	2
+ciao.ro	2
+pufuleț	2
+Alexandra Bodi	2
+rusoaică	2
+Temptation Island	2
+Bote	2
+mami	2
+boschetară	2
+accesare	2
+asortată	2
+Roxana Ciuhulescu	2
+alergare	2
+cuplu-bombă	2
+tractor	2
+Vioricăi	2
+Daniel Dumitru	2
+impresarie	2
+Dogo Canario	2
+Carmen Racolța	2
+garderobă	2
+wow	2
+creatoră	2
+subînțeles	2
+totalitate	2
+învățătură	2
+Fulgy	2
+pion	2
+muzică	2
+compoziție	2
+Killa	2
+Nicu Paleru	2
+Nelson mondial	2
+Mirela Vaida	2
+neam	2
+verișoare	2
+cameraman	2
+cruzime	2
+pozitiv	2
+scânteie	2
+drogat	2
+reality-show	2
+Shaggy	2
+numerologie	2
+numerolog	2
+frescă	2
+arhitectură	2
+damă	2
+reclam	2
+Samsung	2
+zacuscă	2
+contravaloare	2
+imperfecțiune	2
+feste	2
+youtubă	2
+fast-food	2
+veverită	2
+mancar	2
+Richard Gheorghe Emanuel	2
+Elias	2
+Richard	2
+întorsătură	2
+marți dimineață	2
+costumație	2
+hai	2
+Ruby Regina	2
+Rubyna	2
+Rubycon	2
+supervedetă	2
+titulatură	2
+însemn	2
+queen	2
+:regină	2
+paiet	2
+fast food	2
+condiment	2
+Pely	2
+sudor	2
+feta	2
+următor	2
+fentă	2
+Kim Jong	2
+brâu	2
+banchetă	2
+Maria Ilioiu	2
+indian	2
+Sincer	2
+Tudor Vladimirescu	2
+Pian	2
+rolex	2
+canapea	2
+Strugurel	2
+Andreea Raicu	2
+Cristina rus	2
+Lili Sandu	2
+Natalia Diacov	2
+anastasie Fotachi	2
+anastasie	2
+Rolls Royce-urile	2
+suburban	2
+Astomasifultuil_Românial group	2
+holding	2
+Stati&Co	2
+Leonardo Di Caprio	2
+pamelă	2
+frăție	2
+ușor-ușor	2
+Pro Fonsimotlum	2
+Dorian	2
+block	2
+cuptor	2
+mămăligă	2
+capră	2
+asemănare	2
+craciun	2
+țăndare	2
+Leonardo DiCaprio	2
+Anatol	2
+extravaganță	2
+Rolls Royce	2
+euforie	2
+BMW X6	2
+X5	2
+CASCO	2
+simonă	2
+Nikolaos Papadopoulos	2
+Minodora	2
+aicilol	2
+Eduard	2
+Maximus	2
+Silvius	2
+internat	2
+infractor	2
+brate	2
+Andrei Tiberiu Maria	2
+zar	2
+Miltiade văduvă	2
+gaj	2
+dobândă	2
+Stan Iulian	2
+Mototolea Florin	2
+bunăciune	2
+Ciprian pian	2
+sexy-brunetată	2
+menajament	2
+frână	2
+carambol	2
+Dan Bursuc	2
+paginademedia.ro	2
+ralitate	2
+naftalină	2
+gard	2
+acru	2
+plaj	2
+Și…	2
+distribuire	2
+Ionuț Nicolae	2
+Rosa Alexandra	2
+Spynews	2
+Radu Tudor	2
+container	2
+catering	2
+plutonier	2
+minibar	2
+lire	2
+stenogramă	2
+Darkare	2
+delapidare	2
+proveniență	2
+real	2
+paină	2
+mega-surpriză	2
+refuz	2
+șefu	2
+regal	2
+însurățee	2
+bandit	2
+Văliug	2
+Ferma”	2
+Oanei Turcu	2
+King Kong	2
+Cezar Petcu	2
+Robert Petriceanu	2
+filmulet	2
+Florentina	2
+Răzvan & Dani	2
+sexy-asistentă	2
+șuetă	2
+Manolache	2
+Alexandru Ion Cuza	2
+bărbie	2
+Tancu	2
+XXX	2
+dispensar	2
+F. C.	2
+traficant	2
+Magda	2
+Andrei Șelaru	2
+Gami	2
+Pain	2
+amică	2
+finețe	2
+Ionuț Mitrică	2
+Ionuț mitrică	2
+Joshua Castellano	2
+brăța	2
+paradis	2
+Salvatore	2
+Joshua	2
+Lorette Luca	2
+cateter	2
+pușcare	2
+kick-boxing	2
+lugojean	2
+îmbinare	2
+gale	2
+dribling	2
+Cristea	2
+Andreea Staicu	2
+curte de apel Brașov	2
+alin.3	2
+plasare	2
+concurrent	2
+diicoritatea_pentrucțe Brașov	2
+rotă	2
+sirian	2
+concordanță	2
+periculozitate	2
+pedepsă	2
+atentat	2
+Mararu	2
+Ioan Mironescu	2
+Răzvan Mararu	2
+calibru	2
+milimetru	2
+BMW X3	2
+Mihai Teja	2
+lichiditate	2
+onorarie	2
+Teo	2
+temut	2
+răfuială	2
+Mircea Ursu	2
+pomină	2
+VIP	2
+Dorinel	2
+impozit	2
+fierbere	2
+domnie	2
+Corado	2
+Mircea Nebunu’	2
+ilegalitate	2
+Menera_Nute	2
+Ardeal	2
+plus	2
+înlocuitor	2
+consoartă	2
+portocal	2
+Galatasaray	2
+reîntâlnire	2
+cârjă	2
+meme	2
+International	2
+class	2
+bai	2
+Felicitari	2
+Marie Jeanne Ion	2
+irakiană	2
+presedinte	2
+rapire	2
+captivitate	2
+Sorin Mișcoci	2
+lautar	2
+grupar	2
+violentă	2
+fraudă	2
+puscarias	2
+puscarie	2
+colt	2
+Desi	2
+inainte	2
+Betty Stroe	2
+Radu Baron	2
+sexuală	2
+solistă	2
+invitatie	2
+Copou	2
+Lucian Becali	2
+tei	2
+Bogdan Stancu	2
+Kazahstan	2
+național	2
+Braga	2
+Genclerbirligi	2
+Florica	2
+stagnare	2
+Sheffield Wednesday	2
+Southampton	2
+declin	2
+Răducanu Claudiu Nicu	2
+pârâte	2
+Mitroi Elisabeta	2
+Mitroi Ana	2
+Mitroi Nicolae	2
+Fundeni	2
+martoră	2
+relatare	2
+_nvinvintun_Cut	2
+logică	2
+geci	2
+vătămare	2
+necropsie	2
+Alexandra Marin	2
+Viktoria Plzen	2
+Lăcătuș	2
+Comana	2
+Bambi	2
+Elena Merișoreanu	2
+Andreas	2
+clonare	2
+Răducanu	2
+Pleșu Mihai-Alexandru	2
+curierat	2
+concubin	2
+George Păunescu	2
+peneacă	2
+Delta Dunăre	2
+spaimă	2
+pedală	2
+clientă	2
+estetician	2
+rinoplastie	2
+neconcordanță	2
+nepoțică	2
+cee	2
+jacuzdă	2
+inevitabil	2
+Metropolitan București	2
+Aqua	2
+tămbălău	2
+pipăială	2
+Cyrano	2
+Bergerac	2
+Mohammad Murad	2
+perlae	2
+Phoenicia	2
+biografie	2
+Vivant	2
+L’Insoumis	2
+finuță	2
+Lavinia	2
+fâș	2
+ecstasy	2
+ciupercă	2
+Anca Pavlon	2
+suspecție	2
+comprimat	2
+MDMA	2
+I____	2
+servitute	2
+pretext	2
+rezoluțiune	2
+operatiune	2
+înfiripare	2
+băltoacă	2
+fleașcă	2
+bucat	2
+etichetă	2
+Decebal	2
+RATB	2
+Naum Ciomu	2
+Ion Jiga	2
+Depardieu	2
+Uber	2
+zeamă	2
+compot	2
+cărniță	2
+gemen	2
+Pro România	2
+Prodromu	2
+așezământ	2
+hram	2
+Ioan Botezătorul	2
+licor	2
+Băluță	2
+ex-jucător	2
+Antonio Giani	2
+hand	2
+sedintă	2
+incendiară	2
+fantastică	2
+Mirko Pigliacelli	2
+cetățeanie	2
+tutelă	2
+Morais	2
+Oliveira	2
+Jonathan	2
+Rodriguez	2
+Fortes	2
+Montini	2
+Dunăre	2
+Martic	2
+Diego Fabbrini	2
+ceafă	2
+turc	2
+acceptare	2
+Tristan Tate	2
+Larisa Munteanu	2
+rând pe	2
+brazilian	2
+Fashion Days	2
+Juli	2
+Network One Distribution	2
+electrocasnic	2
+porție	2
+offic	2
+Flanco	2
+showroom	2
+casetă	2
+catalog	2
+contabil	2
+antreprenor	2
+creanță	2
+chinezie	2
+BB Erzurumspor	2
+presupus	2
+National arenă	2
+magie	2
+gazon	2
+optim	2
+federatie	2
+gazda	2
+stabiliment	2
+Irina Vizer	2
+inceput	2
+singură	2
+Cosmin Contra	2
+Marica	2
+Cristian Manea	2
+salt	2
+Apollon Limassol	2
+culis	2
+Jeremy Bokila	2
+Diogo Salomao	2
+Tha’er Bawab	2
+Daminuță	2
+antreprenoare	2
+magician	2
+mega-telenov	2
+țiglă	2
+atletă	2
+inteligență	2
+Produs_Intern_Brut	2
+Esther	2
+Perel	2
+răcire	2
+adulter	2
+Didier Deschamps	2
+FFF	2
+mondial	2
+Deschamps	2
+Stade	2
+românii-fantomă	2
+Pcetrie_pepate	2
+baschet	2
+conațional	2
+mafie	2
+filieră	2
+futsal	2
+raliu	2
+nelaloc	2
+Alex Tudorie	2
+Gabriel Enache	2
+nădejde	2
+Nordului	2
+Hapoel Beersheva	2
+Lampard	2
+activ	2
+Gabriela Pintilii	2
+arabie	2
+mijlocas	2
+medicală	2
+sexy-impresară	2
+euroa	2
+Georgia	2
+Liechtenstein	2
+semifinal	2
+doleanță	2
+Il	2
+vici	2
+randament	2
+reziliere	2
+Pompiliu Popescu	2
+vene	2
+valvă	2
+crampă	2
+mâncărime	2
+varică	2
+regularitate	2
+nutriție	2
+Ionuț Lupescu	2
+Breaking news	2
+Breaking	2
+ciob	2
+judecatorie	2
+astazi	2
+Cristi Daminuță	2
+pubalgie	2
+repaus	2
+https://goo.gl/xwaUPb+	2
+https://goo.gl/GPd2xrScandalos!	2
+Cezar Ouatu	2
+Ouatu	2
+https://goo.gl/qdF5s6	2
+cavaler	2
+Mihai &	2
+lady Di	2
+Argeșului	2
+strămoș	2
+calificativ	2
+ideal	2
+sincronizare	2
+libertatea.ro	2
+ceremonial	2
+înlăturare	2
+Heinz Binder	2
+Rin	2
+colos	2
+Medforth Mills	2
+înrăutățire	2
+gazetă	2
+miriuță	2
+lanternă	2
+forfotă	2
+Atterbury	2
+mallu	2
+alunecare	2
+dărnicie	2
+așa-zis	2
+afinitate	2
+bot	2
+Sexy-impresara	2
+Prodancei	2
+abstracție	2
+Bălan	2
+Ioan Andone	2
+Andone	2
+baterie	2
+șumudică	2
+Sorin Condurache	2
+clipă de	2
+Diana Maria	2
+jurnalistă	2
+sexy-impresare	2
+Ekeng	2
+Adrian Motoacă	2
+angrenaj	2
+Ghencea	2
+DINAMO	2
+Midtjylland	2
+Luzern	2
+Larnaca	2
+goalkeeper	2
+Reagy Ofosu	2
+Eduard Pap	2
+Enriko papă	2
+coordonată	2
+egalare	2
+Răzvan Pleșca	2
+Scoției	2
+efectiv	2
+Neil Lennon	2
+Nicolae Stanciu	2
+Alexandru Băluță	2
+olandezie	2
+Zagreb	2
+Ferencváros	2
+Copenhaga	2
+Porto	2
+Champions	2
+TG	2
+Krasnodar-	2
+cornere-	2
+gol-	2
+marcare	2
+contru	2
+Mlada	2
+vitorie	2
+Epaminonda Nicu	2
+detadime	2
+Curriculum_Vitae	2
+mediaș	2
+Croitoru	2
+punte	2
+Naomi Osaka	2
+Ashleigh Barty	2
+debutant	2
+Zilei- pariu 1X2	2
+cornere-cotă	2
+Stockholm	2
+&peste	2
+Ludogorets	2
+Atena-	2
+Linfield	2
+Slovan	2
+Bratislava	2
+Ararat-Armenia	2
+Riga	2
+Feyenoord	2
+Tel	2
+Aviv	2
+Yehuda	2
+Malmo	2
+Sheva	2
+Alkmaar	2
+Mariupol	2
+Frankfurt	2
+PSV	2
+Strasbourg	2
+Molde	2
+Jurgen Klopp	2
+Jorginho	2
+Panțîru	2
+Bilbao	2
+Lyon	2
+Hermannstadt-	2
+Dușan Uhrin jilopar	2
+Ilie Oană	2
+Gheorghe	2
+Iasi	2
+cornere	2
+Paderborn	2
+Manchester City	2
+Tottenham	2
+Masopus	2
+î	2
+belgian	2
+AZ Alkmaar	2
+Sorin Cârțu	2
+manie	2
+Astana-	2
+Celtic-	2
+Ludogorets-	2
+Wolverhampton	2
+AZ	2
+Man	2
+pri tv	2
+Bălgrădean	2
+Uniunea_Europeană open	2
+C. Norrie	2
+perepora_Pomulară_Democrată_a_României Herbert	2
+Dusan Uhrin jilopar	2
+Dinamo Zagreb	2
+Maksimir	2
+grec	2
+Young	2
+Boys	2
+americancă	2
+Gibbs	2
+Grand slam	2
+Crawley	2
+Norwich	2
+B.	2
+Fortuna	2
+casapari	2
+vizionare	2
+Cristiano Bergodi	2
+UTA Arad	2
+constanță	2
+românia-	2
+far	2
+seturu	2
+KYRGIOS	2
+AL	2
+DRĂGAN GEORGIANA MIRELA	2
+delegație	2
+cauzalitate	2
+million	2
+Carmen Adamescu	2
+năbădă	2
+cataramă	2
+amicel	2
+Ganea	2
+dană	2
+/sau	2
+Tudor Barbu	2
+puriu	2
+Luana Rednic”	2
+injurie	2
+curvă	2
+derapaj	2
+povară	2
+casual	2
+Nuțu cămătaru	2
+belșug	2
+porumbel	2
+Beverly Hills	2
+sexy-finuță	2
+Luminita	2
+paznicul	2
+razboinic	2
+parcagiu	2
+Daca	2
+Mircea Baniciu	2
+impresariat	2
+dezertare	2
+Puljic	2
+Cristian Gheorghiță	2
+Ștefan Bănică Junior	2
+Tuncay Öztürk	2
+fizioterapeut	2
+Roman	2
+Tuncay Ozturk	2
+flavie	2
+primăvere	2
+Neatza	2
+timă	2
+Brigitte Năstase	2
+pandură	2
+navetă	2
+fasă	2
+Produs_Intern_Brut Television	2
+Blochina	2
+motolcă	2
+talpă	2
+scris	2
+saltea	2
+sexy-prezentatoarea	2
+încăpățânare	2
+consolare	2
+robinet	2
+loverboy	2
+stațiunea-fanion	2
+sosie	2
+Vader	2
+super-lux	2
+Adrian minune	2
+șanț	2
+Thailanda	2
+fract	2
+stativă	2
+norocos	2
+becură	2
+autograf	2
+fiice	2
+FCM Bacău	2
+fotografiat	2
+participantă	2
+loțiune	2
+curte de apel Oradea	2
+Micula jilopascal	2
+Omar Farag	2
+Faraon	2
+egipten	2
+Omar	2
+piramidă	2
+Anisia Gafton	2
+Cătălin Bordea	2
+Silviu Andrei	2
+Bujor Sion	2
+executiv	2
+inspecție	2
+Ioana Pavelescu	2
+RA-APPS	2
+pirostrie	2
+executor	2
+personă	2
+super-vacanță	2
+lectură	2
+longboard	2
+puseu	2
+adopție	2
+ateneu	2
+senat	2
+Helmuth Duckadam	2
+civilizație	2
+integritate	2
+decorațiune	2
+Olimp	2
+magnat	2
+dezamagire	2
+legatură	2
+Mirela Boureanu Vaida	2
+Costa Rica	2
+atribut	2
+Uță Ștefan	2
+urmări	2
+prăvălie	2
+Lujerului	2
+Sofian	2
+Wael	2
+G	2
+modei	2
+suspans	2
+Cayenne	2
+carnet	2
+super-motocicletă	2
+Gabriel Bivolaru	2
+uriaș	2
+Carminei	2
+vanzare	2
+Don Vito Corleone	2
+nas Godfather	2
+the	2
+M*a*s*h	2
+Artmark	2
+Ferrari F399	2
+Michael Schumacher	2
+mondială	2
+jeep	2
+remorcă	2
+aliat	2
+V12	2
+Comunitatea_State	2
+inaltime	2
+calator	2
+expozitie	2
+vip	2
+odinioară	2
+mediatizare	2
+exprimare	2
+delict	2
+cuantificare	2
+afirmare	2
+imprudență	2
+morală	2
+atragere	2
+poartă alb	2
+Ami	2
+rid	2
+excelență	2
+Monica	2
+you	2
+puști Mihnea	2
+Vasile Blaga	2
+Victor Marcu	2
+DigiSign său	2
+securizare	2
+certificare	2
+interesant	2
+Dan Berendel	2
+eludare	2
+FSDP	2
+Adelinei Pestrițu	2
+Anastasia Maria	2
+Nissan	2
+GTR	2
+Dan Grigoriu	2
+după-amieză	2
+indemnizație	2
+Isărescu	2
+Virgil Steblea	2
+tuning	2
+Mansory	2
+LOFT Mamaia	2
+George Călin	2
+maturizare	2
+Leryn	2
+sulită	2
+Novak	2
+saptamana	2
+parere	2
+gratar	2
+pacan	2
+castig	2
+incredere	2
+Mercedes AMG S Coupe	2
+cafenelă	2
+Băsescu	2
+Eba	2
+Alin Petrache	2
+fotbal_club viitor	2
+whisky	2
+colorat	2
+voleu	2
+fler	2
+Craciun	2
+Kabirou	2
+iscusită	2
+Mirunica	2
+scandalagiu	2
+Voduț	2
+AS Roma	2
+Totti	2
+Cătălin Tomata	2
+Paulei Milea	2
+rotație	2
+Roger Bilham	2
+the Guardian	2
+Ioan Verdeș	2
+șamanie	2
+Peru	2
+Donald Trump	2
+matematică	2
+tectonică	2
+ochelar	2
+Alessia	2
+Hector	2
+optică	2
+prelucrare	2
+rănire	2
+kit	2
+rost	2
+axa	2
+zadar	2
+culegere	2
+hobby-ur	2
+viroz	2
+adrenalina	2
+învățător	2
+guvernatoare	2
+cerință	2
+apatie	2
+rememorare	2
+Supermodels by Cătălin Botezatu	2
+Akim Alexandru	2
+Vincenzo	2
+Ștefania	2
+libelulă	2
+Cătălin Gheorghe Tomată	2
+cosmar	2
+operatie	2
+judo	2
+critic	2
+cărămidă	2
+desprindere	2
+teritor	2
+BaZi	2
+defect	2
+nesiguranță	2
+anvergură	2
+coborâș	2
+interiorizare	2
+mâhnire	2
+interfon	2
+Akim	2
+Neața	2
+erecție	2
+tinder	2
+ustensilă	2
+Felix	2
+Gherghe	2
+vălean de	2
+brăilean	2
+crăpătură	2
+nenă	2
+întorsură Buzăului	2
+Târgu Secuiesc	2
+RO-ALERT	2
+îngăduință	2
+încălțăminte	2
+picant	2
+pierce	2
+orgasm	2
+cutremit	2
+citi	2
+iepure	2
+dragon	2
+rezoluție	2
+Am/N-am	2
+cătușă	2
+subconștient	2
+remușcare	2
+concepție	2
+seismic Center	2
+ingrijorare	2
+metafizic	2
+nutrient	2
+acuratețe	2
+polaritate	2
+Yin	2
+sinistrat	2
+predispoziție	2
+țel	2
+reorganizare	2
+‘Neatza	2
+Loredana Dinu	2
+scrimă	2
+plană	2
+fior	2
+miscare	2
+studenție	2
+Anna Szeles	2
+Iurie Darie	2
+ileană Sandu	2
+Alexandru Repan	2
+economist	2
+Palm Beach County	2
+rezidenție	2
+serbare	2
+Vasile Geambazi	2
+protest	2
+fierbinte	2
+frânghi	2
+prost	2
+harte	2
+Ciolpani	2
+axă	2
+locui	2
+Dacia	2
+Marius Bodochi	2
+Bodochi	2
+înșelat	2
+recuperator	2
+aparență	2
+tardivitate	2
+B___ E_________	2
+navtevini	2
+debitor	2
+lămâie	2
+’Neatza	2
+PRO	2
+orășel	2
+Masterchef	2
+McLaren	2
+suficiență	2
+falie	2
+NE-SV	2
+Alexandra Crișan	2
+Vlad Musta	2
+Francesca Ilie	2
+juriu	2
+oponent	2
+Francesca	2
+Carla’s	2
+Dreams	2
+Foa	2
+stire	2
+A.S.	2
+Nicoleta Radu	2
+susan Hough	2
+susan	2
+Hough	2
+stirilekanald.ro	2
+Baguette Caprese	2
+Baguette Peking	2
+Baguette tandoor	2
+grătar	2
+mozzarella	2
+mâncăr	2
+Michelin	2
+OMV Aktiengesellschaft	2
+interpreta	2
+Cătălina Cristea	2
+Anamaria Ferentz	2
+Diana Ghenu	2
+Biblie	2
+fotbal_club Bacău	2
+Robert Olandezu’	2
+Fodume_tlun	2
+asociatie	2
+penalizare	2
+rugbist	2
+prețuire	2
+Bentley Bentayaga First Edition	2
+remunerație	2
+datină	2
+Orlești	2
+Horezu	2
+arhivar	2
+coafeză	2
+țesătură	2
+cortegiu	2
+Doru Sirius Sechelariu	2
+ceapă	2
+Doru	2
+Maybach S500	2
+rang	2
+migală	2
+coșuleț	2
+află	2
+bio	2
+Cosmin Dragu	2
+stup	2
+insectă	2
+dungă	2
+femelă	2
+fag	2
+polen	2
+cere	2
+Alex Drăghici	2
+hectar	2
+mârșan	2
+căpșunile	2
+nocturnă	2
+săftică	2
+iluminat	2
+ștergare	2
+gătit	2
+Ialomiței	2
+Luciu	2
+Ana Banu	2
+învățătoare	2
+veteran	2
+miță	2
+ștergar	2
+gospodine	2
+tocănița	2
+murătură	2
+Adrian Mutu	2
+traducere	2
+colind	2
+leac	2
+lup	2
+producătoare	2
+croitoreasă	2
+pruncă	2
+fișă	2
+episcopie	2
+protopop	2
+boltă	2
+fațadă	2
+finisaj	2
+ger	2
+pictură	2
+slujire	2
+demisol	2
+diabetică	2
+Ion Păunel	2
+insulină	2
+glicemie	2
+Momordica	2
+textură	2
+castravat	2
+nutriționist	2
+suferind	2
+diminuare	2
+originalitate	2
+amărăciune	2
+ghiozdan	2
+bonă	2
+ison	2
+doctorat	2
+adoptare	2
+îmbrăcăminte	2
+peruce	2
+Galenus	2
+hemoragiu	2
+Simona Balint	2
+Quimperlé	2
+găin	2
+brad	2
+”otbantin	2
+măriucă	2
+Olandeza	2
+Măriuca	2
+lale	2
+varză	2
+Haga	2
+ciulin	2
+cooperativă	2
+armurariu	2
+cultivator	2
+grâu	2
+scaiet	2
+Frusinica	2
+apoie	2
+fân	2
+Cecilia	2
+boabă	2
+Tudor	2
+pampers	2
+Ceaușescu	2
+ruină	2
+Focșaniul	2
+altădată	2
+cârcium	2
+Florin dîrdală	2
+oficialitate	2
+Unirei	2
+focșaniu	2
+Oituz	2
+săpătură	2
+hrubă	2
+livadă	2
+goană	2
+Cristian mantă	2
+tipologie	2
+cană	2
+feedback	2
+responsabil	2
+mineral	2
+caloare	2
+nuce	2
+avocado	2
+suprimare	2
+broccol	2
+faină	2
+reformă	2
+chiabur	2
+colectiv	2
+Costică Budu	2
+Marian Apostu	2
+băț	2
+castron	2
+predică	2
+mazăre	2
+fântână	2
+vânător	2
+ventilație	2
+focșănenie	2
+peșteră	2
+International_Organization Vrancea	2
+Mărășești	2
+Cosma	2
+tranșee	2
+script	2
+încetare	2
+azi-dimineață	2
+retribuție	2
+deviză	2
+alocație	2
+controlor	2
+indice	2
+Slăvescu	2
+Barbu Catargiu	2
+Laurențiu Tudor	2
+meleag	2
+Cioloș	2
+detașare	2
+Vulturu	2
+Ioan Lefter	2
+Nicoleta Plugaru	2
+devotament	2
+vrâncean	2
+proces-verbal	2
+prognostic	2
+fixator	2
+ortopezie	2
+pansament	2
+tinitus	2
+dăruire	2
+tijă	2
+paralizie	2
+escar	2
+mobilitate	2
+Ionel Petrea	2
+pastor	2
+Elisabeta	2
+Cuba	2
+conservator	2
+tristetă	2
+Romanii	2
+neliniste	2
+atată	2
+usurintă	2
+butonand	2
+consiliată	2
+HKU University of the Arts Utrecht	2
+violonist	2
+arcuș	2
+colier	2
+party	2
+Maria Isabela	2
+dantelă	2
+capă	2
+sacou	2
+Dan Diaconescu	2
+Madalin Ionescu	2
+ebrietate	2
+Mădălin Ionescu show	2
+Bella Victoria Margot	2
+paradă	2
+tandreță	2
+corespondent	2
+documentare	2
+Halep	2
+climat	2
+hibrid	2
+meteo	2
+filtru	2
+intermediere	2
+Del Piero	2
+Andrei Barzaghideanu	2
+Due Carrare	2
+miraj	2
+masinută	2
+@taviclondă	2
+evictorian	2
+chiuvetă	2
+sertare	2
+dulăpior	2
+gonge	2
+fobie	2
+gong	2
+Anamaria Nyeki Popa	2
+til	2
+trapă	2
+tăiere	2
+lacăt	2
+fregată	2
+torpilă	2
+trufandal	2
+alias Calu	2
+Grisogono	2
+examinare	2
+arc de triumf	2
+B____	2
+pizză	2
+G________ Statele_Unite_ale_Ammivertifis	2
+carat	2
+autenticitate	2
+J___ _	2
+givvvvi	2
+Statele_Unite_ale_Ammivertifis	2
+artor	2
+P_______	2
+amprent	2
+cârmă	2
+vileag	2
+compromițăoare	2
+favor	2
+intentare	2
+nepotism	2
+Ion Peligrad	2
+mângâiere	2
+necesar	2
+confederație	2
+Irlandă	2
+charter	2
+tranzitare	2
+staționar	2
+control/d	2
+e	2
+aplicabilitate	2
+Parisien	2
+prindere	2
+FBI	2
+Imagetrak	2
+Chicago	2
+fizionomie	2
+Carmen Kraiczar	2
+Alinuța	2
+subsemnată	2
+Marian Popovici	2
+rudărie	2
+pliantă	2
+Sabin	2
+spital urgență	2
+Căile_Ferate_Române Ploiești	2
+Bogdan Nica	2
+dsp Prahova	2
+UPU	2
+offsid	2
+Tunari	2
+Sanz	2
+Lucian Bute	2
+marș	2
+cos	2
+Putin	2
+slogan	2
+Kremlinului	2
+rușă	2
+Kremlin	2
+Trump	2
+aparținător	2
+transportator	2
+Vela	2
+judet	2
+MARCEL VELA	2
+STREINU-CERCEL	2
+spitol	2
+indignare	2
+mirror.co.uk	2
+sinus	2
+inflamație	2
+Art.1	2
+legitimație	2
+apatrid	2
+contagiozitate	2
+slujitor	2
+dispnee	2
+hepatică	2
+DZ	2
+acută	2
+hemodializă	2
+Hunedoara-	2
+Parkinson	2
+Adrian Streinu-Cercel	2
+felie	2
+unt	2
+britanic	2
+Ioan cel	2
+Paște	2
+Colosseum Tournament	2
+Nedim Nuhanovic	2
+Balcanilor	2
+Marianne Faithfull	2
+the Royal London Hospital	2
+Britania	2
+branapress.com	2
+John Borison	2
+infirmieră	2
+Antena3	2
+sistare	2
+București-Ilfov	2
+Madonna	2
+remediu	2
+biosecuritate	2
+Mike Ryan	2
+îndrumare	2
+##statiacasa	2
+updat	2
+protectoare	2
+oferire	2
+SARS-COV2	2
+Larry Klayman	2
+Buzz Photos	2
+șoaptă	2
+Davin	2
+angelică	2
+Jen Andonian	2
+Matt Shearer	2
+fericiție	2
+super-producție	2
+difuzare	2
+milopascal CONSTANTIN ENE	2
+comportare	2
+conștientizare	2
+Alex Papadopol	2
+alexandru Papadopol	2
+n.r. infidelitate	2
+Ruxandr	2
+Horia Talfeș	2
+metrou	2
+Gertjan Medema	2
+KWR	2
+Tăda_Emiss_Social	2
+Viorel cataramă	2
+palton	2
+Oanei Zăvoranu	2
+fomistă	2
+homosexual	2
+țigancă	2
+Wowbiz	2
+Stelian Ogică	2
+viscol	2
+gravidă	2
+Ana Morodan	2
+tic	2
+zerou	2
+realizator	2
+Ioana Zăvoranu	2
+Ioan Bănicioiu	2
+Bănicioiu	2
+latino-lover	2
+Ionuț Nicolae Pascu	2
+Ionașcu	2
+cuscră	2
+Hrebenciuc	2
+Ramonei Bădescu	2
+Rocsanei Marcu	2
+Cristina Noapteș	2
+Narcis Godeanu	2
+Alexandru Noapteș	2
+scântă	2
+pisoi	2
+motănel	2
+Rosa	2
+compunere	2
+intensificare	2
+protoierie	2
+stabilizare	2
+Mihaela Dorobanțu	2
+bucure	2
+instructaj	2
+dvs	2
+Victor Slav show	2
+Bursucu	2
+ronă	2
+Hartner	2
+Molnar Geza	2
+detergent	2
+antena3.ro	2
+deviație	2
+sept	2
+marș­	2
+Noah Andrei	2
+zmeură	2
+fulg	2
+ovăz	2
+stevie/green	2
+albuș	2
+crakerd	2
+proteina	2
+UV	2
+găină	2
+românce	2
+Cașcavelei	2
+formalitate	2
+per.mere	2
+lipsire	2
+înlesnire	2
+Zalău	2
+lune	2
+Belgiei	2
+planșă	2
+proxenetism	2
+prostituat	2
+Tomiță	2
+Europol	2
+Lili	2
+Alexandru Abramiuc	2
+Cezar Osiceanu	2
+deminea_Comu_alo_de_Rotball_Associat_Bințri_de	2
+declaratie	2
+Akebono	2
+Cristian Comănici	2
+Marinela Mavrodin	2
+adept	2
+poet	2
+Patria	2
+CRSC	2
+democrație	2
+românie	2
+sitjate	2
+Raluca Marina	2
+bella	2
+Daniel ambrozie	2
+spină	2
+Bubu	2
+promulgare	2
+certificatul/avizul	2
+cătă	2
+autostop	2
+băiață	2
+alveolă	2
+AAPR	2
+poliartrită	2
+divergență	2
+Tedros Ghebreyesus	2
+Ghebreyesus	2
+OncoGen	2
+livian	2
+decadă	2
+europarlamentar	2
+credibilitate	2
+bâjbâială	2
+liberal	2
+GRECIA	2
+frmont	2
+coteținou	2
+numor	2
+Țcrmus_pronetar	2
+consens	2
+iepuraș Playboy	2
+bâlbe	2
+purtat	2
+Nicolae Ciucă	2
+Dragoș Turcitu	2
+Turcitu	2
+tikipedie	2
+america	2
+ã	2
+Bang&Olufsen	2
+Nicolae Titulescu	2
+moment de	2
+guvernant	2
+incompetență	2
+dezbatere	2
+explozie	2
+ciobănesc	2
+limfom	2
+înfruntare	2
+hub	2
+Baumgarten	2
+megawat	2
+vechime	2
+lei/oră	2
+bucătare	2
+prestare	2
+Ionuț Ghenu	2
+dânșă	2
+Andre	2
+Traian Spak	2
+Pais	2
+Muntenia	2
+Dobrogea	2
+înregistare	2
+ară	2
+răcorire	2
+demonstrație	2
+coronavrius	2
+Time	2
+RT	2
+Calistrat	2
+aghiasmă	2
+anaforă	2
+Stylianos Syrmoglou	2
+Dan Voiculescu	2
+hiperimună	2
+Scmunizatea_Statelor_Unite	2
+donator	2
+sexy-vedetă	2
+Ex-concurenta	2
+Otiliei Bilionera	2
+Esquire	2
+Petru	2
+sex-tape	2
+Ovidiu Wlassopol	2
+Iisus Hristos	2
+ortodox	2
+catolic	2
+evreu	2
+prut	2
+fum	2
+duce	2
+Windsor	2
+duce de	2
+Landshut	2
+Multumesc	2
+Ionel Oprea	2
+Lidiei	2
+e-nțelepciune	2
+L.B.	2
+sufletel	2
+privilegiu	2
+predare	2
+Octavian Sfăt	2
+Romexpo	2
+ncil	2
+redechidă	2
+restauranre	2
+school-	2
+grăiniță	2
+Happy	2
+Oprah Winfrey	2
+Mihai burtă	2
+Insider	2
+unghie	2
+oncolog	2
+Ascorezla_Mmondare	2
+antecedent	2
+International_Organization Bucuresti	2
+morfină	2
+modicela	2
+profemor	2
+ALEXANDRU RAFILA	2
+termoscanere	2
+licee	2
+Astrid Fodor	2
+termoscaner	2
+Drobeta Turnu Severin	2
+furtură Auto	2
+Inited_States_domân	2
+Daianei	2
+Liviu Miroșeanu	2
+Domenico arc	2
+Doru Nemuritoru	2
+Negruța	1
+Antonin Pius	1
+persecuție	1
+hotărâr	1
+procons	1
+Antonin	1
+trianopol	1
+ofrandă	1
+Zeus	1
+mucenicia	1
+mielușea	1
+iisusă	1
+miră	1
+jertfă	1
+prihană	1
+milostiv	1
+sun Leader	1
+mansard	1
+aluminiu	1
+Sun Leader	1
+delectare	1
+parcus	1
+precipitație	1
+prepara	1
+fantastic	1
+oncă	1
+Vio	1
+instastory	1
+etichetare	1
+gospodina	1
+toate	1
+dezechilibrul	1
+#NAME?	1
+știint	1
+Ingrid Carandino	1
+fiolă	1
+decompensare	1
+Ingrid	1
+Fanatik	1
+picioruș	1
+Happy feet	1
+n.r. picioruș	1
+pătuț	1
+drivă	1
+preșcolar	1
+Constantin Tănase	1
+observație	1
+Matei Bals	1
+vijelie	1
+Excusiv VIP	1
+Alexa	1
+captură	1
+cool	1
+parenting	1
+militărie	1
+Ivona	1
+desăvârșire	1
+esențial	1
+Mugur	1
+Ivona Mihăescu	1
+temelie	1
+măturător	1
+umorist	1
+covrigă	1
+zgârenie	1
+periam	1
+Acb	1
+Porperties	1
+Inc	1
+Alina Cristian Borcea	1
+Acb United_States_domânia LLC	1
+Transpeco LLC	1
+Aivid LLC	1
+ogradă	1
+fermitate	1
+Bode	1
+criticarad.ro	1
+îngrjire	1
+Ineu	1
+girator	1
+Constantin Stăncună	1
+sătean	1
+bici	1
+Costel Dobrogeanu	1
+Sile Pietroi	1
+Mihăilești	1
+auto	1
+comiterie	1
+lovire	1
+luc	1
+Tacataca	1
+enigmă	1
+trecet.	1
+Sexy	1
+mamă sexy	1
+imprimeu	1
+Kanal D. Cătălin Botezatu	1
+toculeț	1
+săndăluță	1
+bătrânat	1
+furcă	1
+urologie	1
+străfund	1
+Mihai Lucan	1
+urolog	1
+neratat	1
+salopetă	1
+șal	1
+poartă Alba	1
+rugământ	1
+Sao Paulo	1
+vitreg	1
+Mihaela Borcea	1
+Patrick	1
+Melissa	1
+George Alexandru	1
+Simona Dana Voiculescu	1
+Andreina	1
+Carolyn Christine	1
+gemenă	1
+Indira Maria	1
+ranie	1
+menajeră	1
+vagabond	1
+the Music pub	1
+Husein Daniel Gabriel Dasaev	1
+Husein Gabriel Daniel	1
+Dasaev”	1
+Craciun jilopascal	1
+Nicu Craciun	1
+detinator	1
+feciorie	1
+fotomod	1
+pacate	1
+necredibilă	1
+iasă	1
+bună	1
+intalnire	1
+ocultă	1
+informat	1
+marator	1
+Viorel Jinga	1
+anti-COVID-19	1
+b1ir	1
+PLAY	1
+superproducție	1
+super-atmosferă	1
+Senteș	1
+Jean	1
+mnă	1
+loredană	1
+analfabet	1
+needucat	1
+căruță	1
+episor	1
+menstruație	1
+amețea	1
+RMN	1
+endoscopie	1
+colonoscopie	1
+post shared by	1
+ok.magazine.ro	1
+Palestina	1
+benjamin Netanyahu	1
+fășie Gaza	1
+tel	1
+aviv	1
+Hanadi	1
+raid	1
+Jihadului	1
+enclavă	1
+Raw Aerial Footage	1
+This is the that	1
+Israel Security Agency carried out	1
+targeted strike	1
+Samah Abed al-Mamluk & other senior members of his unit	1
+They were among those responsible for hundreds of rockets fired at Israelis	1
+pic.twitter .com/3DLj2UVdCm	1
+Israel Defense Forces	1
+May	1
+militant	1
+the Jerusalem post	1
+One of the 100s of rockets that were just fired from Gaza toward Tel	1
+Israel Aviv and central exploded on	1
+bus	1
+Hamas’	1
+clear	1
+kill	1
+Israeli	1
+We won’t happen	1
+by	1
+and	1
+let	1
+this	1
+pic.twitter .com/aNsA3dlgMe	1
+Israel Defense Forces May	1
+Ben-Gurion	1
+decolare	1
+Lefler	1
+Oana Roman…	1
+Albu	1
+eochi	1
+Oanei Roman	1
+eliberere	1
+păsărilă	1
+borsonline.hu	1
+Szombbatahely	1
+nou-nouț	1
+Siófok	1
+borsonlină	1
+.hu	1
+Veszprem	1
+aerisire	1
+wellness	1
+servire	1
+tmeut	1
+referitor	1
+rezident	1
+Sse	1
+oral	1
+post shared Anca	1
+Citeșt	1
+CEPCB	1
+Johns Hopkins CSSE	1
+alocare	1
+slot	1
+bunicuță	1
+scumpă	1
+tvânt	1
+cioroi	1
+menisc	1
+grup comunicare	1
+Janssen	1
+adenovirus	1
+info	1
+pupăză	1
+Florin Căruceru	1
+FOCUS	1
+Andreea Berecleanu	1
+Marius Saizu	1
+Sînă	1
+fertinină	1
+primoMinistru	1
+lărgire	1
+Buurești	1
+expropierem	1
+Vedetei	1
+Varna	1
+calciu	1
+magneziu	1
+prăpastie	1
+veșnicie	1
+tampon	1
+condus	1
+alergat	1
+atâtel	1
+Maria Gyori Tal	1
+Gyorfi	1
+sinopar	1
+WalKeR	1
+pegi-pegi	1
+viațăă	1
+rebelie	1
+observatornews.ro	1
+separatist	1
+worldometers.info	1
+plastilină	1
+halat	1
+Cristoiu	1
+Cozmin Gușă	1
+grăd	1
+copi	1
+rechizită	1
+uniformă	1
+panaram	1
+Radu	1
+Nemeș”	1
+Altcineva	1
+♬ astronaut	1
+the Ocean	1
+Masked Wolf Jador	1
+*Referitor	1
+Adi sână	1
+patronal	1
+nuwait	1
+#NAME?	1
+Traian Bădulescu	1
+Acadenian	1
+BioNTech	1
+„stat	1
+zâmbet	1
+fanatik	1
+Marriam Ahmad	1
+Grange	1
+Cwmbran	1
+incubator	1
+Khadija	1
+floare pastramă	1
+oală	1
+siuație	1
+valabil	1
+DUPA	1
+fimmare	1
+Ru	1
+#NAME?	1
+cinematografă	1
+CMSU București	1
+plineat	1
+Anca Sere	1
+ftografie	1
+îgratef	1
+Iul	1
+rezervată	1
+ramana	1
+facut	1
+datorită	1
+neconditionata	1
+gresea	1
+Intotdeauna	1
+Leeah	1
+State unit	1
+întristare	1
+Patronule	1
+noueve_ent	1
+food	1
+coronavirs	1
+cratiță	1
+business-ură	1
+#NAME?	1
+taică	1
+îgun	1
+Robi”	1
+Brigitte &Pastramă	1
+alcool/clor	1
+Pro tv	1
+ZÂndromul_Imunodeficienței_Umane_Dobândite	1
+povești	1
+țuvenalie	1
+Sasha Pavel	1
+ADELA	1
+COVE	1
+?❤	1
+Europa de est	1
+Balcani	1
+Limbourg	1
+Hainaut	1
+Joris Delanghe	1
+severitate	1
+Est„	1
+universitate Johns Hopkins	1
+Veneto	1
+Emila Romagna	1
+Piemonte	1
+Cataluna	1
+Castilla	1
+Mancha	1
+Nordrhein-Westfalen	1
+Baden-Wurttemberg	1
+Île	1
+Grand est	1
+Auvergne-Rhone-Alpes	1
+London	1
+Midlands	1
+North West	1
+Vaud	1
+Tessin	1
+Zurich	1
+Flandra	1
+Valonia	1
+Noord Brabant	1
+Noord Holland	1
+Zuid Holland	1
+Graz	1
+Landeck	1
+New Jersey	1
+Michigan	1
+Louisiana	1
+California	1
+gamdel LIVE	1
+Jiu	1
+#NAME?	1
+MS	1
+santos	1
+gat	1
+bronsiolită	1
+cumintică	1
+ff	1
+antitermic	1
+David…	1
+enterocolită	1
+#rezista	1
+gand	1
+sanatate	1
+pică	1
+mamică	1
+🙏	1
+Ramona Gabro	1
+😘🤗	1
+sincer	1
+all-nighters	1
+cockteil	1
+sectretar	1
+Paul Ene	1
+autorităție	1
+Inited_States_domân Constanța	1
+Constantin Adrian glugă	1
+bonetă	1
+solo	1
+percuție	1
+Roxana Dobre	1
+IG Story	1
+plită	1
+colaborarea-bombă	1
+jurată	1
+gră	1
+TouTube	1
+SARS-COV-2	1
+Andrei Ștefănescu	1
+urs	1
+timă fly	1
+socie	1
+afară…astă	1
+tratament-minune	1
+Virguil Musta	1
+tion.ro	1
+biologie	1
+Bettencourt	1
+virolog	1
+imunitat	1
+Rotbus_hetor	1
+rujeolă	1
+clustere	1
+mutat	1
+Spike	1
+receptor	1
+membrană	1
+proofreading	1
+corectare	1
+răgaz	1
+supra-aglomerare	1
+micro-picătură	1
+sezonalitate	1
+.info	1
+Filip	1
+extravilan	1
+anti-covid	1
+parcaj	1
+desfășuare	1
+registratură	1
+pentru	1
+.ro.’	1
+descifrare	1
+măsurător	1
+University of Washington	1
+IHME	1
+microbilogie	1
+noiembrie-decembrie	1
+medicație	1
+azitromicină	1
+Sandoz	1
+antiviral	1
+form	1
+microbiolog	1
+bumbac	1
+batistă	1
+fulare	1
+dimineașă	1
+comn	1
+Monicăi	1
+dotat[	1
+tromb	1
+Victor Costache	1
+“niciodată	1
+solut	1
+omenie	1
+Unteatru	1
+pozitivitate	1
+șervețea	1
+Nature	1
+StockSnap	1
+Michael Minan	1
+conferențiar	1
+Harvard Tnademie_șeontel School of public Health	1
+cumpătare	1
+consumabil	1
+hidratare	1
+echivalent	1
+ceașcă	1
+levănțică	1
+pilates	1
+ridicat	1
+găsit	1
+ordonare	1
+replantare	1
+imigrant	1
+TIR	1
+part-time	1
+Și… Cătălin	1
+henri Coandă	1
+sângel	1
+chestionar	1
+DSPJ Bacău	1
+Trento	1
+minunație	1
+chiar	1
+Innsbruck	1
+critom	1
+avmcată	1
+prezedent	1
+nedumerire	1
+Messenger	1
+Xinhua	1
+edition.cnn.co	1
+Xi	1
+xi	1
+xi Jinping	1
+reapariție	1
+❤️❤️❤️	1
+răspîndire	1
+invenție	1
+cionstant	1
+viruș	1
+coronaviru	1
+ambasador	1
+UNICEF	1
+vrăjitoare	1
+scut	1
+Huși	1
+Marin Lila	1
+apocalipsă	1
+înveliș	1
+suprafețe/obiecte	1
+balustradă	1
+bicicleta/trotineta	1
+carantină/izolare	1
+cardul/telefon	1
+https://bit.ly/2TGyV8d	1
+scăzutăbol	1
+vârstiniciu	1
+www.cnscbt.ro,	1
+princhindee	1
+spectru	1
+vomă	1
+contagiere	1
+COVID-19 deocamdată	1
+bronșită	1
+faringită	1
+laringită	1
+transmisie	1
+repercusiune	1
+SARS-CoV	1
+MERS-CoV	1
+malformație	1
+nou-născut	1
+Renate Weber	1
+garant	1
+exigență	1
+papă Francis	1
+consumerism	1
+nominilizare	1
+bro	1
+coafoare	1
+nemț	1
+omânie	1
+marca	1
+CLUJUL	1
+respomtare	1
+măsbrie	1
+adeton	1
+drmnelor	1
+apres-sk	1
+Ischgl	1
+Hendrik Streeck	1
+Bonn	1
+Fabiano Di Marco	1
+papă Giovanni	1
+Corriere della Sera	1
+droguri	1
+CENTRU	1
+GALAȚI	1
+substant	1
+elplicat	1
+inutilitate	1
+minimum	1
+mășină	1
+okmagazine.ro	1
+poluare	1
+bazină	1
+Periș detaliu	1
+SCBI	1
+CT	1
+SCBI CT	1
+ambulanțier	1
+saj Suceava	1
+Daniel Iancu	1
+Dan Cameramanu	1
+petregere	1
+comemorare	1
+viorist	1
+campionul	1
+instrumentală	1
+Anca Pop	1
+Necula	1
+David Pop	1
+pulverizator	1
+batjocură	1
+sânziană negru	1
+Cărturești	1
+Ioana Gramă	1
+stories	1
+STAY AT	1
+HOME	1
+înce_	1
+SERIOS	1
+SEE Yondul_Monetar_Internațională_de_Române SOON	1
+Laura Giurcan	1
+Multimilionarul	1
+propriu	1
+sărman	1
+mop-	1
+Prof Matei	1
+punct de vedere	1
+SICAP	1
+concordantă	1
+tulburare	1
+dobândire	1
+GMT	1
+sud-est	1
+papa Francisc	1
+comoară	1
+ascultare	1
+vaticannews.vă	1
+obor	1
+tramvai	1
+ProTV	1
+distantă	1
+esplanadă	1
+bazilică	1
+sfânt Petru	1
+proclamare	1
+adorație	1
+cetate Romei	1
+Apostol Petru	1
+Pope Francis delivers blessing from Vatican City to coronavirus pandemic LIVE coronavirus	1
+Pope delivers blessing from Vatican City	1
+Francis	1
+to	1
+Samaritean	1
+răscumpărător	1
+In15,13	1
+yahoo Finance	1
+dereglare	1
+Om	1
+Schmidt	1
+arde	1
+gratuitate	1
+consultație	1
+lojă	1
+belă	1
+Îomân_tlon	1
+universitate Cluj	1
+sechestrare	1
+alias Aspirina	1
+scultor	1
+Papă	1
+Romei	1
+Alfonso Tonino	1
+biață	1
+bseric	1
+șacalie	1
+suflet…Papa Francisc	1
+madonă	1
+șacal	1
+papă Francisc…	1
+căldurică	1
+MADE	1
+CHINA	1
+măne	1
+impotrivă	1
+înnălbitor	1
+solvent	1
+etanol	1
+cloroform	1
+măitiqul_omunode	1
+serveț	1
+răceala-influnța	1
+colapsare	1
+siptom	1
+ceremonoa	1
+Kyodo	1
+Matsushima	1
+yoshiro muri	1
+JO	1
+yasuhiro	1
+Yamashita	1
+Seiko Hashimoto	1
+Tadahiro Nomura	1
+Saori Yoshida	1
+yoshiro	1
+cireș	1
+J-Village	1
+Fukushima	1
+întrecere	1
+răspandire	1
+încărcare	1
+conexiune	1
+STB său	1
+www.stbsa.ro)	1
+Spiegel	1
+progresie	1
+Charité	1
+Christian Drosten	1
+Gérard Krause	1
+centru investigație	1
+Helmholtz	1
+Braunschweig	1
+Robert Koch	1
+virologie Charite	1
+Majda Aboulumousha	1
+eficientizare	1
+dezvoltator	1
+datornic	1
+Robert Negoiță	1
+cazier	1
+casă asigurare	1
+Becali George	1
+impunere	1
+penalitate	1
+bă	1
+bast	1
+sedință	1
+Boroș	1
+somaj	1
+Oman	1
+IMM	1
+mix	1
+biotehnologie	1
+modernă Therapeutics	1
+Zhang Xinmin	1
+medicment	1
+Favipiravir	1
+pactet	1
+zileu	1
+GERMANIA –DFB	1
+POKAL	1
+finde	1
+Resume_Flag	1
+LEIPZIG	1
+ANGLIA	1
+PREMIER LEAGUE ASTON VILLA	1
+everton	1
+ITALIA	1
+CROTONE	1
+VERONA	1
+SPANIA	1
+bete	1
+EIBAR	1
+GRANADA	1
+BELGIA	1
+JUPILLER	1
+LEAGUE	1
+ANTWERP	1
+CLUB	1
+BRUGGE	1
+LIEGE	1
+MECHELEN	1
+NORVEGIA	1
+eliteserien	1
+VIKING	1
+PLAY-OFF	1
+CSIKSZEREDA	1
+Asanpe_zlag POLI	1
+TIMIȘOARA	1
+dimă	1
+Hapciuc	1
+Mihai Netea	1
+Radboud	1
+Universty	1
+BCG	1
+playtech.ro	1
+Nicolae Ceaușescu	1
+Daniel Băluță	1
+atomizor	1
+peroxid	1
+hidrogen	1
+botoșă	1
+Alexandru Oprea	1
+GSC	1
+profesor doctor Dimitire Gerota’	1
+mesajpă	1
+tocmaie	1
+conotație	1
+locuțiune	1
+clasic	1
+dezaprobare	1
+insult	1
+proporționalitate	1
+reparare	1
+autoapreciere	1
+prosport	1
+extrage	1
+părtinire	1
+imaginiuter_Comerț_,_Industrie_și_Dezvatis_Cobând	1
+fotbadiu	1
+George Becali	1
+bună-credință	1
+CEDO	1
+stea București	1
+Dușa	1
+Vali Argăseală	1
+Boroi argăseal	1
+DigiSport	1
+Becali-CSA	1
+ANL	1
+Vârfu	1
+Volkswagen	1
+scadent	1
+contestatoare	1
+intimată	1
+club Fonume_tluinonucleic său	1
+Dolce sport	1
+Vlad”	1
+pri	1
+VLAD	1
+protvplus.ro	1
+Adrian Vlad	1
+Anghel Damian	1
+Adrian Nartea	1
+înscenare	1
+Ștefan Dragomir	1
+Andrei Aradits	1
+Leonard Cazacu	1
+Emilian Oprea	1
+Bebe Cotimanis	1
+Olimpia Melinte	1
+Elizei	1
+puhoi	1
+cerșetor	1
+moș Crăciun…	1
+Gigi Becali Crăciun	1
+.antena3.ro	1
+Dimitrie Gerota	1
+G4 medie	1
+lucură	1
+acnee	1
+bullied	1
+drăguț	1
+diminutiv	1
+Calabria	1
+cracă	1
+domincană	1
+scurs	1
+BMW i8	1
+i8	1
+întărire	1
+pastillă	1
+natalitate	1
+prezervativ	1
+Sorin Andrei Nicolescu	1
+kanald.ro	1
+ploa	1
+suntem	1
+concurnetă	1
+asentiment	1
+silință	1
+Alexandra Irina Mihai	1
+Alexandra Irina	1
+entitate	1
+Centenar	1
+adormire	1
+Nicolae Tonu	1
+locțiitor	1
+infanterie GEMINA	1
+univ	1
+Ioan bolovan	1
+prorector	1
+Babeș-Bolyai	1
+Alexandru borză	1
+Puck” Cluj-Napoca	1
+Octavian Goga	1
+Lucian Nastasă-Kovacs	1
+muzeu de artă	1
+Cluj Napoca	1
+Ioana Em	1
+Petrescu”	1
+Cristian Ursu	1
+UPU-SMURD Cluj	1
+Prodglob	1
+Glass Statele_Unite_ale_Americii	1
+Gheorghe Turcu	1
+Handbal club	1
+Potaissa Turda	1
+Romanian top	1
+prinț Albert	1
+coronaviruss	1
+doare…cel	1
+prințesă Grace	1
+voice-over	1
+Disney Channel	1
+follower	1
+Răzvan Gogan	1
+CD	1
+delir	1
+filmuleță	1
+informatică	1
+Andrei Sebastian	1
+Flick	1
+video…	1
+Emilly	1
+Emily	1
+Inastagram	1
+fashion	1
+the Grand	1
+OK magazină	1
+instă	1
+Cori Grămescu	1
+automobilism	1
+trainer	1
+Pilates	1
+Maria Spătar	1
+R&B”	1
+SHOWBIZ	1
+popiție	1
+ANDRA MĂRUȚĂ	1
+BIANCA DRĂGUȘANU	1
+diană	1
+STEJEREANU	1
+MIHAELA	1
+DOROBANȚU	1
+MIRCEA EREMIA	1
+LORELEI	1
+FLORIN GROZEA	1
+BIANCA GIURCANU	1
+DEEA MAXER	1
+camp	1
+Toulouse	1
+careu	1
+Montpellier	1
+monegasc	1
+Jupiler League	1
+vesti	1
+bucurestene	1
+retea	1
+initiativă	1
+Cristian Popescu-Piedone	1
+tip –school	1
+modernizate	1
+desfasurare	1
+etajare	1
+folosintă	1
+Totodata	1
+lucrar	1
+orasel	1
+lume copie	1
+investitie	1
+solutie	1
+after-school	1
+Emil Racovita	1
+salilă	1
+constructie	1
+cascată	1
+calcai	1
+Ahile	1
+bilant	1
+realizar	1
+inchidere	1
+investit	1
+cetaten	1
+Saulea	1
+naturalețe	1
+andra.	1
+CAMELTOE	1
+sexy-blondină	1
+nonconformist	1
+contracandidate	1
+Larisa Tănăsoiu	1
+funduleț la	1
+Cristina Ich	1
+subiectivism	1
+stilură	1
+Lavinia Pîrva	1
+Tod	1
+socialblade.com	1
+subscribere	1
+Zannidache Hubert	1
+părere în	1
+Roxana Nemes	1
+coaliție	1
+Aseară	1
+oftică	1
+ciocoflendere	1
+transimisiune	1
+maeștru	1
+ProTv	1
+fatucă	1
+Maruta !😇❤/ Cataline	1
+taică-tu?Acum	1
+roie	1
+soțior	1
+soțioară	1
+Giorgiana-Elena Lupu	1
+Roxana Georgiana Ghita	1
+Melina Dumitru	1
+Andreea Moșneagu	1
+Alin Salajean	1
+Mariano Starlin Medina	1
+pântec	1
+Elena Lupu	1
+Roxana Georgiana Ghiță	1
+Mellina Andreea Moșneagu	1
+Alin Sălăjean	1
+Mariano Starlin	1
+Medina	1
+Majda Sandra Aboulumosha	1
+sexy-posterioare	1
+catwalk	1
+sexy-posterior	1
+Deliei Matache	1
+Denisei Nichifor	1
+doiniță Oancea	1
+Raluca Tănase	1
+xonie	1
+Mihai Bendeac	1
+Mădălina Pamfile	1
+Crina Matei	1
+bârfit	1
+macho	1
+Simo	1
+serios	1
+învechit	1
+păerere	1
+North Middlesex Hospital	1
+dee	1
+destrăbălare	1
+homosexualitate	1
+sonie	1
+ifos	1
+canon	1
+tremen	1
+ipocrizie	1
+ciobăniță	1
+Maria Hîncu	1
+fairplay	1
+favoriți	1
+oară pur	1
+femeilor-bră	1
+Lisabona	1
+breu	1
+sexy-artistă	1
+Carmen Racolta	1
+cumperă	1
+Sep	1
+post shared by Carmendelasalciua	1
+@carmendelasalciua	1
+Munchen	1
+wowbiz.ro Andrei	1
+Dominica	1
+Daniel Pavel	1
+Year Challenge	1
+#provocareade10ani	1
+vierore	1
+hashtag	1
+ocupantă	1
+TOP # 10YearChallenge	1
+Laura	1
+poftim	1
+zi pe față	1
+pă	1
+impulsivitate	1
+nedreptate	1
+bullying	1
+Mirelei Vaida	1
+ileană Lupu	1
+facultate de literă	1
+copil Bacău	1
+caiet	1
+surpiză	1
+colaj	1
+jampier	1
+Danello	1
+ardoare	1
+#NAME?	1
+foamă	1
+‘iUmor’	1
+Bădălău Senior	1
+Marin	1
+Survivor România Zanni	1
+scrupul	1
+Gabriela Morar	1
+z ice	1
+concurat	1
+faimos Jador	1
+amiciție	1
+Porgras	1
+@danielă	1
+.iliescu	1
+🤭❤️”	1
+chips	1
+copăcel	1
+boost	1
+însemnătate	1
+Instagramul	1
+Yared	1
+Noah si Bryan	1
+emotivitate	1
+rederae	1
+siluet	1
+Nuba & loft	1
+super-fet	1
+ekaterina	1
+telegraph.co.uk	1
+Guinesns World Records	1
+aleal	1
+Cristina ICH	1
+Eva Kent	1
+Simona Sensual	1
+Iulia Vântur	1
+Iuliana	1
+Nicoletei	1
+bombe-sexy	1
+siliconată	1
+instant	1
+felicităril	1
+Culita	1
+Danza Kuduro	1
+Lucenzo	1
+Don Omar	1
+Leșin”	1
+virginitate	1
+Mihai Costea	1
+facultate de jurnalism	1
+universitate Haret	1
+Spiru	1
+prinț Rațiu	1
+Andrei Valentin Prisecaru	1
+Prince d’Armeny	1
+rînd	1
+cincurentă	1
+megaparty	1
+zece	1
+aeromavă	1
+Antonis Remos	1
+nubă	1
+important	1
+spart	1
+foiță	1
+Șampania-gigant	1
+Davide	1
+inovație	1
+payment	1
+optimizare	1
+Exatlon România	1
+tomn	1
+moutubă România	1
+#1	1
+video-uri	1
+piedestal	1
+producator	1
+Florin Nek	1
+Nek!	1
+vizualizar	1
+Dansez	1
+războinicie	1
+sălbăticie	1
+Iar…	1
+amazon	1
+grațielă	1
+Duban	1
+numă	1
+liposculptură	1
+mandrie	1
+nure	1
+inaintare	1
+pieptoasă	1
+merita	1
+😉 Si	1
+san	1
+statiune	1
+bunaciune	1
+Jador adevărat	1
+Camelia	1
+Dan Șucu	1
+măritate	1
+Alexandru zice cioc	1
+continua	1
+Cristina Șucu	1
+Alexandru Ciocârlan	1
+zâmbăt	1
+Carme	1
+și	1
+naștere	1
+♥️♥️♥️	1
+situție	1
+axiomă	1
+reprezentantă	1
+Alina Crișan	1
+sex-appeal	1
+Sylvia	1
+Ana Crudu	1
+What’s UP	1
+inme	1
+vulgară	1
+Iata	1
+spy	1
+aparit	1
+Andreea Balan Andreea Balan	1
+ejumatate	1
+Crina Abrudan Crina Abduran	1
+Dragos	1
+Dragos bucura	1
+si Dragos	1
+absolut	1
+maină	1
+Laurette Laurette	1
+incinsă	1
+Bad Girl	1
+Simona Sensual sex	1
+rusine	1
+Onuca	1
+imprudent	1
+sit	1
+u	1
+Nicoleta Luciu Nicoleta	1
+sps Jador	1
+XNS	1
+Dom’le	1
+povestă	1
+bănuț	1
+domelă	1
+pleca	1
+Nelson Mondialu’ Nelson	1
+nadejde	1
+incurcatură	1
+pact	1
+aferentă	1
+facultat	1
+panou	1
+Tulcea si	1
+Ramnicu Valcea	1
+invatatură	1
+reputatie	1
+Casanova	1
+pisicut	1
+lant	1
+edu.ro	1
+notare	1
+astru	1
+Bi,C.	1
+d.b	1
+art.41	1
+Eugen	1
+alin	1
+e.(	1
+raspunda	1
+mentionată	1
+Lula_European.	1
+pupic	1
+Spy	1
+Cristina Sucu	1
+mostenitoare	1
+Mobexpert	1
+si Vlad	1
+îdeschidere	1
+decoratiune	1
+amfitrioană	1
+receptie	1
+Alexander	1
+Frank colin	1
+Cristina Zegheru	1
+alt	1
+Catalin Catoiu	1
+superstitioasă	1
+silopascal Vlad	1
+Alexandru Ciucu	1
+depozitandu	1
+masine	1
+sI	1
+invitat	1
+traditie	1
+SpyNews.ro	1
+paropiat	1
+totdeaunnă	1
+niciun	1
+despățire	1
+#business	1
+femeiedeafare	1
+#călătorie	1
+glamour # unnouproiect	1
+#iubire	1
+see u later alligator 🐊 😘 #blessed #business #bussinesswoman #travel #happy #glamour #🎬 #newproject #comingsoon	1
+post by	1
+shared	1
+𝓑𝓲𝓪𝓷𝓬𝓪	1
+𝓓𝓻𝓪̃𝓰𝓾𝓼𝓪𝓷𝓾	1
+🌟	1
+Nov on	1
+reglar	1
+manechine	1
+Simona Iftimi	1
+Armand Cristinoiu	1
+Alex Erbasu	1
+Sile pietroi	1
+gasca	1
+Catalin Lascut	1
+Catalin	1
+deschisă	1
+dorintă	1
+geneză	1
+odată	1
+casută	1
+permanentă	1
+Lascut	1
+macel	1
+Alina atză	1
+Scurtand	1
+imposibilitate	1
+ZBANG	1
+pumnopalmă	1
+SPUSH… Cosmina	1
+SPUF	1
+atză	1
+butoi	1
+Caran	1
+protectie	1
+n.r. asa	1
+VIP-uri	1
+Alice Nastase	1
+constănțenc	1
+destuuu	1
+indecent	1
+buce	1
+momentan…secret	1
+rusoiacă	1
+miștou	1
+nene Marin	1
+Mrgherita	1
+iranian	1
+vibă	1
+Mediaș Alex	1
+carismatică	1
+monolog	1
+îmblânzire	1
+bătăiță	1
+Nașule	1
+Deei	1
+yacht	1
+conturare	1
+Jona	1
+contouring	1
+unită	1
+caldură	1
+locatar	1
+stăpână	1
+Sălciua de jos	1
+pițigoi	1
+DEX	1
+polonic	1
+bilețel	1
+colimatoriu	1
+scnadal	1
+Tiktok	1
+avalanșă	1
+diplomație	1
+urcare	1
+latino	1
+Baby	1
+Acum…Jador	1
+îndrăzneală	1
+miuță	1
+loto	1
+boschet	1
+făăăă	1
+Star matinal	1
+dicton	1
+gale_ie	1
+caste	1
+Andreea Popescu	1
+contorsionistă	1
+Adelina Postelnicu	1
+Heaven	1
+anduranță	1
+Iulia Vîntur	1
+jogging	1
+kangoo	1
+ștachetă	1
+abonată	1
+Carmen Negoiță	1
+sexy-sportiv	1
+Corina Caragea	1
+Giulia Anghelescu	1
+monopol	1
+Strahaia	1
+scadență	1
+Ioan Andrei Necea	1
+Kanal D. Andra	1
+Bia	1
+patrupede	1
+vogă	1
+Sharky Dumitru	1
+patrupezie	1
+pune	1
+Caesar	1
+Dogo Canario superb	1
+cață	1
+Seven Sharky	1
+Pussycat	1
+Lion Nice	1
+Anabelle Blue	1
+Dudu Steel	1
+show-u	1
+balansoar	1
+stană Izbașa	1
+Lena Miclăuș	1
+Nicoleta Guță	1
+Cristina Pucean	1
+specimen	1
+Pirui	1
+mondialu	1
+C!#^@	1
+geografie	1
+șamană	1
+clitate	1
+pretendeție	1
+nor	1
+IML	1
+influentă	1
+Totodadă	1
+dezintoxicare	1
+dezintoficare	1
+Trendingul	1
+îmi	1
+perioadă	1
+puțin	1
+dezamăgiri	1
+renunt	1
+portă	1
+că	1
+jumătatea	1
+toții	1
+cât	1
+ie	1
+fără	1
+începutul	1
+înainte	1
+Alex Ceaușu	1
+adânc	1
+traiestemuzica.ro	1
+mane	1
+copil aur	1
+Uzzy…	1
+vulpită	1
+Lento	1
+tranding	1
+🤣🤣🤦🏻‍♂️	1
+suavement	1
+RUBY	1
+sexy-vedete	1
+posterioare	1
+viespe	1
+aplecare	1
+cromatică	1
+Maria Ghiorghiu	1
+Carmen Hara	1
+rudenie	1
+baiet	1
+Jadore	1
+Esca	1
+Alexia	1
+louTubă Sofiei	1
+sofie Slav	1
+momolog	1
+mafiot	1
+bele	1
+poker	1
+belea	1
+operațiune-fulger	1
+Pablo Escobar”	1
+Uzi” Scorpion	1
+Raj	1
+Cristian Daniel Paraschiv	1
+Vasile Raj”	1
+Sile cămătaru	1
+cocalar	1
+de	1
+Andra Voloș	1
+încrede	1
+none	1
+Daddy Yankee	1
+J Balvin	1
+Nicky Jam	1
+Reykon	1
+congres	1
+urbanism	1
+Ion Mincu	1
+grammy	1
+Kat DeLuna	1
+party Television	1
+Mynele Television	1
+ex-prezentator	1
+ipohondru	1
+declarații-bombă	1
+Băăăăi	1
+Rafaelo	1
+ascultător	1
+nemiluită	1
+poșet	1
+saracă	1
+șmecheră	1
+S.g	1
+înfrumusețeare	1
+norocoașă	1
+textilă	1
+sânziană buruian	1
+Diana Enache	1
+mancare	1
+plecli	1
+înjunghiere	1
+Dincă	1
+Grațian	1
+internaute	1
+commentariu	1
+commentariile…	1
+voua	1
+Rusine	1
+internaută	1
+♥️	1
+hit-ure	1
+:r	1
+fițăr	1
+trending Vulpița	1
+zicere	1
+Doamnee	1
+coafură	1
+taraf	1
+Eforie sud	1
+pamflet	1
+viral	1
+CS Medgidia	1
+pivot	1
+strof	1
+mini-album	1
+faianță	1
+cartuș	1
+puțină	1
+Comunitatea_Economică_Europeană Medgidia	1
+Michael Jackson	1
+Ioaneeee	1
+epubretă	1
+papă Benedict	1
+beat	1
+pely	1
+fir-	1
+COVID Of	1
+Of	1
+remarce	1
+l***	1
+🤔	1
+😅	1
+boschetar	1
+fu@#$	1
+bă#$%	1
+dipută	1
+întotdeauna…	1
+troacă	1
+non-valoare	1
+florăres	1
+Biancăi Pop	1
+Senior	1
+poziționare	1
+Militiade văduvă	1
+dinadins	1
+sunte	1
+new	1
+fotoliu	1
+destăinuire	1
+fricos	1
+canin	1
+sfârșitiu	1
+tataaaaa	1
+frenezie	1
+strugurel	1
+Stelian Burcă	1
+bihon.ro	1
+Adrian copil minune	1
+repertoriu	1
+mondial șiși	1
+rezonanță	1
+Bikini	1
+super-model	1
+Galyna Pînzari	1
+miss Bikini	1
+Fotachi	1
+mega-petreceri	1
+Dumitru Diacov	1
+Tristan	1
+Nichita	1
+Rolls Royce Phantom	1
+Aston Martin DB9	1
+GTB	1
+Cadillac	1
+Escalade	1
+Timati	1
+Chevrolet	1
+Tahoe	1
+C200	1
+E220	1
+CLS320	1
+numaie	1
+Sprinter	1
+Transit	1
+Volkswagen golf	1
+golf	1
+cai-putere	1
+golf-u	1
+paranoie	1
+pălincă	1
+supermaket	1
+conservă	1
+dușmănie	1
+NELSON mondidut	1
+zidliotul_Modependente	1
+dratomte	1
+JADOR	1
+Acmi_Patimomunodeficienței_Umane_Dobândite	1
+ELLA Scleroză_Multiplă	1
+LIVIAN oameni	1
+ellă	1
+locșor	1
+discount	1
+streaming	1
+Telecomanda	1
+vlogg	1
+sinceră să	1
+tigaie	1
+teleme	1
+câmpenească	1
+bombardier	1
+soricel	1
+relateaza	1
+.E	1
+sarmă	1
+snitel	1
+șniță	1
+șnit	1
+diliu	1
+prostulă	1
+potcov	1
+oops	1
+Bono	1
+Marion Cotillard	1
+Jared Leto	1
+Robin Thicke	1
+Selena Gomez	1
+DiCaprio	1
+Sand Explorer Scleraminultub	1
+extragere	1
+îmbuteliere	1
+Larisei Stati	1
+Nicoleta	1
+Nicomedia Scleraminultub	1
+Larisei	1
+mini-armată	1
+supersurpriză	1
+singurică	1
+împătimit	1
+stitlu	1
+asigurar	1
+vloggură	1
+cristală	1
+Swarovski	1
+navigație	1
+x6	1
+X6	1
+mega-controversa	1
+ceață	1
+Simona trașcă	1
+prigoană	1
+Salonic	1
+micie	1
+Meteora	1
+teolog	1
+teologie	1
+Adriana	1
+Bahmuțeanu	1
+Stratan	1
+Ghiță	1
+Pavel Stratan	1
+Edward	1
+bravonet.ro	1
+corononavirus	1
+Ginei	1
+il	1
+andrei	1
+AsiaExpres	1
+😭😭😭😭😭😭😭	1
+😂😂🤦🏻‍♂️	1
+Zapaciti	1
+😂😂😂😂	1
+Simpatici❤️❤️❤️❤️	1
+Ionuț văduvă	1
+Niculae Duduianu	1
+Ion parnic	1
+Stan	1
+sexy-ispită	1
+”Eu	1
+șifonare	1
+semafor	1
+mâzgă	1
+alcooltest	1
+fracțiune	1
+#NAME?	1
+puștan	1
+DGASPC	1
+personaje-cheie	1
+Duduieni	1
+M2TV	1
+scenografie	1
+know how	1
+imbold	1
+Lazarov	1
+Next	1
+Star	1
+Television ‘	1
+România’	1
+Hahaha Production	1
+HaHaHa Production	1
+Cumetere	1
+?Viață	1
+roz	1
+anișora	1
+pitiriazis	1
+vulpe	1
+strug	1
+Nuba Beach	1
+Paul lung	1
+Dorobanțu	1
+Paul Lungu	1
+eroice	1
+ralucă pastramă	1
+tacticel	1
+izbândă	1
+tatuată	1
+păgubașă	1
+Raluca scufiță roșu	1
+cenușăreasă	1
+Durere	1
+copil de	1
+copil de aur	1
+subinginer	1
+pupat	1
+moaște	1
+plâns	1
+pionierat	1
+transplantologie	1
+Tango	1
+Mihaela Botezatu	1
+compensare	1
+facere	1
+valută	1
+interceptare	1
+filare	1
+sigiliu	1
+Michael Kors	1
+yes	1
+Red Bull	1
+Ajunge…	1
+c$#@tul	1
+sigilie	1
+containere	1
+transport Coandă	1
+henri	1
+transport București	1
+cauză ce privi	1
+complicitate	1
+tăinuire	1
+marochinărie	1
+ilicită	1
+monică Anghe	1
+micsorare	1
+nutrițuonist	1
+nutritionist	1
+semânt	1
+chie	1
+migdal	1
+ciorbită	1
+bucuroasă	1
+operată	1
+Chitila	1
+confict	1
+vizbil	1
+portbaj	1
+Tâmpitule	1
+miss top model	1
+circumstanțeșl	1
+colg	1
+vis-a-vis	1
+Tati prigoană	1
+Biliboi	1
+muliplă	1
+altoit	1
+revanșă	1
+Napoleon Gheorghe	1
+macetă	1
+gastel	1
+sfânt Pantelimon	1
+declarat	1
+impostaz	1
+sinceră	1
+impacare	1
+raană	1
+Television in	1
+National Television	1
+Gedemația_Română	1
+înghețat	1
+companion	1
+aranjat	1
+cardio	1
+vizbă	1
+regală	1
+American	1
+Bully	1
+capodoperă	1
+Deputatul-Pensie	1
+polician	1
+întelegere	1
+Berlin	1
+învoială	1
+Electrecord	1
+ex-deputat	1
+Marianei Angelica Manolache	1
+Predeal	1
+academie poliție	1
+academie de poliție	1
+cursant	1
+circumscriptie	1
+legislatură	1
+Marian Ionescu	1
+Ariel Constantinov	1
+Adrian Anghel	1
+blogosferă	1
+vlogosferă	1
+Ariel	1
+beric	1
+Mariciule	1
+electric Castle	1
+Uber jet	1
+Businessmanul	1
+sutură	1
+încăierare	1
+Eminescu	1
+Bădrăgan	1
+cocoș Băncuță	1
+agresoare	1
+Daniel Bădrăgan	1
+Petrică Frumușelu	1
+Petre Frumușelu	1
+Spaniolu	1
+mitei	1
+Puștiul-fenomen	1
+mea…	1
+Zd@#&nța	1
+Smaranda Știrbu	1
+Diana Condurache	1
+exploit	1
+Km	1
+prestanță	1
+puștiul-minune	1
+youtuber	1
+king abi»	1
+Alberto	1
+ab talent	1
+ab	1
+manea	1
+psihic	1
+shotokan	1
+super-bunăciune	1
+Kundalini	1
+desemnare	1
+potop	1
+gheară	1
+noimă	1
+montare	1
+rinichie	1
+minister de	1
+memoriu	1
+cartofic	1
+stăpâni	1
+slug	1
+Wodan”	1
+rau Cătinaș	1
+semilegalitate	1
+kick-box	1
+thai box	1
+lună-două	1
+psihologie	1
+precupare	1
+Kick-boxingul	1
+capcana	1
+Cătinaș	1
+K1	1
+local Kombat	1
+Coco rus	1
+backround	1
+televizior	1
+pricip	1
+sudoare	1
+față la	1
+dulci	1
+pedagog	1
+dascali	1
+pedagogie	1
+Dan ANDREI	1
+lac lebedă	1
+jalon	1
+haideee	1
+ștat	1
+fobal	1
+AMF București	1
+junioare	1
+#NAME?	1
+Adina Ioniță	1
+Adina	1
+Lionel Messi	1
+Cristiano Ronaldo	1
+portăriță	1
+Laurențiu Hagiu	1
+Marian Hagiu	1
+adolescentină	1
+crimă organizat	1
+depunere	1
+art.218	1
+MESHAH SUHAIB ABDEL NASER	1
+Meshah Suhaib Abdel Naser	1
+B. D.	1
+D. D. Mihail	1
+A. Eugen	1
+N. A.	1
+C. Octavian Mihail	1
+Mihail Mihail Vasile	1
+George N.	1
+Vasile B.	1
+C. C.	1
+Mihail A	1
+Ion C. B	1
+Mihail Mihail	1
+B. B.	1
+alin.4	1
+rea-credință	1
+Inpublica_Populară_Democrată_a_Român Ilfov	1
+alin.8	1
+semi-legumă	1
+infirmierie	1
+penitenciar de maxim siguranță	1
+Mărgineni	1
+colon	1
+cum	1
+infirmerie	1
+Manhattan	1
+penitenciar Jilava	1
+speriat	1
+complic	1
+AK	1
+Ioan Dumitru Mironescu	1
+Dumitru Mironescu	1
+Răzvan Isăilă	1
+Ion Morțun	1
+Audi A6	1
+înmatriculare	1
+Comunitatea_State Partidul_Democrat	1
+pistol-mitralieră	1
+AK74	1
+Internația_Internațională_de_Baschett	1
+Proca Vitalie	1
+Makarov	1
+împușcare	1
+Sculeni	1
+Scotland Yard	1
+Gorbunțov	1
+Anton-Bogdan	1
+Nicolae-Răzvan Mararu	1
+alee Alexandru	1
+secund	1
+strict	1
+Marius șumudică	1
+Șumi	1
+un	1
+Uniunea_Democrată_a_Maghiarilor_din_România	1
+avraz	1
+Vasile Ionela	1
+încuviințare	1
+Maia	1
+Mayei	1
+Maiei	1
+porcare	1
+freamăt	1
+mega-război	1
+bercenar	1
+brigadă Bibiloi	1
+mega-chermeză	1
+Kuweit	1
+ambasadoare	1
+neamț	1
+neachitare	1
+frâie	1
+casino	1
+Sun Plaza	1
+parte în	1
+on line	1
+rece	1
+fraiere	1
+sifon	1
+Băscuță tâmpitule	1
+locotent	1
+Gheorghe mustață	1
+șarlatan	1
+repatriere	1
+Cornel râpă	1
+Alex Bourceanu	1
+team-manager	1
+Karabukspor	1
+rampa	1
+pipă	1
+Bourceanu	1
+taxiu	1
+Reghe	1
+prodancă	1
+invidia	1
+Reghe jilopar	1
+cercei	1
+f biligram pt eveniment	1
+ledură	1
+KIM Kardashian	1
+celulită	1
+Like	1
+asumată	1
+Sorin Dumitru Miscoci	1
+si Eduard	1
+Romania liberă	1
+Bagdad	1
+insotitor	1
+Mohammad Munaf	1
+cetatean	1
+Irakului	1
+internatională	1
+Manhattan’	1
+rapitor	1
+rascumparare	1
+Romanie	1
+inregistrare	1
+facută	1
+Al Jazeera	1
+Sorin Miscoci	1
+Traian Basescu	1
+solidară	1
+multime	1
+suferintă	1
+Marie Jeanne	1
+Euronews	1
+freelancer	1
+oară de	1
+talhar	1
+zdup	1
+Laolalta	1
+Mircea Balus	1
+infractiune	1
+stapan	1
+Berceniului	1
+Ioan Vivi Fizidean	1
+Victor Zagrean	1
+Turda	1
+instanataneu	1
+Tambal Mafiotu	1
+inchisor	1
+Valy is online	1
+astept	1
+Danyel	1
+laitmotiv	1
+Maria Apostol	1
+Catalina David	1
+presarat	1
+bataie	1
+acuzat	1
+hartuire	1
+usă	1
+acuzatie	1
+aparare	1
+iures	1
+Zsolt Kapros	1
+Baron	1
+su	1
+interpretar	1
+profesională	1
+diferentă	1
+radicală	1
+saten	1
+blond	1
+cantaretă	1
+Andrei Cristea	1
+Flavius	1
+Stoican	1
+Duminica	1
+jucator	1
+incultură	1
+grobianism	1
+meltenism	1
+carență	1
+antrenorat	1
+vace	1
+șmechere	1
+reglare	1
+Andreea Spătaru	1
+“Tot	1
+sonor	1
+făptaș	1
+box-	1
+Motanu	1
+recidivă	1
+Osmanlispor	1
+Sevilla	1
+Bursaspor	1
+Motanu”	1
+Karabükspor	1
+afectiune	1
+orbire	1
+ceată	1
+Foggia	1
+Genoa	1
+Bradford	1
+Claudiu Răducanu blocnotes	1
+Espanol Barcelona	1
+Claudia	1
+anterioră	1
+scutire	1
+Mircea Nebunu'	1
+protector	1
+nene Milică	1
+Bellu	1
+Toni Ciolac	1
+facetimă	1
+nene Milica Posted by	1
+Florin Salam Adevarat Officiall on Friday	1
+October	1
+departamen	1
+documente-bombă	1
+M____ C_______	1
+p	1
+M____	1
+N______	1
+S___ A______ N_ _andiopitate_a_Stat	1
+f.93	1
+V____ E____	1
+V____ R_____	1
+conduit	1
+pun	1
+O____ F_____	1
+G_______ G___	1
+izvor	1
+conformitate	1
+prev.	1
+rapă	1
+C.pen	1
+milivolt	1
+_vinistru	1
+f.14	1
+T___	1
+Penny Market	1
+M arin A________ E____	1
+torace	1
+c.pr.pen.	1
+lit	1
+cipent	1
+inventar	1
+justificare	1
+uz	1
+sacoșă	1
+accepție	1
+scoatere	1
+_undinat	1
+glugă	1
+M____ A_ _andii E____	1
+disprețuitor	1
+spontan-emotivă	1
+Ministerul_Apărării_Naționale Florin	1
+Metan Mediaș	1
+out	1
+pro stea	1
+Mache	1
+Grasshoppers Zurich	1
+învinge	1
+învins	1
+Dumitrescu	1
+FCSB-Steaua	1
+Iovan	1
+Aelena	1
+Tudorel Stoica	1
+Bumbescu	1
+Gabi Balint	1
+CRISTIAN	1
+BLĂNUȚĂ	1
+vals	1
+Claudiu Blocnotes”	1
+rou	1
+numiție	1
+F.V.	1
+Gesemeredațională_a_României	1
+acoperiție	1
+Mihai Alexandru Pleșu	1
+fotografiere	1
+satelit	1
+decriptare	1
+zi-două	1
+Gosav Sabina	1
+autoprotecție	1
+străduță	1
+Basarabi	1
+Mihai Plesu	1
+F.V	1
+cuvenit	1
+Monica Bărlâdeanu	1
+itinerariu	1
+zuză	1
+deltă	1
+echivoc	1
+mandarină	1
+sacoș	1
+leuție	1
+puțintel	1
+vânzător	1
+patrie	1
+față de cum	1
+Gianni Ionut	1
+Antonio Luigi Gottschling	1
+contraatac	1
+Gottschling	1
+Bac	1
+Adrian Gottschling	1
+maternitate Polizu	1
+It’s	1
+girl	1
+Maxer	1
+fantast	1
+c(	1
+salat	1
+dracie	1
+utie	1
+gerard Depardieu	1
+Mercedes S class	1
+licoare	1
+Gérard Xavier Marcel Depardieu	1
+Chateaux	1
+Indre	1
+Chateauroux	1
+Jean Laurent cochet	1
+Claude Jade	1
+Alain Doutey	1
+Elisabeth Guignot	1
+Guillaume Depardieu	1
+Julie Depardieu	1
+autodidact	1
+Michel Audiard	1
+Cri du cormoran soir	1
+jonques	1
+sexualitate	1
+Patrick Dewaere et Miou-Miou	1
+Les Valseuses	1
+Bertrand Blier	1
+Bernardo Bertolucci	1
+Marco Ferreri	1
+Maurice Piialat	1
+polică	1
+Sous	1
+soleil	1
+Satan	1
+Veneția	1
+Francois Truffaut	1
+Dernier Metro	1
+Cesar	1
+Green card	1
+Andie Macdowell	1
+line	1
+Andreei Esca	1
+Europa Fonsimotlum	1
+Liz Taylor	1
+Nicu Constantin	1
+Violeta	1
+Radu Ștefan	1
+Laviniei	1
+deținere	1
+filozof	1
+antidrog	1
+Dibefa_Ctors	1
+brigadă de combatere	1
+Probota	1
+skunk	1
+lei/gram	1
+suspectă	1
+drep	1
+G________ M_ F___ _andiopitate_a_Stat CNP xxxxxxxxxxxxx-	1
+V_ _andii B_____	1
+_nvivvin_tun_Proprc	1
+_ _nvinvintun_Cut	1
+I_	1
+L_____ cnp xxxxxxxxxxxxx	1
+nvvvvvintu	1
+xxxxxx	1
+uat	1
+văduv	1
+simulație	1
+vânzătoare	1
+lăsare	1
+comoție	1
+Ion Titișor	1
+Fane	1
+Nelu Florea	1
+Spoitoru	1
+ninjă	1
+Andreei Mironescu	1
+Ștelist	1
+Mercedes S	1
+Theodor Burghele	1
+gerard	1
+atrăgătoare	1
+tinerică	1
+viitorul-dinamo	1
+galer	1
+#NAME?	1
+arc	1
+Vladimir Pleșu	1
+încolo”	1
+Victor Ciutacu	1
+Ciutacu	1
+contrapondere	1
+schit Prodromu	1
+înaintemergător	1
+nevoință	1
+monah	1
+munte Athos	1
+penins	1
+Vigla	1
+mare Egee	1
+Athonului	1
+apus	1
+doxologia.ro	1
+apărătoare	1
+agheasmă	1
+vistierie	1
+Ctitorița	1
+paraclis	1
+Grigorie Alexandru Ghica	1
+domnitor	1
+Atos	1
+monahi	1
+punct vedere	1
+Kareia	1
+greacă	1
+Καρυές	1
+transcriere	1
+Karyes	1
+Dire	1
+Iasminei	1
+nerușinare	1
+uita	1
+jume	1
+brat	1
+mandru	1
+greseala	1
+voluptoasă	1
+cearceaf	1
+Andrei si	1
+mortis	1
+achizitie	1
+Asadar	1
+andrei Ciomu	1
+bucric	1
+Ciomu si	1
+sindede	1
+Adi minune	1
+Tatal	1
+Mario Camora	1
+Bushbacher Philip John	1
+super-simplă	1
+Bushbacher	1
+Philip John	1
+for	1
+U-21	1
+selecționară	1
+naturaliza	1
+ecenționator de	1
+START	1
+Kevin	1
+Junior	1
+Billel	1
+Carlo	1
+Harlem	1
+Mattia	1
+rezerve	1
+Jesus	1
+Fernandez	1
+Paulo	1
+Vinicius	1
+Bradley de	1
+Nooijer	1
+Najib	1
+Ammari	1
+Ivan	1
+Pigliacelli	1
+Hervin Ongenda	1
+Matteo Fedele	1
+Bogdan Planici	1
+extaz	1
+Ciobanu	1
+#imakehimlaugh	1
+Hmmm…	1
+șuture	1
+toleranță	1
+autoapărare	1
+#eveningmood	1
+instamod	1
+# feelingblue	1
+biancă	1
+cauza…	1
+cuscre	1
+intrigil	1
+savarine	1
+Gheorg	1
+Sat-Mare	1
+regine	1
+fricĂ	1
+mănanc	1
+sexy-cântăreața	1
+ex-iubită	1
+Otilia	1
+Sinan Akcil	1
+Junior Morais	1
+rinopastie	1
+nară	1
+Rodrigo Alves	1
+barbie	1
+Ken	1
+Rodrigo	1
+împătimită	1
+emag.ro	1
+Flanco”	1
+berărie H	1
+Pegas	1
+fashion online Fashion Days	1
+fashion Days	1
+garnitură	1
+festin	1
+consumație	1
+Moncler	1
+bunăstare	1
+spătar	1
+Juli”	1
+magnetofon	1
+casetofon	1
+benzie	1
+ABBA	1
+Boney M	1
+sales	1
+liceu de informatică	1
+introvertit	1
+imprimantă	1
+cross-selling	1
+vârtej	1
+mousă	1
+tastatură	1
+biberon	1
+U-Grow	1
+tigă	1
+Heinner	1
+sumedenie	1
+Tucia	1
+Andrei Tinu	1
+Contra	1
+bombă-sexy	1
+Mansaly Boubacar	1
+dispreț	1
+MC	1
+always and forever	1
+Tommo Production	1
+Why	1
+Raisa	1
+campionat fotbal	1
+Bravo!	1
+anunt	1
+Zdob si Zdub	1
+infrstructură	1
+daca Romania	1
+spriin	1
+A.D.	1
+Irina Nicolae	1
+restaurantuș Gundel	1
+Valentina Pelinel si	1
+Crisi Borcea	1
+Gigi Nețoiu	1
+acționar de	1
+CANCAN,RO	1
+Vizer	1
+importantă	1
+Marius si Irina	1
+Gundel	1
+burghezie	1
+discreț	1
+asupru	1
+coechipier	1
+Cipri	1
+ex-antrenor	1
+CIPRIAN MARICA	1
+VLAD MUNTEANU	1
+CRISTIAN RIZEA	1
+Contra-Mișu	1
+oponenție	1
+Panduru	1
+fileu	1
+fes	1
+Mouscron	1
+săn	1
+Petrescu	1
+Andreea Alina	1
+Filipe Nascimento &	1
+dezmăț	1
+Afroditei	1
+Navarro Romera	1
+Luka Maric	1
+Filipe Nascimento	1
+Mahlangu May	1
+roș-albii	1
+Condordia Chiajna	1
+brăsfățat	1
+păpușică	1
+Eli”	1
+Eli	1
+respectiva	1
+iubita”	1
+Lucian Sănmărtean	1
+înconjur	1
+⁣romantism	1
+evârstă	1
+soț/soție	1
+longevitate	1
+Noël el Graët	1
+Didier	1
+unanimitate	1
+Laurent Blanc	1
+Les Bleus	1
+Köln	1
+AS Monaco	1
+Juventus Torino	1
+Olympique Marseille	1
+Michel Hidalgo	1
+Denis Zabludovski	1
+Ievgheni Iemelianenko	1
+Pavlo Borisenko	1
+Anton Butocinov	1
+Vitali Kricenko	1
+Kateryna Sassa	1
+Kateryna Zhydachevsa	1
+DJ Cooper	1
+William	1
+Amorim	1
+Kehinde Fatai	1
+Mario Jorge Malino Paulino	1
+volei	1
+macedonean	1
+Filip Despotovski	1
+convocare	1
+Giordan Watson	1
+Albert Saritov	1
+Savio Valadares	1
+Felipe Oliveira	1
+Patrik Polk	1
+Simone Tempestini	1
+românilor-fantomă	1
+motbru	1
+HALUCINANT… Jucătorul-problemă	1
+Tudorie	1
+Acid_Dezoxiribonucleic Hermannstadt	1
+Mădălinei	1
+mădălină	1
+Enache	1
+Dennis Matia	1
+Mădălina Enache	1
+Oventate_șe_Române Popescu	1
+FCSB-Hapoel Beersheva	1
+Alina Popescu Ada	1
+stiripesurse.ro	1
+traumatism	1
+arabă	1
+condusă	1
+tristete	1
+Arabia Saudita	1
+antremanent	1
+locuintă	1
+dotată	1
+privată	1
+urmază	1
+galcă	1
+cand	1
+Piturca	1
+aversitate	1
+targ	1
+adio”	1
+reprezentativă	1
+ccampionat	1
+UPDATE România	1
+Bosnia-Herțegovina	1
+San	1
+marină	1
+Azerbaijan	1
+Feroe	1
+Kosovo	1
+Armenia	1
+Gibraltar	1
+Cosmin Cotra	1
+națijaniu	1
+#NAME?	1
+final Four	1
+calificar	1
+finaliste	1
+țandără	1
+Il Calcio	1
+Arnold”	1
+Pindu	1
+Calcio	1
+Mbappé	1
+Florinele	1
+p@#$	1
+Florinel	1
+nicotină	1
+reflux	1
+amorțeală	1
+furnicătură	1
+umflare	1
+eritem	1
+roșeață	1
+ulcerație	1
+dependență	1
+oxigenare	1
+FCSB Hapoel	1
+cârcă	1
+alegător	1
+răspicat	1
+Lupescu	1
+boacăn	1
+Stelea	1
+Neluțu Sabău	1
+Mihali	1
+Ciobotariu	1
+Pușcaș	1
+Marcel Pușcaș	1
+Victoraș Iacob	1
+instantă	1
+judecare	1
+asteptată	1
+Romania Television	1
+G.C.	1
+fundă	1
+hotărăre	1
+ex-mijlocaș	1
+Inter Milano	1
+Anemona	1
+Denis”	1
+elasticitate	1
+Il Luce	1
+Principesa Elena & lady	1
+sf.ilie	1
+https://goo.gl/E2PFNg________Publicată	1
+Eduard Uzunov	1
+jună	1
+Scheii	1
+Brasovului	1
+brasov	1
+sobor	1
+Îndramatimon_Internațională_de_Rotbal Calinic	1
+Muscel	1
+mochetă	1
+caleașcă	1
+cazino	1
+centenar	1
+safir	1
+manuscris	1
+Regina Maria	1
+Mihai Ion	1
+principesă	1
+Robin Medforth-Mills	1
+Meyrin	1
+linie de	1
+Miha	1
+dedicare	1
+MARSAY	1
+rigoare	1
+modernitate	1
+inele_pitae	1
+Cornwell	1
+catafalc	1
+discreditare	1
+Rodica	1
+stoicism	1
+rahat	1
+Negoiță Pinocchio	1
+Dragoș Săvulescu	1
+ACS pol Timișoara	1
+strănepoț	1
+new Dinamo”	1
+mercato	1
+Petre	1
+mocă	1
+Turcu	1
+Săvulescu	1
+concerne	1
+NEPI	1
+Nnanieation	1
+Rockcastle	1
+Growthpoint Properties	1
+Globalworth	1
+Ioannis Papalekas	1
+sud-african	1
+Iulius	1
+Openville	1
+Giani Kiriță	1
+Kiriță	1
+socios	1
+tehnicia	1
+eelvie	1
+promovată	1
+Dudea	1
+Costache	1
+Katsikas	1
+golaveraj	1
+baston	1
+Victor Râmniceanu	1
+ACS pol Timișoara-Viitorul	1
+Râmniceanu	1
+CS U Craiova	1
+assist	1
+blată	1
+FCSB-iștii Alibec	1
+preferație	1
+Eduard Iordănescu	1
+BOA	1
+selenă	1
+aluz	1
+0	1
+Virgil Colfescu	1
+ecuație	1
+Alessandro acru	1
+Acimetobacter Milan	1
+virge	1
+echipel	1
+baftă	1
+Good luck Golofca	1
+Business-urile	1
+trening	1
+Ando	1
+Hanca	1
+Palic &	1
+mega-chef	1
+giurgiuvene	1
+Ioan Niculae	1
+atuncă	1
+pa	1
+Ovidiu Sabău	1
+Ion Danciu	1
+IONEL DĂNCIULESCU	1
+Al Wahda	1
+orchestră	1
+Petrică pană	1
+Cornelia Catanga	1
+Aurel Pădureanu	1
+Radu Ciordaș	1
+Aurel Datcu	1
+Florin Răducioiu	1
+IONELA PRODAN	1
+ANAMARIA și	1
+periferie	1
+Giani căpușă	1
+resuscitare	1
+Motoacă	1
+clu	1
+primoritate	1
+Baciu	1
+tată Puiu	1
+Belo	1
+Belodedici	1
+Constantin Popescu	1
+Barcelonei	1
+Eeuropa League	1
+avdersar	1
+Europa Legaue	1
+Nyon	1
+Mlada Austira Viena	1
+Boleslav	1
+Limassol	1
+Rangers(	1
+Shakhtyor Soligorsk	1
+Feynoord	1
+Iisus	1
+Chiajna	1
+Mariana Ilie	1
+pleșcă	1
+butură	1
+Alex Țigănașu	1
+Chamed	1
+corner	1
+Marius Constantin	1
+Ofosu	1
+Patache	1
+Andronic	1
+gaz Mediaș	1
+botoșănen	1
+Răzvan Andronic	1
+Jonathan Rodriguez	1
+Golakeeperul	1
+plasa	1
+Eduard Florescu	1
+Răzvan pleșcă	1
+Pleșca	1
+central	1
+Robert Dumitru	1
+botoșănenie	1
+Astana si Maccabi Tel Aviv	1
+Bayo	1
+Eboue	1
+Rogic	1
+Tierney	1
+slavie	1
+AIK Stockholm	1
+Sherriff Tiraspol	1
+look tv	1
+Ziyech	1
+Akpom	1
+Matos	1
+cabină	1
+golgeter	1
+Huntelaar	1
+șah	1
+Ferencvaros	1
+fotbal_club Copenhaga	1
+succees	1
+Qarabağ	1
+Dynamo Kyiv	1
+Zagreb-	1
+Brugge-	1
+Dynamo	1
+Kyiv	1
+Roșie-	1
+İstanbul Bașakșehir	1
+Pireu	1
+Basel	1
+Champions League tur APOEL-	1
+Bașakșehir	1
+İstanbul	1
+Maribor- Rosenborg Rosenborg	1
+Cluj- Celtic	1
+Basel-	1
+Linz Basel	1
+Căile_Ferate_Române Celtic Căile_Ferate_Române Cluj	1
+Mihai Bordeianu	1
+cartonaș-	1
+cap-	1
+eventiment	1
+aport	1
+atacanție	1
+reprezenantă	1
+Ion Oblemenco	1
+Petros Mantalos	1
+min.60	1
+Marko Livaja	1
+Forin Tănase	1
+imprecizie	1
+neprezentare	1
+unire Urziceni	1
+scrup	1
+Onofraș	1
+Green City	1
+George Galamaz	1
+Răzvan Pădurețu	1
+Iulian Apostol	1
+țărancă	1
+Pădurețu	1
+Galamaz	1
+virgulă	1
+antijoc	1
+partitură	1
+Toronto	1
+Rogers cup	1
+canadiancă	1
+Bianca Andreescu	1
+irină	1
+Begu	1
+Sorana Cîrstea	1
+monică Niculescu	1
+Mihaela Buzărnescu	1
+Patricia Țig	1
+Ana Bogdan	1
+Elena-Gabriela rus	1
+Irina bară	1
+japoneză	1
+rocadă	1
+australiancă	1
+Kiki Bertens	1
+Petra Kvitova	1
+Elina svitolină	1
+Serena Williams	1
+Arina Sabalenka	1
+Sloane Stephens	1
+pct	1
+Karolina Pliskova	1
+Perianu	1
+inter	1
+ilfovean	1
+țîră	1
+min.1	1
+Ricardinho	1
+min.68-aut	1
+Astra Girugiu	1
+Liverpool-	1
+Europa League Atromitos-Legia Legia	1
+Guimaraes- Ventspils	1
+H-2	1
+Saburtalo-	1
+Ararat	1
+Zilei- pariu 1X2 Europa	1
+Sheriff	1
+Spartak Moscova- Thun GG-	1
+BATE-	1
+TNS- Ludogorets	1
+Rangers- Midtjyland GG-	1
+Midtjyland	1
+H-1	1
+Kalju	1
+Sutjeska	1
+Dundalk	1
+Saburtalo	1
+HJK	1
+Spenozin	1
+Thun	1
+Soligorsk	1
+Suduva	1
+Zrinjski	1
+Neftci	1
+Baku	1
+țen	1
+Malatyaspor	1
+Partizan	1
+Țntéronul_Imunodeficienței_Umane_Dobândite	1
+H.	1
+Beer	1
+Norrkoping	1
+TNS	1
+Plzen	1
+Vaduz	1
+Haugesund	1
+Lok	1
+Aris	1
+Valletta	1
+Plovdiv	1
+Aberdeen	1
+Brondby	1
+Wolves	1
+Pyunik	1
+Stephanie Frappart	1
+Manuela Nicolosi	1
+irlandeză	1
+Michelle O’Neal	1
+pena	1
+departajare	1
+Mane	1
+Giroud	1
+min.36	1
+pen	1
+Firmino	1
+Fabinho	1
+Origi	1
+Alexander-Arnold	1
+Salah	1
+Barkley	1
+Mount	1
+Emerson	1
+Abraham	1
+extremis	1
+Moutinho	1
+victorie Guimaraes	1
+asppect	1
+mass-medie	1
+astădz	1
+Athletic	1
+Barcelona Athletic	1
+Bayern-Hertha	1
+reprize-cotă	1
+Lyon- Angers	1
+Chindia Târgoviște- &	1
+București X2	1
+ceh	1
+Chindia Târgoviște	1
+îiante	1
+Botoșani-	1
+Voluntari-	1
+Giurgiu-	1
+Chidnia	1
+Târgoviște-	1
+alcătură	1
+combo”	1
+Eredivisie	1
+Burnley	1
+Heracles	1
+Eindhoven	1
+Atletico	1
+Getafe	1
+Tottenham gol	1
+Bayer	1
+Borussia	1
+Cheslea	1
+sigurnață	1
+cormoran	1
+legie Varșovia	1
+saf	1
+Stabek	1
+Vaaalerenga	1
+Liverpool- Chelsea	1
+Liveprool	1
+Stabek- Vaalerenga	1
+Valerenga	1
+Căile_Ferate_Române Cluj- Slavia	1
+Vaanaken	1
+LASK Linz- club Brugge	1
+olandede	1
+Răzvan Marina	1
+catonaș	1
+Cipriu	1
+cipriot	1
+Dinamo Zagreb- Rosenborg	1
+Olympiakos- Krasnodar	1
+Young Boys- stea	1
+play-off-ură	1
+învinsă	1
+Champions League miercuri	1
+Olympiakos Piraeus	1
+Krasnodar Dinamo Zagreb	1
+Rosenborg Young Boys	1
+Slavia Praga LASK	1
+AEK Larnaca	1
+săăptămână	1
+viitor Constanța	1
+Gent- AEK Larnaca	1
+AZ Alkmaar- Mariupol	1
+returl	1
+partideechipă	1
+ppe	1
+Europa League FCSB- Vitoria	1
+Ararat-	1
+Malmo-	1
+Bnei	1
+1X &	1
+Torino-	1
+Wanderers	1
+Gent- PSF	1
+Alkmaar-	1
+Antwerp 1X &	1
+portughed	1
+bam-bam-bam	1
+Andrei Vlad	1
+oe Vlad	1
+FCSB-	1
+Vasile Crețu	1
+Planic	1
+A. Marc	1
+Soiledis	1
+Flenona Tănase	1
+Oaidă	1
+Flenona Coman	1
+Gnohere antrenor	1
+Vergil Andronache Guimaraes	1
+Miguel Silva Sacko	1
+Tapsoba	1
+Pedrao	1
+Hanin	1
+Al Musrati	1
+Rochihna	1
+Almeida	1
+Davidson	1
+Guedas antrenor	1
+Ivo Vieira arbitru	1
+Matej jug	1
+Matej Zunici	1
+Grega Kordez	1
+Borisov	1
+interantă	1
+Legia	1
+Eintracht Frankfurt	1
+AIK Stochkolm	1
+Ararat-Armenia- F91 Yehuda	1
+Malmö FF- Bnei	1
+Sūduva-	1
+Feyenoord- Hapoel Be’er	1
+Copenhaga-	1
+Varșovia-	1
+AEK Atena-	1
+Partidul_Umanizt_dimit	1
+AZ- Antwerp	1
+Vitória	1
+Guimarães	1
+Strasbourg-	1
+Eintracht	1
+Gent-	1
+Linfield- Qaraba	1
+Sporting Braga-	1
+Spartak	1
+Espanyol- Zorya	1
+Partizan-	1
+Slovan Bratislava- PAOK	1
+Torino- Wolverhampton Wanderers	1
+Zilei- România-	1
+pol Chindia	1
+Iași-	1
+Târgoviște pol Iași	1
+Craiova-	1
+1x&	1
+X2 &	1
+Anglia-	1
+Premier	1
+Aston Villa- Everton	1
+Belgia- Jupiler League	1
+Anderlecht	1
+reprize-	1
+Germania-	1
+Koln	1
+Clinceni-	1
+Botoșani 1X &	1
+Parma- Juventus Cristiano	1
+meci_	1
+Fiorentina- PsF	1
+Hoffenheim- GG-	1
+Werder	1
+Augsburg- Union Berlin Augsburg	1
+Dusseldorf-	1
+Shalke	1
+Bayern X2	1
+Madrid-	1
+Valladolid Partidul_Comânia	1
+Getafe-	1
+PsF	1
+Pariuri1x2 .rodor	1
+Combo	1
+DUSSELDORF	1
+LEVERKUSEN	1
+ocspetion	1
+VALLADOLID	1
+PALACE	1
+CRYSTAL	1
+VIITORUL	1
+vou	1
+PORTIMONENSE	1
+SPORTING	1
+OASPETII	1
+copt	1
+mecciu	1
+A. de	1
+S. Querrey	1
+Querrey	1
+Jniunea_Europeană	1
+Londero	1
+George Barrere	1
+bursuc	1
+superioritate	1
+ratăr	1
+Țucudean	1
+retură	1
+golakeeper	1
+Arlauskis	1
+Rondon	1
+Slavia	1
+Mediaș de gaz Metan	1
+Edward Iordănescu	1
+Olaru	1
+Cardoso	1
+Velisar	1
+min.85	1
+fault	1
+Iulian Cristea	1
+Chorbadzhiyski	1
+Diego	1
+Fabbrini	1
+Ousmane Viera	1
+Srdjan Luchin	1
+Trondheim	1
+croaț	1
+Zageb	1
+Petković	1
+min.r-pen.	1
+Orsic	1
+min.28	1
+croație	1
+favoritt	1
+norvegien	1
+Eirik Horneland	1
+Livakovic	1
+rus	1
+Darren Cahill	1
+Simonei Halep	1
+Flushing Meadows	1
+turnee	1
+Cahill	1
+Nicole Gibbs	1
+Townsend	1
+Kozlova	1
+EFL	1
+tabelă	1
+Belgrad-	1
+fotbal_club Olympiakos	1
+elvețian	1
+fotbal_club Krasnodar	1
+Leeds Brentford	1
+1x	1
+Feyenord	1
+intimidare	1
+Sheriff Tiraspol	1
+liguă	1
+/promovare	1
+Mioveni	1
+UTA	1
+fotbal_club Argeș	1
+prințes	1
+PSG	1
+Chapeau	1
+bas	1
+Lens	1
+Lorient	1
+Toulouse si Amiens	1
+Bordeaux-Nantes	1
+Lille-Renes	1
+Conference League	1
+Intertoto	1
+fotblau	1
+Viitorul-UTA	1
+Astra-FCSB	1
+0ctombrie	1
+Premier al League	1
+Toni Petrea	1
+ONJN	1
+U Craiova	1
+Valeriu Iftime	1
+demitere	1
+Alex Chipciu	1
+Jakub Vojtus	1
+Andrei Burcă	1
+nou-promovată	1
+Laszlo Balint	1
+Dușan Uhrin jilopascal	1
+medieșean	1
+plutire	1
+Sergiu Buș	1
+Ioan horă	1
+Marius Constantin gaz	1
+Uhrin	1
+Olimpiu Moruțan	1
+retragere	1
+italie	1
+Inter-	1
+Lecce	1
+Dinamo- fotbal_club Hermannstadt	1
+Turcia-	1
+Gaziantep	1
+Constanța-	1
+Olanda-	1
+Jong PSV	1
+Maastricht	1
+Tenis-	1
+open	1
+Dayana Yastremska	1
+Niculescu-cota	1
+Minaur A.	1
+F. Fognini	1
+R. Opelka	1
+Roberto Carballes Baena	1
+Djokovic-	1
+Petre Kohlschreiber	1
+Luca Pouille	1
+sexy urlat	1
+fotbalistul-kateka	1
+Sexy urlat	1
+fotbalistului-kateka	1
+București-Secția	1
+Botoșaniului	1
+Winmasters	1
+tripletă	1
+Tanase	1
+Adrian Petre	1
+winmasters .rodor	1
+Georgi Kitanov	1
+Ionut Biceanu	1
+Dusan Uhrin Junior	1
+winmasters	1
+Champions Leaue	1
+parthie	1
+ZILEI-PARIURI	1
+TENIS-	1
+OPEN	1
+POPYRIN	1
+DELBONIS	1
+VOLYNETS-	1
+ANDREESCU	1
+game-uri-	1
+AZARENKA	1
+HALEP	1
+GIBBS	1
+GAME-URI	1
+SABALENKA	1
+dumevt	1
+GREȘELI-	1
+JOHNSON-	1
+seteral_Clommiss	1
+FOTBAL-ASIA	1
+ORA14:30	1
+SHANGHAI	1
+Sindromul_Imunodeficienței_Umane_Dobândite	1
+URAWA	1
+ITTIHAD	1
+HILAL	1
+FOTBAL-	1
+EUROPA	1
+KRASNODAR	1
+OLYMPIAKOS	1
+GOLURI-	1
+stâană	1
+YOUNG	1
+BOYS	1
+ZAGREB	1
+businessman	1
+_____	1
+ordicat	1
+emiterie	1
+….	1
+scemtion	1
+ape_pola	1
+dnă	1
+executoriu	1
+mijlocire	1
+Comunitatea_Economică_Europeană stea	1
+colonel	1
+necunoscut	1
+intimat	1
+acoliție	1
+crai	1
+culpă	1
+reclamanta-pârâta	1
+Palade	1
+Adamescu	1
+netimbrare	1
+veșnicul	1
+Denisa Nechifor	1
+Adio”	1
+depărtare	1
+Danei	1
+Florin Petrișor	1
+comitet de	1
+azcalendar	1
+promovare/menținere	1
+play-off/play-out	1
+play-out	1
+epic	1
+Mircea Banicu	1
+copertă	1
+Răzvan Lucescu	1
+Lucești	1
+Zenit Sankt Petersburg	1
+mare negru	1
+Pisa	1
+Brescia	1
+Reggiana	1
+Beșiktaș	1
+Șahtior	1
+Donețk	1
+Zenit	1
+Sankt	1
+Petersburg	1
+portiță	1
+stingere	1
+paranormal	1
+Reclamantul-victimă	1
+D. Ion	1
+International_Comerifi	1
+pârâta-agresor	1
+bruscare	1
+U. Hayud	1
+Anchor George	1
+ex-partenere	1
+apelative	1
+moralitate	1
+bețivulă	1
+bânt	1
+curve	1
+concubine	1
+tovarășal	1
+Eiffel	1
+blug	1
+Ion Balint	1
+mega-paranghelie	1
+Nuțu	1
+Claudia braziliancă	1
+Jilava călare	1
+Sexy-finuța	1
+Tibi Bălan	1
+scenetă	1
+Ionut Luțu	1
+Patricia	1
+Andreas Ionut	1
+filmată	1
+aflată	1
+glont	1
+de... bebelus	1
+impatimită	1
+CANCAN .ro	1
+subterană	1
+spatiu	1
+paznic	1
+observată	1
+bacsis	1
+luminită	1
+ajunsă in	1
+finie	1
+abstinentă	1
+hanut	1
+sar Gigi	1
+candă	1
+lumanar	1
+bax	1
+obisnuintă	1
+nevoită	1
+Luminitei	1
+International_Comercială_de_Române	1
+reputat	1
+Asia expres	1
+CANCAN.RO.SITE-UL NR.1	1
+fluture	1
+cumportament	1
+pătrățea	1
+Mircea Rednic Luana	1
+vum	1
+omolog	1
+MEDIA Scleraminultub	1
+Al Faisaly	1
+elog	1
+Ana Maria Ilac	1
+Andreei Marin	1
+Ana Violeta	1
+Ștefan Bănică Jr	1
+Mihășan	1
+Flavia Mihășan	1
+mărțișor	1
+intrarea	1
+Razvan si Dani	1
+dsp Buzău	1
+persoană Hârja	1
+tută	1
+păpușel	1
+frumușel	1
+Audi A5 Coupe	1
+mină	1
+psoriazis	1
+Maradona	1
+Matthaus	1
+lindozece Bacău	1
+lindozece Banat	1
+Benfica Lisabona	1
+curte de Argeș	1
+Petre Grigoraș	1
+Vezuviu	1
+Buggy	1
+chiricheș	1
+machedon	1
+iureș	1
+gazelă	1
+aviator	1
+limonadă	1
+diplomat	1
+“trăim	1
+valabilitate	1
+proteză	1
+Vicăi Blochina	1
+lichidul-minune	1
+eh	1
+Somalia	1
+@#$&	1
+jeans	1
+c*&^l	1
+bidon	1
+bulumac	1
+silfidă	1
+cremuță	1
+denim	1
+Ilinca obădi	1
+motociclist	1
+Anna Roman	1
+Ilinca Obădeascu	1
+jurnalism	1
+Munteanu	1
+bluziță	1
+Mozzafiato	1
+păsură	1
+narghilea	1
+Inited_States_domân Vâlcea	1
+Andrei Adam	1
+șort	1
+fulger Lerești	1
+Naomi Câmpulung	1
+rând pe rând	1
+piteștean	1
+Television Mădălina	1
+Andreei Tonciu	1
+Dîrnea	1
+Ramonei Gabor	1
+Gureșoaie	1
+trabuc	1
+Mercedes CL	1
+Giani Pîrvu	1
+Fălticeni	1
+Dumitru stativ	1
+stewardesă	1
+Dumitru stativă	1
+tavan	1
+lateral	1
+George Tal	1
+Cătălin Crișan	1
+Cornel Palade	1
+Anca Țurcașiu	1
+prăbușire	1
+fotbal_club Vaslui	1
+Porumboiu patron	1
+Ceahlăul Piatra Neamț	1
+vilișoară	1
+dis-de-dimineață	1
+Mircea Badea	1
+halteră	1
+neată	1
+@carmenbrumaoficial	1
+…aaaaa	1
+Moldova Vica Blochina	1
+Klaipeda	1
+Melody	1
+anominat	1
+nerecunoaștere	1
+paternitate	1
+sexshop	1
+sexy-războinica	1
+CamModels	1
+Alexandra B	1
+videochatistă	1
+Ana Maria Mocanu	1
+prințișor fresh	1
+Futti	1
+Futti fresh	1
+p&^%	1
+c$	1
+#5a	1
+p&$#@	1
+complet	1
+Micula Jr	1
+Valentines Day’s	1
+Ozana Pușcaș	1
+Yashar Hassan Abbas	1
+con	1
+moet	1
+Arabia	1
+yashar Hassan	1
+faraon	1
+rolls Royce	1
+sexy-model	1
+figurație	1
+vedetism	1
+Lucian Prințu	1
+tit	1
+Vioricăi Dăncilă	1
+saună	1
+Mihai Bujor Sion	1
+protocol de	1
+Sion	1
+năbădăios	1
+Agora	1
+averie	1
+Ozanei	1
+Television Mirela	1
+Mirela	1
+gală Bute	1
+costă	1
+Rica	1
+revizuire	1
+rejudecare	1
+formațiune	1
+non-grată	1
+chelner	1
+pec.	1
+Harley Davidson Fat bob	1
+scuter	1
+Vespa	1
+Corvette Stingray	1
+Easy Rider	1
+Denis Hopper	1
+jack Nicholson	1
+Peter Fonda	1
+ALINEI GORGHIU	1
+parcurgere	1
+străbatere	1
+Sorana Pașcu	1
+Ioan Mircea Pașcu	1
+dat	1
+skateboard	1
+Evolve Bamboo Series	1
+bancă Transilvania	1
+Tetik	1
+capitalizare	1
+ducă	1
+viorică Dăncilă	1
+Mihai Gâdea	1
+sinteză	1
+sclipire	1
+Victor Dăncilă	1
+Videle	1
+puiuț	1
+numeroșie	1
+Klaus Werner Iohannis	1
+Călin Popescu Tăriceanu	1
+Antonio Tajani	1
+Sevilla `86	1
+fundament	1
+penalti	1
+aderare	1
+geambaș	1
+Ioan Micula	1
+țărm	1
+privatizare	1
+discrepanță	1
+recensiune	1
+Boureanu Vaida	1
+asteptar	1
+esec	1
+suces	1
+interfată	1
+Boureanu	1
+Cima	1
+San Jose	1
+canadien	1
+gsprmor	1
+Bute	1
+Rudel Obreja	1
+sporire	1
+box Rudel Obeja	1
+Ion Ariton	1
+participație	1
+dezinvoltă	1
+HOT	1
+cepă	1
+Dan Tecu Lescu	1
+îfriendszon	1
+qulalaaa	1
+binișor	1
+memorialistică	1
+papacioacă	1
+nemestecată	1
+candidată	1
+mătăsar	1
+Mircea N. Stoian	1
+Breeze	1
+Crazy Beach	1
+Franco Baronu’	1
+arman	1
+gold	1
+Halkidiki	1
+Breeze Mamaia	1
+Bamboo Mamaia	1
+locatie	1
+Crazy Beach Mamaia	1
+mega-milionar	1
+rrom	1
+Sexy-logodnica	1
+netăgăduit	1
+Tac’su	1
+prințișor SIR	1
+Ahmed	1
+Porsche Panamera S	1
+Mercedes Maybach	1
+Mercedes AMG	1
+Porsche Cayenne S	1
+Audi A4	1
+blitz-u	1
+Hyperion	1
+Transilvania Models	1
+neiuitat	1
+ataș	1
+Vârciu	1
+7km/h	1
+umbrelă	1
+Khaled Alsamarra’i jilopascal	1
+Panamera	1
+AMG	1
+A4	1
+Wael Khaled	1
+Michael Corleone	1
+Tomah	1
+Khaled Alsamarra’ia	1
+plecăciune	1
+Irakian	1
+Tomah Khaled Alsamarra’ia	1
+Khaled Alsamarra’i	1
+mogul	1
+Bentayga	1
+Porsche Cayenne	1
+Forbes România	1
+super-tipografie	1
+monă	1
+Monica Gabor	1
+don Juan	1
+columbeanit	1
+Târgu-Cărbunești	1
+Acid_Dezoxiribonucleic Investments	1
+falimetare	1
+ABM Investments	1
+Iacobov	1
+mister Pink	1
+Kiseleff	1
+Antony	1
+alternantă	1
+sports memorabilie	1
+sampanie	1
+colect	1
+filmele-cult	1
+Jeep Wyllis	1
+Ford Mustang	1
+Jim Morrison	1
+HWY	1
+jeep Wyllis	1
+militară	1
+MB-T	1
+M2	1
+precadere	1
+Willys Mihromelontern	1
+britanică	1
+sovietică	1
+franceză	1
+Francis Ford Coppola	1
+fabricatie	1
+cintimât	1
+lincoln	1
+automată	1
+overdriv	1
+Lincoln	1
+Ford Motor si	1
+nuc	1
+Maranello	1
+constructor	1
+sosea	1
+sasiu	1
+suspensie	1
+roti	1
+tiraant	1
+franare	1
+propulsie	1
+secventială	1
+amplasată	1
+conducator	1
+2cmc	1
+navigatie	1
+noapte Alba	1
+View	1
+Cocktail	1
+vin-uri	1
+colectionar	1
+monică Gabor:	1
+domniță	1
+halal	1
+combatant	1
+rentă	1
+viageră	1
+neaprobare	1
+P________ ÎCCJ- Daxa_pentornalorifional	1
+aversiune	1
+V_____ P______	1
+V_ P______	1
+otravă	1
+lături	1
+_undinat __mipproză	1
+întindere	1
+denigrare	1
+neglijență	1
+documentație	1
+speță	1
+conviețuire	1
+S____ M_____	1
+afirmat	1
+menir	1
+atribuire	1
+oprobriu	1
+impostor	1
+legalitate	1
+actiev	1
+Corneliu Iacobov împreună	1
+Vacamuuu	1
+friptură	1
+rafinărie	1
+Rafo	1
+flamultian	1
+@monicagabor888	1
+vacationtimă	1
+irinucă	1
+sodiu much fun	1
+with miligram mom	1
+@monicagabor888 and miligram dad	1
+post shared by Irina Columbeanu	1
+@irina_unicorns	1
+Dec on	1
+slimă	1
+revigorare	1
+Christoph Daum	1
+CS	1
+U” Craiova	1
+vulcan	1
+carie	1
+spend timă with	1
+those	1
+lovă	1
+onă day you’ll say ‘I had…’ vrea ‘	1
+#NAME?	1
+Șefu'	1
+anticameră	1
+coastă de azur	1
+Șefu`	1
+alură	1
+Florin Gardoș	1
+Neaga	1
+bătrânețe	1
+Alzheimer…	1
+Carmina Maria	1
+FF	1
+lipscan	1
+Ion Cristoiu	1
+București Mugur	1
+Bentral_Croadcasting_Corporation Mugur	1
+classă	1
+cancelarie	1
+buric	1
+efectivament	1
+școală de	1
+hotspot	1
+Radu Beller	1
+A-Z	1
+–milionar	1
+tacsu	1
+Range Manssory	1
+accelerație	1
+Radu Frâncu	1
+Oanei Marica	1
+Acaderia_Română	1
+Asesoft	1
+Costi Silinescu	1
+duritate	1
+său	1
+super-mașine	1
+Rover	1
+BMW E700	1
+Mihnea crește	1
+strop	1
+jucar	1
+Florin Danu	1
+ananghie	1
+Bravo Anda	1
+aprinsă	1
+baietosă	1
+INFINIT	1
+condamnat	1
+hold	1
+grei	1
+off-shore	1
+Panama Papers	1
+.net	1
+Mossack Fonseca	1
+ramificație	1
+RISEProject.ro	1
+rise.md	1
+Beny Steinmetz	1
+Frank Timiș	1
+treandiuntite	1
+Leryn si Novak	1
+amoroasă	1
+Alexandru Mazilu	1
+Leryn Franco	1
+specializată	1
+aruncare	1
+Miss Paraguay	1
+Lerynei	1
+preparator	1
+sud-americană	1
+frumusete	1
+Franco	1
+competite	1
+televizată	1
+compatriot	1
+SFAT	1
+camarazie	1
+Iulian Costandache	1
+fericit	1
+loterie	1
+Romana	1
+Bogdan Vladimirescu	1
+Alex Mihaiescu	1
+concitadină	1
+primaver	1
+intretinere	1
+candva	1
+galatean	1
+petrecareată	1
+amenajată	1
+paharel	1
+placere	1
+halbă	1
+impatimit	1
+tovarasie	1
+uluire	1
+camarad	1
+frecventa	1
+intempestivă	1
+nastere	1
+inexistentă	1
+nevestă	1
+goală	1
+singurel	1
+totodată	1
+Iulian impreuna	1
+alimentar	1
+amăniată	1
+Nicorescu ară Lamborghini	1
+eur	1
+pledoarie	1
+Iulie	1
+miercurile	1
+relție	1
+Bogdan Syda”	1
+ștaif	1
+Șefu”	1
+Adrian Petrache	1
+mega-petrecere	1
+rose	1
+Remus Nica	1
+A.R.K. Bakery	1
+Remus	1
+Consia_Comultură	1
+brutare	1
+Anais	1
+Traian jilopascal	1
+Alex Erbașu	1
+selecționat	1
+micut	1
+fragedă	1
+actual	1
+Ionuț Andrei	1
+european	1
+România U21	1
+Bosnia-Herțegovina u21	1
+Ionuț Radu	1
+u21	1
+Bosniei-Herțegovina👉 #LuptamImpreuna	1
+fotbaliștii-vedetă	1
+fetițo	1
+Pff” Adelina	1
+Mihai Voduț Hahahaa	1
+!” Adelina	1
+Mihai Voduț Voduț	1
+voduț	1
+SuperPromotia	1
+livrare....cadou	1
+Rolls-Royce Wraith	1
+preferată	1
+doară	1
+Bozo	1
+chit	1
+Laciu	1
+super-frumuset	1
+super-frumusetete	1
+Kabirou Mbodje	1
+bogătas	1
+sforă	1
+super-brigadă	1
+alias Syda	1
+București-Paris	1
+supărată	1
+amicei	1
+Fraței	1
+SPA	1
+vrea…Ceilalți	1
+Cătălin Gheorghe	1
+Tomată	1
+alias Syada	1
+fotbal_club Viitorul-Dinamo	1
+separeu	1
+letargie	1
+semi-foarfecă	1
+Drăguș	1
+gialloross	1
+Francesci Totti	1
+Primavera	1
+Bălașa	1
+Maicon	1
+reprofilare	1
+Florenzi	1
+Crotone	1
+Gervinho	1
+Rudi Garcia	1
+Lobonț	1
+Borriello	1
+centrare	1
+Benatia	1
+castan	1
+imprevizibil	1
+poiană Brașov	1
+amaru	1
+amnistie	1
+Fane Dediu	1
+studio București	1
+Cătălin tomată	1
+Agnes	1
+Nicoleta nucă	1
+Paula Milea	1
+încetinire	1
+University of Colorado in Boulder	1
+Rebecca Bendick	1
+University of Montana in Missoula	1
+Geological Society of America	1
+seismolog	1
+Vrâncioaia	1
+descântece	1
+Jairo Osco	1
+epocă	1
+incaș	1
+peruan	1
+prezicere	1
+Center	1
+tipar	1
+tehnic	1
+Hector Bitar	1
+monică Cristescu	1
+Ciudad	1
+Mexico	1
+Bran	1
+concentrație	1
+Bitar	1
+Pena	1
+Carlos Slim	1
+Alessia Miroslava	1
+i’Paradis	1
+Irina Cristescu	1
+semnficație	1
+Lucian Burchel	1
+Romario	1
+Benzar	1
+Răzvan Marin	1
+Liege	1
+Alexandru Mitriță	1
+Pescara	1
+Aurelian Chițu	1
+Valenciennes	1
+Gabriel Iancu	1
+Alin Toșca	1
+Alexandru Târnovan	1
+Mihai Bălașa	1
+Ioan Filip	1
+Debrecen	1
+Neluț Roșu	1
+Levski Sofia	1
+Nelson Bonilla	1
+Zira	1
+Robert Grecu	1
+FCSB+clauză	1
+frază	1
+macaz	1
+monotonie	1
+contradicție	1
+Elicpsa	1
+ipohondrie	1
+renegociere	1
+înflăcărare	1
+figurat	1
+redresare	1
+regenerare	1
+dilemă	1
+melancolie	1
+nostalgie	1
+dispoziță	1
+vibrație	1
+capriciu	1
+Gabor & milopascal Pink… Gina pistol & Smiley	1
+Felix Baumgartner Mihaela	1
+parașutist	1
+Antonia Alex	1
+Maya Rosaria	1
+Ionuț Luțu Ionuț Luțu	1
+ex-manechinul	1
+SPEAK Cristina Ștefania	1
+Adrian Alexandrov Elena Udrea	1
+îndepărtată	1
+Cătălin Tomată EBA	1
+caltere	1
+milopascal Pink Monica Gabor	1
+Malibu	1
+asiatic	1
+Smiley Smiley	1
+mascar	1
+revină	1
+gospodarească	1
+reciprocă	1
+sarbator	1
+pasionată	1
+tină	1
+tanară	1
+figuratie	1
+romanească	1
+parintească	1
+locuiască	1
+chiriat	1
+M.A.	1
+ranit	1
+Brusli	1
+dispară	1
+Gheorge Vladan	1
+spună	1
+schioapă	1
+urgentă	1
+B.V.	1
+tusă	1
+Florina	1
+pamant	1
+sustinator	1
+ucidere	1
+ranire	1
+tragă	1
+preventivă	1
+Rotbus_hetor Alextate	1
+plafon	1
+bubuitură	1
+fundal	1
+fluctuație	1
+convergență	1
+descărcare	1
+dcbusiness.ro	1
+Horoscop	1
+www.zodiacool.ro,	1
+zodiaccool.ro	1
+tulpină	1
+onestitate	1
+galanterie	1
+voluptate	1
+materialism	1
+credulitate	1
+lene	1
+Doperamiul_Imunodeficienței_Umane_Dobândite	1
+hormicop	1
+capricorn	1
+taură	1
+urcuș	1
+rupt	1
+nervozitate	1
+indispoziție	1
+Chanel	1
+nepermis	1
+Adi Constantin beauty center	1
+Tudor Vianu	1
+biss	1
+gentă	1
+patroană	1
+Melania Vasile	1
+indiferentă	1
+ptr	1
+ptoblemă	1
+surprizaa	1
+plangere	1
+legală	1
+atitutine	1
+Adi Constantin	1
+tacere	1
+!N	1
+Ps	1
+!”	1
+erotică	1
+Princess	1
+super-fundulețul	1
+supermodel s by Cătălin	1
+antipat	1
+Supermodels by Cătălin	1
+băneasă	1
+Panduri	1
+sară	1
+Vasile Lascăr	1
+Titulescu	1
+IMGB	1
+metalurgie	1
+Târgu	1
+Secuiesc	1
+bublișor	1
+Maldive	1
+forever	1
+el„	1
+Gheorghiță Stamate	1
+scocă	1
+var	1
+băgare	1
+managă	1
+mic înțelept	1
+vindecător	1
+subaltern	1
+raci	1
+legăturră	1
+cheltuitor	1
+reconturare	1
+traum	1
+dentaliu	1
+STOP	1
+servic	1
+lemn yin	1
+lemn Yang	1
+foc yang	1
+foc yin	1
+pământ yang	1
+pământ yin	1
+metal yin	1
+apă yang	1
+apă yin	1
+astre	1
+sinuzit	1
+restabilire	1
+reanaliză	1
+creze	1
+tachinare	1
+lumbă	1
+Constantin Ionescu	1
+Danumella_Moniversitatea	1
+scorpion	1
+Manole	1
+ameliorare	1
+închirie	1
+comunicicare	1
+strănătate	1
+introspecție	1
+Facebook Center- predicție	1
+seismic Center-Predicție	1
+octombrie-7	1
+Recomandam	1
+aplicatie	1
+Telegram	1
+max	1
+MR	1
+trigger-	1
+degajare	1
+Pirtare	1
+Facebook Center predicție	1
+Mw	1
+metafizice	1
+metamorfoză	1
+bivol	1
+Capra	1
+șobolan	1
+șarpe	1
+tigru	1
+maimuță	1
+antiteză	1
+sină	1
+Slănic-Moldova	1
+bucurest	1
+Bucureștii	1
+Colței	1
+Calton	1
+transportare	1
+căutare-salvare	1
+Iutei	1
+naivitate	1
+bunăvoință	1
+spiritualitate	1
+independență	1
+intuiție	1
+indigest	1
+măritre	1
+distractivă	1
+asociat	1
+visare	1
+idealizare	1
+spect	1
+primă	1
+săgetătoare	1
+singuranță	1
+redescoperire	1
+deconectare	1
+reechilibrarea	1
+inclinație	1
+aprtener	1
+retenție	1
+Irinel Columebeanu	1
+spadă	1
+Rio Janeiro	1
+reprezentativ	1
+spadasina	1
+Craioveia	1
+Dani Oțil…	1
+Irinel Columbeanua	1
+emediabacau.ro	1
+scaund	1
+Romania pret	1
+primvară	1
+linistită	1
+bilantz	1
+daramatură	1
+Toma Caragiu	1
+doină Badea	1
+Anatol Emilian Baconsky	1
+adancime	1
+exercitiu	1
+Muntii	1
+populatie	1
+Ion Barbu	1
+Dan Grigore	1
+Daniela Crăsnaru	1
+Laurențiu Damian	1
+Ana Szeles	1
+vacanță la mare	1
+socialism	1
+Acapulco	1
+scheciu	1
+teatru de	1
+Constantin Dinischiotu regizor	1
+destinul	1
+Ion Lucian	1
+teatru de comedie	1
+dărâmătură	1
+cinematograful	1
+scală	1
+super-comedie	1
+Melania	1
+cenzură	1
+votant	1
+Palm Gardens	1
+recensământ	1
+Palm County	1
+Silent Friends	1
+Les fêtes galantes	1
+Sanda	1
+surâs	1
+vacanță la	1
+ung	1
+asocia	1
+nea Puiu	1
+Edenland Park	1
+eu…să	1
+întocmire	1
+Măgurele	1
+Dâmboviței	1
+post-seism	1
+Nereju	1
+deplasaredirecție	1
+Alexandria	1
+nucleu	1
+comandament	1
+#SEISM2018	1
+București- Alexandria	1
+avariere	1
+epurare	1
+North_Atlantic_Treaty_Organization	1
+mecanism protecție	1
+capabilitate	1
+EU-MODEX	1
+Stitele_Unite_ale_Americii	1
+antrenare	1
+coordomare	1
+stradă Boteanu	1
+Coșbuc	1
+Bucur	1
+imobilul	1
+Dorobanti	1
+Magheru	1
+P+6	1
+P+8	1
+Radu Zamfir	1
+apusean	1
+Mihail	1
+intensivă	1
+titan	1
+balerin	1
+POS Scleraminultub	1
+citație	1
+Costin Mărculescu Scleraminultub	1
+Mărculescu	1
+B_ e_ navtevini	1
+asociație E_________	1
+_iclioteca N____	1
+B___	1
+creditorare	1
+I__ B___ Nicolae A_ _andii S_ _andiopitate_a_Stat	1
+Ma________ C_____	1
+_uvsvvit	1
+_nvivvin_tun_Custendentente	1
+CNP-xxxxxxxxxxxxx	1
+C_ Ma_______ & P__ Statele_Unite_ale_Americii	1
+nuvsvvi	1
+Bnidedoarea_Commission E_________	1
+răbufnire	1
+termopan	1
+spriț	1
+șoset	1
+alăptat	1
+clătit	1
+pie@r	1
+Dani Oți	1
+sărutură	1
+mângâiare	1
+Samuel Torriellec	1
+Cherbourg	1
+Normandia	1
+crèmă	1
+PROTV	1
+pescar	1
+perfecție	1
+patiserie	1
+Tour d’Argint	1
+generație aur	1
+Anamaria Tulumb	1
+Ruseși	1
+Florin scripcă	1
+Florin Scripcă	1
+cărămiziu	1
+FOA	1
+chef FOA tătic	1
+lăudat	1
+concesie	1
+bordură	1
+suvenir	1
+Brasov	1
+Bacau	1
+Galati	1
+Braila	1
+Pitesti	1
+Chisinau	1
+anestezie	1
+Cristina Spătar	1
+Catrinel Sandu	1
+prăjea	1
+făinos	1
+lactate	1
+Dragoș udilă	1
+Dana Markitan	1
+Eurovision	1
+Raluca Diana	1
+Rafael Wehlner	1
+ralflu	1
+Keo	1
+udilă	1
+națională de fotbal	1
+Rafael	1
+dure	1
+Angelo Terigan	1
+Banat	1
+you Tube	1
+instrumental	1
+matematica	1
+rap	1
+Georgiana Agarici	1
+cânta	1
+piton	1
+șorică	1
+cus	1
+semifinală	1
+get on upă	1
+James Brown	1
+Florin Scripca	1
+Ioana Aian Balu	1
+Totusi	1
+certe	1
+ciudaten	1
+aprig	1
+Mastechef Foa	1
+viitoară	1
+tigară	1
+Ion Țiriac	1
+Patda_Eultuare_Române România	1
+Pool	1
+deficit	1
+distribuitor	1
+San Andreas	1
+primăbară	1
+încoace	1
+studiere	1
+replici„	1
+aliniere	1
+fel„	1
+joncțiune	1
+Science	1
+!’	1
+sfânt Ștefan	1
+Maya Rosaria Castellano	1
+Samuel el	1
+rață	1
+sos Peking	1
+curcan	1
+pesto	1
+arom	1
+Nicolaescu	1
+savoare	1
+înclinație	1
+sandviș	1
+training	1
+VIVA Cafe	1
+explorare	1
+bep/d	1
+conduct	1
+m3	1
+Marketing	1
+gastronomie	1
+RCA	1
+Râmnicu	1
+Adria	1
+Madagascarul	1
+profeție	1
+premoniție	1
+anil	1
+triughi	1
+manifestație	1
+ral da	1
+plăman	1
+prezicător	1
+FCM	1
+grandă	1
+AS Bacău	1
+Selena Bacău	1
+Bacovia	1
+fumigean	1
+Cursaru	1
+CNN	1
+Bogdan Lobonț	1
+reînviere	1
+sfințenie	1
+elită	1
+dedesubtură	1
+mocirlă	1
+Ana Maria Ferencz	1
+me aculpă	1
+demarare	1
+neplată	1
+oară la	1
+Dragoș Săndulache	1
+Mirel	1
+relaxat	1
+extensiv	1
+A8	1
+Bentley Continental GT	1
+Mercedes enKlassă	1
+Aston Martin	1
+Al Hilal	1
+Al Ain	1
+Ahli	1
+Arabi	1
+Mireal Rădoi	1
+Lichtenstein	1
+meșteșugar	1
+Gheorghe Ilinca	1
+opincărie	1
+ateliere	1
+împletit	1
+ceramică	1
+cojoc	1
+vestă	1
+Costești	1
+orlest	1
+INCDFP	1
+CSEM	1
+Prizren	1
+Skopje	1
+Bari	1
+Pristina	1
+Taranto	1
+Nis	1
+infp.ro	1
+spovedanie	1
+burete	1
+avarie	1
+tăblărie	1
+asigurator	1
+neîncepere	1
+stricăciune	1
+Sechelariu Junior	1
+piloție	1
+pistă	1
+karting	1
+far Constanța	1
+Computerland	1
+fi	1
+FCD	1
+ACS	1
+clonă	1
+înființare	1
+Marius Bacria	1
+fantastica	1
+sanatosă	1
+imbatranească	1
+Wowbiz .rodor	1
+tăticul	1
+inocență	1
+Odorheiul Secuiesc	1
+păpușilel	1
+șnur	1
+fou	1
+uscat	1
+Oră	1
+Amara	1
+creativitate	1
+uliță	1
+simplitate	1
+gosdpodină	1
+precupeață	1
+Balint	1
+candel	1
+Șimnic	1
+Bombus	1
+mamifer	1
+orbet	1
+șoarece	1
+nectar	1
+larvă	1
+trompă	1
+Ștefan Anuța	1
+apicultor	1
+nori	1
+agronomie	1
+căpșuni	1
+delicioasă	1
+Mârșani-Dolj	1
+căpșun	1
+buruiană	1
+Drăghici	1
+picurare	1
+acționare	1
+fcdinamo.ro	1
+bInstalație	1
+subscrisă	1
+bunicuț	1
+obieciu	1
+folclor	1
+carpet	1
+șilopas	1
+lideră	1
+meșteșugărit	1
+veterană	1
+carpetă	1
+ață	1
+etamină	1
+ivire	1
+Roxana Boitaș	1
+păsat	1
+Tudorii	1
+tocană	1
+păcăleală	1
+Adi Mutu	1
+punctuleț	1
+jupân	1
+the New Dinamo	1
+the Same Old Dinamo	1
+Ana Manole	1
+colindă	1
+mercedes Maybach	1
+cancelar	1
+mercedes	1
+Alexandru Bostangică	1
+Luțuleee	1
+Bostangică	1
+Velența	1
+comunist	1
+sfânt treime	1
+Oradea Gavril buboi	1
+templu	1
+clopotniță	1
+Octavian Muth	1
+arcă	1
+edificiu	1
+pantocrator	1
+mântuitor	1
+iconografie	1
+prapor	1
+cutumă	1
+serafime	1
+stativ	1
+evanghelie	1
+vultur	1
+cuprins	1
+Gavril Buboi	1
+capelă	1
+deosebită	1
+predic	1
+Gavril buboi	1
+Charitatis sfânt Nicolae	1
+vecinătate	1
+autism	1
+ADHD	1
+roșia-ciocolată	1
+pionier	1
+tarab	1
+Nepal	1
+vinete	1
+roșiile-ciocolată	1
+colesterol	1
+amăreală	1
+cunoscător	1
+Mihalache	1
+pesonaj	1
+găleată	1
+schelă	1
+Tudor Mihalache	1
+emisiunea/concurs	1
+dragor	1
+artizanat	1
+Ștefan Popa Popa’s	1
+ELENA	1
+băiță	1
+lăpticul	1
+ruper	1
+turtă	1
+margoțică	1
+picoare	1
+piercing	1
+antichitate	1
+înfrumusțare	1
+prof	1
+mastectomie	1
+Heliogabal	1
+pilire	1
+sârmuliță	1
+austeritate	1
+spa-	1
+pervertire	1
+hipercivilizare	1
+creștinism	1
+paradigmă	1
+Tertulian	1
+plete	1
+Siracuza	1
+Claudius Marcellus	1
+bărbierit	1
+Scipio African	1
+eră	1
+Hadrianus	1
+bărboș	1
+mentă	1
+agraf	1
+cercel	1
+colieră	1
+cară	1
+pescăruș	1
+crocodil	1
+ten	1
+antimoniu	1
+funingine	1
+lentisc	1
+seu	1
+chelie	1
+sclavă	1
+trib	1
+trepanație	1
+diagnostician	1
+sterilizare	1
+ardere	1
+instrumentar	1
+anatomie	1
+farmacologie	1
+mileniu	1
+medicin	1
+mac	1
+constipație	1
+Bretania	1
+carăre	1
+cărare	1
+State	1
+luni-vinere	1
+paris	1
+fat-frumos	1
+abator	1
+germană	1
+brevet	1
+novice	1
+perfuzie	1
+embrion	1
+văcuță	1
+spitale	1
+traducător	1
+acume	1
+nerăsuflat	1
+Codrin	1
+IT -ist	1
+Chechiș	1
+ar	1
+mariuca Olandeza	1
+bulb	1
+Maria Tetișan	1
+tunelurile	1
+FOCȘANI	1
+iondie	1
+vacă	1
+aiestă	1
+oniță	1
+acol	1
+petală	1
+măriucă Olandeza	1
+maramureșeancă	1
+cules	1
+gălbenea	1
+autogare	1
+funcții-cheie	1
+spanioală	1
+vatră	1
+floarea-soare	1
+lan	1
+eco-agricultură	1
+sapă	1
+uscare	1
+scaieție	1
+Berende	1
+făină	1
+cioban	1
+comoditate	1
+deal	1
+majă	1
+satumare	1
+.transilvania-tv.ro	1
+captare	1
+țeavă	1
+cergă	1
+floare Marina	1
+adepta	1
+sillicon	1
+bidoană	1
+cunună	1
+har	1
+Marian Tudor	1
+aziloa	1
+Vizantea-Livezi	1
+Vidra	1
+Vizantea	1
+Glodeanu-Siliștea	1
+Glodeanu	1
+găgest	1
+bileț	1
+leșină	1
+colet	1
+școlarizare	1
+neimaginat	1
+sufleță	1
+SWIFT RNCBROBU reprezentant	1
+Tudor partidul_Comânia Marian	1
+Bolotești	1
+crater	1
+hău	1
+negustor	1
+chirilică	1
+Marian Florin dîrdală	1
+dîrdală	1
+frigidere	1
+cârciumă	1
+aier	1
+pronume	1
+astupare	1
+focșănean	1
+comisariat	1
+Brăilei	1
+Cuza vodă	1
+International_Cemocial	1
+Brătianu	1
+garsoniere	1
+muzeu de	1
+Nică Tătaru	1
+grop	1
+gropil	1
+Cristian Manta	1
+colecționar	1
+..	1
+roboță	1
+smerenie	1
+poală	1
+ceilat	1
+Acid_Dezoxiribonucleic HODĂIAN	1
+Rareș Miclăuș	1
+varientă	1
+clubul-fanion	1
+Olimpia Satu mare	1
+descoperit	1
+Lego	1
+Olimpia Satu	1
+Ușile	1
+graden	1
+tencuiala	1
+legol	1
+machetă	1
+Cosmin Miclăuș	1
+potasiu	1
+B6	1
+senzatie	1
+mere	1
+zahar	1
+moderație	1
+digestie	1
+intestin	1
+avocado Avocado	1
+rădăcinos	1
+conopidă	1
+.Goji	1
+saptămână	1
+hriscă	1
+hrișcă	1
+carbohidrat	1
+Răzvan Sava	1
+degradare	1
+memorial	1
+autoare	1
+așa-numită	1
+căciulă	1
+GAC	1
+îndrumător	1
+Mocanu Gheorghe	1
+bunăvoie	1
+Vasile neculiță	1
+focă	1
+măi	1
+bolovan	1
+Marin Crăciun	1
+șură	1
+tăbără	1
+iscălitură	1
+revoluționar	1
+vagon	1
+coji	1
+bălăr	1
+cazană	1
+acră	1
+murată	1
+surăian	1
+Butuceni	1
+polițai	1
+Dogaru	1
+dedesupt	1
+roabă	1
+torturat	1
+josea	1
+cearșaf	1
+arac	1
+păstă	1
+dou	1
+Marin Apostu	1
+săpat	1
+Neculai	1
+vizetă	1
+tace_pe_valoarea_adăugată	1
+anafură	1
+bucăță	1
+mătușă	1
+Vadu Roșca	1
+universitate Bolyai	1
+Babeș	1
+dizertație	1
+arhiplină	1
+puștoaice	1
+vrânce	1
+bască	1
+refugiu	1
+contra	1
+Gheorghe Pastia	1
+hală	1
+varieteu	1
+Piccadilli	1
+Fete	1
+Robin Cosma	1
+Interex	1
+Romtelecom	1
+Slobozia Ciorăști	1
+Biliești	1
+iminență	1
+inventariere	1
+Ronca_ea_Moperală_Demotball_Association	1
+improvizație	1
+rucsac	1
+miercure	1
+mentenanță	1
+centralizare	1
+Siret	1
+Hidroelectrica	1
+garnizoană	1
+imaș	1
+hârleță	1
+lopet	1
+târnăcoape	1
+barde	1
+camuflare	1
+crenge	1
+vopse	1
+profet Samoil	1
+gimnaziu	1
+Zăbrăuț	1
+Maior International_Cemocial Ghîtză	1
+Mesle_oflag Milea	1
+Vasile Vledoianu	1
+Hristudor Manoliu	1
+Vasile Vlădoianu	1
+asfixiere	1
+Lahovari	1
+mobilizare	1
+civil	1
+’44	1
+Florin dârdală	1
+infrrmerie	1
+grav…astad	1
+viața…doctor	1
+putință	1
+specifica	1
+referat	1
+comisiune	1
+deciziune	1
+export	1
+dispozițiune	1
+crah	1
+retrager	1
+bancă Marmorosch	1
+Blank & Constantin	1
+bancă Berkovitz	1
+curbă	1
+scumpire	1
+devalorizare	1
+Rucăr/Muscel	1
+subsecretar	1
+înzestrare	1
+Sighet	1
+Meonțil_	1
+memorialsighet.ro	1
+Pamele_e_temermaționamă_a_României	1
+subzistență	1
+ordină	1
+Republica_Populară_Democrată_a_Maghiarilor_hin	1
+Marius Neagîrnac	1
+Marian Ursea	1
+obișnuință	1
+Marius Nagîrneac	1
+Laurențiu Tudor bombă	1
+inamiciu	1
+armament	1
+amar	1
+cazmaua	1
+Sudiți	1
+bătut	1
+Mărculești	1
+flex	1
+poligon	1
+matematică-fizică	1
+Al.I.Cuza	1
+procuratură	1
+prim-procuror	1
+inaugurare	1
+avânt	1
+matematician	1
+Grigore Gheba	1
+adevare	1
+Iuliu Maniu	1
+detriment	1
+Mircea Ciobotaru	1
+pro-măs	1
+penal	1
+penalist	1
+ghilime	1
+decan	1
+seriozitate	1
+Ana Viorica Pușcașu	1
+Burca	1
+cucuiată	1
+amnezie	1
+talent Nicu	1
+ortoped	1
+Klebsiella	1
+stafilococ	1
+amikozit	1
+prospect	1
+branulă	1
+seringă	1
+șurub	1
+geometrie	1
+neurochirurg	1
+imobilizare	1
+sudare	1
+sacrum	1
+pseudartroză	1
+îndepărtare	1
+tălp	1
+spitalizare	1
+agravare	1
+infirmier	1
+recunoștință	1
+Medlife	1
+electrician	1
+suedede	1
+șezut	1
+magazioneră	1
+Gostat	1
+facultate de economie	1
+universitate de	1
+Elena Boț	1
+directoare	1
+olandez	1
+Ionel Țuțac	1
+suplinitor	1
+titularizare	1
+făget	1
+facultate de asistență	1
+Jebel	1
+aură	1
+Danielescu	1
+Ionel Petrea director	1
+Aura Danielescu	1
+marginalizare	1
+moș Crăciun	1
+DAN ANDREI	1
+Paula Crăciunescu	1
+fetită	1
+Paula	1
+absolventă	1
+Bălașa doamnă	1
+Nai clasic/contemporan	1
+conservator Amsterdam	1
+Maria Tănase	1
+Maria Lătărețu	1
+strugur de	1
+Panfluit concourse	1
+Princess Christina festival	1
+Uitmarkt	1
+Music	1
+Tour	1
+Rotterdam	1
+Havana	1
+Chicago Center	1
+Jacksonville	1
+Sunrise	1
+the Untold Story	1
+M.A.P	1
+Felicia Filip	1
+Zamfir	1
+interpretă	1
+scurtmetraj	1
+Nikolas Grasso	1
+Preda	1
+liceu de	1
+Ionela	1
+universitate de muzică	1
+jazz	1
+Ion Caramitru Mariana	1
+târgovișteancă	1
+George Romano	1
+Pippo Franco	1
+Grigore Leșe	1
+Benone Sinulescu	1
+Ciocârlia	1
+Maria Dinulescu	1
+Ion Caramitru	1
+Daisuke Kanamaru	1
+Armin van Buuren	1
+David Guetta	1
+Yanni	1
+Franco Battiato	1
+Ennio Morricone	1
+acum…	1
+MAYA RADU	1
+popie	1
+stilist	1
+rigor	1
+iluzie	1
+parintă	1
+Facebook Mădălin	1
+Bianca Călin	1
+violonistă	1
+Bârlad	1
+dezinvoltură	1
+citit	1
+descurcăreață	1
+voltaj	1
+Stradivarius	1
+leneveală	1
+LAURA MIRON	1
+broderie	1
+noroi	1
+piosenie	1
+really	1
+atat	1
+trist	1
+jignită	1
+neplacer	1
+mirie	1
+nuntaș	1
+madalin_augustinescu_insua	1
+😘	1
+verighet	1
+George Papari	1
+Papari	1
+Serghei Mizil	1
+alaptată	1
+intelegr	1
+exercitate	1
+noastră	1
+experient	1
+lingură	1
+leuț	1
+speculat	1
+speculatie	1
+lcoal	1
+Mihai Morar	1
+sărbătorită	1
+Adrian Danciu	1
+mlaștină	1
+Nephentis	1
+mitură	1
+Pișcolt	1
+subspec	1
+cântat	1
+preconcepție	1
+pensetă	1
+țânțar	1
+muște	1
+florare	1
+ferigă	1
+targă	1
+meterez	1
+Karlsruhe	1
+perfid	1
+aleptă	1
+naște	1
+Odobescu	1
+Timișoara/	1
+Doinei Dumitru	1
+salopet	1
+Banca_European._de_dentru_Valorgistrii	1
+baricadă	1
+astrolog	1
+engleză	1
+Comenius	1
+Reykjavík	1
+patiseri-cofetar	1
+Acent_itatea_Statelor_Internațională_de_Rotbal	1
+azil	1
+VIDEO	1
+doină Dumitru	1
+absolvire	1
+Mediko Hire	1
+A2	1
+B2	1
+mansardă	1
+Quarantena	1
+Atletico Madrid	1
+Juve	1
+vază	1
+papà	1
+andiamo	1
+fare palleggi	1
+due	1
+dovă	1
+🙈🙈🙈	1
+Barzaghideanu Daniel	1
+Daniel Barzaghideanu	1
+mașinuță	1
+victorien	1
+primamasinaaviciav	1
+tyoutub	1
+post shared by Gabriela	1
+@gabrielacristeaclo	1
+Sep on	1
+nerenovată	1
+înnoire	1
+Nyeki Popa	1
+Mariana Stanca	1
+infectă	1
+vitor	1
+șoarec	1
+proximitate	1
+minună	1
+Cristina Bordoiu	1
+mobilare	1
+normativă	1
+euro/SMS	1
+Alentate_pe_acționilar	1
+TERENTE	1
+preponderență	1
+van	1
+sustragere	1
+chingă	1
+corz	1
+forțare	1
+autotren	1
+flotilă	1
+navomodelism	1
+submarine	1
+miniatură	1
+azilea_	1
+navomodă	1
+veliere	1
+C4	1
+conflagrație	1
+cuirasat	1
+Bismarck	1
+rășină	1
+apăsare	1
+îndemânare	1
+floată	1
+original	1
+giroscop	1
+exponat	1
+Neguțescu	1
+super sexy	1
+minijup	1
+centrimetru	1
+casă de căsătorie	1
+răsad	1
+Simon Idita	1
+Sibiului	1
+idită	1
+extratimpură	1
+semănat	1
+lei/kilogramul	1
+combustibil	1
+fotosinteză	1
+Idita	1
+solarie	1
+folie	1
+noptiere	1
+microb	1
+gongă	1
+dezinsecție	1
+capcană	1
+șmăsuri	1
+Mircea Onel	1
+Gologan	1
+Alentate_pe_acționilar TERENTE	1
+fura	1
+evaluator	1
+imitație	1
+ingeniozitate	1
+devalizare	1
+Marbella	1
+UBER	1
+M____ A____	1
+concubinei	1
+mega-producțiele	1
+livrator	1
+O___Chaoui	1
+Orient mijlociu	1
+vask_state_segmâne	1
+O__	1
+Chaoui	1
+O___ Chaoui	1
+givvvvi Statele_Unite_ale_Ammivertifis	1
+F	1
+da Constantic J___	1
+Amsterdamul	1
+–patru	1
+consimțământ	1
+R______ L___ D	1
+boutique	1
+perfectare	1
+arondisment	1
+tăietură	1
+P_______G_____	1
+belle cose	1
+cutiuță	1
+caie	1
+complice	1
+distrager	1
+Mizrahi»	1
+Jacobo”	1
+R______	1
+L___	1
+Constantic	1
+neschimbare	1
+C____ J___	1
+pun_vvi	1
+G_____	1
+swift	1
+foarfecă	1
+Cendrine Ver	1
+iz	1
+detașament	1
+eventualitate	1
+rulare	1
+ascendent	1
+colectare	1
+culoar	1
+Matei Stănciuc	1
+internă Carmen	1
+serat	1
+Gabriel Oprea	1
+mai-mar	1
+Tanti Lenuța	1
+Lenuțea	1
+verdeț	1
+duh	1
+tanti Lenuța	1
+mămăiță	1
+lenuță	1
+școpt	1
+nevente	1
+agendă	1
+mass	1
+radio-	1
+rem	1
+#NAME?	1
+Diana mai	1
+subordonată	1
+DGL	1
+Carmen Dan	1
+deteriorare	1
+Intradevar	1
+sezonieră	1
+reglemetare	1
+bilete/abonament	1
+CJCCI	1
+derogare	1
+locuință/gospodărie	1
+intrarea/ieșire	1
+COVID-19 Art	1
+regat jos	1
+regat de jos	1
+rezidență	1
+staționare	1
+mecanic	1
+locomotivă	1
+/control	1
+Bernard González	1
+Bernard Gonzales	1
+Arnaud robinet	1
+Bernard Gonzale	1
+David Guion	1
+L’Equipe	1
+răufăcătoare	1
+portrete-robot	1
+semnalment	1
+cicatrică	1
+Lois Gibson	1
+aviziere	1
+tâlhărie	1
+criminalist	1
+portretele-robot	1
+Einstein	1
+întuneric	1
+bihorencă	1
+descompunere	1
+vecine	1
+portretist	1
+Adriana Oprea-Popescu	1
+#NAME?	1
+Sorin Rogia	1
+fotoreporter	1
+ebihorean	1
+rogie	1
+ANDREEA LOPĂTARU	1
+porno-polițistă	1
+integrare	1
+Schengen	1
+Bogdan Alexandru	1
+DGMRU	1
+om-cheie	1
+spion	1
+Virgil vulpe	1
+SRI	1
+Antitero	1
+apucătură	1
+nuroare	1
+alinuță	1
+Management	1
+sade	1
+șomeră	1
+Tata-socru	1
+Intergrare Schengen	1
+Alina Borovina	1
+Bogdan romanic	1
+DGIPI	1
+infiltrare	1
+computer	1
+structuri-cheie	1
+soft	1
+spionaj	1
+spionie	1
+subordonat	1
+cumetrie	1
+bănățean	1
+euro Torques	1
+Mongolia	1
+perseverență	1
+Banat de munte	1
+vorbire	1
+instrucție	1
+Mărioara Vîrtop	1
+executiv chef	1
+penultim	1
+artă culinar	1
+cascadă Bigăr	1
+proțap	1
+Bozovici	1
+meridian	1
+foalte	1
+bucătarie	1
+amigdalită	1
+devastator	1
+Macar	1
+Chiara	1
+Ferragni	1
+săpt	1
+infectată	1
+Florin Oancea	1
+Movila	1
+vălean	1
+anliză	1
+comoborbiditate	1
+SMC	1
+ziarulincomod.ro	1
+culpe	1
+oridin	1
+COVI	1
+colecistită	1
+suprot	1
+lentoare	1
+DPS Prahova	1
+dsp Dolj	1
+Victor doctor Babeș București	1
+restricțiil	1
+International_Organization Hunedoara	1
+Filiaș	1
+ex-soție	1
+Delia Rexha	1
+Raed Arafat suțin	1
+As”	1
+Fernando	1
+Madridul	1
+Mijatovic si Suker	1
+Florentino Perez	1
+tribut	1
+descansă	1
+en paz president	1
+nuncă	1
+olvidaremos	1
+pic.twitter .com/QAvrINBCot	1
+Raúl González Blanco	1
+@RaulGonzalez	1
+March	1
+coronavirsu	1
+flotare	1
+Harap	1
+Rocky	1
+tușă	1
+arhiepiscopie	1
+convoi	1
+tămâie	1
+Dălhăuți	1
+șchioapă	1
+capot	1
+imprime	1
+nonstop	1
+oșan	1
+cravat	1
+cravată	1
+Negrești Oaș	1
+Cardoș	1
+Skynews	1
+destinatar	1
+punctaj	1
+autonomie	1
+Kremlinul	1
+propagandă	1
+Vasilyeva	1
+Novgorod	1
+St Petersburg	1
+yuval	1
+Noah Harari	1
+Dan boanță	1
+Camogli	1
+Genova	1
+evadație	1
+frontiere	1
+învingător	1
+Țăndărăi	1
+decedat	1
+suportare	1
+sezonier	1
+solicitate	1
+Costel Alexe	1
+contol	1
+NELU TĂTARU	1
+consultanță	1
+FFP2	1
+Andora	1
+vamă Nădlac	1
+cazi_itatea_Statelor_Unite	1
+bimanț	1
+rutier	1
+RAED ARAFAT	1
+madicul	1
+Câmpulung Muscel	1
+devărat	1
+doctoriție	1
+CORINA MANIU	1
+cenă	1
+Mihnea Ciolan	1
+Pahonțu	1
+j3g##u	1
+România LIVE	1
+MICUL-DEJUN AL	1
+viclide	1
+NEAMȚ	1
+spray	1
+telekomsport.ro	1
+deshidratare	1
+iritatie	1
+mixt	1
+Marcela	1
+curățătorie	1
+alăturare	1
+locuințe	1
+minimalizare	1
+aglomerare	1
+împărtășire	1
+art.1	1
+art.27	1
+art.29	1
+Internația_Națiunilor_Unite	1
+Elena Welter	1
+COVID-19 deces	1
+Pradder Willi	1
+Scmunizatea_Statelor_Unite Tgentate	1
+cardiovasculară	1
+SCBIT	1
+Victor Babeș București	1
+Scade_ția_Națiunilor_Unite Drobeta-Turnu Severin	1
+INCDMM CANTACUZINO	1
+#NAME?	1
+ARDS	1
+sd	1
+citoliză	1
+observatie	1
+renală	1
+ramolisment	1
+dementă	1
+infart	1
+sofer	1
+Statele_Unite_ale_Americii Timișoara	1
+SCBI Vasile Babeș	1
+BI adult	1
+Scmunizatea_Statelor_Unite Arad	1
+Bronhopneumopatie	1
+INBI Matei Balș	1
+recoltar	1
+sfaturile	1
+ghenă	1
+Coalta_ceroale	1
+abundență	1
+pubelă	1
+habitat	1
+Marius Tucă	1
+micul-dejun	1
+salam	1
+neață	1
+British_Broadcasting_Corporation	1
+Woolhouse	1
+Boris Johnson	1
+Neil Ferguson	1
+Chris Whitty	1
+anchțton	1
+bir	1
+fugiție	1
+Blaj	1
+Diana Mârza	1
+șpital	1
+Ion Dumitrel	1
+Consiliul_Județean Alba	1
+N95	1
+grup strategic	1
+spitatlu	1
+concret	1
+conservare	1
+MiniArtShow	1
+Ioana Ghingină	1
+lifă	1
+coaching	1
+CJSU	1
+eșarfă	1
+vizitatoriiclientiei	1
+CJSU Galați	1
+coronavirus/COVID-19	1
+informție	1
+Constantin Dina	1
+Dinan	1
+kickboxing	1
+lupător	1
+Erol Zimmerman	1
+staf	1
+organizator	1
+Mihail Kogălniceanu	1
+captiv	1
+disponibil	1
+Țuțuianu	1
+îndrăgită	1
+Penny arcad	1
+Marianne	1
+anorexie	1
+artrită	1
+șold	1
+Bataclan	1
+Argenitina	1
+fer	1
+REMAT	1
+O2	1
+peninsulă Square	1
+Malaria	1
+Gonorrea	1
+Buenos Aires Cricket	1
+rugby club	1
+rubgy	1
+escală	1
+Pablo Singerman	1
+Pablo	1
+omagiu	1
+automobilist	1
+bernă	1
+agrement	1
+Qingming	1
+cimitire	1
+Starting at	1
+people across China observed three minutes of silence	1
+Sirens of automobiles	1
+trains and ships sounded	1
+Air defense warnings also went off	1
+# Covid_19 pic.twitter	1
+@ChinaDaily	1
+April	1
+Ciurel	1
+glucoză	1
+Ghica	1
+park& ride Cora Pantelimon	1
+Nicolae Grigorescu-Splai Dudescu	1
+dsp București	1
+simptomatică	1
+Bill	1
+Melinda Gates	1
+metro.co.uk	1
+Gates	1
+the Gates Philanthropy Partners’ COVID-19 Therapeutics accelerator	1
+Horia Teodorescu	1
+Consiliul_Județean Tulcea	1
+VLADIMIR PUTIN	1
+ordonanță de	1
+confiscare	1
+Kirill Semyonovich Serebrennikov	1
+meduză	1
+vocabular	1
+restart	1
+Don Quijote	1
+Miguel de	1
+Cervantes	1
+Lev Tolstoi	1
+Ulise	1
+James Joyce	1
+ținere	1
+scriere	1
+activita	1
+Alzheimer	1
+verb	1
+deturnare	1
+odisel	1
+Cannes	1
+San Sebastian	1
+summer	1
+rock	1
+Victor Tsoi	1
+briefing	1
+cifre	1
+Maria Van Kerkhove	1
+coronarvirus	1
+contagiune	1
+Hubei	1
+Tedros Adhanom Ghebreyesus	1
+crevet	1
+pancient	1
+Wuhan Union	1
+Jill McCullough	1
+Andrew	1
+Andrew jack	1
+space	1
+trilogie	1
+Star Wars Episode	1
+return of the Jedi	1
+Lucasfilm	1
+Disney	1
+Jedi	1
+dispariție	1
+Darth Vader	1
+ambasad	1
+salut	1
+Sorin Busuioc	1
+Dezbrăcatu’	1
+Șerban Huidu Dezbrăcatu’	1
+Cătălin Dezbrăcatu’	1
+Codruțeeeeeeee…	1
+Codrut Keghes-Dezbracatu	1
+telecomunicație	1
+supraaglomerare	1
+constatare	1
+reapelare	1
+șmecher	1
+învoire	1
+pomană	1
+spălător	1
+zugrav	1
+Adriana Titieni	1
+China nou	1
+Alibaba	1
+Liège	1
+Shenzhen	1
+mortem	1
+Facbook	1
+Covid postmortem	1
+postmortem	1
+mortu	1
+decident	1
+Vasilescu Sorin	1
+Gerd Altmann	1
+prisosință	1
+bricolaj	1
+raion	1
+arbor	1
+gentleman	1
+Ruxy	1
+teribilism	1
+fronton	1
+alternativă	1
+frison	1
+nefrologie	1
+internată	1
+neoplasm	1
+carcinomatoză	1
+pleurezie	1
+sfintă	1
+rămășiță	1
+martir	1
+globa	1
+eficacitate	1
+coroavirus	1
+Stirileprotv.ro	1
+cumint	1
+recreație	1
+Texas	1
+Shi Zhengli	1
+Chen Wei	1
+gandul.ro	1
+trilion	1
+șădință	1
+șușoteală	1
+rugaminte	1
+reărezentant	1
+copil Ilfov	1
+neurmărire/netrimitere	1
+c.p.p	1
+Geambașu Călin Alexandru	1
+Copmilomul_Mocial	1
+contestator	1
+normativ	1
+PEGI	1
+Corbeanca	1
+dristor	1
+Next Star	1
+Călin	1
+Geambașu	1
+Jen	1
+Matt	1
+doar6	1
+cupolă	1
+Ether	1
+MPH	1
+MGH Center for Disaster Medicine	1
+analist	1
+Johns Hopkins Center for Health Health	1
+Johns Hopkins Bloomberg School of public Health	1
+față cu	1
+strigăt	1
+Gianina Ursu	1
+Gianina	1
+multiplicare	1
+fax	1
+SIR	1
+R	1
+rezolvat	1
+Cătălin Cazau	1
+rival de	1
+Noemi Mitoșeru	1
+Noemi	1
+💔	1
+desteptarea.ro	1
+exersare	1
+munite	1
+sensibilizare	1
+atenuare	1
+surpinzător	1
+doctort	1
+bombon	1
+magiadinfiecarezi	1
+Iona ginghină	1
+ed Sheeran	1
+summerfun	1
+# goodvibes #l❤️summer”	1
+covid0-19	1
+tărăgănare	1
+compromitere	1
+dsp Timișoara	1
+autotestare	1
+teste	1
+Radu Budae	1
+cardiologie	1
+politic	1
+martire	1
+adeverințe/declat	1
+document-draft	1
+Raed Araft	1
+ireședință	1
+însoțire	1
+detaliere	1
+excludere	1
+g	1
+părinți/bunică	1
+hoteraze	1
+hotărâ	1
+scenari	1
+divulgare	1
+Metrorex	1
+taxare	1
+casier	1
+Laminorului	1
+salariație	1
+vicitmă	1
+Nieuwegein	1
+detectare	1
+prevalență	1
+astfă	1
+descurcăreț	1
+bravoooo	1
+da` cip	1
+Elle Style Awards	1
+confident	1
+apărătură	1
+camcifomul_Imunodeficienței_Umane_Dobândite	1
+moleculară	1
+extracție	1
+hemodiafiltrare	1
+rinchi	1
+decrețe	1
+nesupunere	1
+lunăr	1
+fruntaș	1
+deputată	1
+Sexy-deputata	1
+donadă	1
+iunorica	1
+basme	1
+GOLIAT &	1
+degetena	1
+#NAME?	1
+sexy-deputată	1
+sexy-deputate	1
+Iulian Stamate	1
+aicilol Distanța…	1
+linșaj	1
+Zăvo	1
+WOWBiz	1
+Mădălin lonescu	1
+radiodifuzor	1
+nămăt	1
+acsetă	1
+buldozere	1
+situație de urgență Dobrogea	1
+International_Organization Galați	1
+Kanal D. cancandron	1
+mega-proiect	1
+…Jorge	1
+Kanal D. INNA	1
+bad	1
+boy	1
+bestseller	1
+entertainer	1
+Extravaganța	1
+Television Online	1
+parastas	1
+tață	1
+’84	1
+miliție	1
+temniță	1
+poet Andrei	1
+paravan	1
+oroare	1
+Nelu Bănicioiu	1
+Pascu Ionuț Nicolae nesincer	1
+paranteză	1
+hoață	1
+intentat	1
+Ionuț Pacu	1
+Cristian Ionașcu	1
+coardă	1
+Maria Gurău	1
+COVID 19.	1
+timpie	1
+Valentin Boldea	1
+kitură	1
+mega-dezvăluire	1
+Cristina Noaptes	1
+Hrebe jilopascal	1
+Maurițius	1
+Andrei Hrebenciuc	1
+Multimilionara	1
+Căile_Ferate_Române călător	1
+Alexandru Noaptes	1
+Căile_Ferate_Române calator	1
+Rocsana Marcu	1
+Narcis	1
+Ramona Bădescu	1
+moschee	1
+convertire	1
+Islam	1
+suferinte	1
+momen	1
+mințe	1
+emisiuhn	1
+fmailie	1
+irespnsabilitate	1
+Andrei-Bogdan Zidaru	1
+Darren Buttrick	1
+New Cross	1
+VIP Booking Scleraminultub	1
+Booking Scleraminultub	1
+n.red	1
+Andreei bănic	1
+oară de oară	1
+mărturisire șocant	1
+zgărduță	1
+Corina	1
+Antipa	1
+taxidermie	1
+deșteptăciune	1
+perniță	1
+Swarovsky	1
+gheruță	1
+urechiușe	1
+dințișor	1
+miligram	1
+king	1
+frac	1
+savană	1
+creepy	1
+lord	1
+megă	1
+com	1
+basilica.ro	1
+Patriarhia	1
+preacuție	1
+Șatena	1
+apendicit	1
+lente	1
+intmitate	1
+Livia Gomez	1
+Caraiman	1
+înțeles	1
+antigel	1
+adevarat	1
+inger	1
+dră Zavoranu	1
+encenta_Conesațională_De_Asimără_Eurtate_și_Cooper	1
+eltramatantă	1
+IMPREVIZIBILA…SI	1
+contrmimerate_	1
+sarut	1
+parinte	1
+intelegere	1
+troler	1
+Kanal D. Cristina Mihaela Dorobanțu	1
+micuție	1
+lacrimilie	1
+punguță	1
+hăințuță	1
+Budimex	1
+Posted by OANA ZAVORANU OFFICIAL on Saturday	1
+December	1
+ronă Hartner	1
+sortiment	1
+superficialitate	1
+cârpă	1
+cloare	1
+arădeancă	1
+intevenție	1
+Nelu Tatătaru	1
+unal	1
+adevărat	1
+Săăă	1
+anunțare	1
+metastaza	1
+citostatică	1
+face	1
+Doamnne	1
+nevoiță	1
+acsuns	1
+acumeat	1
+dieta-minune	1
+Luni/Vineri	1
+toast	1
+filă	1
+pepenă	1
+dovlecă	1
+afine	1
+nectarine	1
+ardă	1
+Miercuri/Sâmbătă	1
+stafid	1
+caisă	1
+cotlet	1
+Marți/Joi	1
+toas	1
+piure	1
+uhnt	1
+spanac	1
+cherry	1
+doradă	1
+andreeabanică	1
+Maria Sofia	1
+dispensere	1
+multiplicator	1
+dezintegrare	1
+dizolvare	1
+molecul	1
+reutilizare	1
+colagen	1
+vodcă	1
+bursa.ro	1
+Măriuța	1
+!❤❤❤❤❤	1
+Number onă 🤭💪❤️	1
+foaăe	1
+Toe show	1
+orgoliu	1
+cârcotas	1
+cometariu	1
+gărgăriță	1
+superbaaa	1
+Woaw Andreea	1
+coefieint	1
+geanție	1
+Emilia Ghinescu	1
+Monodora	1
+Gheorghe Gheorghiu	1
+Aurel Moldoveanu	1
+vale Doftanei	1
+brânzetură	1
+șuncă	1
+cârnat	1
+Cristian Dumitrescu	1
+en-gros	1
+Georgeta Olteanu	1
+Andreei Piriu	1
+😔❤️	1
+Andreei Pirui	1
+cigar	1
+emisune	1
+puterere	1
+gup	1
+sirop	1
+inhalație	1
+L’Express	1
+bucureșteancă	1
+Peterația_Internațională_de_Române	1
+redare	1
+șantajare	1
+prostituare	1
+vulnerabilitate	1
+*deră	1
+inculpată	1
+susnumită	1
+corb	1
+Ionuț Bănică	1
+localitate,	1
+Maggie de Block	1
+Maggie	1
+Worldnewsdailyreport	1
+orgie	1
+org	1
+masturbare	1
+stăpânire	1
+Leopold	1
+rauă	1
+Hațeg	1
+pupătură	1
+Tu!	1
+videocall	1
+Lockdown	1
+Stelios Petsas	1
+frizeriu	1
+Kanal D. David	1
+International_Organization Maramureș	1
+International_Organization Cluj	1
+escortație	1
+coliziune	1
+Favius	1
+avornices	1
+Bălan Mihai Cătălin	1
+terorism	1
+constituire	1
+Goe	1
+Mariana Stoican	1
+Ionuț avornices	1
+practicar	1
+Câmpulung	1
+practica	1
+Red light district	1
+Oostende	1
+activitat	1
+numerar	1
+interceptae	1
+Lori	1
+Dane	1
+Cre	1
+bordel	1
+Newscastle	1
+www.localescorts.com, Vivastreet.com	1
+Adultlook.uk	1
+Ghimiș Romeo Tomiță	1
+Money gram	1
+western Union	1
+Zdreanțo	1
+lu	1
+acunea	1
+altele…o.k	1
+predilecție	1
+cuceritor	1
+bronzat	1
+finuț	1
+Martini Fiero	1
+stripper	1
+Mario negru	1
+the Times	1
+CCTV	1
+Microbiologi	1
+Bioeasy	1
+www.worldometers.c.rs.c.ri	1
+Negostina	1
+superpetrecere	1
+super-party	1
+megalux	1
+dish-ură	1
+prmottit	1
+student-gospodar	1
+LT	1
+enmail	1
+Tanti crăiță	1
+Claudia Crăița	1
+auto-izolare	1
+oricef	1
+indoială	1
+generalizare	1
+DRU	1
+adeverinte	1
+secretariat	1
+raspundere	1
+antiseptic	1
+oconaș	1
+sprijinire	1
+DGASPC Sector	1
+scâtă	1
+moderatoare	1
+Cristina Dorobanțiu	1
+nemurire	1
+lupte	1
+Lascăr Catargiu	1
+măute	1
+medicilor	1
+Pavel Krahmalev	1
+Diana Trofim	1
+Serghei virstă	1
+scene	1
+pătură	1
+domiciu	1
+Constanța- Mamaia	1
+hotelier	1
+Constanței	1
+Indericul_Oficial	1
+tău	1
+adevărat	1
+lei/dolar	1
+livră	1
+person	1
+ordonață	1
+scutit	1
+plușicat	1
+k	1
+panteră	1
+nutelă	1
+Bella	1
+Geo	1
+Daniel jilopar	1
+creangă	1
+ambrozie	1
+daniel-fiu	1
+okerta	1
+patruped	1
+Bubulinu	1
+injecție	1
+flacoane/pacient	1
+repartiție	1
+Unifarm	1
+Meatele_Unite_ale_Americii	1
+ntefal	1
+Legea-cadru	1
+bază/soldă	1
+ordonator	1
+secretizare	1
+ex-premier	1
+Mioara Roman	1
+RAPPS	1
+Silvia Chifiriuc	1
+Elgi	1
+actualitate	1
+Kanal D. Giovanni	1
+tărâm	1
+Hannelore	1
+Dezvăluirea-bombă	1
+taineală	1
+olărit	1
+p**lă	1
+Biancăi Comănici	1
+mulțiiiime	1
+relansare	1
+vicepremier	1
+Raluca Turcan	1
+Aregș	1
+Nicoleta Bîrcă	1
+tomograf	1
+inflație	1
+dioxid	1
+oxigeno-terapie	1
+asimptomatică	1
+realitate Television	1
+fast-food-ure	1
+speculă	1
+fast-food-urele	1
+Oros	1
+procesator	1
+marjă	1
+resort	1
+input	1
+samsar	1
+speculant	1
+intrare în vigoare	1
+amorad	1
+Kanal D. indiciu	1
+pa-pă	1
+Tecuci	1
+corinavirus	1
+Vasile Babeș	1
+neamț-Nefrologie	1
+BI Vasile Babeș Timișoara	1
+clinc	1
+Huedin	1
+soacă	1
+Addei	1
+Mendez	1
+idiot	1
+*******	1
+*****	1
+proște	1
+********	1
+Mircea Ioan Popa	1
+indic	1
+stat unit al America	1
+Binaca	1
+iubrire	1
+înautru	1
+îndoială	1
+SRM	1
+frânare	1
+Carmen Dorobăț	1
+Ioana Stăncel	1
+vector	1
+presupozit	1
+Mantea	1
+Worldometers	1
+Vietnamul	1
+Partidul_Social_Democrat Mihai	1
+USR-PLUS	1
+dezinformare	1
+idioție	1
+jefuitor	1
+USR-Plus	1
+antologie	1
+puritan	1
+pesedist	1
+United_States_Domân	1
+primenire	1
+muștar	1
+găste	1
+lupe	1
+ciolan	1
+păgânism	1
+prim-ministru	1
+hăcuire	1
+Cantacuzino…	1
+Dumnezeu…	1
+păgână	1
+comunicare strategic	1
+gâd	1
+DC News	1
+avar	1
+Matias	1
+penultime	1
+Kanal D. astăzi	1
+premiație	1
+Ralucăi	1
+Iar… Raluca	1
+garajă	1
+Lamborghini URUS	1
+euro/	1
+multi-milionar	1
+Mercedes Brabus	1
+silă	1
+urgie	1
+incertitudine	1
+teză	1
+Ludovic Orban Orban	1
+bâlb	1
+Ciolacu	1
+einfectare	1
+poztiv	1
+Roptulitatea_Statelor_Internațională	1
+Moinești	1
+valut	1
+paritate	1
+răspândirire	1
+caranatină	1
+pofidă	1
+prefeact	1
+urbană	1
+număt	1
+Șah	1
+mat	1
+COVID-19 #Declaratii # NeluTataru	1
+Mario Tănase	1
+Caraș Severin	1
+Partidul_Național_Liberal Slatina	1
+SHI Argeș-Vedea	1
+Neculai stratulat	1
+Andreea Ciopleiaș	1
+ASE	1
+Rucăr	1
+sinfură	1
+InstaStory	1
+@grovu.georgiana	1
+☀️	1
+post shared by Bianca	1
+Mar on	1
+adrea	1
+Birkenau	1
+comuncare	1
+rimă	1
+Raef Arafat	1
+indica	1
+DS	1
+portocaliu	1
+grup comunicare strategic	1
+număr-record	1
+împreunã	1
+prov	1
+matur	1
+@m_ade_m88	1
+Anca Busuianu	1
+carantie	1
+garanție	1
+stare de	1
+Alsacia	1
+TGV	1
+comportamnet	1
+Denny Tamaki	1
+thejakartapost.com	1
+Begoña Santiago-Garcia	1
+Gregorio Marañón	1
+Marc Tebruegge	1
+institut sănătate	1
+mare Ormond Street	1
+Staten Island	1
+Robert Mahoney	1
+National	1
+Geographic	1
+oară dacă	1
+nypost.com	1
+Influenza	1
+dirofilarioză	1
+Influenzei	1
+ex-logodnicul	1
+Raluca Podea	1
+”Ea	1
+5gang	1
+Dia	1
+Corneliu carafă	1
+Micutzu	1
+reportaj	1
+muț	1
+Cristi Popovici	1
+rmdemciițareune	1
+biserica	1
+nevoi	1
+VIRUS	1
+nouepere	1
+gas	1
+Programme	1
+Release	1
+lei/MWh	1
+luge	1
+Dragnea	1
+Vâlcov	1
+infringement	1
+orban	1
+cate_ie	1
+români	1
+#NAME?	1
+#NAME?	1
+vești	1
+lei/lună	1
+stimulare	1
+cas	1
+independenteprept	1
+contribuabil	1
+consultare	1
+Violeta Alexandru	1
+grătare	1
+chedere	1
+mucegai	1
+Adhanom	1
+sustenabilitate	1
+deziderat	1
+mainnews.ro	1
+sufocare	1
+Hemoroizii face	1
+prescripție	1
+Mihai Alexandru-Nicolae	1
+Nae	1
+răutăcios	1
+cacat	1
+OUG	1
+Niculae	1
+Sienna	1
+nedepășit	1
+zicală	1
+Andreei Antonescu	1
+pozat	1
+Antoneasco	1
+Loredana…	1
+umă	1
+ProSport LIVE	1
+Victor Vrînceanu	1
+Oh	1
+spania	1
+Aragon	1
+Josep Maria Argimon	1
+Tedatelonom sonie	1
+perucă	1
+respiro	1
+șaormerie	1
+reconciliere	1
+meteorologie	1
+depresiune	1
+oscilație	1
+alternanță	1
+Averse	1
+caniculă	1
+ziele	1
+prognoza	1
+Marius Nasta	1
+Ana Aslan	1
+asietenție	1
+miting	1
+electronic	1
+complianță	1
+Luxembrug	1
+rezervare	1
+Calistat Chifan	1
+Calistat	1
+Calistrat Chifan	1
+nanometru	1
+cleric	1
+țuică	1
+băbuță	1
+gargară	1
+țuicuță	1
+pastilă	1
+decasept	1
+metil	1
+cocoașă	1
+horecă	1
+martie-aprilie	1
+King’s College	1
+Claire Steves	1
+antenă group	1
+Syrmoglou	1
+întrevedere	1
+Camelia Voiculescu	1
+Sorin Alexandrescu	1
+Antena group	1
+anten	1
+englez	1
+once	1
+lifă timă	1
+DOGAN	1
+KANAL D	1
+CME	1
+suflu	1
+peisă	1
+tătăl	1
+capat	1
+Liliana Coldea	1
+non-Hodgkin	1
+hipotiroidie	1
+Scmunizatea_Statelor_Unite Sibiu	1
+Decebal todăriță	1
+sibian	1
+stiripesurs	1
+CTS Sibiu	1
+plasmafereză	1
+titru	1
+transaminază	1
+parametru	1
+biolog	1
+Livia Mareș	1
+tensimen	1
+Xtra Night show	1
+știrileprotv.ro	1
+Thassos	1
+Lefkada	1
+ROBOR 3M	1
+ROBOR 6orn	1
+economica.net	1
+Crina Adrudan	1
+ex-știristă	1
+crină Abrudan	1
+Crina Abdrudan	1
+binemeritată	1
+Cosmin Olăroiu	1
+Luminița	1
+corelație	1
+wireless	1
+incendiere	1
+telefonie	1
+secție de ortopedie	1
+raspândire	1
+Gabriel Avrămescu	1
+rivalie	1
+diavoliță	1
+erotism	1
+super-sexy	1
+felină	1
+societate de	1
+biostatistician	1
+Valentin Pârvu	1
+biostatistică	1
+proiecție	1
+monică Anisie	1
+municipiu București	1
+scenarie	1
+cu…aic	1
+Ludovic	1
+asimptomatic	1
+fracționare	1
+diasporă	1
+Anisie	1
+islandez	1
+prelevare	1
+Laloșu	1
+unitate de învățământ	1
+comună Laloșu	1
+neparticipare	1
+Mologești	1
+Alexandru Bodi	1
+hotel Ramada	1
+fenonen	1
+justitie	1
+tristet	1
+penalie	1
+strad	1
+PSD-ista	1
+Edi pian	1
+numire	1
+Hossu	1
+DIICOT	1
+retrimitere	1
+alocuțiune	1
+semnă	1
+principal	1
+economisire	1
+papei	1
+after-schol-ură	1
+pescuit	1
+Bologna	1
+Barcelona	1
+semnalare	1
+utlizare	1
+partizan	1
+adamkontor	1
+mega-exclusivitate	1
+Deleforelosfostan Ioana	1
+pentruCANCAN.RO	1
+D.A.S.susțin	1
+însurătoare	1
+7…	1
+Lia Olguța Vasilescu	1
+Claudiu Manda	1
+Olgutei Vasilescu	1
+CNVM	1
+politiciană	1
+creștin	1
+mântuire	1
+… credincios	1
+sinod	1
+Niceea	1
+e.n	1
+echinocțiu	1
+Ionuț Aștefănoae	1
+miel	1
+Nisan	1
+bucovinenie	1
+coajă	1
+ospăț	1
+cumetru	1
+regretat	1
+siciriu	1
+Posted by Daniel	1
+August Florin	1
+personajul-cheie	1
+accept	1
+prinț Philip	1
+Edinburgh	1
+King Edward	1
+Georgeta Țapu	1
+Isarului	1
+Georgeta	1
+gasire	1
+disparută	1
+Haag an der Amper	1
+bunavointă	1
+inecată	1
+urmează	1
+Marian Tapu	1
+autobus	1
+Programul-pilot	1
+energetică	1
+Aether	1
+Cov-19	1
+sfânt Suceava	1
+Ioan cel nou	1
+campus	1
+Ștefan cel mare Suceava	1
+monitorulsv.ro	1
+Oprea	1
+sms	1
+Cristina Mototolea	1
+Oprah	1
+cumnată	1
+cotitură	1
+BCR	1
+First Bank	1
+Aryanna Maria	1
+Aileen Ioana	1
+Ramona Ioana	1
+suiș	1
+brumă	1
+vizibilitate	1
+Ramona Ioana Bruynseels	1
+corporație	1
+Harvard	1
+umanist	1
+Saint-Tropez	1
+Robert Sfăt	1
+minitru	1
+Cornelia Malac	1
+Mariana Rădulescu	1
+Țimiș	1
+SUCEAVA	1
+modgă Brașov	1
+Ludivic Orban	1
+opoziție	1
+reinstaurare	1
+conformare	1
+funcțiune	1
+colabolare	1
+utlimă	1
+râsu’-plânsu’	1
+Humorului	1
+pârtest de jos	1
+buștean	1
+șifonier	1
+interogare	1
+halenă	1
+Inited_States_domân Suceava	1
+Programului-pilot	1
+#NAME?	1
+Daniela Ioana Suciu	1
+Carmen Bujan	1
+dataliu	1
+doc	1
+înțelept	1
+bucuros	1
+bashfuP	1
+rușinos	1
+Sleepy	1
+somnoros	1
+Sneezy	1
+Hap-Ciu	1
+Grumpy	1
+morocănos	1
+Dopey	1
+Mutulică	1
+Lidia Buble	1
+tzancă Uraganu	1
+Cristofor Duduianu	1
+tzancă miraj	1
+can	1
+Ferentari	1
+petrecăreț	1
+uragan	1
+transparență	1
+protagonistă	1
+tent	1
+antebraț	1
+Walk with faith”	1
+/încredere	1
+❤️❤️”	1
+dric	1
+ziardesuceava.ro	1
+Ovidiu Bejinariu	1
+Ava memorial Suceava	1
+buomn	1
+n.r. cancer	1
+inconptront	1
+Siofor	1
+concetățean	1
+iritație	1
+doi…fost	1
+Rachel Meghan	1
+Archie Harrison	1
+așa-zișie	1
+the Sun	1
+Cambridge	1
+prințesă Wales	1
+cuză	1
+the sun	1
+clickbait	1
+ștergere	1
+prenumă	1
+Evening standard	1
+Asentate_Internațională	1
+TASS	1
+Digi24.ro	1
+obcin	1
+viraj	1
+stânga/dreaptă	1
+obcinelor/stradă	1
+universității/stra	1
+Alexandru bun	1
+angent	1
+asasin	1
+Cipy	1
+Emy pian	1
+îmbrâncel	1
+Elvis Duduianu	1
+Ciprian	1
+șiroi	1
+față de ce	1
+afluență	1
+săpămână	1
+anonim	1
+nod	1
+semen	1
+Țtréfation_for_Standardization	1
+Ermanizația_Națiunilor_Unite	1
+oameni	1
+reverență	1
+etcaderi	1
+International_Organization Olt	1
+Alin Băsășteanu	1
+pompierul-erou	1
+imatem	1
+pilaf	1
+vâlvă	1
+dres	1
+British Fashion Awards	1
+Royal Academy of Art	1
+înapoi’	1
+inviere	1
+Balkan	1
+carani	1
+dedicat	1
+suits	1
+New york Times	1
+Ducesa de Sussex	1
+leagăn	1
+contrast	1
+Meghan Markle Ducesa	1
+încheietură	1
+capela	1
+stânt	1
+Archie Mountbatten-Windsor	1
+Archie public	1
+Winsdor	1
+monarhie	1
+Charles	1
+conte	1
+Dumbarton	1
+curtoazie	1
+csid.ro	1
+Presbiterian	1
+Weill Cornell Medicine	1
+leucocită	1
+Rituximab	1
+co-morbiditate	1
+eventuală	1
+imunodepresie	1
+New york Presbyterian Hospital	1
+Liang et al cancer patients in infection	1
+nationwide	1
+analysis	1
+Lancet Oncology march	1
+cohortă	1
+ateroscleroză	1
+sepsis	1
+cardiopatie	1
+hemipareza	1
+fibrilație	1
+melenă	1
+stenoză	1
+aortică	1
+ateromatoză	1
+demență	1
+microcitară	1
+hemofilie	1
+ciroză	1
+insuficient	1
+venoasă	1
+marti	1
+Indicație_Geografică_Protejată	1
+junglă…strada	1
+enormitate	1
+cor	1
+demagogie	1
+Isi	1
+amanunt	1
+Avicola Afumati	1
+gaină	1
+lichidare	1
+tevil	1
+vopsită	1
+rosu	1
+varf	1
+maistru	1
+Gaman	1
+casca	1
+operativă	1
+Break	1
+ptime	1
+proport	1
+robocop	1
+fundean	1
+iesire	1
+panză	1
+bomfaier	1
+heparină	1
+sangă	1
+carucioară	1
+doctoră	1
+domen	1
+fisă	1
+asitent	1
+sefă	1
+medicatie	1
+Rada	1
+cazatură	1
+infract	1
+pupază	1
+dean	1
+`94	1
+mansarda	1
+ambulantă	1
+multumire	1
+multumesc	1
+satisfactie	1
+toată	1
+Hola	1
+Associated Newspapers	1
+mail on Sunday	1
+mail Online	1
+Remembrance Day	1
+proeminență	1
+Coach Core Awards	1
+Oscar	1
+rent	1
+Daily mail	1
+labrador	1
+P%$a	1
+Archie Harrison Mountbatten-Windsor	1
+strănepot	1
+Elizabeth	1
+popas	1
+Chetraru	1
+Sucevița	1
+Mauritius	1
+Constantin Chetraru	1
+blocare	1
+mampioteca_Modeperal	1
+măsurare	1
+municipalitate	1
+infraroșu	1
+depășire	1
+klimkin	1
+Drobeta Severin	1
+Turnu	1
+Covid- Orșova	1
+Pașcani	1
+antena3 .rodor	1
+reprezentat	1
+Adriana Sas	1
+Ioan Oros	1
+Sorin Simon	1
+stație de pompier	1
+Agnita	1
+travaliu	1
+Benești	1
+înăscut	1
+Euthyrox	1
+tiroidă	1
+salvator	1
+Ciorani	1
+oltera	1
+teacă	1
+voluntariat	1
+Scornicești	1
+academie de muzică	1
+președintă	1
+Down CER	1
+Raluca Avram	1
+fondatoare	1
+zi de	1
+Tedatelonom Cluj	1
+Ovidiu Damian	1
+acro-dance	1
+Wheels for lifă	1
+by Beard Brothers	1
+Scudeulibal_Commission Cluj-Napoca	1
+Camelia Crișan	1
+propagare	1
+direcție sănătate	1
+Iașul	1
+non-COVID-19	1
+onest	1
+Sorin Brașoveanu	1
+caderă	1
+Dragoș Benea	1
+ilsole24ore	1
+veterinar	1
+Fiera	1
+policlinică	1
+gând .rodor	1
+reuniune	1
+Andrei Marius	1
+bine-știut	1
+Maximilian Balasescu	1
+corupție	1
+autoritate de	1
+greekcitytimes.com	1
+Harry Theoharis	1
+repornire	1
+Theoharis	1
+Doru Ion Iagăru	1
+nevoias	1
+sfinție	1
+Drăghiceni	1
+Candy Bar Caracal	1
+Mickey & Minnie	1
+painting	1
+pictare	1
+preoteasă	1
+ORL	1
+linoleum	1
+Timocului	1
+Balș	1
+Corabia	1
+Cezieni	1
+Fălcoiu	1
+Băbiciu	1
+Iagăru	1
+Sveta Petka	1
+mitropolit	1
+Vidinului	1
+preafericit	1
+Patriarh Daniel	1
+Decembrie	1
+situație de urgență Constanța	1
+institut de sănătate	1
+constănțean	1
+purtărie	1
+filtră	1
+oficiere	1
+milivort	1
+fus	1
+Illinois	1
+urăre	1
+Happy 5th miligram love	1
+Thank you for all outstanding moments together	1
+these	1
+input lovă you #felixbaumgartner #mihaelaradulescuschwartzenberg #anniversary	1
+felixbaumgartner	1
+mihaelaradulescuschwartzenberg #aniversare	1
+Hope they will be many many moră	1
+!🌷🌷🌷 Best	1
+“You	1
+the proof that true love still exist ❤️ Congratulations	1
+fabulous	1
+together	1
+🤗😘😘🎉🎉🎉🎉	1
+Love is great	1
+toană	1
+Evelyne	1
