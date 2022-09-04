@@ -1,0 +1,140 @@
+predicate	lemma	valence	conj	ctrl	type	pred1	pred2	pred3
+ccomp	accepta	()	să		deont	INTENT.subj.P	VREA.x.P	
+ccomp	accepta	()	că		epist	STIE(s).subj.P		
+ccomp:pmod	acuza	('obj',)	că		epist	DICE.subj.P.obj	CREDE.subj.P.obj	APREC(-).subj.P
+ccomp	afla	()	că		epist	STIE(s).subj.P		
+ccomp	ajunge	()	să	Y	face	P(s).subj		
+ccomp:pmod	ajuta	()	să		face	P	VREA.subj.P	APREC(+).subj.P
+ccomp:pmod	ajuta	('obj',)	să	Y?	face	P.obj		APREC(+).subj.P
+ccomp:pmod	amenința	('obj',)			deont	DICE.subj.P	STIE.obj.P	APREC(-).x.P
+ccomp	aminti	()	că		epist	DICE.subj.P		
+ccomp	aminti	('iobj',)	să	Y	deont	DICE.subj.P.iobj	TREBUIE.iobj.P.iobj	
+ccomp	aminti	('iobj',)	că	Y	info	DICE.subj.P	STIE.obj.P	
+ccomp:pmod	angaja	('expl:pv',)	să		deont	INTENT.subj.P		
+ccomp:pmod	anunța	('obj',)	că		info	DICE.subj.P	STIE.obj.P	
+xcomp	anunța	('obj',)	să	Y?	deont	DICE.subj.P	TREBUIE.obj.P	
+xcomp	anunța	('obj',)	că		epist	DICE.subj.P	STIE.obj.P	
+ccomp	apuca	()	să		face	P.subj	CAPABIL.subj.P	
+ccomp	arăta	()	că		raport	DICE.subj.P		
+ccomp:pmod	asigura	('obj',)	că		raport	DICE.subj.P	CREDE.obj.P	
+ccomp	aștepta	()	să	Y	aspect	P(-)	VREA.subj.P	
+ccomp:pmod	aștepta	('expl:pv',)	să		epist	CREDE.subj.P		
+ccomp:pmod	autoriza	('obj',)	să		deont	FACE.subj.PERMIS.obj.P		
+ccomp	auzi	()	că		simt	SIMTE.subj.P		
+ccomp	avertiza	()	să		deont	DICE.subj.P	STIE.obj.P	APREC(-).x.P
+ccomp	avertiza	()	că		info	DICE.subj.P	STIE.obj.P	APREC(-).x.P
+ccomp	avertiza	('obj',)	să		deont	FACE.subj.TREBUIE.obj.P		
+ccomp	avertiza	('obj',)	că		info	DICE.subj.P	STIE.obj.P	APREC(-).x.P
+ccomp	căuta	()	să	Y	deont	INTENT.subj.P.subj		
+ccomp	cere	()	să		deont	VREA.subj.P		
+ccomp	citi	()	că		raport	STIE.subj.P		
+ccomp	continua	()	să		aspect	CONTINUA.subj.P	TERMINA(-).subj.P	
+ccomp	crede	()			epist	CREDE.subj.P		
+ccomp	cunoaște	()	că		info	STIE.subj.P		
+ccomp	da	('iobj',)	să	Y	deont	FACE.subj.TREBUIE.iobj.P		
+ccomp:pmod	da seama	('expl:pv',)	că		epist	STIE(s).subj.P		
+ccomp:pmod	da seama	()	că		epist	STIE(s).subj.P		
+ccomp	decide	()	să		deont	VREA.subj.P		
+ccomp	decide	()	că		deont	VREA.subj.P		
+ccomp	demonstra	()	că		info	DICE.subj.P	STIE.x.P	
+ccomp	descoperi	()	că		epist	STIE(s).subj.P		
+ccomp:pmod	dispune	('obj',)	să		deont	FACE.subj.VREA.obj.P		
+ccomp	dori	()	să		deont	VREA.subj.P		
+ccomp:pmod	eșua	()	să		deont	INTENT.subj.P	INCEPE.subj.P	P(-)
+ccomp:pmod	ezita	()	să		deont	INCEPE(-).subj.P	INTENT.subj.P	
+ccomp	face	()	să		deont	FACE.subj.P		
+ccomp	făgădui	()	să	Y?	deont	INTENT.subj.P	DICE.subj.P	
+ccomp	făgădui	()	că		deont	INTENT.subj.P		
+ccomp	gândi	()	să		deont	INTENT.subj.P		
+ccomp	gândi	()	că		epist	CREDE.subj.P		
+ccomp:pmod	gândi	('expl:pv',)	să		deont	INTENT.nusbj.P.subj		
+ccomp:pmod	gândi	('expl:pv',)	că		epist	CREDE.subj.P		
+ccomp	hotărî	()	să		deont	INTENT.nusbj.P		
+ccomp	hotărî	()	că		deont	INTENT.nusbj.P		
+ccomp:pmod	hotărî	('expl:pv',)	să	Y?	deont	INTENT.nusbj.P		
+ccomp:pmod	hotărî	('expl:pv',)	că		deont	INTENT.nusbj.P		
+ccomp:pmod	împiedica	('obj',)	să	Y	deont	FACE.subj.CAPABIL(-).obj.P		
+ccomp	începe	()	să	Y	aspect	INCEPE.subj.P	TERMINA(-).subj.P	
+ccomp	încerca	()	să	Y	deont	INTENT.subj.P	INCEPE.subj.P	TERMINA(-).subj.P
+ccomp	înceta	()	să		aspect	CONTINUA(-,s).subj.P	INCEPE.subj.P	
+ccomp:pmod	încredința	('obj',)	că		epist	FACE.subj.CREDE.obj.P		
+ccomp:pmod	îndoi	('expl:pv',)	că		epist	CREDE(-).subj.P		
+ccomp:pmod	informa	('obj',)	că		epist	FACE.subj.STIE.obj.P	DICE.subj.P	
+ccomp	insista	()	să		deont	FACE.subj.TREBUIE.x.P		
+ccomp	insista	()	că		raport	DICE.subj.P		
+ccomp	înțelege	()	să	Y	deont	STIE.subj.TREBUIE.subj.P		
+ccomp	înțelege	()	că		info	STIE(s).subj.P		
+xcomp	întreba	('obj',)	că		raport	DICE.subj.P	STIE.obj.P	STIE(-).subj.P
+ccomp	învăța	()	să		deont	CAPABIL(s).subj.P.subj		
+ccomp	învăța	()	că		epist	STIE(s).subj.P		
+xcomp	învăța	('obj',)	să	Y	deont	FACE(s).subj.CAPABIL.obj.P		
+xcomp	învăța	('obj',)	că		epist	FACE(s).subj.STIE.obj.P		
+ccomp:pmod	invita	('obj',)	să	Y?	deont	VREA.subj.P.obj		
+ccomp	lăsa	()	să		deont	FACE.subj.PERMIS.x.P		
+ccomp	lăsa	('obj',)	să		deont	FACE.subj.PERMIS.obj.P		
+ccomp	mărturisi	()	că		raport	DICE.subj.P	APREC(-).x.P	
+ccomp	menționa	()	că		raport	DICE.subj.P		
+ccomp	mulțumi	('iobj',)	că		fapt	P	APREC(+).subj.P	
+ccomp	observa	()	că		epist	STIE.subj.P	SIMTE.subj.P	
+ccomp:pmod	ocupa	('obj',)	să		face	FACE.subj.P.obj		
+ccomp:pmod	opri	('obj',)	să		deont	FACE.subj.P.obj		
+ccomp	ordona	()	să		deont	DICE.subj.P	FACE.subj.TREBUIE.x.P	
+ccomp	ordona	('obj',)	să		deont	DICE.subj.P	FACE.subj.TREBUIE.obj.P	
+ccomp	părea	()	să	Y	epist	CREDE.x.P.subj		
+ccomp	părea	()	că	Y	epist	CREDE.x.P.subj		
+ccomp	permite	('iobj',)	să		deont	FACE.subj.PERMIS.iobj.P		
+ccomp:pmod	pomeni	('expl:pv',)	că		epist	STIE.subj.P	schimbare	
+ccomp:pmod	porni	('expl:pv',)	să		aspect	INCEPE.subj.P	TERMINA(-).subj.P	
+ccomp:pmod	pregăti	('obj',)	să		deont	FACE.subj.CAPABIL.obj.P	P(-).obj	
+ccomp	presupune	()	să		deont	FACE.subj.TREBUIE.x.P		
+ccomp	presupune	()	că		epist	CREDE.subj.P		
+ccomp:pmod	preveni	('obj',)	să		deont	DICE.subj.TREBUIE.obj.P	STIE.obj.TREBUIE.obj.P	APREC(-).x.P
+ccomp:pmod	preveni	('obj',)	că		info	DICE.subj.P	STIE.obj.P	APREC(-).x.P
+ccomp:pmod	proiecta	('obj',)	să		deont	FACE.subj.CAPABIL.obj.P		
+ccomp	pune	()	să		face	FACE.subj.P		
+ccomp:pmod	pune	('obj',)	să	Y	deont	FACE.subj.TREBUIE.obj.P		
+ccomp	putea	()	să	Y	deont	CAPABIL.subj.P		
+ccomp	răspunde	()	că		raport	DICE.subj.P	STIE.subj.P	
+ccomp	recomanda	('iobj',)	să		APREC	VREA.subj.P.iobj	APREC(+).subj.P	
+ccomp	refuza	()	să		deont	VREA(-).subj.P	VREA.x.P.subj	
+ccomp	relata	()	că		raport	DICE.subj.P		
+ccomp:pmod	renunța	()	să		deont	VREA(-,s).subj.P		
+ccomp:pmod	repezi	('expl:pv',)	să		face	P.subj		
+ccomp	reuși	()	să	Y	deont	INTENT.subj.P	TERMINA.subj.P	
+ccomp	risca	()	să		epist	CREDE.v.P	APREC(-).x.P	
+ccomp	scrie	()	că		raport	DICE.subj.P		
+ccomp	semnala	()	să		deont	FACE.subj.STIE.x.TREBUIE.x.P		
+ccomp	semnala	('iobj',)	să		deont	FACE.subj.STIE.iobj.TREBUIE.iobj.P		
+ccomp	semnala	()	că		raport	FACE.subj.STIE.x.P		
+ccomp	semnala	('iobj',)	că		raport	FACE.subj.STIE.iobj.P		
+ccomp:pmod	servi	()	să		scop	CAPABIL.subj.P		
+ccomp	simți	()	că		simt	SIMTE.subj.P		
+ccomp	socoti	()	că		epist	CREDE.subj.P		
+ccomp	spera	()	să		deont	VREA.subj.P	APREC(+).subj.P	
+ccomp	spera	()	că		deont	VREA.subj.P	APREC(+).subj.P	
+ccomp	spune	('iobj',)	să	Y	deont	FACE.subj.STIE.iobj.TREBUIE.iobj.P	DICE.subj.P	
+ccomp	spune	()	că		raport	DICE.subj.P		
+ccomp	spune	('iobj',)	că		raport	FACE.subj.STIE.iobj.P	DICE.subj.P	
+ccomp	ști	()	să	Y	deont	CAPABIL.subj.P		
+ccomp	ști	()	că	Y	raport	STIE.subj.P		
+ccomp:pmod	teme	('expl:pv',)	să		deont	VREA(-).subj.P	APREC(-).subj.P	
+ccomp:pmod	teme	('expl:pv',)	că		epist	CREDE.subj.P	APREC(-).subj.P	
+ccomp	termina	()	să		aspect	TERMINA.subj.P		
+ccomp	tinde	()	să	Y	face	P.subj		
+ccomp	ține minte	()	să		face	STIE.subj.TREBUIE.subj.P		
+ccomp	ține minte	()	că		info	STIE.subj.P		
+ccomp	uita	()	să	Y	face	STIE(-,s).subj.TREBUIE.subj.P	P(-).subj	
+ccomp	uita	()	că	Y	info	STIE(-,s).subj.P		
+ccomp	urma	()	să	Y	aspect	INCEPE(-).subj.P		
+ccomp	vedea	()	că	N	simt	STIE.subj.P	SIMTE.subj.P	
+ccomp	voi	()	să		deont	VREA.subj.P		
+ccomp	vorbi	()	să		deont	INTENT.subj.P		
+ccomp	vorbi	()	că		info	DICE.subj.P		
+ccomp	vrea	()	să		deont	VREA.subj.P		
+ccomp	explica	('iobj',)	că		raport	DICE.subj.P	STIE.iobj.P	
+ccomp	observa	()	că		epist	STIE.subj.P		
+csubj	trebui	()	să		deont	TREBUIE.x.P		
+ccomp	râvni	()	să		deont	VREA.subj.P		
+ccomp	promite	()				DICE.subj.P	INTENT.subj.P	
+ccomp	promite	('iobj',)				DICE.subj.P	INTENT.subj.P	STIE.iobj.P
+csubj	greu	()				APREC(-).x.P		

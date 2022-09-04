@@ -1,0 +1,129 @@
+deprel	lemma	valence	conj	type	subtype
+ccomp	accepta	()	să	deont	vrea
+ccomp	accepta	()	că	deont	vrea
+ccomp	afla	()	că	epist	cert
+ccomp	ajunge	()	să	face	
+ccomp	aminti	()	că	epist	cert
+ccomp	aminti	('iobj',)	să	deont	trebui
+ccomp	aminti	('iobj',)	că	info	
+ccomp	apuca	()	să	face	
+ccomp	arăta	()	că	raport	
+ccomp	aștepta	()	să	aspect	-inceput
+ccomp	auzi	()	că	simt	
+ccomp	avertiza	()	să	deont	trebui
+ccomp	avertiza	()	că	info	
+ccomp	căuta	()	să	deont	intentiona
+ccomp	cere	()	să	deont	vrea
+ccomp	citi	()	că	raport	
+ccomp	continua	()	să	aspect	
+ccomp	crede	()	că	epist	probabil
+ccomp	cunoaște	()	să	deont	fi capabil
+ccomp	cunoaște	()	că	info	
+ccomp	da	('iobj',)	să	deont	trebui
+ccomp	decide	()	să	deont	vrea
+ccomp	decide	()	că	deont	vrea
+ccomp	demonstra	()	că	info	
+ccomp	descoperi	()	că	epist	cert
+ccomp	dori	()	să	deont	vrea
+ccomp	face	()	să	deont	trebui
+ccomp	făgădui	()	să	deont	intentiona
+ccomp	făgădui	()	că	deont	intentiona
+ccomp	gândi	()	să	deont	intentiona
+ccomp	gândi	()	că	epist	probabil
+ccomp	hotărî	()	să	deont	intentiona
+ccomp	hotărî	()	că	deont	intentiona
+ccomp	începe	()	să	aspect	incepe
+ccomp	încerca	()	să	deont	intentiona
+ccomp	înceta	()	să	aspect	
+ccomp	insista	()	să	deont	trebui
+ccomp	insista	()	că	raport	
+ccomp	înțelege	()	să	deont	vrea?
+ccomp	înțelege	()	că	info	
+ccomp	învăța	()	să	deont	fi capabil
+ccomp	învăța	()	că	epist	stie
+ccomp	lăsa	()	să	deont	permite
+ccomp	mărturisi	()	că	raport	
+ccomp	menționa	()	că	raport	
+ccomp	mulțumi	('iobj',)	că	fapt	apreciativ
+ccomp	observa	()	că	epist	cert
+ccomp	ordona	()	să	deont	trebui
+ccomp	părea	()	să	epist	probabil
+ccomp	părea	()	că	epist	probabil
+ccomp	permite	('iobj',)	să	deont	permite
+ccomp	presupune	()	să	deont	trebui
+ccomp	presupune	()	că	epist	probabil
+ccomp	pune	()	să	face	
+ccomp	putea	()	să	deont	permite/fi capabil
+ccomp	răspunde	()	că	raport	
+ccomp	recomanda	('iobj',)	să	apreciativ	
+ccomp	refuza	()	să	deont	vrea
+ccomp	relata	()	că	raport	
+ccomp	reuși	()	să	deont	intentiona
+ccomp	risca	()	să	epist	posibil
+ccomp	scrie	()	că	raport	
+ccomp	semnala	()	să	deont	vrea
+ccomp	semnala	()	că	raport	
+ccomp	simți	()	că	simt	
+ccomp	socoti	()	că	epist	probabil
+ccomp	spera	()	să	deont	vrea
+ccomp	spera	()	că	deont	vrea
+ccomp	spune	('iobj',)	să	deont	trebui
+ccomp	spune	()	că	raport	
+ccomp	spune	('iobj',)	că	raport	
+ccomp	ști	()	să	deont	fi capabil
+ccomp	ști	()	că	raport	
+ccomp	termina	()	să	aspect	
+ccomp	tinde	()	să	face	
+ccomp	ține minte	()	să	face	
+ccomp	ține minte	()	că	info	
+ccomp	uita	()	să	face	
+ccomp	uita	()	că	info	
+ccomp	urma	()	să	aspect	
+ccomp	vedea	()	că	simt	
+ccomp	voi	()	să	deont	vrea
+ccomp	vorbi	()	să	deont	intentiona
+ccomp	vorbi	()	că	info	
+ccomp	vrea	()	să	deont	vrea
+ccomp:pmod	acuza	('aux:pass',)	că	epist	posibil
+ccomp:pmod	ajuta	()	să	face	
+ccomp:pmod	ajuta	('obj',)	să	face	
+ccomp:pmod	amenința	('aux:pass',)	că	deont	intentiona
+ccomp:pmod	angaja	('expl:pv',)	să	deont	intentiona
+ccomp:pmod	anunța	('aux:pass',)	că	info	
+ccomp:pmod	asigura	('obj',)	că	raport	
+ccomp:pmod	aștepta	('expl:pv',)	să	epist	probabil
+ccomp:pmod	autoriza	('aux:pass',)	să	deont	permite
+ccomp:pmod	da seama	('expl:pv',)	că	epist	cert
+ccomp:pmod	da seama	()	că	epist	cert
+ccomp:pmod	dispune	('aux:pass',)	să	deont	vrea
+ccomp:pmod	eșua	()	să	deont	intentiona
+ccomp:pmod	ezita	()	să	deont	intentiona
+ccomp:pmod	gândi	('expl:pv',)	să	deont	intentiona
+ccomp:pmod	gândi	('expl:pv',)	că	epist	probabil
+ccomp:pmod	hotărî	('expl:pv',)	să	deont	intentiona
+ccomp:pmod	hotărî	('expl:pv',)	că	deont	intentiona
+ccomp:pmod	împiedica	('obj',)	să	deont	fi capabil
+ccomp:pmod	încredința	('obj',)	că	epist	cert
+ccomp:pmod	îndoi	('expl:pv',)	că	epist	probabil
+ccomp:pmod	informa	('aux:pass',)	că	epist	cert
+ccomp:pmod	invita	('obj',)	să	deont	permite
+ccomp:pmod	invita	('aux:pass',)	să	deont	vrea
+ccomp:pmod	ocupa	('aux:pass',)	să	face	
+ccomp:pmod	opri	('obj',)	să	deont	face
+ccomp:pmod	pomeni	('expl:pv',)	că	epist	cert
+ccomp:pmod	porni	('expl:pv',)	să	aspect	
+ccomp:pmod	pregăti	('aux:pass',)	să	deont	intentiona
+ccomp:pmod	preveni	('obj',)	să	deont	trebui
+ccomp:pmod	preveni	('obj',)	că	info	
+ccomp:pmod	proiecta	('aux:pass',)	să	deont	intentiona
+ccomp:pmod	pune	('obj',)	să	deont	trebui
+ccomp:pmod	renunța	()	să	deont	intentiona
+ccomp:pmod	repezi	('expl:pv',)	să	face	
+ccomp:pmod	servi	()	să	scop	
+ccomp:pmod	teme	('expl:pv',)	să	deont	vrea
+ccomp:pmod	teme	('expl:pv',)	că	epist	probabil
+xcomp	învăța	('obj',)	să	deont	fi capabil
+xcomp	învăța	('obj',)	că	epist	stie
+xcomp	anunța	('obj',)	să	deont	trebui
+xcomp	anunța	('obj',)	că	epist	stie
+xcomp	întreba	('obj',)	că	raport	
