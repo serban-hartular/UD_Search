@@ -1,0 +1,268 @@
+head	deprel	count	function	contrast	function2
+care	nsubj	2873	rel		
+iar	cc	1367	coord	Y	
+după ce	mark	1256	timp		
+că	mark	4226	sconj		
+să	mark	7225	SA		
+care	obj	893	rel		
+căci	mark	25	cauza-efect		
+fără	mark	98	cauza-efect	Y	
+și	cc	4587	coord		
+după	mark	13	timp		
+care	obl	1546	rel		
+dar	cc	1047	coord	Y	
+ce	obj	301	rel		
+de ce anume	advmod	1	cauza-efect		
+de ce	advmod	58	cauza-efect		
+ce	nsubj	458	rel		
+de	mark	413			
+cine	obl	19	rel		
+unde	advmod	535	rel		
+ca	mark	555	sconj		
+ci	cc	53	coord	Y	
+acela ce	nsubj	114	rel		
+a	mark	998	inf		
+pentru	mark	523	scop		
+cum	advmod	550	rel		
+atunci când	advmod	141	rel		
+deși	mark	188	cauza-efect	Y	
+însă	cc	422	coord		
+pentru că	mark	633	cauza-efect		
+din	mark	10			
+încât	mark	43	cauza-efect		
+o	mark	178			
+dacă	mark	689	cauza-efect		raport
+înainte ca	mark	10	timp		
+când	advmod	757	rel		
+de când	advmod	13	timp		
+acela ce	obj	66	rel		
+înainte de	mark	43	timp		
+care	nsubj:pass	159	rel		
+cine ști ce	nsubj	1	expr		
+după care	mark	6	timp		
+sau	cc	170	coord	Y	
+decât	mark	45	rel		
+care	nmod	24	rel		
+pentru ce	mark	14	cauza-efect		
+chiar dacă	mark	111	cauza-efect		
+așa cum	advmod	128	rel		report
+imediat ce	mark	8	timp		
+în timp ce	advmod	5	timp		
+pentru ca	mark	66	scop		
+la	mark	11			
+deoarece	mark	67	cauza-efect		
+ca tot	mark	3			
+în timp ce	mark	270	timp		
+din acela ce	advmod	1	rel		
+după cum	mark	124	rel		report
+așa că	mark	97	cauza-efect		
+în	mark	8			
+cât	advmod	147	rel		
+cine	nsubj	62	rel		
+înainte	mark	23	timp		
+si	cc	38	coord		
+ce	obl	18	rel		
+cu tot că	mark	40	cauza-efect	Y	
+de ce	mark	96	cauza-efect		
+asupra	mark	1			
+acela al ce	obj	1	rel		
+care	obl:pmod	18	rel		
+cum	advcl	4	rel		
+fie	cc	17	coord	Y	
+un	mark	10			
+doar că	mark	11	coord	Y	
+din ce	mark	12	rel		
+cât	nsubj	2	rel		
+până	mark	44	timp		
+cu	mark	5			
+despre	mark	17	raport		
+ca și cum	mark	8	?		
+pt	mark	6			
+în loc	mark	6	coord	Y	
+pe	mark	9			
+oricum	advmod	24	rel		
+ca să	mark	49	scop		
+incat	nsubj	2			
+astfel incat	mark	2	cauza-efect		
+si	mark	2	coord		
+acela	iobj	2			
+când	advmod:tmod	35	rel		
+de cât oară	advmod	2	timp		
+chiar și	mark	2	coord		
+pe măsură ce	mark	8	timp		
+imediat ce	advmod	15	timp		
+înainte să	mark	2	timp		
+de la	mark	4			
+astfel încât	mark	25	cauza-efect		
+oricine	nsubj:pass	1	rel		
+până când	mark	18	timp		
+acela ce	nsubj:pass	6	rel		
+orice	obl	2	rel		
+atât	mark	1	rel		
+cât și	cc	2	coord		
+în funcție de ce	mark	2	cauza-efect		
+păi	cc	1	coord		
+întrucât	mark	23	cauza-efect		
+deci	cc	40	coord		
+oricine	nsubj	4	rel		
+din moment ce	mark	20	cauza-efect		
+astfel că	mark	50	cauza-efect		
+fiindcă	mark	30	cauza-efect		
+fără să	mark	3	cauza-efect	Y	
+ce	advmod	1	rel		
+pentreu	mark	1			
+de când	mark	44	timp		
+cine	obj	10	rel		
+din cât	advmod	8	rel		
+plus că	mark	3	coord		
+de vreme ce	mark	6	timp		
+după cum	advmod	2	rel		report
+decât dacă	mark	2	cauza-efect		
+orice	nsubj	8	rel		
+numai că	mark	15	coord	Y	
+care	iobj	29	rel		
+pe când	advmod	9	timp		
+care…	cc	1	rel		
+căisprezece	cc	1			
+așa încât	mark	2	cauza-efect		
+cât timp	advmod	1	timp		
+la fel cum	advmod	2	rel		
+cand	nsubj	11			
+fără însă	mark	1	cauza-efect	Y	
+la fel cum	mark	2	rel		
+doar	mark	4	coord	Y	
+de ce și cum	mark	2	rel		
+oară de cât oară	advmod	5	rel		
+în acela ce	mark	2	rel		
+cât	obl	23	rel		
+ce	nsubj:pass	10	rel		
+imediat cum	advmod	1	timp		
+ce	det	1			
+din cauză că	mark	2	cauza-efect		
+să	mark	4	sconj		
+că	mark	4	sconj		
+și	cc	5	coord		
+din cauză	mark	1	cauza-efect		
+ce	obl:pmod	3	rel		
+oriunde	advmod	4	rel		
+atât timp cât	mark	14	timp		
+precum	advmod	2	rel		
+fără ca	mark	8	cauza-efect	Y	
+nsă	cc	1	coord		
+oare	advmod	2			
+de cât oară	mark	2	rel		
+in timp ce	mark	16	timp		
+astfel cum	advmod	1	rel		
+pe când	mark	10	timp		
+de cum	mark	6	timp		
+pentru că la	mark	1			
+oară de cât oară	mark	4	rel		
+ori	cc	4	coord	Y	
+de unde	advmod	1	rel		
+în timp ce când	mark	2	timp		
+cand	cc	4	rel		
+ca anume	mark	1			
+din ce	advmod	2	rel		
+așa cum	mark	12	rel		
+în acela ce	advmod	1	rel		
+de vreme ce	advmod	1	timp		
+pe masură ce	mark	2	timp		
+față de cum	mark	2	rel		
+mai ce	advmod	1	expr		
+așa	mark	1			
+si ce	advmod	1	expr		
+pentru de	mark	1			
+cu tot ca	mark	1	cauza-efect		
+cine	expl:poss	1	rel		
+orice	obj	2	rel		
+după ce în urmă	mark	4	timp		
+în timp ce	advmod:tmod	3	timp		
+din ce în ce mai	advmod	4	expr		
+cine ști	nsubj	1	expr		
+ca și	mark	5			
+_____să	mark	1			
+după ce	advmod	2	timp		
+mai ales că	mark	1	cauza-efect		
+căci	cc	2	cauza-efect		
+cine ști pe	obj	1	expr		
+din când în când	advmod	2	adv		
+așa precum	mark	2	rel		
+spre	mark	1			
+până ce	mark	2	timp		
+acela ce	obl	2	rel		
+Insa	cc	1	coord		
+întocmai cum	advmod	3	rel		
+că_peserede	cc	1			
+din dreaptă ce	mark	2	loc		
+în caz că	mark	1	scop		
+in caz	mark	1	scop		
+desi	mark	1	cauza-efect	Y	
+astfel	mark	2			
+cine	iobj	4	rel		
+”o	mark	1			
+odată ce	mark	2	timp		
+acolo unde	advmod	1	rel		
+oricând	advmod	1	rel		
+astfel de	mark	1			
+mai ales	mark	1	coord		
+în ce	mark	4	rel		
+insa	mark	1			
+insul	nsubj	2			
+cand	mark	1	rel		
+pană	cc	1			
+chiar de	mark	1	cauza-efect		
+despre ce	mark	2	raport		
+însă	mark	1	coord		
+atunci de	advmod	1			
+șă	mark	1			
+precum și	cc	4	coord		
+și ce	cc	2	coord		
+de la ce	mark	4	rel		
+cat	nsubj	1			
+în vreme ce	mark	6	timp		
+de ce său	advmod	1			
+și	mark	1			
+ca și cum	advmod	2	?		
+atunci că când	advmod	1	rel		
+după acela	mark	1	timp		
+bă	cc	1			
+cât	nsubj:pass	2	rel		
+când și	advmod	2	rel		
+fără măcar	mark	1	cauza-efect	Y	
+de ce nu	advmod	1			
+de cum	advmod	1	timp		
+acesa	nsubj	2			
+de abia	mark	1			
+cât și	advmod	1	coord		
+așa cum aproape	advmod	1	rel		
+în afară de	mark	1			
+împreună că	mark	1			
+cum anume	advmod	1	rel		
+dinainte de	mark	1			
+acela maxim ce	obj	1			
+pe timp ce	mark	2	timp		
+cine	nsubj:pass	1	rel		
+nu ce	advmod	1	rel		
+după cât	mark	2	rel		
+după ce urmă	mark	2	timp		
+în legătură cu	mark	1			
+dacă și	mark	1	cauza-efect		
+atât timp	mark	1	timp		
+pentru ce	advmod	2	cauza-efect		
+cum poate	advmod	1			
+față de	mark	1			
+doar dacă	mark	1	cauza-efect		
+atât timp cât	advmod	1	rel		
+sã	mark	2			
+asa cum	advmod	1	rel		
+în acela	mark	2			
+inclusiv	mark	1			
+din ce ști	advmod	1	expr		
+de când	case	1	timp		
+cum	mark	2	rel		
+de parca	mark	1			
+ca cine sti	mark	2	expr		
+cand	obl	1			
+atât că	mark	1			
+pe zi ce	mark	2	timp		
+de acela	mark	2			

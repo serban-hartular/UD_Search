@@ -72,3 +72,19 @@ def get_full_lemma(n : Tree):
     if ms:
         lemma += (' ' + ' '.join([m.data()['lemma'] for m in ms]))
     return lemma
+
+def datum_to_conllu(datum) -> str:
+    if not datum:
+        return '_'
+    if isinstance(datum, str):
+        return datum
+    if isinstance(datum, dict):
+        return '|'.join(k+'='+\
+                        ','.join((v,) if isinstance(v, str) else v)
+                    for k, v in datum.items())
+    raise Exception('Bad datum ' + str(datum))
+
+def conllu_node(node : Tree) -> str:
+    attrib_list = ['id', 'form', 'lemma', 'upos', 'xpos', 'feats', 'head', 'deprel', 'deps',  'misc']
+    return '\t'.join(datum_to_conllu(node.data[a]) for a in attrib_list)
+        

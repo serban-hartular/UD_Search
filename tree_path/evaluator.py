@@ -54,12 +54,12 @@ class ValueComparer(Evaluator):
         if isinstance(tok_val, str):
             tok_val = {tok_val}
         if tok_val is None:
-            if self.operator == '?=': return True #[node]
+            if self.operator == '?=': return True #[head_node]
             elif self.operator == '=': return False #[]
             else: raise Exception('Unknown operator ' + self.operator)
         if not isinstance(tok_val, set):
             raise Exception('Value of %s is not a string or set -- %s' % ('.'.join(self.name), str(tok_val)))
-        return bool(self.value.intersection(tok_val)) #[node] if self.value.intersection(tok_val) else []
+        return bool(self.value.intersection(tok_val)) #[head_node] if self.value.intersection(tok_val) else []
     def __str__(self):
         return '.'.join(self.name) + self.operator + ','.join(self.value)
     def __repr__(self):
@@ -110,7 +110,7 @@ class NodeEvaluator(Evaluator):
             node_list = [node] + node.children()
         elif self.path_type == './/': # all descendants plus self
             node_list = node.traverse()
-        elif self.path_type == '.': # current node
+        elif self.path_type == '.': # current head_node
             node_list = [node]
         else:
             raise Exception("Unkown path " + str(self.path_type))

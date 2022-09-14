@@ -38,7 +38,7 @@ def get_verb_form(node : Tree, allowed_upos : Set[str] = None) -> Dict[str,Set]|
     # try:
     VerbForm = list(VerbForm)[0]
     # except:
-    #     raise Exception('Empty VerbForm: ' + str(node))
+    #     raise Exception('Empty VerbForm: ' + str(head_node))
     before = [c for c in node.children() if int(c.data['id']) < int(id)]
     aux = [c.data['form'].lower() for c in before]
     aux = [a for a in aux if a in _auxiliaries]

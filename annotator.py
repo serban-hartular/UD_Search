@@ -148,12 +148,17 @@ def collect_annotations(filenames : List[str]) -> Dict[str, Dict[str, Dict]]:
     annot_dict = {sid : {tkid : dict(misc) for tkid, misc in v.items()} for sid, v in annot_dict.items()}
     return annot_dict
 
-def add_annotations(conllu_in : str, conllu_out : str, annot_dict : Dict[str, Dict[str, Dict]]):
+def add_annotations(conllu_in : str, conllu_out : str, annot_dict : Dict[str, Dict[str, Dict]],
+                    misc_keys_to_keep = ('start_char', 'end_char', 'SpaceAfter')):
+    """annot_dict contains: annot_dict[sentence.id][token.id] = annotation
+    annotation is a dict to be added to the misc dict of the conllu token, ie Dict[str, set]
+    """
     conllu_out = open(conllu_out, 'w', encoding='utf8')
     for sentence in pyconll.iter_from_file(conllu_in):
         if sentence.id in annot_dict.keys():
             for token in sentence:
                 if token.id not in annot_dict[sentence.id].keys(): continue
+                token.misc = {k:v for k,v in token.misc.items() if k in misc_keys_to_keep}
                 token.misc.update(annot_dict[sentence.id][token.id])
         sentence_conllu = sentence.conll()        
         conllu_out.write(sentence_conllu + '\n\n')
@@ -175,14 +180,18 @@ def dump_annotated_text(conllu_filename : str, out = None):
 
 import json
 
-def _tok_unique_id(sent_id : str, tok_id : str) -> str:
+def tok_unique_id(sent_id : str, tok_id : str) -> str:
     return sent_id + '-' + tok_id
+
+def sent_tok_id_from_unique(unique_id : str) -> Tuple:
+    return tuple(unique_id.rsplit('-', 1))
+
 
 def sentence_annotation_json(sentence : Sentence) -> List:
     json_list = []
     prev_char = 0
     for token in sentence:
-        json_tok = {'form':token.form, 'id':_tok_unique_id(sentence.id, token.id), 'str_after':' '}
+        json_tok = {'form':token.form, 'id':tok_unique_id(sentence.id, token.id), 'str_after': ' '}
         json_tok.update({k:list(v)[0] for k,v in token.misc.items() if k in question_options.keys()})
         json_list.append(json_tok)
     json_list[-1]['str_after'] = '\n'
@@ -200,3 +209,20 @@ def doc_annotation_json(conllu_filename : str) -> List[Dict]:
             doc_dict = {_docid_key :  sentence.meta_value(_docid_key), 'tokens':list()}
         doc_dict['tokens'] += sentence_annotation_json(sentence)
     return doc_list
+
+def add_annotations_from_json(conllu_in: str, conllu_out: str,
+                              json_annot_list: List[Dict[str, Dict]],
+                              keys_to_skip=('form', 'lemma', 'id', 'str_after')):
+    """json_annot_list contains a list. Each element consists of the annotations for 1 doc
+        as a dict ['newdoc id'] = doc_id, ['tokens'] = list of token annotations.
+        json_annot_list[i]['tokens'] is a list token annotations, each one a Dict[str, str],
+        e.g. {'form':'blah', 'id':'cancan21-0-0-1', 'Ellipsis':'VPE'}. """
+    annot_dict : Dict[str, Dict[str, Dict]] = defaultdict(lambda : defaultdict(dict))
+    for doc in json_annot_list:
+        for tok in doc['tokens']:
+            annot = {k:{v} for k,v in tok.items() if k not in keys_to_skip}
+            # if not annot: continue # no annotations
+            # continue even without annotations. otherwise you won't delete what you deleted
+            sent_id, tok_id = sent_tok_id_from_unique(tok['id'])
+            annot_dict[sent_id][tok_id] = annot
+    add_annotations(conllu_in, conllu_out, annot_dict)

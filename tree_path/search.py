@@ -6,11 +6,11 @@ from tree_path.tree import Tree
 
 _grammar = r"""
 
-node_list   : node
-           | node node_list 
+node_list   : head_node
+           | head_node node_list 
             ;
             
-node    : PATH_MARKER token
+head_node    : PATH_MARKER token
         ;
 
 token   : '[' attribs ']'
@@ -22,8 +22,8 @@ attribs : attribs '|' attribs  {left, 14}
         | '!' attribs  {16}
         | '(' attribs ')'
         | name EQU value
-        | node
-        | '*' //node any node
+        | head_node
+        | '*' //head_node any head_node
         ;
  
 value : value ',' WORD
@@ -61,10 +61,10 @@ _actions = {
                  lambda _, n: ValueExpression(n[0], n[1]),  # not
                  lambda _, n: n[1], # parenthesis
                  lambda _, n: ValueComparer(n[1], n[0], n[2]), # name = value
-                 lambda _, n: n[0], # node
+                 lambda _, n: n[0], # head_node
                  lambda _, n: ConstantEvaluator(True)
                 ],
-    "node": [ lambda _, n: NodeEvaluator(n[0], n[1]),
+    "head_node": [ lambda _, n: NodeEvaluator(n[0], n[1]),
             ],
     "node_list": [lambda _, n: _node_list_return(n),  #n[0],
                   lambda _, n: _node_list_return(n)  #NodeEvaluator(n[0].path_type, ValueExpression('&', n[0].evaluator, n[1]))

@@ -9,7 +9,7 @@ from tree_path.conllu import get_full_lemma
 
 class PredExprMapper:
     """
-    Class obtained from mapping a PredExpression to a verbal node. The result is a list of dicts
+    Class obtained from mapping a PredExpression to a verbal head_node. The result is a list of dicts
     """
     @staticmethod
     def map_tree(expression : PredExpression, node : Tree, modalizer_object : str) -> PredExpression:

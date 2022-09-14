@@ -57,7 +57,9 @@ class Tree:
             ancestors.append(node)
             node = node.parent
         return ancestors
-    def root(self):
+    def depth(self) -> int:
+        return len(self.ancestors()) - 1
+    def root(self) -> Tree:
         r = self
         while r.parent:
             r = r.parent
