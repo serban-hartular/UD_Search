@@ -1,5 +1,5 @@
-from modalities import pred_expr_comparison
-from modalities.tree_to_modalities import tree_to_modal_exprs 
+from modalities_old import pred_expr_comparison
+from modalities_old.tree_to_modalities import tree_to_modal_exprs 
 from valences.clause_types import clause_type, get_annotated_antecedent
 import pyconll
 import tree_path

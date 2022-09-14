@@ -7,8 +7,9 @@ import pyconll
 from pyconll.unit.sentence import Sentence
 
 import tree_path
-from tree_path import Search, Match, Tree
+from tree_path import Search, Tree
 import valences.lemma_pipeline as v_lem
+from tree_path.conllu import tok_unique_id, sent_tok_id_from_unique
 
 question_options = {
     'Ellipsis' : ['BadParse', 'Expression', 'NotVerb', 'Voice', 'Absolute', 'WrongValence', 'Semantic', 'RNR', 'VPE'],
@@ -178,20 +179,12 @@ def dump_annotated_text(conllu_filename : str, out = None):
             s_string += space_after
         print(sentence.id + '\t' + s_string)
 
-import json
-
-def tok_unique_id(sent_id : str, tok_id : str) -> str:
-    return sent_id + '-' + tok_id
-
-def sent_tok_id_from_unique(unique_id : str) -> Tuple:
-    return tuple(unique_id.rsplit('-', 1))
-
 
 def sentence_annotation_json(sentence : Sentence) -> List:
     json_list = []
     prev_char = 0
     for token in sentence:
-        json_tok = {'form':token.form, 'id':tok_unique_id(sentence.id, token.id), 'str_after': ' '}
+        json_tok = {'form':token.form, 'id': tok_unique_id(sentence.id, token.id), 'str_after': ' '}
         json_tok.update({k:list(v)[0] for k,v in token.misc.items() if k in question_options.keys()})
         json_list.append(json_tok)
     json_list[-1]['str_after'] = '\n'

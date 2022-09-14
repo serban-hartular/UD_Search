@@ -1,6 +1,6 @@
 from __future__ import annotations
 
-from typing import List, Dict
+from typing import List, Dict, Iterator, Tuple
 
 import pyconll
 from pyconll.unit.token import Token
@@ -87,4 +87,56 @@ def datum_to_conllu(datum) -> str:
 def conllu_node(node : Tree) -> str:
     attrib_list = ['id', 'form', 'lemma', 'upos', 'xpos', 'feats', 'head', 'deprel', 'deps',  'misc']
     return '\t'.join(datum_to_conllu(node.data[a]) for a in attrib_list)
+
+
+class ParsedSentence(Tree):
+    def __init__(self, node : Tree, sent_id : str, sent_text : str, meta_data : Dict = dict()):
+        super().__init__(node.data, None, node.children())
+        for child in self.children():
+            child.parent = self
+        self.sent_id = sent_id
+        self.sent_text = sent_text
+        self.meta_data = meta_data
+        self.node_list = [n for n in self.traverse()]
+        self.node_list.sort(key=lambda n : int(n.data['id']))
+        self.node_dict = {n.data['id']:n for n in self.node_list}
+    @staticmethod
+    def iter_from_file(filename : str) -> Iterator[ParsedSentence]:
+        for s_conllu in pyconll.iter_from_file(filename):
+            tree = from_conllu(s_conllu)
+            psentence = ParsedSentence(tree, s_conllu.id, s_conllu.text, dict(s_conllu._meta))
+            yield psentence
+    
+    def conllu(self) -> str:
+        c = '# sent_id = ' + self.sent_id + '\n'
+        c += '# text = ' + self.sent_text + '\n'
+        for s in self.node_list:
+            c += conllu_node(s) + '\n'
+        c += '\n'
+        return c
         
+    def node(self, key : str|int):
+        if isinstance(key, int):
+            return self.node_list[key]
+        else:
+            return self.node_dict[key]
+    def uid(self, node : Tree|str):
+        if isinstance(node, Tree): node = node.data['id']
+        return tok_unique_id(self.sent_id, node)
+    @staticmethod
+    def get_syntactic_distance(n1 : Tree, n2 : Tree) -> int|None:
+        ancestors1 = n1.ancestors() # note, ancestors include self
+        ancestors2 = n2.ancestors()
+        common = [a for a in ancestors1 if a in ancestors2]
+        if not common:
+            return None
+        common = common[0]
+        return ancestors1.index(common) + ancestors2.index(common)
+
+
+def tok_unique_id(sent_id : str, tok_id : str) -> str:
+    return sent_id + '-' + tok_id
+
+
+def sent_tok_id_from_unique(unique_id : str) -> Tuple:
+    return tuple(unique_id.rsplit('-', 1))

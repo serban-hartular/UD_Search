@@ -11,6 +11,7 @@ import pyconll
 
 
 from tree_path.conllu import get_full_lemma, before
+import word_types.ro_verb_forms as vb_forms
 
 
 def is_verb(node : Tree) -> bool:
@@ -112,19 +113,25 @@ def is_paranthetic(node : Tree) -> bool:
     return (first.data['form'] == '(' and last.data['form'] == ')') or \
         (first.data['form'] == '-' and last.data['form'] == '-')
 
-def is_mis_parse(node : Tree) -> str|bool:
+def is_mis_parse(node : Tree) -> str:
     tokens = node.root().projection()
     index = tokens.id_index(node.data['id'])
-    if index == len(tokens)-1: return False
+    if index == len(tokens)-1: return ''
     next = tokens[index+1]
-    if next['lemma'] == 'să' or next['feats'].get('VerbForm') == {'Inf'}:
-        return True
+    if next['lemma'] in ('să','că') or next['feats'].get('VerbForm') == {'Inf'}:
+        return next['id']
     nsubj = Search('./[deprel=nsubj]').find(node)
     if nsubj:
         nsubj = nsubj[0].node
         if nsubj.data['lemma'] in ('ce', 'ceva'):
-            return nsubj.data['lemma']
-    return False
+            return nsubj.data['id']
+        verb_info = vb_forms.get_verb_form(node, {'VERB'})
+        if verb_info.get('Person') and verb_info.get('Person').intersection({'1','2'}) and \
+                ('Person' not in nsubj.data['feats'] or not \
+                        verb_info.get('Person').intersection(nsubj.data['feats']['Person'])):
+            #disagreement
+            return nsubj.data['id']
+    return ''
 
 def is_expression(node : Tree) -> str|None:
     tokens = node.projection()

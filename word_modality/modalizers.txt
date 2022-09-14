@@ -1,0 +1,226 @@
+deprel	regent	count	particle	modality1	polarity1	modality2	polarity2
+csubj	greu	43		aprecia	POS		
+csubj	important	35		aprecia	POS		
+csubj	plăcea	27		aprecia	POS		
+ccomp	plăcea	25		aprecia	POS		
+ccomp	merita	19		aprecia	POS		
+csubj	bine	19		aprecia	POS		
+ccomp	bucura	15		aprecia	POS		
+csubj	ușor	14		aprecia	POS		
+ccomp	mulțumi	12		aprecia	POS		
+ccomp	aprecia	7		aprecia	POS		
+ccomp:pmod	ușor	6		aprecia	POS		
+ccomp	teme	6		aprecia	NEG		
+ccomp:pmod	bine	5		aprecia	POS		
+ccomp	risca	5		aprecia	NEG		
+ccomp	adora	5		aprecia	POS		
+csubj	dificil	5		aprecia	NEG		
+ccomp	plânge	4		aprecia	NEG		
+csubj	normal	4		aprecia	POS		
+ccomp:pmod	bucura	3		aprecia	POS		
+ccomp	sătura	3		aprecia	NEG		
+ccomp	greși	3		aprecia	NEG		
+ccomp	bine	3		aprecia	POS		
+ccomp	enerva	3		aprecia	NEG		
+ccomp	demonstra	33		arata			
+ccomp	dovedi	21		arata			
+ccomp	continua	50		continua			
+ccomp	crede	259		crede			
+ccomp	spera	75		crede			
+ccomp	considera	67		crede			
+ccomp	aștepta	44		crede			
+ccomp	gândi	41		crede			
+csubj	probabil	19		crede			
+ccomp	imagina	17		crede			
+csubj	convinge	12		crede			
+csubj	părere	6		crede			
+ccomp:pmod	suspectat	3		crede		aprecia	NEG_CONST
+ccomp	îndoi	3		crede	NEG		
+ccomp	bănui	3		crede			
+ccomp	preconiza	3		crede			
+ccomp	analiza	3		crede			
+ccomp	încerca	213		incepe		vrea	POS_CONST
+ccomp	începe	182		incepe			
+ccomp	întârzia	3		incepe	NEG		
+ccomp	întreba	59		intreaba			
+ccomp	obișnui	12		obisnui			
+ccomp	tinde	11		obisnui			
+csubj	părea	197		pare			
+ccomp	părea	36		pare			
+ccomp	reieși	7		pare			
+ccomp	lăsa	46		permite			
+ccomp	permite	40		permite			
+csubj	posibil	27		permite		crede	
+csubj	poate	24		permite		crede	
+ccomp	avea voie	13		permite			
+ccomp:pmod	avea voie	9		permite			
+ccomp	interzice	8		permite	NEG		
+ccomp:pmod	lăsa	4		permite			
+ccomp:pmod	împiedica	4		permite	NEG		
+ccomp	bloca	3		permite	NEG		
+ccomp	putea	1560		poate			
+ccomp	avea	263		poate			
+csubj	putea	16		poate			
+ccomp	apuca	13		poate			
+csubj	imposibil	4		poate	NEG		
+ccomp:pmod	capabil	3		poate			
+ccomp	vedea	184		simte			
+ccomp	simți	30		simte			
+ccomp	ști	384	că	stie			
+ccomp	ști		să	poate			
+ccomp	afla	118		stie			
+ccomp	înțelege	69		stie			
+ccomp	avea în vedere	32	că	stie			
+ccomp	avea în vedere		să	trebuie			
+ccomp	da seamă	31		stie			
+ccomp	învăța	31	că	stie			
+ccomp	învăța		să	poate			
+ccomp	uita	30	că	stie	NEG		
+ccomp	uita	30	să	poate	NEG		
+csubj	clar	23		stie			
+ccomp	realiza	19		stie			
+ccomp	sti	18	că	stie			
+ccomp	sti		să	poate			
+ccomp	constata	16		stie			
+ccomp	observa	14		stie			
+ccomp	auzi	12		stie			
+csubj	sigur	12		stie			
+ccomp:pmod	da seamă	11		stie			
+ccomp:pmod	sigur	10		stie			
+csubj	bineînțeles	8		stie			
+ccomp	descoperi	7		stie			
+csubj	evident	7		stie			
+ccomp	depista	6		stie			
+ccomp	sesiza	5		stie			
+ccomp	clar	4		stie			
+csubj	cert	4		stie			
+csubj	adevărat	4		stie			
+csubj	fapt	4		stie			
+ccomp	verifica	3		stie			
+ccomp	sigur	3		stie			
+ccomp	garanta	3		stie			
+ccomp	cunoaște	3		stie			
+ccomp	reuși	203		termina		vrea	POS_CONST
+ccomp	înceta	7		termina			
+ccomp	termina	5		termina			
+csubj	trebui	626		trebuie			
+ccomp	ajunge	39		trebuie			
+ccomp	obliga	33		trebuie			
+ccomp	nevoi	28		trebuie			
+ccomp:pmod	nevoi	20		trebuie			
+ccomp	pune	10		trebuie			
+csubj	necesar	10		trebuie			
+ccomp:pmod	avea	9		trebuie			
+ccomp:pmod	obliga	8		trebuie			
+ccomp	trebui	8		trebuie			
+ccomp	impune	7		trebuie			
+csubj	nevoie	7		trebuie			
+ccomp:pmod	avea nevoie	5		trebuie			
+ccomp:pmod	face	3		trebuie			
+ccomp:pmod	avea rost	3		trebuie			
+ccomp	trimite	3		trebuie			
+csubj	urma	4		urma			
+ccomp	urma	117		urma			
+ccomp	vrea	518		vrea			
+ccomp	dori	229		vrea			
+ccomp	decide	180		vrea			
+ccomp	alege	67		vrea			
+ccomp	cere	66		vrea			
+ccomp	ruga	43		vrea			
+ccomp	veni	43		vrea			
+ccomp	hotărî	39		vrea			
+ccomp	prefera	35		vrea			
+ccomp	ține	31		vrea			
+ccomp	propune	31		vrea			
+ccomp	ajuta	27		vrea			
+ccomp	voi	26		vrea			
+ccomp	accepta	26		vrea			
+ccomp	determina	20		vrea			
+ccomp	stabili	18		vrea			
+ccomp	refuza	18		vrea	NEG		
+ccomp	exclude	18		vrea	NEG		
+ccomp	convinge	17		vrea			
+ccomp:pmod	pregăti	16		vrea		crede	
+ccomp	pregăti	16		vrea		crede	
+ccomp	oferi	13		vrea			
+ccomp	ezita	12		vrea	NEG		
+ccomp:pmod	gândi	10		vrea			
+ccomp:pmod	convinge	10		vrea			
+ccomp	interesa	10		vrea			
+csubj	rămâne	10		vrea			
+ccomp	îndrăzni	9		vrea			
+ccomp	intenționa	9		vrea			
+ccomp	insista	9		vrea			
+ccomp	căuta	9		vrea			
+ccomp:pmod	merge	8		vrea			
+ccomp:pmod	duce	8		vrea			
+ccomp	merge	8		vrea			
+ccomp	rămâne	8		vrea			
+ccomp	evita	8		vrea	NEG		
+ccomp	suporta	8		vrea			
+ccomp:pmod	dispune	7		vrea			
+ccomp	îndemna	7		vrea			
+ccomp	visa	7		vrea			
+ccomp	sugera	7		vrea			
+ccomp	grăbit	7		vrea			
+ccomp:pmod	ajuta	6		vrea			
+ccomp	feri	6		vrea	NEG		
+ccomp	duce	6		vrea			
+ccomp	avea de gând	6		vrea			
+ccomp	vorbi	6		vrea			
+ccomp:pmod	feri	5		vrea	NEG		
+ccomp	invita	5		vrea			
+ccomp:pmod	tenta	4		vrea			
+ccomp	primi	4		vrea			
+ccomp	plănui	4		vrea			
+ccomp	ținti	4		vrea			
+ccomp:pmod	determina	3		vrea			
+ccomp:pmod	chinui	3		vrea			
+ccomp	avea grijă	3		vrea			
+ccomp	sfii	3		vrea	NEG		
+ccomp	apuce	3		vrea			
+ccomp	grăbi	3		vrea			
+ccomp	spune	605	că	zice			
+ccomp	spune		să	trebuie		zice	
+ccomp	zice	154	că	zice			
+ccomp	zice		să	trebuie		zice	
+ccomp	susține	115		zice			
+ccomp	mărturisi	105		zice			
+ccomp	anunța	104		zice			
+ccomp	declara	100		zice			
+ccomp	dezvălui	87		zice			
+ccomp	arăta	82		zice			
+ccomp	preciza	63		zice			
+ccomp	recunoaște	54		zice			
+ccomp	povesti	51		zice			
+ccomp	explica	43		zice			
+ccomp	acuza	33		zice		aprecia	NEG_CONST
+ccomp	afirma	29		zice			
+ccomp	sfătui	29		zice		aprecia	POS_CONST
+ccomp	transmite	26		zice			
+ccomp	reaminti	24		zice			
+ccomp:pmod	sfătui	23		zice		aprecia	POS
+ccomp	asigura	23		zice			
+ccomp	promite	22		zice		vrea	
+ccomp	aminti	21		zice			
+ccomp	sublinia	19		zice			
+ccomp	scrie	19		zice			
+ccomp	solicita	19		zice		vrea	
+ccomp	menționa	18		zice			
+ccomp	recomanda	18		zice		aprecia	POS
+ccomp	informa	15		zice			
+ccomp	confirma	12		zice			
+ccomp	avertiza	11		zice		aprecia	NEG_CONST
+ccomp:pmod	acuza	10		zice		aprecia	NEG_CONST
+ccomp	amenința	10		zice		aprecia	NEG_CONST
+ccomp	reproșa	8		zice		aprecia	NEG_CONST
+ccomp	prezenta	8		zice			
+ccomp	răspunde	7		zice			
+ccomp	remarca	6		zice			
+ccomp	pretinde	5		zice			
+ccomp	aduce aminte	4		zice			
+ccomp	aduce aminte	4		trebuie		zice	
+ccomp	critica	3		zice		aprecia	NEG_CONST
+ccomp	indica	3	că	zice			
+ccomp	indica		să	trebuie			
+ccomp	țipa	3		zice			

@@ -1,56 +1,21 @@
 from __future__ import annotations
 
 from collections import defaultdict
-from typing import List, Generator, Iterator, Dict, Tuple, Callable
+from typing import List, Iterator, Dict, Tuple, Callable
 
 import pandas as pd
 import pyconll
-from pyconll.unit.sentence import Sentence
 
 import annotator
 import tree_path
+import tree_path.conllu
 from tree_path import Tree, Search, Match
+from tree_path.conllu import ParsedSentence
 
 doc_id_key = 'newdoc id'
-SENT_ID_KEY = 'sent-id'
-SENT_LEN_KEY = 'sent-len'
-SENT_TEXT_KEY = 'sent-text'
-
-class ParsedSentence(Tree):
-    def __init__(self, node : Tree, sent_id : str, sent_text : str):
-        super().__init__(node.data, None, node.children())
-        for child in self.children():
-            child.parent = self
-        self.sent_id = sent_id
-        self.sent_text = sent_text
-        self.node_list = [n for n in self.traverse()]
-        self.node_list.sort(key=lambda n : int(n.data['id']))
-        self.node_dict = {n.data['id']:n for n in self.node_list}
-    def conllu(self) -> str:
-        c = '# sent_id = ' + self.sent_id + '\n'
-        c += '# text = ' + self.sent_text + '\n'
-        for s in self.node_list:
-            c += tree_path.conllu.conllu_node(s) + '\n'
-        c += '\n'
-        return c
-        
-    def node(self, key : str|int):
-        if isinstance(key, int):
-            return self.node_list[key]
-        else:
-            return self.node_dict[key]
-    def uid(self, node : Tree|str):
-        if isinstance(node, Tree): node = node.data['id']
-        return annotator.tok_unique_id(self.sent_id, node)
-    @staticmethod
-    def get_syntactic_distance(n1 : Tree, n2 : Tree) -> int|None:
-        ancestors1 = n1.ancestors() # note, ancestors include self
-        ancestors2 = n2.ancestors()
-        common = [a for a in ancestors1 if a in ancestors2]
-        if not common:
-            return None
-        common = common[0]
-        return ancestors1.index(common) + ancestors2.index(common)
+# SENT_ID_KEY = 'sent-id'
+# SENT_LEN_KEY = 'sent-len'
+# SENT_TEXT_KEY = 'sent-text'
 
 
 class ParsedDoc(List[ParsedSentence]):
@@ -69,7 +34,7 @@ class ParsedDoc(List[ParsedSentence]):
     def sentence(self, sent_id : str):
         if self.id_dict is None: self.make_id_dict()
         return self.id_dict.get(sent_id)
-    def root(self, n : Tree) -> ParsedSentence|None:
+    def root(self, n : Tree) -> ParsedSentence | None:
         n = n.root()
         if n in self:
             return n
@@ -87,7 +52,7 @@ class ParsedDoc(List[ParsedSentence]):
         return s.uid(node)
     def get_node_by_uid(self, uid : str) -> (Tree, ParsedSentence):
         """Get node by its unique id. Also return sentence root"""
-        (sent_id, node_id) = annotator.sent_tok_id_from_unique(uid)
+        (sent_id, node_id) = tree_path.conllu.sent_tok_id_from_unique(uid)
         root = self.sentence(sent_id)
         if not root: return (None, None)
         node = root.search(lambda n : n.data['id'] == node_id)
@@ -192,6 +157,8 @@ def generate_antecedent_candidates(ell_node : Tree, pdoc : ParsedDoc, delta_befo
                 if not Search('.[upos=VERB & !(deprel=aux) ]').find(node): continue
                 yield ell_node, node, 1 if node == ant_node else 0
 
+import word_modality.modality
+
 def generate_clause_pair_df(clause_pairs : Iterator[Tuple[Tree, Tree, int]], pdoc : ParsedDoc) -> pd.DataFrame:
     suffixes = ('_e', '_a')
     result_key = 'result'
@@ -204,6 +171,7 @@ def generate_clause_pair_df(clause_pairs : Iterator[Tuple[Tree, Tree, int]], pdo
         row_dict.update(char_e)
         row_dict.update(char_a)
         row_dict.update(char_common)
+        row_dict.update(word_modality.modality.get_modality_record(cl_e, cl_a))
         for k,v in row_dict.items():
             data_dict[k].append(v)
     return pd.DataFrame.from_dict(data_dict)
