@@ -72,7 +72,7 @@ class ParsedDoc(List[ParsedSentence]):
         else:
             n1, t1 = self.get_node_by_uid(node_uid_1)
         if isinstance(node_uid_2, Tree):
-            n2, t2 = node_uid_1, node_uid_2.root()
+            n2, t2 = node_uid_2, node_uid_2.root()
         else:
             n2, t2 = self.get_node_by_uid(node_uid_2)
         if not all([n1, t1, n2, t2]): return None
@@ -83,19 +83,19 @@ class ParsedDoc(List[ParsedSentence]):
                    abs(sent_dist_fn(self.get_sentence_distance(t1.sent_id, t2.sent_id))) + \
                     n2.depth()
 
-def iter_docs_from_conll(conll_in : str) -> Iterator[ParsedDoc]:
+def iter_docs_from_conll(conll_in : str, id_list : List[str] = '') -> Iterator[ParsedDoc]:
     tree_doc : ParsedDoc = ParsedDoc('')
     for sentence in pyconll.iter_from_file(conll_in):
         if sentence.meta_present(doc_id_key):
             previous_doc = tree_doc
             tree_doc = ParsedDoc(sentence.meta_value(doc_id_key))
-            if previous_doc:
+            if previous_doc and (not id_list or previous_doc.doc_id in id_list):
                 yield previous_doc   
         sentence_tree = tree_path.conllu.from_conllu(sentence)
         sentence_tree = ParsedSentence(sentence_tree, sentence.id, sentence.text)
         tree_doc.append(sentence_tree)
     # end loop
-    if tree_doc:
+    if tree_doc and (not id_list or tree_doc.doc_id in id_list):
         yield tree_doc
 
 from valences import clause_info2
@@ -117,8 +117,8 @@ def individual_clause_chars(clause : Tree, suffix:str) -> Dict[str, int]:
 
 def compared_clause_chars(cl1 : Tree, cl2 : Tree, pdoc : ParsedDoc) -> Dict[str, int]:
     char_dict = {k:0 for k in compared}
-    if cl1.data['lemma'] == cl2.data['lemma']:
-        char_dict['same_lemma'] = 1
+    # if cl1.data['lemma'] == cl2.data['lemma']:
+    #     char_dict['same_lemma'] = 1
     char_dict['syntactic_distance'] = pdoc.get_syntactic_distance(cl1, cl2)
     char_dict['cata-ana-phoric'] = 1 if pdoc.uid(cl2) < pdoc.uid(cl1) else 0
     return char_dict

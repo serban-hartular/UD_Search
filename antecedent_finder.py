@@ -1,4 +1,5 @@
 import itertools
+from typing import List
 
 from sklearn.calibration import CalibratedClassifierCV
 from sklearn.discriminant_analysis import LinearDiscriminantAnalysis, QuadraticDiscriminantAnalysis
@@ -41,8 +42,8 @@ SVC]
 predictors = [LogisticRegression, LabelSpreading, DecisionTreeClassifier, BaggingClassifier]
 
 
-def evaluate_predictor(predictor, X, y) -> float:
-    predictor = predictor().fit(X, y)
+def evaluate_predictor(predictor, X, y) -> (float, List[float]):
+    predictor = predictor.fit(X, y)
     print(predictor.score(X,y))
     y_pred = predictor.predict_proba(X)
     y_pred_df = pd.DataFrame(y_pred, columns=['prob0', 'prob1'])
@@ -51,6 +52,7 @@ def evaluate_predictor(predictor, X, y) -> float:
     correct = {t[0]:t[1] for t in zip(correct['e_uid'], correct['a_uid'])}
     ellipsis_ids = [k for k in correct.keys()]
     sum, count = 0, 0
+    good_scores = []
     for e_uid in ellipsis_ids:
         df_part = df_pred[df_pred['e_uid']==e_uid]
         scores = [z for z in zip(df_part['a_uid'], df_part['prob1'])]
@@ -61,22 +63,19 @@ def evaluate_predictor(predictor, X, y) -> float:
             continue
         good_antecedent = good_antecedent[0]
         i = scores.index(good_antecedent)
+        if i != 0: # report 
+            print('\t'.join([str(i) for i in [e_uid] + list(good_antecedent) + list(scores[0])]))
         sum += (1 if i == 0 else 0)
         count += 1
-    return sum/count
+        if i == 0:
+            good_scores.append(scores[0][1])
+    return sum/count, good_scores
 
 # predictor_dict = {}
 # for predictor in predictors:
 #     predictor_dict[predictor] = evaluate_predictor(predictor, X, y)
 # print(predictor_dict)
 
-predictor = DecisionTreeClassifier
-drop_dict = {}
-for varelim in range(len(X.columns)):
-    varnum = len(X.columns) - varelim
-    for var_combo in itertools.combinations(X.columns, varnum):
-        score = evaluate_predictor(predictor, X[list(var_combo)], y)
-        drop_dict[var_combo] = score
-
-for k,v in drop_dict.items():
-    print('\t'.join([str(len(k)), str(k), str(v)]))
+predictor = DecisionTreeClassifier() #class_weight={0:1.0, 1:1.0})
+print('e_uid\ta_uid good\tprob_good\ta_uid guessed\tprob_guessed')
+a, b = evaluate_predictor(predictor, X, y)
