@@ -113,6 +113,8 @@ def individual_clause_chars(clause : Tree, suffix:str) -> Dict[str, int]:
     info = clause_info2.get_head_types(clause)
     info += [clause.data['deprel']]
     char_dict.update({k+suffix:1 for k in info if k+suffix in char_dict})
+    if clause.data['feats'].get('Mood') == {'Sub'}:
+        char_dict['SA'] = 1
     return char_dict
 
 def compared_clause_chars(cl1 : Tree, cl2 : Tree, pdoc : ParsedDoc) -> Dict[str, int]:
