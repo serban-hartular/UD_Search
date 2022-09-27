@@ -3,6 +3,7 @@ from typing import Tuple, Dict, List
 
 import pyconll
 
+import parsed_doc
 import tree_path
 from tree_path import Search, Match, Tree
 from collections import namedtuple
@@ -44,7 +45,7 @@ def extract_lemma_valences(conllu_filename : str, lemmas : List[str], upos : str
     search += ']'
     search = Search(search)
     for sentence in pyconll.iter_from_file(conllu_filename):
-        try: tree = tree_path.conllu.from_conllu(sentence)
+        try: tree = parsed_doc.from_conllu(sentence)
         except: continue
         matches = search.find(tree)
         for m in matches:
@@ -59,7 +60,7 @@ def get_sentence_ids(conllu_filename : str, lemma : str, valences : List[Tuple[s
     search = Search('.//[lemma=%s %s]' % (lemma.split(' ')[0], '' if not upos else ('upos='+upos)))
     id_list = []
     for sentence in pyconll.iter_from_file(conllu_filename):
-        try: tree = tree_path.conllu.from_conllu(sentence)
+        try: tree = parsed_doc.from_conllu(sentence)
         except: continue
         matches = search.find(tree)
         for m in matches:

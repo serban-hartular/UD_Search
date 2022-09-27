@@ -31,7 +31,7 @@ pentru că	mark	633	cauza-efect
 din	mark	10			
 încât	mark	43	cauza-efect		
 o	mark	178			
-dacă	mark	689	cauza-efect
+dacă	mark	689	cauza-efect		raport
 înainte ca	mark	10	timp		
 când	advmod	757	rel		
 de când	advmod	13	timp		

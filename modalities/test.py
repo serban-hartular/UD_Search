@@ -1,5 +1,7 @@
 from modalities_old import pred_expr_comparison
-from modalities_old.tree_to_modalities import tree_to_modal_exprs 
+from modalities_old.tree_to_modalities import tree_to_modal_exprs
+
+import parsed_doc
 from valences.clause_types import clause_type, get_annotated_antecedent
 import pyconll
 import tree_path
@@ -8,7 +10,7 @@ filename = 'ellipses2.conllu'
 for sentence in pyconll.load_from_file(filename):
     # if sentence.id != 'train-4087':
     #     continue
-    tree = tree_path.conllu.from_conllu(sentence)
+    tree = parsed_doc.from_conllu(sentence)
     ellipsis = None
     for node in tree.traverse():
         if node.data['misc'].get('GapType') == {'CompEllipsis'}:

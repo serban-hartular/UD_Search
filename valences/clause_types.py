@@ -9,8 +9,7 @@ import tree_path
 from tree_path import Tree, Search
 import pyconll
 
-
-from tree_path.conllu import get_full_lemma, before
+from tree_path.conllu import before, get_full_lemma
 import word_types.ro_verb_forms as vb_forms
 
 

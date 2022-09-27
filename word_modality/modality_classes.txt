@@ -10,7 +10,7 @@ pare	epist
 permite	deont
 poate	deont
 simte	epist
-stie	deont
+stie	epist
 termina	aspect
 trebuie	deont
 urma	aspect

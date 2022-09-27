@@ -3,22 +3,28 @@ from __future__ import annotations
 from typing import List, Dict, Iterator, Tuple
 
 import pyconll
-from pyconll.unit.token import Token
 from pyconll.unit.sentence import Sentence
+from pyconll.unit.token import Token
 
 from tree_path import Tree, Search, Match
 from tree_path.tree import Sequence
 
 
-def conllu_dict(conllu_token: Token | str, attrib_list: List[str] = None) -> Dict[str, Dict | str]:
-    data: Dict[str, Dict | str] = dict()
-    if isinstance(conllu_token, str):
-        conllu_token = Token(conllu_token)
-    if not attrib_list:
-        attrib_list = ['deprel', 'deps', 'feats', 'form', 'head', 'id', 'lemma', 'misc', 'upos', 'xpos']
-    for attrib in attrib_list:
-        data[attrib] = conllu_token.__getattribute__(attrib)
-    return data
+def datum_to_conllu(datum) -> str:
+    if not datum:
+        return '_'
+    if isinstance(datum, str):
+        return datum
+    if isinstance(datum, dict):
+        return '|'.join(k+'='+\
+                        ','.join((v,) if isinstance(v, str) else v)
+                    for k, v in datum.items())
+    raise Exception('Bad datum ' + str(datum))
+
+def conllu_node(node : Tree) -> str:
+    attrib_list = ['id', 'form', 'lemma', 'upos', 'xpos', 'feats', 'head', 'deprel', 'deps',  'misc']
+    return '\t'.join(datum_to_conllu(node.data[a]) for a in attrib_list)
+
 
 def from_conllu(sentence: Sentence | str) -> Tree:
     if isinstance(sentence, str):
@@ -45,48 +51,15 @@ def from_conllu(sentence: Sentence | str) -> Tree:
     return root
 
 
-def search_conllu_files(search : str|Search , filenames : List[str]) -> List[Match]:
-    matches : List[Match] = []
-    if not isinstance(search, Search):
-        search = Search(search)
-    for filename in filenames:
-        for sentence in pyconll.iter_from_file(filename):
-            try:
-                tree = from_conllu(sentence)
-            except Exception as e:
-                print(str(e) + ' in ' + (str(sentence.id) if sentence and sentence.id else ''))
-                continue
-            sentence_matches = search.find(tree)
-            for m in sentence_matches:
-                m.metadata.update({'filename':filename, 'sent-id':sentence.id, 'text':sentence.text})
-            matches += sentence_matches
-    return matches
-
-def before(n1 : Tree, n2 : Tree) -> bool:
-    return float(n1.data['id']) < float(n2.data['id'])
-
-def get_full_lemma(n : Tree):
-    s = Search('/[deprel=fixed]')
-    lemma = n.data['lemma']
-    ms = s.find(n)
-    if ms:
-        lemma += (' ' + ' '.join([m.data()['lemma'] for m in ms]))
-    return lemma
-
-def datum_to_conllu(datum) -> str:
-    if not datum:
-        return '_'
-    if isinstance(datum, str):
-        return datum
-    if isinstance(datum, dict):
-        return '|'.join(k+'='+\
-                        ','.join((v,) if isinstance(v, str) else v)
-                    for k, v in datum.items())
-    raise Exception('Bad datum ' + str(datum))
-
-def conllu_node(node : Tree) -> str:
-    attrib_list = ['id', 'form', 'lemma', 'upos', 'xpos', 'feats', 'head', 'deprel', 'deps',  'misc']
-    return '\t'.join(datum_to_conllu(node.data[a]) for a in attrib_list)
+def conllu_dict(conllu_token: Token | str, attrib_list: List[str] = None) -> Dict[str, Dict | str]:
+    data: Dict[str, Dict | str] = dict()
+    if isinstance(conllu_token, str):
+        conllu_token = Token(conllu_token)
+    if not attrib_list:
+        attrib_list = ['deprel', 'deps', 'feats', 'form', 'head', 'id', 'lemma', 'misc', 'upos', 'xpos']
+    for attrib in attrib_list:
+        data[attrib] = conllu_token.__getattribute__(attrib)
+    return data
 
 
 class ParsedSentence(Tree):
@@ -140,3 +113,34 @@ def tok_unique_id(sent_id : str, tok_id : str) -> str:
 
 def sent_tok_id_from_unique(unique_id : str) -> Tuple:
     return tuple(unique_id.rsplit('-', 1))
+
+
+def search_conllu_files(search : str|Search , filenames : List[str]) -> List[Match]:
+    matches : List[Match] = []
+    if not isinstance(search, Search):
+        search = Search(search)
+    for filename in filenames:
+        for sentence in pyconll.iter_from_file(filename):
+            try:
+                tree = from_conllu(sentence)
+            except Exception as e:
+                print(str(e) + ' in ' + (str(sentence.id) if sentence and sentence.id else ''))
+                continue
+            sentence_matches = search.find(tree)
+            for m in sentence_matches:
+                m.metadata.update({'filename':filename, 'sent-id':sentence.id, 'text':sentence.text})
+            matches += sentence_matches
+    return matches
+
+
+def before(n1 : Tree, n2 : Tree) -> bool:
+    return float(n1.data['id']) < float(n2.data['id'])
+
+
+def get_full_lemma(n : Tree):
+    s = Search('/[deprel=fixed]')
+    lemma = n.data['lemma']
+    ms = s.find(n)
+    if ms:
+        lemma += (' ' + ' '.join([m.data()['lemma'] for m in ms]))
+    return lemma

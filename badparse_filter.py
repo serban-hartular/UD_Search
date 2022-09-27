@@ -1,6 +1,7 @@
 import pyconll
 
 import annotator
+import parsed_doc
 import tree_path.conllu
 from tree_path import Tree, Search, Match
 from tree_path.conllu import ParsedSentence
@@ -9,7 +10,7 @@ from valences.lemma_pipeline import get_full_lemma
 
 
 for s_conll in pyconll.iter_from_file('./cancan21-train-annot.2.conllu'):
-    sentence = ParsedSentence(tree_path.conllu.from_conllu(s_conll), s_conll.id, s_conll.text)
+    sentence = ParsedSentence(parsed_doc.from_conllu(s_conll), s_conll.id, s_conll.text)
     ms = Search('.//[misc.Ellipsis=Expression]').find(sentence)
     for m in ms:
         node = m.node

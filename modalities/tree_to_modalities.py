@@ -7,6 +7,7 @@ from tree_path import Tree, Search
 from modalizer import PredExpression, Term, get_modalizer
 from tree_path.conllu import get_full_lemma
 
+
 class PredExprMapper:
     """
     Class obtained from mapping a PredExpression to a verbal head_node. The result is a list of dicts

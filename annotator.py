@@ -6,6 +6,7 @@ from typing import Dict, List, Tuple
 import pyconll
 from pyconll.unit.sentence import Sentence
 
+import parsed_doc
 import tree_path
 from tree_path import Search, Tree
 import valences.lemma_pipeline as v_lem
@@ -14,7 +15,8 @@ from tree_path.conllu import tok_unique_id, sent_tok_id_from_unique
 question_options = {
     'Ellipsis' : ['BadParse', 'Expression', 'NotVerb', 'Voice', 'Absolute', 'WrongValence', 'Semantic', 'RNR', 'VPE'],
     'Antecedent': ['Present', 'Elided', 'External', 'Exophoric'],
-    'TargetID' : []
+    'TargetID' : [],
+    'Annot':[]
 }
 
 continue_answers = ['RNR', 'VPE', 'Present', 'Elided']
@@ -39,7 +41,7 @@ def _get_hint(node : Tree) -> (str, str, str):
         return 'VPE', 'Present', guess.data['id']
     return '', '', ''
 
-def annotate_conllu(conllu_in : str, conllu_out : str, lemma_valence_dict : Dict[str, List[Tuple]], sent_ids : List[str] = None):
+def annotate_conllu_txt(conllu_in : str, conllu_out : str, lemma_valence_dict : Dict[str, List[Tuple]], sent_ids : List[str] = None):
     conllu_out = open(conllu_out, 'w', encoding='utf8')
     lemmas = [l for l in lemma_valence_dict.keys()]
     l0 = [l.split(' ')[0] for l in lemmas]
@@ -48,7 +50,7 @@ def annotate_conllu(conllu_in : str, conllu_out : str, lemma_valence_dict : Dict
     for sentence in pyconll.iter_from_file(conllu_in):
         if sent_ids and sentence.id not in sent_ids:
             continue
-        tree = tree_path.conllu.from_conllu(sentence)
+        tree = parsed_doc.from_conllu(sentence)
         ms = search.find(tree)
         tokens = tree.projection()
         sentence_display = ' '.join(['(%s)%s' % (t['id'], t['form']) for t in tokens])
@@ -118,7 +120,7 @@ def infodict_to_str(infodict : Dict) -> str:
 
 def list_ellipses_antecedents(conllu_filename : str):
     for sentence in pyconll.iter_from_file(conllu_filename):
-        tree = tree_path.conllu.from_conllu(sentence)
+        tree = parsed_doc.from_conllu(sentence)
         tokens = tree.projection()
         for ellipsis in [t for t in tokens if t['misc'].get('Ellipsis') == {'VPE'} and t['misc'].get('Antecedent') == {'Present'}]:
             e_id = ellipsis['id']
@@ -184,7 +186,7 @@ def sentence_annotation_json(sentence : Sentence) -> List:
     json_list = []
     prev_char = 0
     for token in sentence:
-        json_tok = {'form':token.form, 'id': tok_unique_id(sentence.id, token.id), 'str_after': ' '}
+        json_tok = {'form':token.form, 'lemma':token.lemma, 'id': tok_unique_id(sentence.id, token.id), 'str_after': ' '}
         json_tok.update({k:list(v)[0] for k,v in token.misc.items() if k in question_options.keys()})
         json_list.append(json_tok)
     json_list[-1]['str_after'] = '\n'
@@ -218,4 +220,5 @@ def add_annotations_from_json(conllu_in: str, conllu_out: str,
             # continue even without annotations. otherwise you won't delete what you deleted
             sent_id, tok_id = sent_tok_id_from_unique(tok['id'])
             annot_dict[sent_id][tok_id] = annot
+    # return annot_dict
     add_annotations(conllu_in, conllu_out, annot_dict)

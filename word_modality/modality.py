@@ -47,6 +47,9 @@ def get_node_modality(node : Tree, licenser_flag : bool) -> (List[Tuple[str, str
     if not licenser_flag:
         deprel = node.data['deprel']
         node = node.parent # look at antecedent's parent
+        if deprel in ['conj', 'parataxis']: # move one up
+            deprel = node.data['deprel']
+            node = node.parent
     if not node: return [],[]
     regent = get_full_lemma(node)
     # we'll do the sconj later

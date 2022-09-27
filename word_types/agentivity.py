@@ -3,10 +3,12 @@ from typing import Tuple, Dict, List
 
 import pyconll
 
+import parsed_doc
 import tree_path
 import tree_path.conllu
 from tree_path import Tree, Search, Match
 from tree_path.conllu import get_full_lemma
+
 
 def get_valence(node : Tree, to_include : List[str] = None) -> Tuple[str]:
     if to_include is None:
@@ -28,7 +30,7 @@ filename = './../UD2.10/UD_Romanian-RRT/ro_rrt-ud-train.conllu'
 def get_noun_count(conllu_filename : str) -> Dict[str, Dict[str, int]]:
     noun_count : Dict[str, Dict[str, int]] = defaultdict(lambda : defaultdict(int))
     for sentence in pyconll.iter_from_file(conllu_filename):
-        tree = tree_path.conllu.from_conllu(sentence)
+        tree = parsed_doc.from_conllu(sentence)
         verbs = Search('.//[upos=VERB  /[deprel=obj upos=NOUN,PROPN] /[deprel=nsubj upos=NOUN,PROPN] ]').find(tree)
         for verb in [m.node for m in verbs]:
             for deprel in ('nsubj', 'obj'):
@@ -49,7 +51,7 @@ verb_deprel_agentivity : Dict[Tuple, Dict[str, Tuple[int, int]]] = defaultdict(l
 # verb_deprel_agentivity[('avea', ('nsubj', 'obj')]['obj'] = (sum_of_scores, count_of_scores )
 
 for sentence in pyconll.iter_from_file(filename):
-    tree = tree_path.conllu.from_conllu(sentence)
+    tree = parsed_doc.from_conllu(sentence)
     verbs = Search('.//[upos=VERB]').find(tree)
     for verb in [m.node for m in verbs]:
         valence = get_valence(verb)

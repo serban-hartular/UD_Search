@@ -7,6 +7,7 @@ ccomp	merita	19		aprecia	POS
 csubj	bine	19		aprecia	POS		
 ccomp	bucura	15		aprecia	POS		
 csubj	ușor	14		aprecia	POS		
+csubj	musai	1		trebuie	POS	
 ccomp	mulțumi	12		aprecia	POS		
 ccomp	aprecia	7		aprecia	POS		
 ccomp:pmod	ușor	6		aprecia	POS		
