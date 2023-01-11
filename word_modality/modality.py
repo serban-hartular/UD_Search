@@ -5,7 +5,7 @@ from typing import Dict, Set, List, Tuple
 from tree_path import Tree, Match, Search
 import pandas as pd
 
-# read data files, init tables
+# read _data files, init tables
 import pkgutil
 
 from tree_path.conllu import get_full_lemma
@@ -41,14 +41,14 @@ def get_modality(lemma : str, deprel : str = '', particle : str = '') -> List[Tu
     return mod_tuples
 
 def get_node_modality(node : Tree, licenser_flag : bool) -> (List[Tuple[str, str]], List[str]):
-    neg_search = Search('/[lemma=nu upos=PART]')
+    neg_search = Search('/[_lemma=nu upos=PART]')
     mod_tuples = []
     deprel = ''
     if not licenser_flag:
-        deprel = node.data['deprel']
+        deprel = node._data['deprel']
         node = node.parent # look at antecedent's parent
         if deprel in ['conj', 'parataxis']: # move one up
-            deprel = node.data['deprel']
+            deprel = node._data['deprel']
             node = node.parent
     if not node: return [],[]
     regent = get_full_lemma(node)

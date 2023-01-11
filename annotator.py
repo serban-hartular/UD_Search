@@ -6,10 +6,8 @@ from typing import Dict, List, Tuple
 import pyconll
 from pyconll.unit.sentence import Sentence
 
-import parsed_doc
-import tree_path
-from tree_path import Search, Tree
-import valences.lemma_pipeline as v_lem
+from tree_path import Search, Tree, parsed_doc
+import clause_info.lemma_pipeline as v_lem
 from tree_path.conllu import tok_unique_id, sent_tok_id_from_unique
 
 question_options = {
@@ -21,7 +19,7 @@ question_options = {
 
 continue_answers = ['RNR', 'VPE', 'Present', 'Elided']
 
-import valences.clause_types as ct
+import clause_info.clause_types as ct
 
 
 def _get_hint(node : Tree) -> (str, str, str):
@@ -31,21 +29,21 @@ def _get_hint(node : Tree) -> (str, str, str):
         return 'Expression', '', ''
     rnr = ct.is_rnr(node)
     if rnr:
-        return 'RNR', 'Present', rnr.data['id']
+        return 'RNR', 'Present', rnr._data['id']
     if ct.is_relative(node) or ct.is_comparative(node) or ct.is_cause_effect(node):
-        return 'VPE', 'Present', node.parent.data['id'] if node.parent else ''
+        return 'VPE', 'Present', node.parent._data['id'] if node.parent else ''
     if ct.is_coord_conjunct(node):
         guess = ct.get_previous_conjunct(node)
         ccomp = Search('/[deprel=ccomp]').find(guess)
         if ccomp: guess = ccomp[0].node
-        return 'VPE', 'Present', guess.data['id']
+        return 'VPE', 'Present', guess._data['id']
     return '', '', ''
 
 def annotate_conllu_txt(conllu_in : str, conllu_out : str, lemma_valence_dict : Dict[str, List[Tuple]], sent_ids : List[str] = None):
     conllu_out = open(conllu_out, 'w', encoding='utf8')
     lemmas = [l for l in lemma_valence_dict.keys()]
     l0 = [l.split(' ')[0] for l in lemmas]
-    search = Search('.//[lemma=%s upos=VERB]' % ','.join(l0))
+    search = Search('.//[_lemma=%s upos=VERB]' % ','.join(l0))
     answer = None
     for sentence in pyconll.iter_from_file(conllu_in):
         if sent_ids and sentence.id not in sent_ids:
@@ -56,7 +54,7 @@ def annotate_conllu_txt(conllu_in : str, conllu_out : str, lemma_valence_dict : 
         sentence_display = ' '.join(['(%s)%s' % (t['id'], t['form']) for t in tokens])
         for m in ms:
             node = m.node
-            if node.data['deprel'] in ('fixed' or 'flat'): continue
+            if node._data['deprel'] in ('fixed' or 'flat'): continue
             lemma = v_lem.get_full_lemma(node)
             if lemma not in lemmas: continue
             valence = v_lem.get_valence(node)
@@ -91,7 +89,7 @@ def annotate_conllu_txt(conllu_in : str, conllu_out : str, lemma_valence_dict : 
                 if answer not in continue_answers: break
             if answer == -1: break
             print(answer_dict)
-            pyconll_tok = sentence[node.data['id']]
+            pyconll_tok = sentence[node._data['id']]
             pyconll_tok.misc.update(answer_dict)
         if answer == -1: break
         sentence_conllu = sentence.conll()
@@ -102,16 +100,16 @@ def annotate_conllu_txt(conllu_in : str, conllu_out : str, lemma_valence_dict : 
 import word_types.ro_verb_forms as vb_forms
 
 def get_vp_characteristics(node : Tree) -> Tuple[Dict, Dict]:
-    if node.data['upos'] not in ('VERB', 'AUX'):
-        return {'lemma': node.data['lemma']}, {}
+    if node._data['upos'] not in ('VERB', 'AUX'):
+        return {'_lemma': node._data['_lemma']}, {}
 
     form = vb_forms.get_verb_form(node)
     subj_info = {k:v for k,v in form.items() if k in ('Person','Number')}
     subj = Search('/[deprel=nsubj,csubj]').find(node)
     if subj:
         subj = subj[0].node
-        subj_info['lemma'] = subj.data['lemma']
-    verb_info = {'lemma':node.data['lemma']}
+        subj_info['_lemma'] = subj._data['_lemma']
+    verb_info = {'_lemma':node._data['_lemma']}
     verb_info.update({k:v for k,v in form.items() if k in ('Mood','Tense')})
     return verb_info, subj_info
 
@@ -125,11 +123,11 @@ def list_ellipses_antecedents(conllu_filename : str):
         for ellipsis in [t for t in tokens if t['misc'].get('Ellipsis') == {'VPE'} and t['misc'].get('Antecedent') == {'Present'}]:
             e_id = ellipsis['id']
             a_id = list(ellipsis['misc']['AntecedentID'])[0]
-            e_node = tree.search(lambda t : t.data['id'] == e_id)[0]
-            a_node = tree.search(lambda t : t.data['id'] == a_id)[0]
+            e_node = tree.search(lambda t : t._data['id'] == e_id)[0]
+            a_node = tree.search(lambda t : t._data['id'] == a_id)[0]
             e_info = get_vp_characteristics(e_node)
             a_info = get_vp_characteristics(a_node)
-            a_regent = a_node.parent if a_node.parent and a_node.data['deprel'] in ('ccomp', 'csubj', 'ccomp:pmod', 'obj') else None
+            a_regent = a_node.parent if a_node.parent and a_node._data['deprel'] in ('ccomp', 'csubj', 'ccomp:pmod', 'obj') else None
             if a_regent:
                 a_regent_info = get_vp_characteristics(a_regent)
             else:
@@ -186,7 +184,7 @@ def sentence_annotation_json(sentence : Sentence) -> List:
     json_list = []
     prev_char = 0
     for token in sentence:
-        json_tok = {'form':token.form, 'lemma':token.lemma, 'id': tok_unique_id(sentence.id, token.id), 'str_after': ' '}
+        json_tok = {'form':token.form, '_lemma':token.lemma, 'id': tok_unique_id(sentence.id, token.id), 'str_after': ' '}
         json_tok.update({k:list(v)[0] for k,v in token.misc.items() if k in question_options.keys()})
         json_list.append(json_tok)
     json_list[-1]['str_after'] = '\n'
@@ -207,7 +205,7 @@ def doc_annotation_json(conllu_filename : str) -> List[Dict]:
 
 def add_annotations_from_json(conllu_in: str, conllu_out: str,
                               json_annot_list: List[Dict[str, Dict]],
-                              keys_to_skip=('form', 'lemma', 'id', 'str_after')):
+                              keys_to_skip=('form', '_lemma', 'id', 'str_after')):
     """json_annot_list contains a list. Each element consists of the annotations for 1 doc
         as a dict ['newdoc id'] = doc_id, ['tokens'] = list of token annotations.
         json_annot_list[i]['tokens'] is a list token annotations, each one a Dict[str, str],

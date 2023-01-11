@@ -1,4 +1,4 @@
-from typing import Dict
+from typing import Dict, List, Tuple
 
 import stanza
 from stanza.utils.conll import CoNLL
@@ -9,11 +9,7 @@ def init_nlp():
     global nlp
     nlp = stanza.Pipeline('ro') # initialize Romanian neural pipeline
 
-
-def parse_and_dump(filename : str, outfile : str, src_prefix, parser = None):
-    global nlp
-    if parser is None:
-        parser = nlp
+def articles_text_to_list(filename : str) -> List[Tuple[str, str]]:
     with open(filename, 'r', encoding='utf8') as handle:
         lines = handle.readlines()
     article_list = []
@@ -28,7 +24,13 @@ def parse_and_dump(filename : str, outfile : str, src_prefix, parser = None):
     # last article
     if article[0] or article[1]:
         article_list.append(article)
+    return article_list
 
+def parse_and_dump(filename: str, outfile: str, src_prefix, parser=None):
+    global nlp
+    if parser is None:
+        parser = nlp
+    article_list = articles_text_to_list(filename)
     outfile = open(outfile, 'w', encoding='utf8')
     article_index = 0
     for (src, text) in article_list:

@@ -1,7 +1,9 @@
 from __future__ import annotations
 
+import gzip
+import json
 from collections import defaultdict
-from typing import List, Dict, Iterator
+from typing import List, Dict, Iterator, Set
 
 import pyconll
 
@@ -9,15 +11,16 @@ import tree_path
 from tree_path import Tree, Search, Match, ParsedSentence
 from tree_path.conllu import from_conllu
 
-doc_id_key = 'newdoc id'
+_doc_id_key = 'newdoc id'
 
 class ParsedDoc(List[ParsedSentence]):
     IN_QUOTE='InQuote'
     sentence_distance_fn = lambda n : n
-    def __init__(self, doc_id : str):
+    def __init__(self, doc_id : str, meta_data : Dict[str, str] = None):
         super().__init__()
         self.doc_id = doc_id
         self.id_dict : Dict[str, ParsedSentence] = None
+        self.meta_data = meta_data if meta_data else {}
     def conllu(self) -> str:
         c = '# newdoc id = ' + self.doc_id + '\n'
         for s in self:
@@ -50,7 +53,7 @@ class ParsedDoc(List[ParsedSentence]):
         (sent_id, node_id) = tree_path.conllu.sent_tok_id_from_unique(uid)
         root = self.sentence(sent_id)
         if not root: return (None, None)
-        node = root.search(lambda n : n.data['id'] == node_id)
+        node = root.search(lambda n : n._data['id'] == node_id)
         node = node[0] if node else None
         return node, root
     
@@ -116,15 +119,48 @@ class ParsedDoc(List[ParsedSentence]):
     def mark_in_quote(self, key=IN_QUOTE):
         quote_flag = False
         for token in self.token_iter():
-            if token.data['xpos'] == 'DBLQ':
+            if token._data['xpos'] == 'DBLQ':
                 quote_flag = not quote_flag
             elif quote_flag:
-                token.data['misc'][key] = {'Yes'}
+                token._data['misc'][key] = {'Yes'}
+    def to_jsonable(self):
+        json_dict = {'doc_id': self.doc_id, 'meta_data': self.meta_data,
+                     'sentences': [s.to_jsonable() for s in self]}
+        return json_dict
+    def to_json_zip(self, filename : str = '') -> bytes|None:
+        encoded = json.dumps(self.to_jsonable()).encode('utf-8')
+        data = gzip.compress(encoded)
+        if not filename:
+            return data
+        with open(filename, 'wb') as handle:
+            handle.write(data)
+            
+    @staticmethod
+    def from_jsonable(json_dict : Dict) -> ParsedDoc:
+        doc_id = json_dict['doc_id']
+        meta_data = json_dict['meta_data']
+        doc = ParsedDoc(doc_id, meta_data)
+        for json_sentence in json_dict['sentences']:
+            doc.append(ParsedSentence.from_jsonable(json_sentence))
+        return doc
+    @staticmethod
+    def from_json_zip(src : bytes|str) -> ParsedDoc:
+        if isinstance(src, str): # it's a filename
+            with open(src, 'rb') as handle:
+                src = handle.read()
+        decomp = gzip.decompress(src)
+        decoded = decomp.decode('utf-8')
+        return ParsedDoc.from_jsonable(json.loads(decoded))
     
-                
+    def extract_tokens_for_annotation(self, key_list : List[str]) -> Dict:
+        json_dict = {'doc_id': self.doc_id, 'meta_data':self.meta_data, 'tokens':[]}
+        for node in self.token_iter():
+            data = {k:node._data[k] for k in node._data if k in key_list}
+            data['id'] = self.uid(node)
+            json_dict['tokens'].append(data)
+        return json_dict
 
-
-def iter_docs_from_conll(conll_in : str, id_list : List[str] = '') -> Iterator[ParsedDoc]:
+def iter_docs_from_conll(conll_in : str, doc_id_key : str = _doc_id_key, id_list : List[str] = '') -> Iterator[ParsedDoc]:
     tree_doc : ParsedDoc = ParsedDoc('')
     for sentence in pyconll.iter_from_file(conll_in):
         if sentence.meta_present(doc_id_key):
@@ -159,3 +195,35 @@ def display_uids_from_file(conllu_in: str, uid_dict : Dict[str, str]) -> List[st
         if not sent_tok_ids:
             break
     return str_list
+
+
+def _datum_to_str(datum : str|Set) -> str:
+    if not datum: return ''
+    return datum if isinstance(datum, str) else ','.join(datum)
+
+def sentence_to_annotation_sequence(sentence : ParsedSentence, keys_aliases : Dict,
+                                    doc : ParsedDoc = None) -> List[Dict[str, str]]:
+    """key_aliases = {'lemma':'lemma', 'misc.Ellipsis':'Ellipsis', etc}"""
+    projection = sentence.projection_nodes()
+    dict_list = []
+    for node in projection:
+        d = {alias : _datum_to_str(node.data(key)) for key,alias in keys_aliases.items()
+                if _datum_to_str(node.data(key)) }
+        if doc:
+            d['id'] = doc.uid(node)
+        dict_list.append(d)
+    return dict_list
+
+def doc_to_annotation_sequence(doc : ParsedDoc, keys_aliases : Dict, sentence_search : str|Search|None = None) -> List[Dict[str, str]]:
+    if sentence_search and isinstance(sentence_search, str):
+        sentence_search = Search(sentence_search)
+    dict_list = []
+    for sentence in doc:
+        if sentence_search and not sentence_search.find(sentence):
+            continue
+        s_toks = sentence_to_annotation_sequence(sentence, keys_aliases, doc)
+        dict_list.extend(s_toks)
+    return dict_list
+
+doc_id_str = 'newdoc id'
+token_key_str = 'tokens'

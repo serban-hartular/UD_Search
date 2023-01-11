@@ -6,7 +6,7 @@ from typing import Iterator, Dict, Tuple, Callable, List
 
 import pandas as pd
 
-from parsed_doc import ParsedDoc, iter_docs_from_conll
+from tree_path.parsed_doc import ParsedDoc, iter_docs_from_conll
 from tree_path import Tree, Search
 
 # SENT_ID_KEY = 'sent-id'
@@ -16,7 +16,7 @@ from tree_path.conllu import get_full_lemma
 
 target_lemmas = ['putea', 'vrea', 'reuși', 'termina', 'trebui', 'dori', 'începe']
 
-from valences import clause_info2
+from clause_info import clause_info2
 
 # create record for ellipsis/antecedent pair
 # Characteristics of individual clause
@@ -32,9 +32,9 @@ def individual_clause_chars(clause : Tree, suffix:str) -> Dict[str, int]:
     polarity = not clause_info2.is_negative(clause)
     info, conj_contrast, polarity_change = clause_info2.get_head_types(clause)
     if polarity_change: polarity = not polarity
-    info += [clause.data['deprel']]
+    info += [clause._data['deprel']]
     char_dict.update({k+suffix:1 for k in info if k+suffix in char_dict})
-    if clause.data['feats'].get('Mood') == {'Sub'}:
+    if clause._data['feats'].get('Mood') == {'Sub'}:
         char_dict['SA'+suffix] = 1
     char_dict.update({'CCONTRST'+suffix:int(conj_contrast), 'polarity'+suffix:int(polarity)})
                      
@@ -43,7 +43,7 @@ def individual_clause_chars(clause : Tree, suffix:str) -> Dict[str, int]:
 def ccom_plus(cle : Tree, other : Tree) -> bool:
     while True:
         if cle == other: return False
-        if cle.data['deprel'] in ['ccomp', 'csubj', 'ccomp:pmod']:
+        if cle._data['deprel'] in ['ccomp', 'csubj', 'ccomp:pmod']:
             cle = cle.parent
         else:
             break
@@ -57,8 +57,8 @@ def compared_clause_chars(cl1 : Tree, cl2 : Tree, pdoc : ParsedDoc) -> Dict[str,
     char_dict['DIST_LN'] = math.log2(abs(pdoc.get_token_distance(cl1, cl2)))
     char_dict['CATA'] = 1 if pdoc.get_token_distance(cl1, cl2) > 0 else 0
     char_dict['CCOM'] = 1 if ccom_plus(cl1, cl2) else 0
-    char_dict['QOT'] = 1 if cl1.data['misc'].get(ParsedDoc.IN_QUOTE) != \
-                            cl2.data['misc'].get(ParsedDoc.IN_QUOTE) \
+    char_dict['QOT'] = 1 if cl1._data['misc'].get(ParsedDoc.IN_QUOTE) != \
+                            cl2._data['misc'].get(ParsedDoc.IN_QUOTE) \
         else 0
     return char_dict
 
@@ -76,7 +76,7 @@ def generate_clause_pairs(pdoc : ParsedDoc, delta_before=5, delta_after=2) -> It
     for m in pdoc.search('.//[misc.Ellipsis=VPE & misc.Antecedent=Present,External]'):
         if target_lemmas and get_full_lemma(m.node) not in target_lemmas:
             continue
-        if not 'TargetID' in m.node.data['misc']: continue
+        if not 'TargetID' in m.node._data['misc']: continue
         for clause_pair in generate_antecedent_candidates(m.node, pdoc, delta_before, delta_after):
             yield clause_pair
 
@@ -84,7 +84,7 @@ def operator_ancestors(node : Tree) -> List[Tree]:
     op_list = []
     parent = node.parent
     while parent:
-        if node.data['deprel'] in ['ccomp', 'csubj', 'ccomp:pmod'] and \
+        if node._data['deprel'] in ['ccomp', 'csubj', 'ccomp:pmod'] and \
                 not 'rel' in clause_info2.get_head_types(node)[0]:
             op_list.append(parent)
             node = parent
@@ -96,8 +96,8 @@ def operator_ancestors(node : Tree) -> List[Tree]:
 def generate_antecedent_candidates(ell_node : Tree, pdoc : ParsedDoc, delta_before=5, delta_after=2) ->\
             Iterator[Tuple[Tree, Tree, int]]:
         ell_sent = pdoc.root(ell_node)
-        if 'TargetID' in ell_node.data['misc']:
-            a_uid = list(ell_node.data['misc']['TargetID'])[0]
+        if 'TargetID' in ell_node._data['misc']:
+            a_uid = list(ell_node._data['misc']['TargetID'])[0]
             ant_node, ant_sent = pdoc.get_node_by_uid(a_uid)
         else:
             ant_node, ant_sent = None, None

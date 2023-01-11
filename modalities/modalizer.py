@@ -92,7 +92,7 @@ class Modalizer:
         self.elliptic_valence = elliptic_valence
         self.expressions = expressions
     def __str__(self):
-        attrs = ('lemma', 'conj', 'valences', 'elliptic_valence')
+        attrs = ('_lemma', 'conj', 'clause_info', 'elliptic_valence')
         s = ','.join(['%s=%s' % (attr, str(self.__getattribute__(attr))) for attr in attrs])
         s += '\n'
         for expr in self.expressions:
@@ -127,7 +127,7 @@ class Modalizer:
         preds = [row[i] for i in ('pred1', 'pred2', 'pred3') if row[i] and pd.notna(row[i])]
         preds = [PredExpression.from_string(pred) for pred in preds]
         valences = [s for s in [row['valence1'], row['valence2']] if pd.notna(s) ]
-        return Modalizer(row['lemma'], row['conj'] if pd.notna(row['conj']) else '', row['predicate'], valences, row['elliptic_valence'], preds)
+        return Modalizer(row['_lemma'], row['conj'] if pd.notna(row['conj']) else '', row['predicate'], valences, row['elliptic_valence'], preds)
     def to_data_row(self) -> List[str]:
         operators = [str(o) for o in self.expressions]
         operators = operators + ([''] * (3 - len(operators))) # pad up to 3
@@ -135,7 +135,7 @@ class Modalizer:
                 self.elliptic_valence, self.conj, '', ''] + operators
 
 def get_modalizer(elliptic_only : bool, lemma:str, valence:str='', conj:str=''):
-    rows = df[df['lemma'] == lemma]
+    rows = df[df['_lemma'] == lemma]
     if valence:
         if elliptic_only:
             rows = rows[rows['elliptic_valence']==valence]

@@ -3,10 +3,8 @@ from typing import Tuple, Dict, List
 
 import pyconll
 
-import parsed_doc
-import tree_path
-from tree_path import Search, Match, Tree
-from collections import namedtuple
+from tree_path import Search, Tree, parsed_doc
+
 
 class Deprel: # = namedtuple('Deprel', ['name', 'head'])
     def __init__(self, name : str, head : str = ''):
@@ -23,11 +21,11 @@ def get_valence(node : Tree, to_include : List[str] = None) -> Tuple[str]:
     if not to_include:
         to_include = ['obj', 'ccomp', 'xcomp', 'aux:pass', 'expl:pass', 'expl:pv',
                     'expl:impers', 'ccomp:pmod', 'iobj', 'obl:pmod', 'nmod:pmod', 'csubj', 'aux:pass']
-    valence = {child.data['deprel'] for child in node.children() if child.data['deprel'] in to_include}
-    if node.parent and node.parent.data['lemma'] == 'putea' and node.data['feats'].get('VerbForm') and \
-            'Inf' in node.data['feats'].get('VerbForm'): # 'putea' modal
-        to_include = [v for v in to_include if v != node.data['deprel']]
-        parent_valence = {child.data['deprel'] for child in node.parent.children() if child.data['deprel'] in to_include}
+    valence = {child._data['deprel'] for child in node.children() if child._data['deprel'] in to_include}
+    if node.parent and node.parent._data['_lemma'] == 'putea' and node._data['feats'].get('VerbForm') and \
+            'Inf' in node._data['feats'].get('VerbForm'): # 'putea' modal
+        to_include = [v for v in to_include if v != node._data['deprel']]
+        parent_valence = {child._data['deprel'] for child in node.parent.children() if child._data['deprel'] in to_include}
         valence = valence.union(parent_valence)
     valence = [str(v) for v in valence]
     valence.sort()
@@ -35,12 +33,12 @@ def get_valence(node : Tree, to_include : List[str] = None) -> Tuple[str]:
 
 
 def get_full_lemma(node : Tree) -> str:
-    return ' '.join([node.data['lemma']] + [c.data['lemma'] for c in node.children() if c.data['deprel'] in ('flat', 'fixed')])
+    return ' '.join([node._data['_lemma']] + [c._data['_lemma'] for c in node.children() if c._data['deprel'] in ('flat', 'fixed')])
 
 def extract_lemma_valences(conllu_filename : str, lemmas : List[str], upos : str = None) -> Dict[str, Dict[Tuple[str], int]]:
     valence_count : Dict[str, Dict[Tuple[str], int]] = defaultdict(lambda : defaultdict(int))
     lemma_first_words = [l.split(' ')[0] for l in lemmas]
-    search = './/[lemma=%s' % ','.join(lemma_first_words)
+    search = './/[_lemma=%s' % ','.join(lemma_first_words)
     if upos: search += (' upos=' + upos)
     search += ']'
     search = Search(search)
@@ -57,7 +55,7 @@ def extract_lemma_valences(conllu_filename : str, lemmas : List[str], upos : str
     return valence_count
 
 def get_sentence_ids(conllu_filename : str, lemma : str, valences : List[Tuple[str]], upos : str = '') -> List[str]:
-    search = Search('.//[lemma=%s %s]' % (lemma.split(' ')[0], '' if not upos else ('upos='+upos)))
+    search = Search('.//[_lemma=%s %s]' % (lemma.split(' ')[0], '' if not upos else ('upos='+upos)))
     id_list = []
     for sentence in pyconll.iter_from_file(conllu_filename):
         try: tree = parsed_doc.from_conllu(sentence)

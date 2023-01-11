@@ -1,10 +1,9 @@
 from modalities_old import pred_expr_comparison
 from modalities_old.tree_to_modalities import tree_to_modal_exprs
 
-import parsed_doc
-from valences.clause_types import clause_type, get_annotated_antecedent
+from tree_path import parsed_doc
+from clause_info.clause_types import clause_type, get_annotated_antecedent
 import pyconll
-import tree_path
 
 filename = 'ellipses2.conllu'
 for sentence in pyconll.load_from_file(filename):
@@ -13,12 +12,12 @@ for sentence in pyconll.load_from_file(filename):
     tree = parsed_doc.from_conllu(sentence)
     ellipsis = None
     for node in tree.traverse():
-        if node.data['misc'].get('GapType') == {'CompEllipsis'}:
+        if node._data['misc'].get('GapType') == {'CompEllipsis'}:
             ellipsis = node
             break
     if not ellipsis:
         continue
-    if ellipsis.data['deprel'] in ('ccomp', 'ccomp:pmod', 'xcomp', 'csubj', 'csubj:pass'):
+    if ellipsis._data['deprel'] in ('ccomp', 'ccomp:pmod', 'xcomp', 'csubj', 'csubj:pass'):
         ellipsis_regent = ellipsis.parent
     else:
         ellipsis_regent = None
@@ -34,7 +33,7 @@ for sentence in pyconll.load_from_file(filename):
     best = None, 0, None, None
     print('Candidates:')
     for ant_regent_candidate in tree.traverse():
-        if ant_regent_candidate in (ellipsis, ellipsis_regent) or ant_regent_candidate.data['deprel'] == 'aux':
+        if ant_regent_candidate in (ellipsis, ellipsis_regent) or ant_regent_candidate._data['deprel'] == 'aux':
             continue
         a_mods = tree_to_modal_exprs(ant_regent_candidate)
         if not a_mods:

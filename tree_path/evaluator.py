@@ -10,7 +10,7 @@ class Match:
         self.next_nodes = children if children is not None else []
         self.metadata = {}
     def data(self) -> Dict:
-        return self.node.data
+        return self.node._data
     def matches_level(self, depth) -> List[Match]:
         return Match.get_matches([self], depth)
     @staticmethod
@@ -46,7 +46,7 @@ class ValueComparer(Evaluator):
     def evaluate(self, node : Tree) -> List[Match]|bool:
         if node is None: # this is the cancan21-incerca-reusi-train-annot root
             return []
-        token = node.data
+        token = node._data
         tok_val = token
         for key in self.name:
             tok_val = tok_val.get(key)

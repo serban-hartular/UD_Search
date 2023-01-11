@@ -1,6 +1,6 @@
 from typing import List
 
-from valences import clause_types
+from clause_info import clause_types
 
 import word_types
 from tree_path import Tree, Search
@@ -24,7 +24,7 @@ class PredExprMapper:
                 if Search('/[feats.Polarity=Neg]').find(node):
                     term.args.append('n')
                 if term.name() == 'P' and mod_obj:
-                    d['lemma'] = get_full_lemma(mod_obj)
+                    d['_lemma'] = get_full_lemma(mod_obj)
             else: # it's an entity
                 entity_params = ('Person', 'Number', 'Gender')
                 if term.name() in ('x', 'v'): # we don't know what it is
@@ -35,18 +35,18 @@ class PredExprMapper:
                     subj = Search('/[deprel=nsubj]').find(node)
                     if subj:
                         subj = subj[0].node
-                        d.update({k:v for k,v in subj.data['feats'].items() if k in entity_params})
-                        if subj.data['upos'] == 'NOUN':
+                        d.update({k:v for k,v in subj._data['feats'].items() if k in entity_params})
+                        if subj._data['upos'] == 'NOUN':
                             d['Person'] = {'3'}
-                            d['lemma'] = get_full_lemma(subj)
+                            d['_lemma'] = get_full_lemma(subj)
                 else: # look for the deprel
                     x = Search('/[deprel=%s]' % (term.name())).find(node)
                     if x:
                         x = x[0].node
-                        d = ({k:v for k,v in x.data['feats'].items() if k in entity_params})
-                        if x.data['upos'] == 'NOUN':
+                        d = ({k:v for k,v in x._data['feats'].items() if k in entity_params})
+                        if x._data['upos'] == 'NOUN':
                             d['Person'] = {'3'}
-                            d['lemma'] = get_full_lemma(x)
+                            d['_lemma'] = get_full_lemma(x)
                     else:
                         d = {}
             term.update(d)

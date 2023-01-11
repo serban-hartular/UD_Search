@@ -3,10 +3,7 @@ from typing import Tuple, Dict, List
 
 import pyconll
 
-import parsed_doc
-import tree_path
-import tree_path.conllu
-from tree_path import Tree, Search, Match
+from tree_path import Tree, Search, parsed_doc
 from tree_path.conllu import get_full_lemma
 
 
@@ -14,11 +11,11 @@ def get_valence(node : Tree, to_include : List[str] = None) -> Tuple[str]:
     if to_include is None:
         to_include = ['obj', 'ccomp', 'xcomp', 'aux:pass', 'expl:pass', 'expl:pv',
                     'expl:impers', 'ccomp:pmod', 'iobj', 'obl:pmod', 'nmod:pmod', 'csubj', 'aux:pass']
-    valence = {child.data['deprel'] for child in node.children() if child.data['deprel'] in to_include}
-    if node.parent and node.parent.data['lemma'] == 'putea' and node.data['feats'].get('VerbForm') and \
-            'Inf' in node.data['feats'].get('VerbForm'):
-        to_include = [v for v in to_include if v != node.data['deprel']]
-        parent_valence = {child.data['deprel'] for child in node.parent.children() if child.data['deprel'] in to_include}
+    valence = {child._data['deprel'] for child in node.children() if child._data['deprel'] in to_include}
+    if node.parent and node.parent._data['_lemma'] == 'putea' and node._data['feats'].get('VerbForm') and \
+            'Inf' in node._data['feats'].get('VerbForm'):
+        to_include = [v for v in to_include if v != node._data['deprel']]
+        parent_valence = {child._data['deprel'] for child in node.parent.children() if child._data['deprel'] in to_include}
         valence = valence.union(parent_valence)
     valence = list([str(v) for v in valence])
     valence.sort()
@@ -35,8 +32,8 @@ def get_noun_count(conllu_filename : str) -> Dict[str, Dict[str, int]]:
         for verb in [m.node for m in verbs]:
             for deprel in ('nsubj', 'obj'):
                 node = Search('/[deprel=%s upos=NOUN,PROPN]' % (deprel)).find(verb)[0].node
-                noun_count[node.data['lemma']][deprel] += 1
-                noun_count[node.data['lemma']]['total'] += 1                
+                noun_count[node._data['_lemma']][deprel] += 1
+                noun_count[node._data['_lemma']]['total'] += 1                
     noun_count = {k:dict(v) for k,v in noun_count.items()}
     return noun_count
 
@@ -66,9 +63,9 @@ for sentence in pyconll.iter_from_file(filename):
             child = child[0].node
             if deprel.startswith('obl'):
                 adp = Search('/[upos=ADP]').find(child)
-                if adp:    deprel = deprel + ':' + adp[0].node.data['lemma']
-            if child.data['lemma'] in n_agent_score:
-                score = n_agent_score[child.data['lemma']]
+                if adp:    deprel = deprel + ':' + adp[0].node._data['_lemma']
+            if child._data['_lemma'] in n_agent_score:
+                score = n_agent_score[child._data['_lemma']]
             else: # look for pers pronoun
                 if Search('.[upos=PRON PronType=Prs (Person=1,2 | Strength=Strong) ]').find(child):
                     score = 1

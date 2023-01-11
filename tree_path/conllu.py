@@ -7,7 +7,7 @@ from pyconll.unit.sentence import Sentence
 from pyconll.unit.token import Token
 
 from tree_path import Tree, Search, Match
-from tree_path.tree import Sequence
+from tree_path.tree import Sequence, _sets2lists, _lists2sets
 
 
 def datum_to_conllu(datum) -> str:
@@ -23,7 +23,7 @@ def datum_to_conllu(datum) -> str:
 
 def conllu_node(node : Tree) -> str:
     attrib_list = ['id', 'form', 'lemma', 'upos', 'xpos', 'feats', 'head', 'deprel', 'deps',  'misc']
-    return '\t'.join(datum_to_conllu(node.data[a]) for a in attrib_list)
+    return '\t'.join(datum_to_conllu(node._data[a]) for a in attrib_list)
 
 
 def from_conllu(sentence: Sentence | str) -> Tree:
@@ -34,20 +34,20 @@ def from_conllu(sentence: Sentence | str) -> Tree:
     root: Tree | None = None
     for id in [d['id'] for d in data_list]:  # just making sure to take ids in order
         tree = tree_dict[id]
-        if int(tree.data['head']) == 0:
+        if int(tree._data['head']) == 0:
             tree.parent = None
             root = tree
         else:
             try:
-                tree.parent = tree_dict[tree.data['head']]
+                tree.parent = tree_dict[tree._data['head']]
             except:
-                raise Exception('Unknown head id "%s"' % tree.data['head'])
+                raise Exception('Unknown head id "%s"' % tree._data['head'])
             tree.parent._children.append(tree)
     if root is None:
         raise Exception('No root found.')
     parentless = [t for t in tree_dict.values() if t.parent is None and t is not root]
     if parentless:
-        raise Exception('Parentless nodes %s' % str([t.data['id'] for t in parentless]))
+        raise Exception('Parentless nodes %s' % str([t._data['id'] for t in parentless]))
     return root
 
 
@@ -63,16 +63,32 @@ def conllu_dict(conllu_token: Token | str, attrib_list: List[str] = None) -> Dic
 
 
 class ParsedSentence(Tree):
-    def __init__(self, node : Tree, sent_id : str, sent_text : str, meta_data : Dict = dict()):
-        super().__init__(node.data, None, node.children())
+    def __init__(self, node : Tree, sent_id : str, sent_text : str, meta_data : Dict = None):
+        super().__init__(node._data, None, node.children())
         for child in self.children():
             child.parent = self
         self.sent_id = sent_id
         self.sent_text = sent_text
-        self.meta_data = meta_data
+        self.meta_data = meta_data if meta_data else {}
         self.node_list = [n for n in self.traverse()]
-        self.node_list.sort(key=lambda n : int(n.data['id']))
-        self.node_dict = {n.data['id']:n for n in self.node_list}
+        self.node_list.sort(key=lambda n : int(n._data['id']))
+        self.node_dict = {n._data['id']:n for n in self.node_list}
+    def __str__(self):
+        return self.sent_text
+    def __repr__(self):
+        return "'" + str(self) + "'"
+    def to_jsonable(self) -> Dict:
+        json_dict = {'sent_id':self.sent_id, 'sent_text':self.sent_text,
+                     'meta_data':_sets2lists(self.meta_data)}
+        json_dict['node'] = Tree.to_jsonable(self)
+        return json_dict
+    @staticmethod
+    def from_jsonable(json_dict : Dict) -> ParsedSentence:
+        sent_id = json_dict['sent_id']
+        sent_text = json_dict['sent_text']
+        meta_data = _lists2sets(json_dict['meta_data'])
+        node = Tree.from_jsonable(json_dict['node'])
+        return ParsedSentence(node, sent_id, sent_text, meta_data)
     @staticmethod
     def iter_from_file(filename : str) -> Iterator[ParsedSentence]:
         for s_conllu in pyconll.iter_from_file(filename):
@@ -94,7 +110,7 @@ class ParsedSentence(Tree):
         else:
             return self.node_dict[key]
     def uid(self, node : Tree|str):
-        if isinstance(node, Tree): node = node.data['id']
+        if isinstance(node, Tree): node = node._data['id']
         return tok_unique_id(self.sent_id, node)
     @staticmethod
     def get_syntactic_distance(n1 : Tree, n2 : Tree) -> int|None:
@@ -134,12 +150,12 @@ def search_conllu_files(search : str|Search , filenames : List[str]) -> List[Mat
 
 
 def before(n1 : Tree, n2 : Tree) -> bool:
-    return float(n1.data['id']) < float(n2.data['id'])
+    return float(n1._data['id']) < float(n2._data['id'])
 
 
 def get_full_lemma(n : Tree):
     s = Search('/[deprel=fixed]')
-    lemma = n.data['lemma']
+    lemma = n._data['lemma']
     ms = s.find(n)
     if ms:
         lemma += (' ' + ' '.join([m.data()['lemma'] for m in ms]))

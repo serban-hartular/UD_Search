@@ -1,5 +1,6 @@
 from __future__ import annotations
 
+import json
 from typing import Dict, List, Iterator, Callable, Union, Any
 from pyconll.unit.sentence import Sentence
 from pyconll.unit.token import Token
@@ -33,14 +34,66 @@ class Sequence(List[Dict[str, Any]]):
                 return i
         return -1
 
+def _sets2lists(d : Dict) -> Dict:
+    d2 = {}
+    for k,v in d.items():
+        if isinstance(v, set):
+            d2[k] = list(v)
+        elif isinstance(v, dict):
+            d2[k] = _sets2lists(v)
+        else:
+            d2[k] = v
+    return d2
+
+def _lists2sets(d : Dict) -> Dict:
+    d2 = {}
+    for k,v in d.items():
+        if isinstance(v, list):
+            d2[k] = set(v)
+        elif isinstance(v, dict):
+            d2[k] = _lists2sets(v)
+        else:
+            d2[k] = v
+    return d2
+
+
 class Tree:
     def __init__(self, data : Dict[str, Dict|str], parent : Tree|None, children : List[Tree]):
-        self.data = data
+        self._data = data
         self.parent = parent
         self._children = children
         self.str_from_conllu = True 
+    def data(self, path:str|List[str] = None) -> str|Dict|None:
+        """set data by path. Not tested"""
+        if not path:
+            return self._data
+        if isinstance(path, str):
+            path = path.split('.')
+        d = self._data
+        for key in path:
+            if key in d:
+                d = d[key]
+            else:
+                return None
+        return d
+    def assign(self, path:str|List[str], value:str) -> bool:
+        """Not tested"""
+        if isinstance(path, str):
+            path = path.split('.')
+        d = self._data
+        for key in path[:-1]:
+            if key in d:
+                d = d[key]
+            else:
+                return False
+        key = path[-1]
+        if key in d:
+            d[key] = value
+            return True
+        return False
+                
     def children_tokens(self) -> Sequence:
-        return Sequence([t.data for t in self._children])
+        return Sequence([t._data for t in self._children])
     def children(self) -> List[Tree]:
         return list(self._children)
     def traverse(self) -> Iterator[Tree]:
@@ -65,13 +118,30 @@ class Tree:
             r = r.parent
         return r
     def projection(self) -> Sequence:
-        tok_list = [n.data for n in self.traverse()]
+        tok_list = [n._data for n in self.traverse()]
         tok_list.sort(key=lambda tok : float(tok['id']))
         return Sequence(tok_list)
+    def projection_nodes(self) -> List[Tree]:
+        node_list = [n for n in self.traverse()]
+        node_list.sort(key=lambda n : float(n.data('id')))
+        return node_list
     def __str__(self):
-        if self.str_from_conllu and self.data and 'id' in self.data and 'form' in self.data:
-            return '(%s) %s' % (str(self.data['id']), str(self.data['form']))
-        return str(self.data)
+        if self.str_from_conllu and self._data and 'id' in self._data and 'form' in self._data:
+            return '(%s) %s' % (str(self._data['id']), str(self._data['form']))
+        return str(self._data)
     def __repr__(self):
         return self.__str__()
-
+    def to_jsonable(self) -> Dict:
+        json_dict = {'_data': _sets2lists(self._data),
+                     'children':[c.to_jsonable() for c in self.children()]}
+        return json_dict
+    @staticmethod
+    def from_jsonable(json_dict : Dict) -> Tree:
+        data = _lists2sets(json_dict['_data'])
+        node = Tree(data, None, [])
+        for child_data in json_dict['children']:
+            child = Tree.from_jsonable(child_data)
+            child.parent = node
+            node._children.append(child)
+        return node
+    

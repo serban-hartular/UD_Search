@@ -8,6 +8,7 @@ _grammar = r"""
 
 node_list   : head_node
            | head_node node_list 
+           | '!' node_list
             ;
             
 head_node    : PATH_MARKER token
@@ -65,9 +66,11 @@ _actions = {
                  lambda _, n: ConstantEvaluator(True)
                 ],
     "head_node": [ lambda _, n: NodeEvaluator(n[0], n[1]),
+                   # lambda _, n: ValueExpression(n[0], n[1])  # not n[1]
             ],
     "node_list": [lambda _, n: _node_list_return(n),  #n[0],
-                  lambda _, n: _node_list_return(n)  #NodeEvaluator(n[0].path_type, ValueExpression('&', n[0].evaluator, n[1]))
+                  lambda _, n: _node_list_return(n),  #NodeEvaluator(n[0].path_type, ValueExpression('&', n[0].evaluator, n[1]))
+                  lambda _, n: ValueExpression(n[0], n[1]),  # not
                   ],
     "value": [lambda _, n: n[0] + [n[2]],
                 lambda _, n: [n[0]],
@@ -106,4 +109,7 @@ class Search:
             raise Exception('Parse error in expression %s: %s' % (expression, str(e)))
     def find(self, tree : Tree) -> List[Match]:
         return self._expr_tree.evaluate(tree)
-
+    def __str__(self):
+        return str(self._expr_tree)
+    def __repr__(self):
+        return repr(str(self))

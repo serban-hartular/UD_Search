@@ -1,21 +1,15 @@
 from __future__ import annotations
 
-import itertools
-from typing import List, Set, Iterable, Dict
+from typing import List, Dict
 
-from sklearn.calibration import CalibratedClassifierCV
-from sklearn.discriminant_analysis import LinearDiscriminantAnalysis, QuadraticDiscriminantAnalysis
+from sklearn.discriminant_analysis import LinearDiscriminantAnalysis
 from sklearn.ensemble import AdaBoostClassifier, BaggingClassifier, ExtraTreesClassifier, GradientBoostingClassifier, \
     RandomForestClassifier
-from sklearn.gaussian_process import GaussianProcessClassifier
-from sklearn.mixture import BayesianGaussianMixture, GaussianMixture
-from sklearn.naive_bayes import BernoulliNB, ComplementNB, GaussianNB, MultinomialNB
+from sklearn.naive_bayes import ComplementNB, MultinomialNB
 from sklearn.neighbors import KNeighborsClassifier
-from sklearn.neural_network import MLPClassifier
 from sklearn.semi_supervised import LabelPropagation, LabelSpreading
-from sklearn.svm import NuSVC, SVC
 
-import parsed_doc
+from tree_path import parsed_doc
 import training_data
 import pandas as pd
 
@@ -27,10 +21,8 @@ def generate_training_data(conllu_in : str) -> pd.DataFrame:
         df = pd.concat([df, training_data.generate_clause_pair_df(training_data.generate_clause_pairs(pdoc), pdoc)], ignore_index=True)
     return df
 
-from sklearn.linear_model import LogisticRegression, LinearRegression, PassiveAggressiveRegressor, Ridge, \
-    PassiveAggressiveClassifier, RidgeClassifier, LogisticRegressionCV, SGDClassifier
+
 from sklearn.tree import DecisionTreeClassifier, ExtraTreeClassifier
-from sklearn.multioutput import MultiOutputClassifier
 
 predictor_classes = [AdaBoostClassifier, BaggingClassifier, ComplementNB, DecisionTreeClassifier, ExtraTreeClassifier, ExtraTreesClassifier,
                      GradientBoostingClassifier, KNeighborsClassifier,
@@ -262,3 +254,9 @@ for var_skip in [''] + model_variables:
     p_train, _ =   evaluate_predictor(predictor, df_train, features)
     p_test, no_good = evaluate_predictor(predictor, df_test, features)
     print(join_str('\t', [var_skip, p_train, p_test]))
+
+X_train, y_train = df_to_X_y(df_train, model_variables)
+predictor = LinearDiscriminantAnalysis().fit(X_train, y_train)
+df_probs = get_probabilities(predictor, df_test, model_variables)
+ell_dict = get_ellipses_dict(df_test, df_probs, model_variables, ['SDIST_LN', 'DIST_LN', 'MODSCOR'])
+ell_bad = {k:v for k,v in ell_dict.items() if not v.get_eval()}

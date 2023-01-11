@@ -10,7 +10,7 @@ def term_type(t1 : Term, t2 : Term) -> int:
     return NO_WAY if t1.type() != t2.type() else 0
 
 def compare_lemma(t1 : Term, t2 : Term) -> int:
-    return 1 if t1.get('lemma') and t1.get('lemma') == t2.get('lemma') else 0
+    return 1 if t1.get('_lemma') and t1.get('_lemma') == t2.get('_lemma') else 0
 
 _mods = ['CREDE', 'CONTINUA', 'INCEPE', 'VREA', 'FACE', 'TERMINA', 'PERMIS', 'SIMTE', 'INTENT', 'APREC', 'TREBUIE', 'CAPABIL', 'DICE', 'STIE']
 CLASS2 = {
