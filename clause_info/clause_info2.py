@@ -3,8 +3,8 @@ from __future__ import annotations
 from io import StringIO
 from typing import List
 
-from tree_path import Tree, Search
-from tree_path.conllu import before, get_full_lemma
+from tree_path import Tree, Search, before
+from tree_path.conllu import get_full_lemma
 
 
 def children_before(node : Tree):

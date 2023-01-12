@@ -6,10 +6,10 @@ from pyconll.unit.sentence import Sentence
 
 import conllu_utils
 import tree_path
-from tree_path import Tree, Search
+from tree_path import Tree, Search, before
 import pyconll
 
-from tree_path.conllu import before, get_full_lemma
+from tree_path.conllu import get_full_lemma
 import word_types.ro_verb_forms as vb_forms
 
 

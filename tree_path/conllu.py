@@ -151,10 +151,6 @@ def search_conllu_files(search : str|Search , filenames : List[str]) -> List[Mat
     return matches
 
 
-def before(n1 : Tree, n2 : Tree) -> bool:
-    return float(n1._data['id']) < float(n2._data['id'])
-
-
 def get_full_lemma(n : Tree):
     s = Search('/[deprel=fixed]')
     lemma = n._data['lemma']

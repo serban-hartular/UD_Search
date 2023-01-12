@@ -1,6 +1,5 @@
 from typing import List
 
-from parglare import Parser, Grammar
 from tree_path.evaluator import Evaluator, ValueComparer, ValueExpression, NodeEvaluator, ConstantEvaluator, Match
 from tree_path.tree import Tree
 
@@ -29,13 +28,14 @@ attribs : attribs '|' attribs  {left, 14}
  
 value : value ',' WORD
         | WORD
+        | '*'
         ; 
 
 name    : name DOT WORD
         | WORD
         ;
 
-PATH_MARKER : '/' | '//' | DOT DOT '/' | DOT '/' | DOT '//' | DOT;
+PATH_MARKER : '/' | '//' | DOT DOT '/' | DOT '/' | DOT '//' | DOT | '<' | '>';
 EQU : '='
     | '?='
     ;
@@ -73,7 +73,8 @@ _actions = {
                   lambda _, n: ValueExpression(n[0], n[1]),  # not
                   ],
     "value": [lambda _, n: n[0] + [n[2]],
-                lambda _, n: [n[0]],
+              lambda _, n: [n[0]],
+              lambda _, n: [n[0]],
             ],
     "name": [
         lambda _, n: n[0] + [n[2]],
@@ -85,6 +86,8 @@ _actions = {
         lambda _, n: ''.join(n),
         lambda _, n: ''.join(n),
         lambda _, n: ''.join(n),
+        lambda _, n: n[0],
+        lambda _, n: n[0],
         lambda _, n: n[0],
     ],
     "EQU": [
@@ -113,3 +116,5 @@ class Search:
         return str(self._expr_tree)
     def __repr__(self):
         return repr(str(self))
+
+
