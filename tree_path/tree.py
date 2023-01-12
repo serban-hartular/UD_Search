@@ -1,7 +1,7 @@
 from __future__ import annotations
 
 import json
-from typing import Dict, List, Iterator, Callable, Union, Any
+from typing import Dict, List, Iterator, Callable, Union, Any, Set
 from pyconll.unit.sentence import Sentence
 from pyconll.unit.token import Token
 
@@ -76,21 +76,36 @@ class Tree:
             else:
                 return None
         return d
-    def assign(self, path:str|List[str], value:str) -> bool:
-        """Not tested"""
+    def _path_to_dict_and_key(self, path:str|List[str], create_if_absent : bool) -> (Dict, str):
         if isinstance(path, str):
             path = path.split('.')
         d = self._data
         for key in path[:-1]:
             if key in d:
                 d = d[key]
+            elif create_if_absent:
+                d[key] = dict()
+                d = d[key]
             else:
-                return False
+                return None, None
         key = path[-1]
-        if key in d:
+        return d, key
+
+    def assign(self, path: str | List[str], value: str | Set, create_if_absent : bool = True) -> bool:
+        d, key = self._path_to_dict_and_key(path, create_if_absent)
+        if d is None: return False
+        if key in d or create_if_absent:
             d[key] = value
             return True
         return False
+    def remove(self, path: str | List[str]) -> bool:
+        d, key = self._path_to_dict_and_key(path, False)
+        if d is None: return False
+        if key in d:
+            d.pop(key)
+            return True
+        return False
+
                 
     def children_tokens(self) -> Sequence:
         return Sequence([t._data for t in self._children])

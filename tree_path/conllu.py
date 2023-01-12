@@ -128,6 +128,8 @@ def tok_unique_id(sent_id : str, tok_id : str) -> str:
 
 
 def sent_tok_id_from_unique(unique_id : str) -> Tuple:
+    if '-' not in unique_id:
+        return None, None
     return tuple(unique_id.rsplit('-', 1))
 
 

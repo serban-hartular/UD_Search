@@ -36,10 +36,22 @@ def vdf_string_to_search(src : str) -> Search:
         src = ['deprel='+s for s in src]
         src = '|'.join(src)
         return Search('/[%s]' % src)
-    if '?' in src: # like obl?despre
-        [deprel, sub] = src.split('?')
-        if deprel != 'obl': raise Exception('Unknown thing ' + src)
-        return Search('/[deprel=%s /[lemma=%s] ]' % (deprel, sub))
+    if '?' in src: # like obl?despre, expl:pv?dat
+        [deprel, arg] = src.split('?')
+        if deprel == 'obl': 
+            return Search('/[deprel=%s /[lemma=%s] ]' % (deprel, arg))
+        elif deprel=='expl:pv':
+            #dative or accusiative?
+            if arg not in ('dat', 'acc'): raise Exception('Unkown %s case %s' % (deprel, arg))
+            case = arg[0].upper() + arg[1:]
+            return Search('/[deprel=%s feats.Case=%s]' % (deprel, arg))
+        elif deprel == 'xcomp':
+            #xcomp?verb if verbal, xcomp?nonverb
+            if arg not in ('verb', 'nonverb'): raise Exception('Unknown %s type %s' % (deprel, arg))
+            if arg == 'verb': return Search('/[deprel=xcomp (upos=VERB & !misc.Mood=Part | /[deprel=cop,aux:pass] ) ]')
+            else: return Search('/[deprel=xcomp !(upos=VERB & !misc.Mood=Part | /[deprel=cop,aux:pass] ) ]')
+        else:
+            raise Exception('Unknown thing ' + src)
     return Search('/[deprel=%s]' % src)
 
 class DeprelValence:

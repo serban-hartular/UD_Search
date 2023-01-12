@@ -7,7 +7,7 @@ from clause_info.lemma_pipeline import get_full_lemma
 
 
 
-for s_conll in pyconll.iter_from_file('./cancan21-train-annot.2.conllu'):
+for s_conll in pyconll.iter_from_file('cancan_annot/cancan21-train-annot.2.conllu'):
     sentence = ParsedSentence(parsed_doc.from_conllu(s_conll), s_conll.id, s_conll.text)
     ms = Search('.//[misc.Ellipsis=Expression]').find(sentence)
     for m in ms:

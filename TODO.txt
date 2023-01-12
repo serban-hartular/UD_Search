@@ -16,5 +16,6 @@ _lasă_ să nu aibă iobj
 _urma_ să nu aibă iobj
 Este + supin nu legitimeaza elipsa (subiectul e pacientul supinului)
 Face + supin? oricum, supin xcomp exclus
+supin + aspectual exclus
 adauga ccomp la excluderile profilactice ale lui _anunța_
 căutare în text după poate a unui infinitiv sau _să_

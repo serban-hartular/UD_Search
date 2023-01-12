@@ -43,35 +43,16 @@ def get_verb_lemma(node : Tree) -> FullLemma:
     lemma = FullLemma(lemma, others, others_rep)
     return lemma
 
-
-doc = tp.ParsedDoc.from_json_zip('../rrt-all.3.jz')
-verbs = doc.search('.//[upos=VERB]')
-
 aspectuale = ['începe', 'continua', 'termina']
-relatare = ['spune', 'zice', 'întreba', 'afirma', 'aminti', 'anunța', 'dezvălui', 'explica', 'observa', 
-            'povesti', 'raporta', 'răspunde', 'reieși', 'relata', 'releva', 'ruga', 'șopti',
-            'repeta', 'preciza', 'răcni']
+relatare_parataxa =\
+            {'afirma', 'zice', 'autoriza', 'povesti', 'ruga', 'avea grijă', 'afla', 'preciza',
+            'solicita', 'scrie', 'reieși', 'stabili', 'informa', 'crede', 'relata', 'începe',
+            'întreba', 'releva', 'obliga', 'aminti', 'dori', 'raporta', 'anunța', 'continua',
+            'spune', 'declara', 'aproba', 'prevedea', 'cugeta', 'răspunde', 'putea', 'mulțumi',
+            'șopti', 'sublinia', 'invita', 'indica', 'descoperi', 'admite', 'urma', 'răcni',
+            'repeta', 'explica', 'dezvălui', 'prefera', 'mărturisi', 'avertiza', 'recunoaște',
+            'conveni', 'observa', 'îndemna', 'da seamă', 'asigura', }
 
-for m in verbs:
-    verb = m.node
-    if verb.data('misc.Mood') == {'Part'}:
-        continue
-    if verb.data('lemma') in aspectuale and verb.data('misc.Mood') == {'Ger'}:
-        continue
-    if verb.data('lemma') in relatare and (verb.data('deprel') == 'parataxis' or
-            Search('/[deprel=parataxis]').find(verb) ):
-        continue
-    lemma = get_verb_lemma(verb)
-    lemma_str = str(lemma)
-    if lemma_str in check_valences.lemma_valence_dict:
-        for valence in check_valences.lemma_valence_dict[lemma_str]:
-            if valence.matches(verb):
-                # Ellipsis, Antecedent, și TargetID
-                annot = {'Ellipsis':'VPE'}
-                if verb.parent:
-                    annot.update({'Antecedent':'Present', 'TargetID':doc.uid(verb.parent)})
-                else:
-                    annot.update({'Antecedent':'Exoforic'})
-                verb.data('misc').update(annot)
-
-doc.to_json_zip('../rrt-all.3.annot.0.jz')
+basic_filter_expr = 'upos=VERB & !deprel=fixed & !misc.Mood=Part'
+supine_filter_expr = '!misc.Mood=Supine | (misc.Mood=Supine & deprel=ccomp)'
+basic_filter = Search('.[%s & (%s) ]' % (basic_filter_expr, supine_filter_expr))

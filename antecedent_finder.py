@@ -198,8 +198,8 @@ def add_new_params(df_data : pd.DataFrame) -> pd.DataFrame:
     mod_score_df = pd.DataFrame.from_dict(mod_score_dict, orient='index', columns=['MODSCOR'])
     return pd.concat([df_data, mod_score_df], axis=1)
 
-df_train = pd.read_pickle('./cancan21-train-df.p')
-df_test = pd.read_pickle('./cancan21-test-df.p')
+df_train = pd.read_pickle('cancan_annot/cancan21-train-df.p')
+df_test = pd.read_pickle('cancan_annot/cancan21-test-df.p')
 
 test_conllu = './cancan21-test-annot-vpe.1.conllu'
 train_conllu = './cancan21-train-vpeonly.0.conllu'
