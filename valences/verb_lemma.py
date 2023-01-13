@@ -55,4 +55,37 @@ relatare_parataxa =\
 
 basic_filter_expr = 'upos=VERB & !deprel=fixed & !misc.Mood=Part'
 supine_filter_expr = '!misc.Mood=Supine | (misc.Mood=Supine & deprel=ccomp)'
-basic_filter = Search('.[%s & (%s) ]' % (basic_filter_expr, supine_filter_expr))
+def basic_filter(node : Tree) -> bool:
+    return bool(Search('.[%s & (%s) ]' % (basic_filter_expr, supine_filter_expr)).find(node))
+
+_val = lambda s : list(s)[0]
+
+def quote_introduction_filter(node : Tree) -> bool:
+    """False if verb is introducing a quote, otherwise true """
+    if _val(node.data('misc.FullLemma')) not in relatare_parataxa:
+        return True
+    if node.data('deprel') == 'parataxis': return False
+    parataxis = Search('/[deprel=parataxis]').find(node)
+    if not parataxis: return True
+    # is it a line heading, like (e), 3., or a parenthesis?
+    parataxis = parataxis[0].node
+    if parataxis.data('misc.FullLemma') and _val(parataxis.data('misc.FullLemma')) in relatare_parataxa:
+        return True
+    proj = parataxis.projection_nodes()
+    if proj[0].data('xpos') in ['COLON', 'QUOT', 'DBLQ']:
+        return False
+    if proj[0].data('upos') in ['PUNCT', 'NUM'] and proj[-1].data('upos') == 'PUNCT' or\
+            proj[0].data('id') == '1' and proj[-1].data('upos') == 'PUNCT':
+        return True
+    return False
+
+def basic_next_word_filter(node : Tree) -> bool:
+    """Check if next word is an infinitive or the particle _să_.
+    False if this is the case, True otherwise"""
+    proj = node.projection_nodes()
+    if proj[-1] is node: return True # can't tell
+    next = proj[proj.index(node)+1]
+    if next.data('form') == 'să' or Search('.[misc.Mood=Inf]').find(node) \
+            or Search('.[lemma=a upos=PART]').find(node):
+        return False
+    return True

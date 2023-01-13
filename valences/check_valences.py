@@ -63,11 +63,28 @@ class DeprelValence:
         self._test_dict = {True:self.present_deprels, False:self.absent_deprels}
         self.ellide = ellide
     def matches(self, node : Tree) -> bool:
+        # if node is an infinitive complement of _putea_, we need to add _putea_'s complements to it
+        # ie "îi pot da ceva" -- îi is the iobj of _da_, but is parsed as depending on _pot_
+        node = DeprelValence.modal_verb_pass_complements(node)
+        # now test if it matches conditions
         for value, test_list in self._test_dict.items():
             for test in test_list:
                 if bool(test.find(node)) != value:
                     return False
         return True
+    @staticmethod
+    def modal_verb_pass_complements(node : Tree) -> Tree:
+        if not Search('.[misc.Mood=Inf deprel=ccomp ../[lemma=putea,trebui] ]').find(node):
+            return node # is not complement of modal verb
+        # modal's children
+        modals_deprels = ['nsubj', 'csubj', 'iobj', 'obl:pmod',
+                          'expl:pv', 'expl:impers', 'expl:pass',
+                          'obl']
+        modal_children = [child for child in node.parent.children()
+                          if child != node and child.data('deprel') in modals_deprels ]
+        dummy_node = Tree(dict(node.data()), node.children() + modal_children)
+        return dummy_node
+        
     def __str__(self):
         return str({True:self.present_repr, False:self.absent_repr, 'ellide':self.ellide})
     def __repr__(self):

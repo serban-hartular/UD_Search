@@ -1,213 +1,208 @@
 Ellided	Lemma	Default Absent	Absent	Prezent	Prophylactic Absent
-ccomp	accepta	expl:pv, expl:impers, expl:pass	obj, aux:pass		ccomp:pmod
-ccomp:pmod	acuza	expl:pv, expl:impers, expl:pass	expl:pv, obl:pmod	obj | aux:pass	ccomp
-ccomp	admite	expl:pv, expl:impers, expl:pass	obj, aux:pass		ccomp:pmod
-ccomp:pmod	aduce aminte	expl:pv, expl:impers, expl:pass	obj, aux:pass, obl:pmod		obl?despre
-ccomp	aduce la cunoștință	expl:pv, expl:impers, expl:pass	obj, aux:pass		ccomp:pmod
-ccomp	afirma	expl:pv, expl:impers, expl:pass	obj, aux:pass		ccomp:pmod
-ccomp	afla	expl:pv, expl:impers, expl:pass	obj, aux:pass, obl:pmod		obl?despre, ccomp:pmod
-ccomp:pmod	ajuta	expl:pv, expl:impers, expl:pass	expl:pv, obl:pmod	obj | aux:pass	ccomp
-ccomp:pmod	amenința	expl:pv, expl:impers, expl:pass	expl:pv, obl:pmod	obj | aux:pass	ccomp
-ccomp	aminti	expl:pv, expl:impers, expl:pass	obj, aux:pass, obl:pmod		obl?despre, ccomp:pmod
-ccomp:pmod	angaja	expl:pv, expl:impers, expl:pass	obj, aux:pass, obl:pmod	expl:pv	ccomp
-ccomp	anunța	expl:pv, expl:impers, expl:pass	obj, aux:pass		ccomp:pmod
-ccomp:pmod	anunța	expl:pv, expl:impers, expl:pass	obl:pmod, xcomp	obj | aux:pass	
-ccomp	aprecia	expl:pv, expl:impers, expl:pass	obj, aux:pass		ccomp:pmod
-ccomp	aproba	expl:pv, expl:impers, expl:pass	obj, aux:pass		ccomp:pmod
-ccomp:pmod	apuca	expl:pv, expl:impers, expl:pass	obj, aux:pass, obl:pmod	expl:pv	ccomp
-ccomp	arăta	expl:pv, expl:impers, expl:pass	obj, aux:pass		ccomp:pmod
-ccomp	argumenta	expl:pv, expl:impers, expl:pass	obj, aux:pass		ccomp:pmod
-ccomp:pmod	asigura	expl:pv, expl:impers, expl:pass	obj, aux:pass, obl:pmod	expl:pv	ccomp
-ccomp:pmod	asigura	expl:pv, expl:impers, expl:pass	expl:pv, obl:pmod	obj | aux:pass	ccomp
-ccomp:pmod	aștepta	expl:pv, expl:impers, expl:pass	obj, aux:pass, obl:pmod	expl:pv	ccomp
-ccomp:pmod	atenționa	expl:pv, expl:impers, expl:pass	expl:pv, obl:pmod	obj | aux:pass	ccomp
-ccomp:pmod	autoriza	expl:pv, expl:impers, expl:pass	expl:pv, obl:pmod	obj | aux:pass	ccomp
-ccomp	auzi	expl:pv, expl:impers, expl:pass	obj, aux:pass		ccomp:pmod
-ccomp	avea de gând	expl:pv, expl:impers, expl:pass	obj, aux:pass		ccomp:pmod
-ccomp:pmod	avea grijă	expl:pv, expl:impers, expl:pass	obj, aux:pass, obl:pmod		ccomp
-ccomp	avea în plan	expl:pv, expl:impers, expl:pass	obj, aux:pass		ccomp:pmod
-ccomp	avea în vedere	expl:pv, expl:impers, expl:pass	obj, aux:pass		ccomp:pmod
-ccomp:pmod	avea nevoie	expl:pv, expl:impers, expl:pass	obj, aux:pass, obl:pmod		ccomp
-ccomp	avea voie	expl:pv, expl:impers, expl:pass	obj, aux:pass		ccomp:pmod
-ccomp	avertiza	expl:pv, expl:impers, expl:pass	obj, aux:pass		ccomp:pmod
-ccomp:pmod	avertiza	expl:pv, expl:impers, expl:pass	expl:pv, obl:pmod	obj | aux:pass	ccomp, xcomp
-ccomp	băga de seamă	expl:pv, expl:impers, expl:pass	obj, aux:pass		ccomp:pmod
-ccomp	bănui	expl:pv, expl:impers, expl:pass	obj, aux:pass		ccomp:pmod
-ccomp	binevoi	expl:pv, expl:impers, expl:pass	obj, aux:pass		ccomp:pmod, obl:pmod
-ccomp:pmod	bucura	expl:pv, expl:impers, expl:pass	obj, aux:pass, obl:pmod	expl:pv	ccomp
-ccomp	cerca	expl:pv, expl:impers, expl:pass	obj, aux:pass		ccomp:pmod
-ccomp	cere	expl:pv, expl:impers, expl:pass	obj, aux:pass		ccomp:pmod
-ccomp	certifica	expl:pv, expl:impers, expl:pass	obj, aux:pass		ccomp:pmod
-ccomp	citi	expl:pv, expl:impers, expl:pass	obj, aux:pass, obl:pmod		obl?despre, ccomp:pmod
-ccomp	comunica	expl:pv, expl:impers, expl:pass	obj, aux:pass, obl:pmod		obl?despre, ccomp:pmod
-ccomp:pmod	concepe	expl:pv, expl:impers, expl:pass	obl:pmod		ccomp, obj, obl?pentru
-ccomp	conchide	expl:pv, expl:impers, expl:pass	obj, aux:pass		ccomp:pmod
-ccomp	concluziona	expl:pv, expl:impers, expl:pass	obj, aux:pass		ccomp:pmod
-ccomp	confirma	expl:pv, expl:impers, expl:pass	obj, aux:pass		ccomp:pmod
-ccomp	conjectura	expl:pv, expl:impers, expl:pass	obj, aux:pass		ccomp:pmod
-ccomp	consemna	expl:pv, expl:impers, expl:pass	obj, aux:pass		ccomp:pmod
-ccomp	considera	expl:pv, expl:impers, expl:pass	obj, aux:pass		ccomp:pmod
-ccomp:pmod	consimți	expl:pv, expl:impers, expl:pass	obl:pmod		ccomp, obj
-ccomp	constata	expl:pv, expl:impers, expl:pass	obj, aux:pass		ccomp:pmod
-ccomp	continua	expl:pv, expl:impers, expl:pass	obj, aux:pass		ccomp:pmod
-ccomp	conveni	expl:pv, expl:impers, expl:pass	obj, aux:pass		ccomp:pmod
-ccomp:pmod	convinge	expl:pv, expl:impers, expl:pass	expl:pv, obl:pmod	obj | aux:pass	ccomp
-ccomp	crede	expl:pv, expl:impers, expl:pass	obj, aux:pass, obl:pmod		ccomp:pmod
-ccomp	cugeta	expl:pv, expl:impers, expl:pass	obj, aux:pass, obl:pmod		obl?despre, ccomp:pmod
-ccomp	da înainte	expl:pv, expl:impers, expl:pass	obj, aux:pass, obl:pmod		ccomp:pmod
-ccomp	da seamă	expl:pv, expl:impers, expl:pass	obj, aux:pass		ccomp:pmod
-ccomp:pmod	da seamă	expl:pv, expl:impers, expl:pass	obj, aux:pass, obl:pmod	expl:pv	ccomp
-ccomp	da voie	expl:pv, expl:impers, expl:pass	obj, aux:pass		obl:pmod, ccomp:pmod
-ccomp	datora	expl:pv, expl:impers, expl:pass	obj, aux:pass		ccomp:pmod
-ccomp	decide	expl:pv, expl:impers, expl:pass	obj, aux:pass		ccomp:pmod
-ccomp	declara	expl:pv, expl:impers, expl:pass	obj, aux:pass		ccomp:pmod
-ccomp	delega	expl:pv, expl:impers, expl:pass	obj, aux:pass		ccomp:pmod
-ccomp	demonstra	expl:pv, expl:impers, expl:pass	obj, aux:pass		ccomp:pmod
-ccomp	descoperi	expl:pv, expl:impers, expl:pass	obj, aux:pass		ccomp:pmod
-ccomp	detalia	expl:pv, expl:impers, expl:pass	obj, aux:pass		ccomp:pmod
-ccomp	determina	expl:pv, expl:impers, expl:pass	obj, aux:pass		ccomp:pmod
-ccomp	dezvălui	expl:pv, expl:impers, expl:pass	obj, aux:pass, obl:pmod		obl?despre, ccomp:pmod
-ccomp	discuta	expl:pv, expl:impers, expl:pass	obj, aux:pass, obl:pmod		obl?despre, ccomp:pmod
-ccomp	dori	expl:pv, expl:impers, expl:pass	obj, aux:pass		ccomp:pmod
-ccomp	dovedi	expl:pv, expl:impers, expl:pass	obj, aux:pass		ccomp:pmod
-ccomp	evita	expl:pv, expl:impers, expl:pass	obj, aux:pass		ccomp:pmod
-ccomp	exclude	expl:pv, expl:impers, expl:pass	obj, aux:pass		ccomp:pmod
-ccomp	explica	expl:pv, expl:impers, expl:pass	obj, aux:pass		ccomp:pmod
-ccomp	făgădui	expl:pv, expl:impers, expl:pass	obj, aux:pass		ccomp:pmod
-ccomp	favoriza	expl:pv, expl:impers, expl:pass	obj, aux:pass		ccomp:pmod
-ccomp:pmod	fi conștient	expl:pv, expl:impers, expl:pass	obl:pmod		ccomp, obj
-ccomp:pmod	fi de acord	expl:pv, expl:impers, expl:pass	obl:pmod		ccomp, obj
-ccomp:pmod	fi de părere	expl:pv, expl:impers, expl:pass	obl:pmod		ccomp, obj
-ccomp:pmod	fi în măsură	expl:pv, expl:impers, expl:pass	obl:pmod		ccomp, obj
-ccomp:pmod	fi teamă	expl:pv, expl:impers, expl:pass	obl:pmod		ccomp, obj
-ccomp	garanta	expl:pv, expl:impers, expl:pass	obj, aux:pass		ccomp:pmod
-ccomp	găsi cu cale	expl:pv, expl:impers, expl:pass	obj, aux:pass		ccomp:pmod
-ccomp	găsi de cuviință	expl:pv, expl:impers, expl:pass	obj, aux:pass		ccomp:pmod
-ccomp	ghici	expl:pv, expl:impers, expl:pass	obj, aux:pass		ccomp:pmod
-ccomp	hotărî	expl:pv, expl:impers, expl:pass	obj, aux:pass		ccomp:pmod, obl?asupra
-ccomp	imagina	expl:pv, expl:impers, expl:pass	obj, aux:pass	expl:pv	ccomp:pmod
-ccomp:pmod	împiedica	expl:pv, expl:impers, expl:pass	expl:pv, obl:pmod	obj | aux:pass	ccomp
-ccomp	impune	expl:pv, expl:impers, expl:pass	obj, aux:pass		ccomp:pmod
-ccomp	începe	expl:pv, expl:impers, expl:pass	obj, aux:pass		ccomp:pmod
-ccomp	încerca	expl:pv, expl:impers, expl:pass	obj, aux:pass		ccomp:pmod
-ccomp	înceta	expl:pv, expl:impers, expl:pass	obj, aux:pass		ccomp:pmod
-ccomp	închipui	expl:pv, expl:impers, expl:pass	obj, aux:pass	expl:pv	ccomp:pmod
-ccomp:pmod	încuraja	expl:pv, expl:impers, expl:pass	expl:pv, obl:pmod	obj | aux:pass	ccomp
-ccomp:pmod	îndemna	expl:pv, expl:impers, expl:pass	expl:pv, obl:pmod	obj | aux:pass	ccomp
-ccomp	indica	expl:pv, expl:impers, expl:pass	obj, aux:pass		ccomp:pmod
-ccomp:pmod	îndoi	expl:pv, expl:impers, expl:pass	obj, aux:pass, obl:pmod	expl:pv	ccomp
-ccomp	îndrăzni	expl:pv, expl:impers, expl:pass	obj, aux:pass		ccomp:pmod
-ccomp:pmod	îndupleca	expl:pv, expl:impers, expl:pass	expl:pv, obl:pmod	obj | aux:pass	ccomp
-ccomp:pmod	informa	expl:pv, expl:impers, expl:pass	expl:pv, obl:pmod	obj | aux:pass	ccomp
-ccomp:pmod	îngriji	expl:pv, expl:impers, expl:pass	obj, aux:pass, obl:pmod	expl:pv	ccomp
-ccomp:pmod	însărcina	expl:pv, expl:impers, expl:pass	expl:pv, obl:pmod	obj | aux:pass	ccomp
-ccomp:pmod	inspira	expl:pv, expl:impers, expl:pass	expl:pv, obl:pmod	obj | aux:pass	ccomp
-ccomp	înțelege	expl:pv, expl:impers, expl:pass	obj, aux:pass		ccomp:pmod
-ccomp	intenționa	expl:pv, expl:impers, expl:pass	obj, aux:pass		ccomp:pmod
-ccomp	interzice	expl:pv, expl:impers, expl:pass	obj, aux:pass		ccomp:pmod
-ccomp	întreba	expl:pv, expl:impers, expl:pass	obj | aux:pass		ccomp:pmod, obl:pmod, obl?despre
-xcomp	întreba	expl:impers, expl:pass	obl:pmod, ccomp:pmod	obj | aux:pass	ccomp, obl?despre
-ccomp	învăța	expl:pv, expl:impers, expl:pass	obj, aux:pass		ccomp:pmod
-xcomp	învăța	expl:pv, expl:impers, expl:pass		obj | aux:pass	ccomp, ccomp:pmod
-ccomp:pmod	invita	expl:pv, expl:impers, expl:pass	expl:pv, obl:pmod	obj | aux:pass	ccomp
-ccomp	izbuti	expl:pv, expl:impers, expl:pass	obj, aux:pass		ccomp:pmod
-ccomp	jura	expl:pv, expl:impers, expl:pass	obj, aux:pass		ccomp:pmod
-xcomp	lăsa	expl:pv, expl:impers, expl:pass		obj | aux:pass	ccomp, ccomp:pmod
-ccomp	lua seamă	expl:pv, expl:impers, expl:pass	obj, aux:pass		ccomp:pmod
-ccomp	mărturisi	expl:pv, expl:impers, expl:pass	obj, aux:pass		ccomp:pmod
-ccomp	menționa	expl:pv, expl:impers, expl:pass	obj, aux:pass		ccomp:pmod
-ccomp	mira	expl:pv, expl:impers, expl:pass	obj, aux:pass		ccomp:pmod
-ccomp	mulțumi	expl:pv, expl:impers, expl:pass	obj, aux:pass		ccomp:pmod
-ccomp	necesita	expl:pv, expl:impers, expl:pass	obj, aux:pass		ccomp:pmod
-ccomp	nega	expl:pv, expl:impers, expl:pass	obj, aux:pass		ccomp:pmod
-ccomp	neglija	expl:pv, expl:impers, expl:pass	obj, aux:pass		ccomp:pmod
-ccomp	nota	expl:pv, expl:impers, expl:pass	obj, aux:pass		ccomp:pmod
-ccomp	obișnui	expl:pv, expl:impers, expl:pass	obj, aux:pass		ccomp:pmod
-ccomp:pmod	obliga	expl:pv, expl:impers, expl:pass	expl:pv, obl:pmod	obj | aux:pass	ccomp
-xcomp	obliga	expl:pv, expl:impers, expl:pass		obj | aux:pass	ccomp, ccomp:pmod
-ccomp	observa	expl:pv, expl:impers, expl:pass	obj, aux:pass		ccomp:pmod
-ccomp:pmod	opri	expl:pv, expl:impers, expl:pass	expl:pv, obl:pmod	obj | aux:pass	ccomp
-ccomp	ordona	expl:pv, expl:impers, expl:pass	obj, aux:pass		ccomp:pmod
-ccomp:pmod	părea rău	expl:pv, expl:impers, expl:pass	obl:pmod		ccomp
-ccomp	păsa	expl:pv, expl:impers, expl:pass	obj, aux:pass		ccomp:pmod
-ccomp	permite	expl:pv, expl:impers, expl:pass	obj, aux:pass		ccomp:pmod
-ccomp:pmod	plânge	expl:pv, expl:impers, expl:pass	obj, aux:pass, obl:pmod	expl:pv	ccomp
-ccomp	planifica	expl:pv, expl:impers, expl:pass	obj, aux:pass		ccomp:pmod
-ccomp:pmod	porni	expl:pv, expl:impers, expl:pass	obj, aux:pass, obl:pmod	expl:pv	ccomp
-ccomp	porunci	expl:pv, expl:impers, expl:pass	obj, aux:pass		ccomp:pmod
-ccomp	povesti	expl:pv, expl:impers, expl:pass	obj, aux:pass		ccomp:pmod
-ccomp	preciza	expl:pv, expl:impers, expl:pass	obj, aux:pass		ccomp:pmod
-ccomp	preconiza	expl:pv, expl:impers, expl:pass	obj, aux:pass		ccomp:pmod
-ccomp:pmod	predispune	expl:pv, expl:impers, expl:pass	expl:pv, obl:pmod	obj | aux:pass	ccomp
-ccomp	preface	expl:pv, expl:impers, expl:pass	obj, aux:pass		ccomp:pmod
-ccomp	prefera	expl:pv, expl:impers, expl:pass	obj, aux:pass		ccomp:pmod
-ccomp:pmod	pregăti	expl:pv, expl:impers, expl:pass	obj, aux:pass, obl:pmod	expl:pv	ccomp
-ccomp	presupune	expl:pv, expl:impers, expl:pass	obj, aux:pass		ccomp:pmod
-ccomp	pretinde	expl:pv, expl:impers, expl:pass	obj, aux:pass		ccomp:pmod
-ccomp	prevedea	expl:pv, expl:impers, expl:pass	obj, aux:pass		ccomp:pmod
-ccomp	preveni	expl:pv, expl:impers, expl:pass	obj, aux:pass		ccomp:pmod
-ccomp:pmod	preveni	expl:pv, expl:impers, expl:pass	expl:pv, obl:pmod	obj | aux:pass	ccomp
-ccomp	prezice	expl:pv, expl:impers, expl:pass	obj, aux:pass		ccomp:pmod
-ccomp	pricepe	expl:pv, expl:impers, expl:pass	obj, aux:pass		ccomp:pmod
-ccomp	primi	expl:pv, expl:impers, expl:pass	obj, aux:pass		ccomp:pmod
-ccomp	promite	expl:pv, expl:impers, expl:pass	obj, aux:pass		ccomp:pmod
-ccomp	propune	expl:pv, expl:impers, expl:pass	obj, aux:pass		ccomp:pmod
-ccomp	pune în gând	expl:pv, expl:impers, expl:pass	obj, aux:pass		ccomp:pmod
-ccomp	putea	expl:pv, expl:impers, expl:pass	obj, aux:pass		csubj, ccomp:pmod
-ccomp	răcni	expl:pv, expl:impers, expl:pass	obj, aux:pass		ccomp:pmod
-ccomp	raporta	expl:pv, expl:impers, expl:pass	obj, aux:pass		ccomp:pmod
-ccomp	răspunde	expl:pv, expl:impers, expl:pass	obj, aux:pass		ccomp:pmod
-ccomp:pmod	râvni	expl:pv, expl:impers, expl:pass	expl:pv, obl:pmod		ccomp, obj
-ccomp	reafirma	expl:pv, expl:impers, expl:pass	obj, aux:pass		ccomp:pmod
-ccomp	realiza	expl:pv, expl:impers, expl:pass	obj, aux:pass		ccomp:pmod
-ccomp	reaminti	expl:pv, expl:impers, expl:pass	obj, aux:pass		ccomp:pmod
-ccomp	reclama	expl:pv, expl:impers, expl:pass	obj, aux:pass		ccomp:pmod
-ccomp	recomanda	expl:pv, expl:impers, expl:pass	obj, aux:pass		ccomp:pmod
-ccomp	recunoaște	expl:pv, expl:impers, expl:pass	obj, aux:pass		ccomp:pmod
-ccomp	refuza	expl:pv, expl:impers, expl:pass	obj, aux:pass		ccomp:pmod
-ccomp	regreta	expl:pv, expl:impers, expl:pass	obj, aux:pass		ccomp:pmod
-ccomp	reieși	expl:pv, expl:impers, expl:pass	obj, aux:pass		ccomp:pmod
-ccomp	relata	expl:pv, expl:impers, expl:pass	obj, aux:pass		ccomp:pmod
-ccomp	releva	expl:pv, expl:impers, expl:pass	obj, aux:pass		ccomp:pmod
-ccomp	remarca	expl:pv, expl:impers, expl:pass	obj, aux:pass		ccomp:pmod
-ccomp:pmod	renunța	expl:pv, expl:impers, expl:pass	obl:pmod		ccomp, obj
-ccomp	repeta	expl:pv, expl:impers, expl:pass	obj, aux:pass		ccomp:pmod
-ccomp	reține	expl:pv, expl:impers, expl:pass	obj, aux:pass		ccomp:pmod
-ccomp	reuși	expl:pv, expl:impers, expl:pass	obj, aux:pass, iobj		ccomp:pmod
-ccomp	revela	expl:pv, expl:impers, expl:pass	obj, aux:pass		ccomp:pmod
-ccomp	ruga	expl:pv, expl:impers, expl:pass	obj, aux:pass		ccomp:pmod
-ccomp	scoate în evidență	expl:pv, expl:impers, expl:pass	obj, aux:pass		ccomp:pmod
-ccomp	scrie	expl:pv, expl:impers, expl:pass	obj, aux:pass		ccomp:pmod
-ccomp	semnala	expl:pv, expl:impers, expl:pass	obj, aux:pass		ccomp:pmod
-ccomp	sfătui	expl:pv, expl:impers, expl:pass	obj, aux:pass		ccomp:pmod
-ccomp:pmod	sfii	expl:pv, expl:impers, expl:pass	obj, aux:pass, obl:pmod	expl:pv	ccomp
-ccomp	sili	expl:pv, expl:impers, expl:pass	obj, aux:pass		ccomp:pmod
-ccomp:pmod	sili	expl:pv, expl:impers, expl:pass	expl:pv, obl:pmod	obj | aux:pass	ccomp
-ccomp	simți	expl:pv, expl:impers, expl:pass	obj, aux:pass		ccomp:pmod
-ccomp	simți pe propriu el piele	expl:pv, expl:impers, expl:pass	obj, aux:pass		ccomp:pmod
-ccomp	socoti	expl:pv, expl:impers, expl:pass	obj, aux:pass		ccomp:pmod
-ccomp	solicita	expl:pv, expl:impers, expl:pass	obj, aux:pass		ccomp:pmod
-ccomp	șopti	expl:pv, expl:impers, expl:pass	obj, aux:pass, obl:pmod		obl?despre, ccomp:pmod
-ccomp	spera	expl:pv, expl:impers, expl:pass	obj, aux:pass		ccomp:pmod, obl:pmod
-ccomp	spune	expl:pv, expl:impers, expl:pass	obj, aux:pass, obl:pmod		obl?despre, ccomp:pmod
-ccomp	stabili	expl:pv, expl:impers, expl:pass	obj, aux:pass		ccomp:pmod
-ccomp	ști	expl:pv, expl:impers, expl:pass	obj, aux:pass, obl:pmod		obl?despre, ccomp:pmod
-ccomp:pmod	strădui	expl:pv, expl:impers, expl:pass	obl:pmod	expl:pv	ccomp, obj
-ccomp	sublinia	expl:pv, expl:impers, expl:pass	obj, aux:pass, obl:pmod		obl?despre, ccomp:pmod
-ccomp	sugera	expl:pv, expl:impers, expl:pass	obj, aux:pass		ccomp:pmod
-ccomp	susține	expl:pv, expl:impers, expl:pass	obj, aux:pass		ccomp:pmod
-ccomp:pmod	tânji	expl:pv, expl:impers, expl:pass	obl:pmod		ccomp
-ccomp:pmod	teme	expl:pv, expl:impers, expl:pass	obj, aux:pass, obl:pmod	expl:pv	ccomp
-ccomp	termina	expl:pv, expl:impers, expl:pass	obj, aux:pass		ccomp:pmod
-ccomp	ține minte	expl:pv, expl:impers, expl:pass	obj, aux:pass, obl:pmod		obl?despre, ccomp:pmod
-ccomp	transmite	expl:pv, expl:impers, expl:pass	obj, aux:pass, obl:pmod		obl?despre, ccomp:pmod
-ccomp	uita	expl:pv, expl:impers, expl:pass	obj, aux:pass, obl:pmod		obl?despre, ccomp:pmod
-ccomp	urî	expl:pv, expl:impers, expl:pass	obj, aux:pass		ccomp:pmod
-ccomp	urma	expl:pv, expl:impers, expl:pass	obj, aux:pass		ccomp:pmod
-ccomp	urmări	expl:pv, expl:impers, expl:pass	obj, aux:pass		ccomp:pmod
-ccomp	vedea	expl:pv, expl:impers, expl:pass	obj, aux:pass		ccomp:pmod
-ccomp	veni	expl:pv, expl:impers, expl:pass	obj, aux:pass	iobj	ccomp:pmod
-ccomp	verifica	expl:pv, expl:impers, expl:pass	obj, aux:pass		ccomp:pmod
-ccomp	voi	expl:pv, expl:impers, expl:pass	obj, aux:pass		ccomp:pmod
-ccomp	vrea	expl:pv, expl:impers, expl:pass	obj, aux:pass		ccomp:pmod
-ccomp	zice	expl:pv, expl:impers, expl:pass	obj, aux:pass, obl:pmod		obl?despre, ccomp:pmod
+ccomp	accepta	expl:pv, expl:impers, expl:pass, cop	obj, aux:pass		ccomp:pmod, xcomp:verb
+ccomp:pmod	acuza	expl:pv, expl:impers, expl:pass, cop	expl:pv, obl:pmod	obj | aux:pass	ccomp, xcomp:verb
+ccomp	admite	expl:pv, expl:impers, expl:pass, cop	obj, aux:pass		ccomp:pmod, xcomp:verb
+ccomp:pmod	aduce aminte	expl:pv, expl:impers, expl:pass, cop	obj, aux:pass, obl:pmod		obl?despre, xcomp:verb
+ccomp	aduce la cunoștință	expl:pv, expl:impers, expl:pass, cop	obj, aux:pass		ccomp:pmod, xcomp:verb
+ccomp	afirma	expl:pv, expl:impers, expl:pass, cop	obj, aux:pass		ccomp:pmod, xcomp:verb
+ccomp	afla	expl:pv, expl:impers, expl:pass, cop	obj, aux:pass, obl:pmod		obl?despre, ccomp:pmod, xcomp:verb
+ccomp:pmod	ajuta	expl:pv, expl:impers, expl:pass, cop	expl:pv, obl:pmod	obj | aux:pass	ccomp, xcomp:verb
+ccomp:pmod	amenința	expl:pv, expl:impers, expl:pass, cop	expl:pv, obl:pmod	obj | aux:pass	ccomp, xcomp:verb
+ccomp	aminti	expl:pv, expl:impers, expl:pass, cop	obj, aux:pass, obl:pmod		obl?despre, ccomp:pmod, xcomp:verb
+ccomp:pmod	angaja	expl:pv, expl:impers, expl:pass, cop	obj, aux:pass, obl:pmod	expl:pv	ccomp, xcomp:verb
+ccomp	anunța	expl:pv, expl:impers, expl:pass, cop	obj, aux:pass		obl?despre, ccomp:pmod, xcomp:verb
+ccomp:pmod	anunța	expl:pv, expl:impers, expl:pass, cop	obl:pmod, xcomp	obj | aux:pass	obl?despre, ccomp, xcomp:verb
+ccomp	aprecia	expl:pv, expl:impers, expl:pass, cop	obj, aux:pass		ccomp:pmod, xcomp:verb
+ccomp	aproba	expl:pv, expl:impers, expl:pass, cop	obj, aux:pass		ccomp:pmod, xcomp:verb
+ccomp:pmod	apuca	expl:pv, expl:impers, expl:pass, cop	obj, aux:pass, obl:pmod	expl:pv	ccomp, xcomp:verb
+ccomp	arăta	expl:pv, expl:impers, expl:pass, cop	obj, aux:pass		ccomp:pmod, xcomp:verb
+ccomp	argumenta	expl:pv, expl:impers, expl:pass, cop	obj, aux:pass		ccomp:pmod, xcomp:verb
+ccomp:pmod	asigura	expl:pv, expl:impers, expl:pass, cop	obj, aux:pass, obl:pmod, iobj, expl:pv?dat	expl:pv	ccomp, xcomp:verb
+ccomp:pmod	asigura	expl:pv, expl:impers, expl:pass, cop	expl:pv, obl:pmod, iobj, expl:pv?dat	obj | aux:pass	ccomp, xcomp:verb
+ccomp:pmod	aștepta	expl:pv, expl:impers, expl:pass, cop	obj, aux:pass, obl:pmod	expl:pv	ccomp, xcomp:verb
+ccomp:pmod	atenționa	expl:pv, expl:impers, expl:pass, cop	expl:pv, obl:pmod	obj | aux:pass	ccomp, xcomp:verb
+ccomp:pmod	autoriza	expl:pv, expl:impers, expl:pass, cop	expl:pv, obl:pmod	obj | aux:pass	ccomp, xcomp:verb
+ccomp	auzi	expl:pv, expl:impers, expl:pass, cop	obj, aux:pass		ccomp:pmod, xcomp:verb
+ccomp	avea de gând	expl:pv, expl:impers, expl:pass, cop	obj, aux:pass		ccomp:pmod, xcomp:verb
+ccomp:pmod	avea grijă	expl:pv, expl:impers, expl:pass, cop	obj, aux:pass, obl:pmod		ccomp, xcomp:verb
+ccomp	avea în plan	expl:pv, expl:impers, expl:pass, cop	obj, aux:pass		ccomp:pmod, xcomp:verb
+ccomp	avea în vedere	expl:pv, expl:impers, expl:pass, cop	obj, aux:pass		ccomp:pmod, xcomp:verb
+ccomp:pmod	avea nevoie	expl:pv, expl:impers, expl:pass, cop	obj, aux:pass, obl:pmod		ccomp, xcomp:verb
+ccomp	avea voie	expl:pv, expl:impers, expl:pass, cop	obj, aux:pass		ccomp:pmod, xcomp:verb
+ccomp	avertiza	expl:pv, expl:impers, expl:pass, cop	obj, aux:pass		obl?despre, ccomp:pmod, xcomp:verb
+ccomp:pmod	avertiza	expl:pv, expl:impers, expl:pass, cop	expl:pv, obl:pmod	obj | aux:pass	obl?despre, ccomp, xcomp, xcomp:verb
+ccomp	băga de seamă	expl:pv, expl:impers, expl:pass, cop	obj, aux:pass		ccomp:pmod, xcomp:verb
+ccomp	bănui	expl:pv, expl:impers, expl:pass, cop	obj, aux:pass		ccomp:pmod, xcomp:verb
+ccomp	binevoi	expl:pv, expl:impers, expl:pass, cop	obj, aux:pass		ccomp:pmod, obl:pmod, xcomp:verb
+ccomp:pmod	bucura	expl:pv, expl:impers, expl:pass, cop	obj, aux:pass, obl:pmod	expl:pv	ccomp, xcomp:verb
+ccomp	cerca	expl:pv, expl:impers, expl:pass, cop	obj, aux:pass		ccomp:pmod, xcomp:verb
+ccomp	cere	expl:pv, expl:impers, expl:pass, cop	obj, aux:pass		ccomp:pmod, xcomp:verb
+ccomp	certifica	expl:pv, expl:impers, expl:pass, cop	obj, aux:pass		ccomp:pmod, xcomp:verb
+ccomp	citi	expl:pv, expl:impers, expl:pass, cop	obj, aux:pass, obl:pmod		obl?despre, ccomp:pmod, xcomp:verb
+ccomp	comunica	expl:pv, expl:impers, expl:pass, cop	obj, aux:pass, obl:pmod		obl?despre, ccomp:pmod, xcomp:verb
+ccomp	conchide	expl:pv, expl:impers, expl:pass, cop	obj, aux:pass		ccomp:pmod, xcomp:verb
+ccomp	concluziona	expl:pv, expl:impers, expl:pass, cop	obj, aux:pass		ccomp:pmod, xcomp:verb
+ccomp	confirma	expl:pv, expl:impers, expl:pass, cop	obj, aux:pass		ccomp:pmod, xcomp:verb
+ccomp	conjectura	expl:pv, expl:impers, expl:pass, cop	obj, aux:pass		ccomp:pmod, xcomp:verb
+ccomp	consemna	expl:pv, expl:impers, expl:pass, cop	obj, aux:pass		ccomp:pmod, xcomp:verb
+ccomp	considera	expl:pv, expl:impers, expl:pass, cop	obj, aux:pass		ccomp:pmod, xcomp:verb
+ccomp:pmod	consimți	expl:pv, expl:impers, expl:pass, cop	obl:pmod		ccomp, obj, xcomp:verb
+ccomp	constata	expl:pv, expl:impers, expl:pass, cop	obj, aux:pass		ccomp:pmod, xcomp:verb
+ccomp	continua	expl:pv, expl:impers, expl:pass, cop	obj, aux:pass		ccomp:pmod, xcomp:verb
+ccomp:pmod	convinge	expl:pv, expl:impers, expl:pass, cop	expl:pv, obl:pmod	obj | aux:pass	ccomp, xcomp:verb
+ccomp	crede	expl:pv, expl:impers, expl:pass, cop	obj, aux:pass, obl:pmod		ccomp:pmod, xcomp:verb
+ccomp	cugeta	expl:pv, expl:impers, expl:pass, cop	obj, aux:pass, obl:pmod		obl?despre, ccomp:pmod, xcomp:verb
+ccomp	da înainte	expl:pv, expl:impers, expl:pass, cop	obj, aux:pass, obl:pmod		ccomp:pmod, xcomp:verb
+ccomp	da seamă	expl:pv, expl:impers, expl:pass, cop	obj, aux:pass		ccomp:pmod, xcomp:verb
+ccomp:pmod	da seamă	expl:pv, expl:impers, expl:pass, cop	obj, aux:pass, obl:pmod	expl:pv	ccomp, xcomp:verb
+ccomp	da voie	expl:pv, expl:impers, expl:pass, cop	obj, aux:pass		obl:pmod, ccomp:pmod, xcomp:verb
+ccomp	datora	expl:pv, expl:impers, expl:pass, cop	obj, aux:pass		ccomp:pmod, xcomp:verb
+ccomp	decide	expl:pv, expl:impers, expl:pass, cop	obj, aux:pass		ccomp:pmod, xcomp:verb
+ccomp	declara	expl:pv, expl:impers, expl:pass, cop	obj, aux:pass		ccomp:pmod, xcomp:verb
+ccomp	delega	expl:pv, expl:impers, expl:pass, cop	obj, aux:pass		ccomp:pmod, xcomp:verb
+ccomp	demonstra	expl:pv, expl:impers, expl:pass, cop	obj, aux:pass		ccomp:pmod, xcomp:verb
+ccomp	descoperi	expl:pv, expl:impers, expl:pass, cop	obj, aux:pass		ccomp:pmod, xcomp:verb
+ccomp	detalia	expl:pv, expl:impers, expl:pass, cop	obj, aux:pass		ccomp:pmod, xcomp:verb
+ccomp	determina	expl:pv, expl:impers, expl:pass, cop	obj, aux:pass		ccomp:pmod, xcomp:verb
+ccomp	dezvălui	expl:pv, expl:impers, expl:pass, cop	obj, aux:pass, obl:pmod		obl?despre, ccomp:pmod, xcomp:verb
+ccomp	discuta	expl:pv, expl:impers, expl:pass, cop	obj, aux:pass, obl:pmod		obl?despre, ccomp:pmod, xcomp:verb
+ccomp	dori	expl:pv, expl:impers, expl:pass, cop	obj, aux:pass		ccomp:pmod, xcomp:verb
+ccomp	dovedi	expl:pv, expl:impers, expl:pass, cop	obj, aux:pass		ccomp:pmod, xcomp:verb
+ccomp	evita	expl:pv, expl:impers, expl:pass, cop	obj, aux:pass		ccomp:pmod, xcomp:verb
+ccomp	exclude	expl:pv, expl:impers, expl:pass, cop	obj, aux:pass		ccomp:pmod, xcomp:verb
+ccomp	explica	expl:pv, expl:impers, expl:pass, cop	obj, aux:pass		ccomp:pmod, xcomp:verb
+ccomp	făgădui	expl:pv, expl:impers, expl:pass, cop	obj, aux:pass		ccomp:pmod, xcomp:verb
+ccomp	favoriza	expl:pv, expl:impers, expl:pass, cop	obj, aux:pass		ccomp, obj, xcomp:verb
+ccomp:pmod	fi conștient	expl:pv, expl:impers, expl:pass, cop	obl:pmod		ccomp, obj, xcomp:verb
+ccomp:pmod	fi de acord	expl:pv, expl:impers, expl:pass, cop	obl:pmod		ccomp, obj, xcomp:verb
+ccomp:pmod	fi de părere	expl:pv, expl:impers, expl:pass, cop	obl:pmod		ccomp, obj, xcomp:verb
+ccomp:pmod	fi în măsură	expl:pv, expl:impers, expl:pass, cop	obl:pmod		ccomp, obj, xcomp:verb
+ccomp:pmod	fi teamă	expl:pv, expl:impers, expl:pass, cop	obl:pmod		ccomp, obj, xcomp:verb
+ccomp	garanta	expl:pv, expl:impers, expl:pass, cop	obj, aux:pass		ccomp:pmod, xcomp:verb
+ccomp	găsi cu cale	expl:pv, expl:impers, expl:pass, cop	obj, aux:pass		ccomp:pmod, xcomp:verb
+ccomp	găsi de cuviință	expl:pv, expl:impers, expl:pass, cop	obj, aux:pass		ccomp:pmod, xcomp:verb
+ccomp	ghici	expl:pv, expl:impers, expl:pass, cop	obj, aux:pass		ccomp:pmod, xcomp:verb
+ccomp	hotărî	expl:pv, expl:impers, expl:pass, cop	obj, aux:pass		ccomp:pmod, obl?asupra, xcomp:verb
+ccomp	imagina	expl:pv, expl:impers, expl:pass, cop	obj, aux:pass	expl:pv	ccomp:pmod, xcomp:verb
+ccomp:pmod	împiedica	expl:pv, expl:impers, expl:pass, cop	expl:pv, obl:pmod	obj | aux:pass	ccomp, xcomp:verb
+ccomp	impune	expl:pv, expl:impers, expl:pass, cop	obj, aux:pass		ccomp:pmod, xcomp:verb
+ccomp	începe	expl:pv, expl:impers, expl:pass, cop	obj, aux:pass		ccomp:pmod, xcomp:verb
+ccomp	încerca	expl:pv, expl:impers, expl:pass, cop	obj, aux:pass		ccomp:pmod, xcomp:verb
+ccomp	înceta	expl:pv, expl:impers, expl:pass, cop	obj, aux:pass		ccomp:pmod, xcomp:verb
+ccomp	închipui	expl:pv, expl:impers, expl:pass, cop	obj, aux:pass	expl:pv	ccomp:pmod, xcomp:verb
+ccomp:pmod	încuraja	expl:pv, expl:impers, expl:pass, cop	expl:pv, obl:pmod	obj | aux:pass	ccomp, xcomp:verb
+ccomp:pmod	îndemna	expl:pv, expl:impers, expl:pass, cop	expl:pv, obl:pmod	obj | aux:pass	ccomp, xcomp:verb
+ccomp	indica	expl:pv, expl:impers, expl:pass, cop	obj, aux:pass		ccomp:pmod, xcomp:verb
+ccomp:pmod	îndoi	expl:pv, expl:impers, expl:pass, cop	obj, aux:pass, obl:pmod	expl:pv	ccomp, xcomp:verb
+ccomp	îndrăzni	expl:pv, expl:impers, expl:pass, cop	obj, aux:pass		ccomp:pmod, xcomp:verb
+ccomp:pmod	îndupleca	expl:pv, expl:impers, expl:pass, cop	expl:pv, obl:pmod	obj | aux:pass	ccomp, xcomp:verb
+ccomp:pmod	informa	expl:pv, expl:impers, expl:pass, cop	expl:pv, obl:pmod	obj | aux:pass	obl?despre, ccomp, xcomp:verb
+ccomp:pmod	îngriji	expl:pv, expl:impers, expl:pass, cop	obj, aux:pass, obl:pmod	expl:pv	ccomp, xcomp:verb
+ccomp:pmod	însărcina	expl:pv, expl:impers, expl:pass, cop	expl:pv, obl:pmod	obj | aux:pass	ccomp, xcomp:verb
+ccomp:pmod	inspira	expl:pv, expl:impers, expl:pass, cop	expl:pv, obl:pmod	obj | aux:pass	ccomp, xcomp:verb
+ccomp	înțelege	expl:pv, expl:impers, expl:pass, cop	obj, aux:pass		ccomp:pmod, xcomp:verb
+ccomp	intenționa	expl:pv, expl:impers, expl:pass, cop	obj, aux:pass		ccomp:pmod, xcomp:verb
+ccomp	interzice	expl:pv, expl:impers, expl:pass, cop	obj, aux:pass		ccomp:pmod, xcomp:verb
+ccomp	întreba	expl:pv, expl:impers, expl:pass, cop	obj | aux:pass		ccomp:pmod, obl:pmod, obl?despre, xcomp:verb
+xcomp	întreba	expl:pv, expl:impers, expl:pass, cop	obl:pmod, ccomp:pmod	obj | aux:pass	ccomp:pmod
+ccomp	învăța	expl:pv, expl:impers, expl:pass, cop	obj, aux:pass		ccomp, xcomp:verb
+xcomp	învăța	expl:pv, expl:impers, expl:pass, cop		obj | aux:pass	ccomp:pmod
+ccomp:pmod	invita	expl:pv, expl:impers, expl:pass, cop	expl:pv, obl:pmod	obj | aux:pass	ccomp:pmod, xcomp:verb
+ccomp	izbuti	expl:pv, expl:impers, expl:pass, cop	obj, aux:pass		ccomp:pmod, xcomp:verb
+ccomp	jura	expl:pv, expl:impers, expl:pass, cop	obj, aux:pass		ccomp:pmod, xcomp:verb
+xcomp	lăsa	expl:pv, expl:impers, expl:pass, cop	iobj, expl:pv?dat	obj | aux:pass	ccomp:pmod
+ccomp	lua seamă	expl:pv, expl:impers, expl:pass, cop	obj, aux:pass		ccomp:pmod, xcomp:verb
+ccomp	mărturisi	expl:pv, expl:impers, expl:pass, cop	obj, aux:pass		ccomp:pmod, xcomp:verb
+ccomp	menționa	expl:pv, expl:impers, expl:pass, cop	obj, aux:pass		ccomp:pmod, xcomp:verb
+ccomp	mira	expl:pv, expl:impers, expl:pass, cop	obj, aux:pass		ccomp:pmod, xcomp:verb
+ccomp	mulțumi	expl:pv, expl:impers, expl:pass, cop	obj, aux:pass		ccomp:pmod, xcomp:verb
+ccomp	necesita	expl:pv, expl:impers, expl:pass, cop	obj, aux:pass		ccomp:pmod, xcomp:verb
+ccomp	nega	expl:pv, expl:impers, expl:pass, cop	obj, aux:pass		ccomp:pmod, xcomp:verb
+ccomp	neglija	expl:pv, expl:impers, expl:pass, cop	obj, aux:pass		ccomp:pmod, xcomp:verb
+ccomp	nota	expl:pv, expl:impers, expl:pass, cop	obj, aux:pass		ccomp:pmod, xcomp:verb
+ccomp	obișnui	expl:pv, expl:impers, expl:pass, cop	obj, aux:pass		ccomp, xcomp:verb
+ccomp:pmod	obliga	expl:pv, expl:impers, expl:pass, cop	expl:pv, obl:pmod	obj | aux:pass	ccomp:pmod, xcomp:verb
+xcomp	obliga	expl:pv, expl:impers, expl:pass, cop		obj | aux:pass	ccomp:pmod
+ccomp	observa	expl:pv, expl:impers, expl:pass, cop	obj, aux:pass		ccomp:pmod, xcomp:verb
+ccomp:pmod	opri	expl:pv, expl:impers, expl:pass, cop	expl:pv, obl:pmod	obj | aux:pass	ccomp, xcomp:verb
+ccomp	ordona	expl:pv, expl:impers, expl:pass, cop	obj, aux:pass		ccomp:pmod, xcomp:verb
+ccomp	păsa	expl:pv, expl:impers, expl:pass, cop	obj, aux:pass		ccomp, xcomp:verb
+ccomp	permite	expl:pv, expl:impers, expl:pass, cop	obj, aux:pass		ccomp:pmod, xcomp:verb
+ccomp:pmod	plânge	expl:pv, expl:impers, expl:pass, cop	obj, aux:pass, obl:pmod	expl:pv	ccomp:pmod, xcomp:verb
+ccomp	planifica	expl:pv, expl:impers, expl:pass, cop	obj, aux:pass		ccomp:pmod, xcomp:verb
+ccomp:pmod	porni	expl:pv, expl:impers, expl:pass, cop	obj, aux:pass, obl:pmod	expl:pv	ccomp:pmod, xcomp:verb
+ccomp	porunci	expl:pv, expl:impers, expl:pass, cop	obj, aux:pass		ccomp, xcomp:verb
+ccomp	povesti	expl:pv, expl:impers, expl:pass, cop	obj, aux:pass		ccomp:pmod, xcomp:verb
+ccomp	preciza	expl:pv, expl:impers, expl:pass, cop	obj, aux:pass		ccomp:pmod, xcomp:verb
+ccomp	preconiza	expl:pv, expl:impers, expl:pass, cop	obj, aux:pass		ccomp, xcomp:verb
+ccomp:pmod	predispune	expl:pv, expl:impers, expl:pass, cop	expl:pv, obl:pmod	obj | aux:pass	ccomp:pmod, xcomp:verb
+ccomp	preface	expl:pv, expl:impers, expl:pass, cop	obj, aux:pass		ccomp:pmod, xcomp:verb
+ccomp	prefera	expl:pv, expl:impers, expl:pass, cop	obj, aux:pass		ccomp:pmod, xcomp:verb
+ccomp:pmod	pregăti	expl:pv, expl:impers, expl:pass, cop	obj, aux:pass, obl:pmod	expl:pv	ccomp:pmod, xcomp:verb
+ccomp	presupune	expl:pv, expl:impers, expl:pass, cop	obj, aux:pass		ccomp, xcomp:verb
+ccomp	pretinde	expl:pv, expl:impers, expl:pass, cop	obj, aux:pass		ccomp:pmod, xcomp:verb
+ccomp	prevedea	expl:pv, expl:impers, expl:pass, cop	obj, aux:pass		ccomp:pmod, xcomp:verb
+ccomp	preveni	expl:pv, expl:impers, expl:pass, cop	obj, aux:pass		ccomp:pmod, xcomp:verb
+ccomp:pmod	preveni	expl:pv, expl:impers, expl:pass, cop	expl:pv, obl:pmod	obj | aux:pass	ccomp:pmod, xcomp:verb
+ccomp	prezice	expl:pv, expl:impers, expl:pass, cop	obj, aux:pass		ccomp:pmod, xcomp:verb
+ccomp	pricepe	expl:pv, expl:impers, expl:pass, cop	obj, aux:pass		ccomp:pmod, xcomp:verb
+ccomp	primi	expl:pv, expl:impers, expl:pass, cop	obj, aux:pass		ccomp, xcomp:verb
+ccomp	promite	expl:pv, expl:impers, expl:pass, cop	obj, aux:pass		csubj, ccomp:pmod, xcomp:verb
+ccomp	propune	expl:pv, expl:impers, expl:pass, cop	obj, aux:pass		ccomp:pmod, xcomp:verb
+ccomp	pune în gând	expl:pv, expl:impers, expl:pass, cop	obj, aux:pass		ccomp:pmod, xcomp:verb
+ccomp	putea	expl:pv, expl:impers, expl:pass, cop	obj, aux:pass		ccomp:pmod, xcomp:verb
+ccomp	răcni	expl:pv, expl:impers, expl:pass, cop	obj, aux:pass		ccomp:pmod, xcomp:verb
+ccomp	raporta	expl:pv, expl:impers, expl:pass, cop	obj, aux:pass		ccomp:pmod, xcomp:verb
+ccomp	răspunde	expl:pv, expl:impers, expl:pass, cop	obj, aux:pass		ccomp:pmod, xcomp:verb
+ccomp:pmod	râvni	expl:pv, expl:impers, expl:pass, cop	expl:pv, obl:pmod		ccomp:pmod, xcomp:verb
+ccomp	reafirma	expl:pv, expl:impers, expl:pass, cop	obj, aux:pass		ccomp:pmod, xcomp:verb
+ccomp	realiza	expl:pv, expl:impers, expl:pass, cop	obj, aux:pass		ccomp:pmod, xcomp:verb
+ccomp	reaminti	expl:pv, expl:impers, expl:pass, cop	obj, aux:pass		ccomp:pmod, xcomp:verb
+ccomp	reclama	expl:pv, expl:impers, expl:pass, cop	obj, aux:pass		ccomp:pmod, xcomp:verb
+ccomp	recomanda	expl:pv, expl:impers, expl:pass, cop	obj, aux:pass		ccomp:pmod, xcomp:verb
+ccomp	recunoaște	expl:pv, expl:impers, expl:pass, cop	obj, aux:pass		ccomp:pmod, xcomp:verb
+ccomp	refuza	expl:pv, expl:impers, expl:pass, cop	obj, aux:pass		ccomp:pmod, xcomp:verb
+ccomp	regreta	expl:pv, expl:impers, expl:pass, cop	obj, aux:pass		ccomp, obj, xcomp:verb
+ccomp	relata	expl:pv, expl:impers, expl:pass, cop	obj, aux:pass		ccomp:pmod, xcomp:verb
+ccomp	releva	expl:pv, expl:impers, expl:pass, cop	obj, aux:pass		ccomp, xcomp:verb
+ccomp	remarca	expl:pv, expl:impers, expl:pass, cop	obj, aux:pass		ccomp:pmod, xcomp:verb
+ccomp:pmod	renunța	expl:pv, expl:impers, expl:pass, cop	obl:pmod		ccomp:pmod, xcomp:verb
+ccomp	repeta	expl:pv, expl:impers, expl:pass, cop	obj, aux:pass		ccomp:pmod, xcomp:verb
+ccomp	reține	expl:pv, expl:impers, expl:pass, cop	obj, aux:pass		ccomp:pmod, xcomp:verb
+ccomp	reuși	expl:pv, expl:impers, expl:pass, cop	obj, aux:pass, iobj		ccomp:pmod, xcomp:verb
+ccomp	revela	expl:pv, expl:impers, expl:pass, cop	obj, aux:pass		ccomp:pmod, xcomp:verb
+ccomp	ruga	expl:pv, expl:impers, expl:pass, cop	obj, aux:pass		ccomp:pmod, xcomp:verb
+ccomp	scoate în evidență	expl:pv, expl:impers, expl:pass, cop	obj, aux:pass		ccomp, xcomp:verb
+ccomp	scrie	expl:pv, expl:impers, expl:pass, cop	obj, aux:pass		ccomp:pmod, xcomp:verb
+ccomp	semnala	expl:pv, expl:impers, expl:pass, cop	obj, aux:pass		ccomp, xcomp:verb
+ccomp	sfătui	expl:pv, expl:impers, expl:pass, cop	obj, aux:pass		ccomp:pmod, xcomp:verb
+ccomp:pmod	sfii	expl:pv, expl:impers, expl:pass, cop	obj, aux:pass, obl:pmod	expl:pv	ccomp:pmod, xcomp:verb
+ccomp	sili	expl:pv, expl:impers, expl:pass, cop	obj, aux:pass		ccomp:pmod, xcomp:verb
+ccomp:pmod	sili	expl:pv, expl:impers, expl:pass, cop	expl:pv, obl:pmod	obj | aux:pass	ccomp:pmod, xcomp:verb
+ccomp	simți	expl:pv, expl:impers, expl:pass, cop	obj, aux:pass		obl?despre, ccomp:pmod, xcomp:verb
+ccomp	simți pe propriu el piele	expl:pv, expl:impers, expl:pass, cop	obj, aux:pass		ccomp:pmod, obl:pmod, xcomp:verb
+ccomp	socoti	expl:pv, expl:impers, expl:pass, cop	obj, aux:pass		obl?despre, ccomp:pmod, xcomp:verb
+ccomp	solicita	expl:pv, expl:impers, expl:pass, cop	obj, aux:pass		ccomp:pmod, xcomp:verb
+ccomp	șopti	expl:pv, expl:impers, expl:pass, cop	obj, aux:pass, obl:pmod		obl?despre, ccomp:pmod, xcomp:verb
+ccomp	spera	expl:pv, expl:impers, expl:pass, cop	obj, aux:pass		ccomp, obj, xcomp:verb
+ccomp	spune	expl:pv, expl:impers, expl:pass, cop	obj, aux:pass, obl:pmod		obl?despre, ccomp:pmod, xcomp:verb
+ccomp	stabili	expl:pv, expl:impers, expl:pass, cop	obj, aux:pass		ccomp:pmod, xcomp:verb
+ccomp	ști	expl:pv, expl:impers, expl:pass, cop	obj, aux:pass, obl:pmod		ccomp:pmod, xcomp:verb
+ccomp:pmod	strădui	expl:pv, expl:impers, expl:pass, cop	obl:pmod	expl:pv	ccomp, xcomp:verb
+ccomp	sublinia	expl:pv, expl:impers, expl:pass, cop	obj, aux:pass, obl:pmod		ccomp, xcomp:verb
+ccomp	sugera	expl:pv, expl:impers, expl:pass, cop	obj, aux:pass		ccomp:pmod, xcomp:verb
+ccomp	susține	expl:pv, expl:impers, expl:pass, cop	obj, aux:pass		obl?despre, ccomp:pmod, xcomp:verb
+ccomp:pmod	tânji	expl:pv, expl:impers, expl:pass, cop	obl:pmod		obl?despre, ccomp:pmod, xcomp:verb
+ccomp:pmod	teme	expl:pv, expl:impers, expl:pass, cop	obj, aux:pass, obl:pmod	expl:pv	obl?despre, ccomp:pmod, xcomp:verb
+ccomp	termina	expl:pv, expl:impers, expl:pass, cop	obj, aux:pass		ccomp:pmod, xcomp:verb
+ccomp	ține minte	expl:pv, expl:impers, expl:pass, cop	obj, aux:pass, obl:pmod		ccomp:pmod, xcomp:verb
+ccomp	transmite	expl:pv, expl:impers, expl:pass, cop	obj, aux:pass, obl:pmod		ccomp:pmod, xcomp:verb
+ccomp	uita	expl:pv, expl:impers, expl:pass, cop	obj, aux:pass, obl:pmod		ccomp:pmod, xcomp:verb
+ccomp	urî	expl:pv, expl:impers, expl:pass, cop	obj, aux:pass		ccomp:pmod, xcomp:verb
+ccomp	urma	expl:pv, expl:impers, expl:pass, cop	obj, aux:pass, iobj, expl:pv?dat		ccomp:pmod, xcomp:verb
+ccomp	urmări	expl:pv, expl:impers, expl:pass, cop	obj, aux:pass		ccomp:pmod, xcomp:verb
+ccomp	vedea	expl:pv, expl:impers, expl:pass, cop	obj, aux:pass		obl?despre, ccomp:pmod, xcomp:verb
+ccomp	verifica	expl:pv, expl:impers, expl:pass, cop	obj, aux:pass		ccomp:pmod, xcomp:verb
+ccomp	voi	expl:pv, expl:impers, expl:pass, cop	obj, aux:pass		ccomp:pmod, xcomp:verb
+ccomp	vrea	expl:pv, expl:impers, expl:pass, cop	obj, aux:pass		ccomp:pmod, xcomp:verb
+ccomp	zice	expl:pv, expl:impers, expl:pass, cop	obj, aux:pass, obl:pmod		obl?despre, ccomp:pmod, xcomp:verb
