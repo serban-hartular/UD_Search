@@ -6,6 +6,8 @@ from typing import List, Dict
 
 import pandas as pd
 
+import valences
+
 
 def vdf_datum_to_list(value) -> List[str]:
     if pd.isna(value):
@@ -82,7 +84,7 @@ class DeprelValence:
                           'obl']
         modal_children = [child for child in node.parent.children()
                           if child != node and child.data('deprel') in modals_deprels ]
-        dummy_node = Tree(dict(node.data()), node.children() + modal_children)
+        dummy_node = Tree(dict(node.data()), node.parent, node.children() + modal_children)
         return dummy_node
         
     def __str__(self):
@@ -107,3 +109,10 @@ for k,v in ev_dict.items():
     lemma_valence_dict[v['Lemma']].append(DeprelValence.from_valence_df_dict(v))
 
 lemma_valence_dict : Dict[str, List[DeprelValence]] = dict(lemma_valence_dict)
+
+def get_matching_valences(node : Tree) -> List[DeprelValence]:
+    full_lemma = str(valences.get_verb_lemma(node))
+    if full_lemma not in lemma_valence_dict:
+        return []
+    vals = [dep_val for dep_val in lemma_valence_dict[full_lemma] if dep_val.matches(node)]
+    return vals

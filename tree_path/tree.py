@@ -1,7 +1,7 @@
 from __future__ import annotations
 
 import json
-from typing import Dict, List, Iterator, Callable, Union, Any, Set
+from typing import Dict, List, Iterator, Callable, Union, Any, Set, Tuple
 from pyconll.unit.sentence import Sentence
 from pyconll.unit.token import Token
 
@@ -63,8 +63,7 @@ class Tree:
         self.parent = parent
         self._children = children
         self.str_from_conllu = True 
-    def data(self, path:str|List[str] = None) -> str|Dict|None:
-        """set data by path. Not tested"""
+    def data(self, path:str|List[str] = None) -> str|Dict|Set|None:
         if not path:
             return self._data
         if isinstance(path, str):
@@ -76,6 +75,14 @@ class Tree:
             else:
                 return None
         return d
+    def sdata(self, path:str|List[str]) -> str:
+        """data(path) as string. Sets, lists, tuples are returned joined by ',' """
+        data = self.data(path)
+        if not data: return ''
+        if isinstance(data, (Set, List, Tuple)):
+            return ','.join(data)
+        return str(data)
+        
     def _path_to_dict_and_key(self, path:str|List[str], create_if_absent : bool) -> (Dict, str):
         if isinstance(path, str):
             path = path.split('.')

@@ -48,7 +48,7 @@ relatare_parataxa =\
             {'afirma', 'zice', 'autoriza', 'povesti', 'ruga', 'avea grijă', 'afla', 'preciza',
             'solicita', 'scrie', 'reieși', 'stabili', 'informa', 'crede', 'relata', 'începe',
             'întreba', 'releva', 'obliga', 'aminti', 'dori', 'raporta', 'anunța', 'continua',
-            'spune', 'declara', 'aproba', 'prevedea', 'cugeta', 'răspunde', 'putea', 'mulțumi',
+            'spune', 'declara', 'aproba', 'prevedea', 'cugeta', 'răspunde', 'mulțumi',
             'șopti', 'sublinia', 'invita', 'indica', 'descoperi', 'admite', 'urma', 'răcni',
             'repeta', 'explica', 'dezvălui', 'prefera', 'mărturisi', 'avertiza', 'recunoaște',
             'conveni', 'observa', 'îndemna', 'da seamă', 'asigura', }
@@ -56,6 +56,9 @@ relatare_parataxa =\
 basic_filter_expr = 'upos=VERB & !deprel=fixed & !misc.Mood=Part'
 supine_filter_expr = '!misc.Mood=Supine | (misc.Mood=Supine & deprel=ccomp)'
 def basic_filter(node : Tree) -> bool:
+    # aspectual gerunds
+    if node.data('lemma') in aspectuale and Search('.[misc.Mood=Ger]').find(node):
+        return False
     return bool(Search('.[%s & (%s) ]' % (basic_filter_expr, supine_filter_expr)).find(node))
 
 _val = lambda s : list(s)[0]
@@ -74,8 +77,9 @@ def quote_introduction_filter(node : Tree) -> bool:
     proj = parataxis.projection_nodes()
     if proj[0].data('xpos') in ['COLON', 'QUOT', 'DBLQ']:
         return False
-    if proj[0].data('upos') in ['PUNCT', 'NUM'] and proj[-1].data('upos') == 'PUNCT' or\
-            proj[0].data('id') == '1' and proj[-1].data('upos') == 'PUNCT':
+    # 1), 1., (e), etc
+    if proj[0].data('upos') in ['PUNCT', 'NUM'] and proj[-1].data('xpos') in ('RPAR', 'PERIOD') or \
+            proj[0].data('id') == '1' and proj[-1].data('xpos') in ('RPAR', 'PERIOD'):
         return True
     return False
 
@@ -85,7 +89,8 @@ def basic_next_word_filter(node : Tree) -> bool:
     proj = node.projection_nodes()
     if proj[-1] is node: return True # can't tell
     next = proj[proj.index(node)+1]
-    if next.data('form') == 'să' or Search('.[misc.Mood=Inf]').find(node) \
-            or Search('.[lemma=a upos=PART]').find(node):
+    if next.data('form') == 'să' or \
+            Search('.[(upos=VERB & misc.Mood=Inf) | (upos=AUX & feats.VerbForm=Inf)]').find(next) \
+            or Search('.[lemma=a upos=PART]').find(next):
         return False
     return True

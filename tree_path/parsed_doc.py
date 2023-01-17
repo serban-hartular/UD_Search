@@ -272,3 +272,17 @@ def annot_dict_to_list(annot_dict : Dict, make_sets : List[str]):
                 annot[k] = {annot[k]}
     
     return annots
+
+def overwrite_sentences(orig_doc : ParsedDoc, overwrite_src : ParsedDoc) -> ParsedDoc:
+    """Overwrites all sentences in overwrite_src that it finds (by sent_id) in orig_doc"""
+    overwrite_src.make_id_dict()
+    new_sent_list : List[ParsedSentence] = []
+    for sentence in orig_doc:
+        if sentence.sent_id not in overwrite_src.id_dict:
+            new_sent_list.append(sentence)
+        else:
+            new_sent_list.append(overwrite_src.sentence(sentence.sent_id))
+    new_doc = ParsedDoc(orig_doc.doc_id, dict(orig_doc.meta_data))
+    new_doc.extend(new_sent_list)
+    new_doc.make_id_dict()
+    return new_doc

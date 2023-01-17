@@ -1,3 +1,6 @@
+from __future__ import annotations
+
+from typing import List
 
 import tree_path as tp
 import tree_path.evaluator
@@ -36,3 +39,30 @@ def anaphoric_advmod_present(node : Tree) -> (bool, bool):
     in_before = any([a in before for a in advmods])
     in_after = any([a in after for a in advmods])
     return in_before or in_after, in_before
+
+def real_parent(node : Tree) -> Tree:
+    """if a conjunct, returns parent of conjunct"""
+    if node.data('deprel') == 'conj' and node.parent:
+        return node.parent.parent
+    return node.parent
+
+
+def get_attributive_relpron_source(node : Tree) -> Tree|None:
+    # must be care or ce
+    if node.sdata('lemma') not in ('care', 'ce'): return None
+    # its parent must be an adverbial clause
+    if not node.parent or node.parent.sdata('deprel')=='acl': return None
+    parent = real_parent(node.parent) # to avoid returning previous conjunct
+    return parent
+
+semiadverbe = ['mai', 'și', 'chiar', 'doar', 'numai', 'măcar', 'decât', 'nu', 'cam', 'tot']
+
+def get_nonthematic_subordinates(verb : Tree) -> (List[Tree], List[Tree]):
+    """returns nonthematic dependents before and after verb"""
+    core_deprels = ['advmod', 'advcl', 'obl', ]
+    deprels = list(core_deprels)
+    deprels += [d + ':tmod' for d in core_deprels]
+    deprels += [d + ':tcl' for d in core_deprels]
+    ms_before = Search('<[deprel=%s !lemma=%s]' % (','.join(deprels), ','.join(semiadverbe))).find(verb)
+    ms_after = Search('>[deprel=%s]' % ','.join(deprels)).find(verb)
+    return [m.node for m in ms_before], [m.node for m in ms_after]
