@@ -38,7 +38,7 @@ def vdf_string_to_search(src : str) -> Search:
         src = ['deprel='+s for s in src]
         src = '|'.join(src)
         return Search('/[%s]' % src)
-    if '?' in src: # like obl?despre, expl:pv?dat
+    if '?' in src: # like obl?despre, expl:pv?dat, obj?norel
         [deprel, arg] = src.split('?')
         if deprel == 'obl': 
             return Search('/[deprel=%s /[lemma=%s] ]' % (deprel, arg))
@@ -52,6 +52,10 @@ def vdf_string_to_search(src : str) -> Search:
             if arg not in ('verb', 'nonverb'): raise Exception('Unknown %s type %s' % (deprel, arg))
             if arg == 'verb': return Search('/[deprel=xcomp (upos=VERB & !misc.Mood=Part | /[deprel=cop,aux:pass] ) ]')
             else: return Search('/[deprel=xcomp !(upos=VERB & !misc.Mood=Part | /[deprel=cop,aux:pass] ) ]')
+        elif deprel == 'obj':
+            # obj?norel - only find obj if it's not (relative and before verb)
+            if arg not in ('norel'): raise Exception('Unknown %s type %s' % (deprel, arg))
+            return Search('.[ /[deprel=obj] & !<[deprel=obj feats.PronType=Rel] ]')
         else:
             raise Exception('Unknown thing ' + src)
     return Search('/[deprel=%s]' % src)

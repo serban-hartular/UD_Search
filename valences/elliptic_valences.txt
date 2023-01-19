@@ -27,8 +27,8 @@ ccomp	avea de gând	expl:pv, expl:impers, expl:pass, cop	obj, aux:pass		ccomp:pm
 ccomp:pmod	avea grijă	expl:pv, expl:impers, expl:pass, cop	obj, aux:pass, obl:pmod		ccomp, xcomp:verb
 ccomp	avea în plan	expl:pv, expl:impers, expl:pass, cop	obj, aux:pass		ccomp:pmod, xcomp:verb
 ccomp	avea în vedere	expl:pv, expl:impers, expl:pass, cop	obj, aux:pass		ccomp:pmod, xcomp:verb
-ccomp:pmod	avea nevoie	expl:pv, expl:impers, expl:pass, cop	obj, aux:pass, obl:pmod		ccomp, xcomp:verb
-ccomp	avea voie	expl:pv, expl:impers, expl:pass, cop	obj, aux:pass		ccomp:pmod, xcomp:verb
+ccomp:pmod	avea nevoie	expl:pv, expl:impers, expl:pass, cop	obj?norel, aux:pass, obl:pmod		ccomp, xcomp:verb
+ccomp	avea voie	expl:pv, expl:impers, expl:pass, cop	obj?norel, aux:pass		ccomp:pmod, xcomp:verb
 ccomp	avertiza	expl:pv, expl:impers, expl:pass, cop	obj, aux:pass, obl:pmod		obl?despre, ccomp:pmod, xcomp:verb
 ccomp:pmod	avertiza	expl:pv, expl:impers, expl:pass, cop	expl:pv, obl:pmod	obj | aux:pass	obl?despre, ccomp, xcomp, xcomp:verb
 ccomp	băga de seamă	expl:pv, expl:impers, expl:pass, cop	obj, aux:pass		ccomp:pmod, xcomp:verb
@@ -66,7 +66,7 @@ ccomp	detalia	expl:pv, expl:impers, expl:pass, cop	obj, aux:pass		ccomp:pmod, xc
 ccomp	determina	expl:pv, expl:impers, expl:pass, cop	obj, aux:pass		ccomp:pmod, xcomp:verb
 ccomp	dezvălui	expl:pv, expl:impers, expl:pass, cop	obj, aux:pass, obl:pmod		obl?despre, ccomp:pmod, xcomp:verb
 ccomp	discuta	expl:pv, expl:impers, expl:pass, cop	obj, aux:pass, obl:pmod		obl?despre, ccomp:pmod, xcomp:verb
-ccomp	dori	expl:pv, expl:impers, expl:pass, cop	obj, aux:pass		ccomp:pmod, xcomp:verb
+ccomp	dori	expl:pv, expl:impers, expl:pass, cop	obj?norel, aux:pass		ccomp:pmod, xcomp:verb
 ccomp	dovedi	expl:pv, expl:impers, expl:pass, cop	obj, aux:pass		ccomp:pmod, xcomp:verb
 ccomp	evita	expl:pv, expl:impers, expl:pass, cop	obj, aux:pass		ccomp:pmod, xcomp:verb
 ccomp	exclude	expl:pv, expl:impers, expl:pass, cop	obj, aux:pass		ccomp:pmod, xcomp:verb
@@ -150,7 +150,7 @@ ccomp	primi	expl:pv, expl:impers, expl:pass, cop	obj, aux:pass		ccomp, xcomp:ver
 ccomp	promite	expl:pv, expl:impers, expl:pass, cop	obj, aux:pass		csubj, ccomp:pmod, xcomp:verb
 ccomp	propune	expl:pv, expl:impers, expl:pass, cop	obj, aux:pass		ccomp:pmod, xcomp:verb
 ccomp	pune în gând	expl:pv, expl:impers, expl:pass, cop	obj, aux:pass		ccomp:pmod, xcomp:verb
-ccomp	putea	expl:pv, expl:impers, expl:pass, cop	obj, aux:pass		ccomp:pmod, xcomp:verb
+ccomp	putea	expl:pv, expl:impers, expl:pass, cop	obj?norel, aux:pass		ccomp:pmod, xcomp:verb
 ccomp	răcni	expl:pv, expl:impers, expl:pass, cop	obj, aux:pass, obl:pmod		obl?despre, ccomp:pmod, xcomp:verb
 ccomp	raporta	expl:pv, expl:impers, expl:pass, cop	obj, aux:pass, obl:pmod		obl?despre, ccomp:pmod, xcomp:verb
 ccomp	răspunde	expl:pv, expl:impers, expl:pass, cop	obj, aux:pass, obl:pmod		ccomp:pmod, xcomp:verb
@@ -203,6 +203,6 @@ ccomp	urma	expl:pv, expl:impers, expl:pass, cop	obj, aux:pass, iobj, expl:pv?dat
 ccomp	urmări	expl:pv, expl:impers, expl:pass, cop	obj, aux:pass		ccomp:pmod, xcomp:verb
 ccomp	vedea	expl:pv, expl:impers, expl:pass, cop	obj, aux:pass, obl:pmod		obl?despre, ccomp:pmod, xcomp:verb
 ccomp	verifica	expl:pv, expl:impers, expl:pass, cop	obj, aux:pass, obl:pmod		obl?despre, ccomp:pmod, xcomp:verb
-ccomp	voi	expl:pv, expl:impers, expl:pass, cop	obj, aux:pass		ccomp:pmod, xcomp:verb
-ccomp	vrea	expl:pv, expl:impers, expl:pass, cop	obj, aux:pass		ccomp:pmod, xcomp:verb
+ccomp	voi	expl:pv, expl:impers, expl:pass, cop	obj?norel, aux:pass		ccomp:pmod, xcomp:verb
+ccomp	vrea	expl:pv, expl:impers, expl:pass, cop	obj?norel, aux:pass		ccomp:pmod, xcomp:verb
 ccomp	zice	expl:pv, expl:impers, expl:pass, cop	obj, aux:pass, obl:pmod		obl?despre, ccomp:pmod, xcomp

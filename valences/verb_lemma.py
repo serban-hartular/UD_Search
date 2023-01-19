@@ -61,18 +61,20 @@ def basic_filter(node : Tree) -> bool:
         return False
     return bool(Search('.[%s & (%s) ]' % (basic_filter_expr, supine_filter_expr)).find(node))
 
-_val = lambda s : list(s)[0]
+# _val = lambda s : list(s)[0]
 
 def quote_introduction_filter(node : Tree) -> bool:
     """False if verb is introducing a quote, otherwise true """
-    if _val(node.data('misc.FullLemma')) not in relatare_parataxa:
+    if not node.sdata('misc.FullLemma'):
+        raise Exception('Node %s (%s) does not have misc.FullLemma' % (node.sdata('form'), node.sdata('id')))
+    if node.sdata('misc.FullLemma') not in relatare_parataxa:
         return True
     if node.data('deprel') == 'parataxis': return False
     parataxis = Search('/[deprel=parataxis]').find(node)
     if not parataxis: return True
     # is it a line heading, like (e), 3., or a parenthesis?
     parataxis = parataxis[0].node
-    if parataxis.data('misc.FullLemma') and _val(parataxis.data('misc.FullLemma')) in relatare_parataxa:
+    if parataxis.data('misc.FullLemma') and parataxis.sdata('misc.FullLemma') in relatare_parataxa:
         return True
     proj = parataxis.projection_nodes()
     if proj[0].data('xpos') in ['COLON', 'QUOT', 'DBLQ']:

@@ -52,14 +52,17 @@ def get_verb_form(node : Tree, allowed_upos : Set[str] = None) -> Dict[str,Set]|
             print(df)
         d.update({k:{df.iloc[0][k]} for k in params if pd.notna(df.iloc[0][k])})
         return d
-    d.update({k:node._data['feats'][k] for k in params if k in node._data['feats']})
+    if not cop:
+        d.update({k:node._data['feats'][k] for k in params if k in node._data['feats']})
+    else:
+        d.update({k: cop._data['feats'][k] for k in params if k in cop._data['feats']})
     if VerbForm in ('Inf', 'Ger'):
         d.update({'Mood':{VerbForm}})
     if VerbForm == 'Part':
-        if Search('/[upos=ADP deprel=mark]').find(node):
-            mood = 'Supine'
+        if Search('<[upos=ADP deprel=mark]').find(node):
+            mood = 'Sup'
         elif 'fi' in aux and Search('/[lemma=să upos=PART]'):
-            mood = 'Subj'
+            mood = 'Sub'
             d = {'Tense':{'Perf'}}
         else:
             mood = 'Part'
