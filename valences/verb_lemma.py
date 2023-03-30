@@ -40,6 +40,9 @@ def get_verb_lemma(node : Tree) -> FullLemma:
     fixed = Search('/[deprel=fixed]').find(node)
     others = [Search('/[deprel=fixed lemma=%s]' % m.node.data('lemma')) for m in fixed]
     others_rep = [m.node.data('lemma') for m in fixed]
+    # add adjs
+    if Search('.[upos=ADJ /[deprel=cop] ]').find(node):
+        lemma = 'fi ' + lemma
     lemma = FullLemma(lemma, others, others_rep)
     return lemma
 

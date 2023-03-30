@@ -38,12 +38,15 @@ class ParsedDoc(List[ParsedSentence]):
             return n
         return None
         
-    def search(self, expr : str) -> List[Match]:
+    def search(self, expr : str) -> Iterator[Match]:
         search = Search(expr)
-        matches = []
+        # matches = []
         for s in self:
-            matches += search.find(s)
-        return matches
+            matches = search.find(s)
+            while matches:
+                yield matches[0]
+                matches.pop(0)
+    
     def uid(self, node:Tree) -> str:
         s = node.root()
         if s not in self: return None
@@ -237,7 +240,6 @@ def doc_to_annotation_sequence(doc : ParsedDoc, keys_aliases : Dict, sentence_se
         dict_list.extend(s_toks)
     return {doc_id_str:doc.doc_id, token_key_str:dict_list}
 
-
 def apply_annotations_to_doc(annots : List[Dict[str, str|Set]], doc : ParsedDoc, key_aliases : Dict,
                              remove_absent_keys : bool = True):
     """if remove_absent_keys, keys don't appear in the annotation will be removed from node data"""
@@ -286,3 +288,45 @@ def overwrite_sentences(orig_doc : ParsedDoc, overwrite_src : ParsedDoc) -> Pars
     new_doc.extend(new_sent_list)
     new_doc.make_id_dict()
     return new_doc
+
+def doc_to_annotation_table(doc : ParsedDoc, doc_search : str|Search, labels : List[str] = None) -> List[Dict[str, str]]:
+    """Not tested yet"""
+    if not labels:
+        labels = ['misc.Ellipsis', 'misc.Antecedent', 'misc.Info', 'misc.TargetID']
+    default_labels_before = ['UID', 'Licenser', 'Lemma']
+    default_labels_after = ['TargetForm', 'TargetDeprel', 'Text']
+    table = []
+    nodes = [m.node for m in doc.search(doc_search)]
+    for node in nodes:
+        # labels before
+        uid = doc.uid(node)
+        licenser = node.sdata('form')
+        lemma = node.sdata('misc.FullLemma')
+        d = {k:v for k,v in zip(default_labels_before, [uid, licenser, lemma])}
+        # labels from data
+        d.update({k:node.sdata(k) for k in labels})
+        # labels after
+        targetform, targetdeprel = '',''
+        if 'misc.TargetID' in labels:
+            target, _ = doc.get_node_by_uid(node.sdata('misc.TargetID'))
+            if target:
+                targetform = target.sdata('form')
+                targetdeprel = target.sdata('deprel')
+        text = str(node.root())
+        d.update({k:v for k,v in zip(default_labels_after, [targetform, targetdeprel, text])})
+        table.append(d)
+    return table
+
+def apply_annotation_table(doc : ParsedDoc, annot_table : List[Dict[str, str]], labels : List[str] = None):
+    if not labels:
+        labels = ['misc.Ellipsis', 'misc.Antecedent', 'misc.Info', 'misc.TargetID']
+    for d in annot_table:
+        uid = d['UID']
+        node, _ = doc.get_node_by_uid(uid)
+        for k in labels:  # first remove
+            node.remove(k) 
+        for k in labels: # now add values
+            if d.get(k):
+                node.assign(k, {d[k]}) # needs to be a set
+
+    
