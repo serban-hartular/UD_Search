@@ -11,7 +11,7 @@ import tree_path
 from tree_path import Tree, Search, Match, ParsedSentence
 from tree_path.conllu import from_conllu
 
-_doc_id_key = 'newdoc id'
+
 
 class ParsedDoc(List[ParsedSentence]):
     IN_QUOTE='InQuote'
@@ -21,8 +21,12 @@ class ParsedDoc(List[ParsedSentence]):
         self.doc_id = doc_id
         self.id_dict : Dict[str, ParsedSentence] = None
         self.meta_data = meta_data if meta_data else {}
-    def conllu(self) -> str:
-        c = '# newdoc id = ' + self.doc_id + '\n'
+    def conllu(self, doc_id_key : str = '') -> str:
+        """If not doc_id_key, no newdoc id will be entered"""
+        c = '' if not doc_id_key else ('# newdoc id = ' + self.doc_id + '\n')
+        for k,v in self.meta_data.items():
+            meta_line = '# %s = %s\n' % (k, v) if v else '# %s\n' % k
+            c += meta_line
         for s in self:
             c += s.conllu()
         c += '\n'
@@ -47,13 +51,22 @@ class ParsedDoc(List[ParsedSentence]):
                 yield matches[0]
                 matches.pop(0)
     
-    def uid(self, node:Tree) -> str:
-        s = node.root()
+    def uid(self, node:Tree) -> str|None:
+        s : ParsedSentence = node.root()
         if s not in self: return None
-        return s.uid(node)
+        txt = s.uid(node)
+        if self.doc_id:
+            txt = self.doc_id + '-' + txt
+        return txt
     def get_node_by_uid(self, uid : str) -> (Tree|None, ParsedSentence|None):
         """Get node by its unique id. Also return sentence root"""
-        (sent_id, node_id) = tree_path.conllu.sent_tok_id_from_unique(uid)
+        # (sent_id, node_id) = tree_path.conllu.sent_tok_id_from_unique(uid)
+        
+        # new method
+        if self.doc_id and uid.startswith(self.doc_id + '-'):
+            uid = uid[len(self.doc_id + '-'):] # slice off doc id
+        (sent_id, node_id) = uid.rsplit('-', 1)
+        # end new method
         if sent_id is None: return None, None
         root = self.sentence(sent_id)
         if not root: return (None, None)
@@ -168,7 +181,7 @@ class ParsedDoc(List[ParsedSentence]):
             json_dict['tokens'].append(data)
         return json_dict
 
-def iter_docs_from_conll(conll_in : str, doc_id_key : str = _doc_id_key, id_list : List[str] = '') -> Iterator[ParsedDoc]:
+def iter_docs_from_conll(conll_in : str, doc_id_key : str, id_list : List[str] = '') -> Iterator[ParsedDoc]:
     tree_doc : ParsedDoc = ParsedDoc('')
     for sentence in pyconll.iter_from_file(conll_in):
         if sentence.meta_present(doc_id_key):
@@ -183,6 +196,53 @@ def iter_docs_from_conll(conll_in : str, doc_id_key : str = _doc_id_key, id_list
     if tree_doc and (not id_list or tree_doc.doc_id in id_list):
         tree_doc.make_id_dict()
         yield tree_doc
+
+class DocList(List[ParsedDoc]):
+    DOC_ID_KEY = 'newdoc id'
+    def __init__(self, doc_list : List[ParsedDoc]):
+        super().__init__(doc_list)
+        self.doc_dict = {}
+        self.make_doc_dict()
+    def make_doc_dict(self):
+        self.doc_dict = {doc.doc_id:doc for doc in self}
+    def get_doc(self, uid:str) -> ParsedDoc:
+        uid = uid.split('-')
+        for i in range(1, len(uid)):
+            doc_id = '-'.join(uid[0:i])
+            if doc_id in self.doc_dict:
+                return self.doc_dict[doc_id]
+        return None
+    def get_node_by_uid(self, uid:str) -> Tree|None:        
+        doc = self.get_doc(uid)
+        # if len(doc) != 1: raise Exception('Found %d docs named %s' % (len(doc), doc_id))
+        # doc = doc[0]
+        return doc.get_node_by_uid(uid)[0]
+        
+    def to_conllu_file(self, outfile : str, doc_id_key = DOC_ID_KEY):
+        with open(outfile, 'w', encoding='utf-8') as handle:
+            for doc in self:
+                handle.write(doc.conllu(doc_id_key) + '\n')
+    @staticmethod
+    def from_conllu(filename, doc_id_key : str = DOC_ID_KEY):
+        return DocList([d for d in iter_docs_from_conll(filename, doc_id_key)])
+    def to_json_zip(self, filename : str):
+        encoded = json.dumps([d.to_jsonable() for d in self])\
+            .encode('utf-8')
+        data = gzip.compress(encoded)
+        if not filename:
+            return data
+        with open(filename, 'wb') as handle:
+            handle.write(data)
+    @staticmethod
+    def from_json_zip(src : bytes|str, make_dict_id : bool = True) -> DocList:
+        if isinstance(src, str): # it's a filename
+            with open(src, 'rb') as handle:
+                src = handle.read()
+        decomp = gzip.decompress(src)
+        decoded = decomp.decode('utf-8')
+        json_list = json.loads(decoded) #ParsedDoc.from_jsonable(json.loads(decoded))
+        return DocList([ParsedDoc.from_jsonable(j, make_dict_id) for j in json_list])
+
 
 
 def display_uids_from_file(conllu_in: str, uid_dict : Dict[str, str]) -> List[str]:
@@ -206,61 +266,15 @@ def display_uids_from_file(conllu_in: str, uid_dict : Dict[str, str]) -> List[st
     return str_list
 
 
-def _datum_to_str(datum : str|Set) -> str:
-    if not datum: return ''
-    return datum if isinstance(datum, str) else ','.join(datum)
+# def _datum_to_str(datum : str|Set) -> str:
+#     if not datum: return ''
+#     return datum if isinstance(datum, str) else ','.join(datum)
 
 doc_id_str = 'newdoc id'
 token_key_str = 'tokens'
 node_id_key = 'id'
 
 
-def sentence_to_annotation_sequence(sentence : ParsedSentence, keys_aliases : Dict,
-                                    doc : ParsedDoc = None) -> List[Dict[str, str]]:
-    """key_aliases = {'lemma':'lemma', 'misc.Ellipsis':'Ellipsis', etc}"""
-    projection = sentence.projection_nodes()
-    dict_list = []
-    for node in projection:
-        d = {alias : _datum_to_str(node.data(key)) for key,alias in keys_aliases.items()
-                if _datum_to_str(node.data(key)) }
-        if doc:
-            d[node_id_key] = doc.uid(node)
-        dict_list.append(d)
-    return dict_list
-
-def doc_to_annotation_sequence(doc : ParsedDoc, keys_aliases : Dict, sentence_search : str|Search|None = None) \
-        -> Dict[str, str|List[Dict[str, str]]]:
-    if sentence_search and isinstance(sentence_search, str):
-        sentence_search = Search(sentence_search)
-    dict_list = []
-    for sentence in doc:
-        if sentence_search and not sentence_search.find(sentence):
-            continue
-        s_toks = sentence_to_annotation_sequence(sentence, keys_aliases, doc)
-        dict_list.extend(s_toks)
-    return {doc_id_str:doc.doc_id, token_key_str:dict_list}
-
-def apply_annotations_to_doc(annots : List[Dict[str, str|Set]], doc : ParsedDoc, key_aliases : Dict,
-                             remove_absent_keys : bool = True):
-    """if remove_absent_keys, keys don't appear in the annotation will be removed from node data"""
-    # sanity check
-    if not isinstance(annots, List) or not isinstance(annots[0], Dict):
-        raise Exception('Bad format annotations')
-    if len(list(key_aliases.values())) != len(set(key_aliases.values())):
-        raise Exception('Keys and aliases must be unique!')
-    if node_id_key in key_aliases.values() or node_id_key in key_aliases.keys():
-        raise Exception('Trying to delete node id: ' + str(key_aliases))
-    for annot in annots:
-        uid = annot[node_id_key]
-        node, _ = doc.get_node_by_uid(uid)
-        if node is None: raise 'Could not find node with uid ' + uid
-        aliases_keys = {v:k for k,v in key_aliases.items()}
-        update_dict = {k:v for k,v in annot.items() if k in aliases_keys.keys()} # filter
-        for local_key, alias in key_aliases.items():
-            if alias in annot:
-                node.assign(local_key, annot[alias])
-            elif remove_absent_keys:
-                node.remove(local_key)
 
 def annot_dict_to_list(annot_dict : Dict, make_sets : List[str]):
     # sanity check
@@ -288,45 +302,5 @@ def overwrite_sentences(orig_doc : ParsedDoc, overwrite_src : ParsedDoc) -> Pars
     new_doc.extend(new_sent_list)
     new_doc.make_id_dict()
     return new_doc
-
-def doc_to_annotation_table(doc : ParsedDoc, doc_search : str|Search, labels : List[str] = None) -> List[Dict[str, str]]:
-    """Not tested yet"""
-    if not labels:
-        labels = ['misc.Ellipsis', 'misc.Antecedent', 'misc.Info', 'misc.TargetID']
-    default_labels_before = ['UID', 'Licenser', 'Lemma']
-    default_labels_after = ['TargetForm', 'TargetDeprel', 'Text']
-    table = []
-    nodes = [m.node for m in doc.search(doc_search)]
-    for node in nodes:
-        # labels before
-        uid = doc.uid(node)
-        licenser = node.sdata('form')
-        lemma = node.sdata('misc.FullLemma')
-        d = {k:v for k,v in zip(default_labels_before, [uid, licenser, lemma])}
-        # labels from data
-        d.update({k:node.sdata(k) for k in labels})
-        # labels after
-        targetform, targetdeprel = '',''
-        if 'misc.TargetID' in labels:
-            target, _ = doc.get_node_by_uid(node.sdata('misc.TargetID'))
-            if target:
-                targetform = target.sdata('form')
-                targetdeprel = target.sdata('deprel')
-        text = str(node.root())
-        d.update({k:v for k,v in zip(default_labels_after, [targetform, targetdeprel, text])})
-        table.append(d)
-    return table
-
-def apply_annotation_table(doc : ParsedDoc, annot_table : List[Dict[str, str]], labels : List[str] = None):
-    if not labels:
-        labels = ['misc.Ellipsis', 'misc.Antecedent', 'misc.Info', 'misc.TargetID']
-    for d in annot_table:
-        uid = d['UID']
-        node, _ = doc.get_node_by_uid(uid)
-        for k in labels:  # first remove
-            node.remove(k) 
-        for k in labels: # now add values
-            if d.get(k):
-                node.assign(k, {d[k]}) # needs to be a set
 
     
