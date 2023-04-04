@@ -1,0 +1,1 @@
+from word_modality.modality import get_node_modality, get_modality_record
