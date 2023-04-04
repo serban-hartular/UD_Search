@@ -187,6 +187,8 @@ def iter_docs_from_conll(conll_in : str, doc_id_key : str, id_list : List[str] =
         if sentence.meta_present(doc_id_key):
             previous_doc = tree_doc
             tree_doc = ParsedDoc(sentence.meta_value(doc_id_key))
+            meta_keys_skip = ('newdoc id', 'sent_id', 'text') 
+            tree_doc.meta_data = {k:v for k,v in sentence._meta.items() if k not in meta_keys_skip} # add meta data
             if previous_doc and (not id_list or previous_doc.doc_id in id_list):
                 yield previous_doc   
         sentence_tree = from_conllu(sentence)
