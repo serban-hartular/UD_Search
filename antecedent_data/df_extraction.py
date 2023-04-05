@@ -27,6 +27,7 @@ def extract_possible_pairs(doc : ParsedDoc) -> (List[Dict], List[ComplexPredicat
         a_group = [g for g in groups if target in g]
         if not a_group:
             print('Error: antecedent %s not in candidates' % target_id)
+            continue
         prev_group = None
         for g in groups:
             for node in g:
@@ -59,8 +60,8 @@ def add_modality_data(d : Dict):
     d['subjunctive'] = int(bool(Search('/[upos=PART lemma=să]').find(candidate)))
 
 def post_process(d : Dict):
-    for label in ('tok_dist', 'syn_dist'):
-        d['ln2_'+label] = math.log2(d[label])
+    for label in ('tok_dist', 'syn_dist', 'group_dist'):
+        d['ln2_'+label] = math.log2(d[label]) if d[label] >= 1 else -1
 
 def filter_objects(d : Dict) -> Dict:
     fd = {k:v for k,v in d.items() if isinstance(v, str) or isinstance(v, int) or isinstance(v, float)}

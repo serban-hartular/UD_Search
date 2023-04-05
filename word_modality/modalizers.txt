@@ -7,7 +7,7 @@ ccomp	merita	19		aprecia	POS
 csubj	bine	19		aprecia	POS		
 ccomp	bucura	15		aprecia	POS		
 csubj	ușor	14		aprecia	POS		
-csubj	musai	1		trebuie	POS	
+csubj	musai	1		trebuie	POS		
 ccomp	mulțumi	12		aprecia	POS		
 ccomp	aprecia	7		aprecia	POS		
 ccomp:pmod	ușor	6		aprecia	POS		
@@ -225,3 +225,4 @@ ccomp	critica	3		zice		aprecia	NEG_CONST
 ccomp	indica	3	că	zice			
 ccomp	indica		să	trebuie			
 ccomp	țipa	3		zice			
+ccomp:pmod	opri	3		permite	NEG		

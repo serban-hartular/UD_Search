@@ -52,6 +52,12 @@ def group_statements(sentence : ParsedSentence) -> List[ComplexPredicate]:
     predicates.sort(key=lambda cp : int(cp.bottom().sdata('id')))
     return predicates
 
+def group_doc_statements(doc : ParsedDoc) -> List[ComplexPredicate]:
+    predicates = []
+    for sentence in doc:
+        predicates.extend(group_statements(sentence))
+    return predicates
+
 def complex_pred_relation(first : ComplexPredicate, second : ComplexPredicate) -> str:
     if first.top() == second.top():
         return 'conj'
