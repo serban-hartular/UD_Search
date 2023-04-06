@@ -5,6 +5,11 @@ import antecedent_data as ad
 import antecedent_data.df_extraction
 import tree_path as tp
 
+
+def generate_candidate_dict():
+    pass
+
+
 class Model:
     def fit(self, X, y):
         pass
