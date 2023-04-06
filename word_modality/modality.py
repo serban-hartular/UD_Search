@@ -66,9 +66,9 @@ def get_node_modality(node : Tree, licenser_flag : bool) -> (List[Tuple[str, str
     class_list = [mod_class_dict[t[1]] for t in mod_tuples]
     return mod_tuples, class_list
 
-def get_modality_record(ellipsis : Tree, antecedent : Tree):
+def get_modality_record(ellipsis : Tree, antecedent : Tree, is_antecedent_elided = False):
     ellipsis_mod, ellipsis_class = get_node_modality(ellipsis, True)
-    antecedent_mod, antecedent_class = get_node_modality(antecedent, False)
+    antecedent_mod, antecedent_class = get_node_modality(antecedent, is_antecedent_elided) # False)
     same_lemma, same_modality, same_mod_class = 0, 0, 0
     if ellipsis_mod and antecedent_mod:
         same_lemma = int(ellipsis_mod[0][0] == antecedent_mod[0][0])

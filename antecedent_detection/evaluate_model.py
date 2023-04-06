@@ -11,7 +11,7 @@ from sklearn.semi_supervised import LabelPropagation, LabelSpreading
 from sklearn.neural_network import MLPClassifier
 from sklearn.linear_model import LogisticRegressionCV, LinearRegression
 
-from antecedent_data.df_extraction import extract_X_y, split_by_licenser_id
+from antecedent_detection.df_extraction import extract_X_y, split_by_licenser_id
 
 columns = ['candidate_licenser_rel', 'candidate_precedent_rel', 'cataphoric', 'same_lemma', 'same_modality', 'same_mod_class', 'epist_e', 'aprecia_e', 'aspect_e', 'deont_e', 'dicendi_e', 'epist_a', 'aprecia_a', 'aspect_a', 'deont_a', 'dicendi_a', 'subjunctive', ]
 group_dist = ['group_dist']

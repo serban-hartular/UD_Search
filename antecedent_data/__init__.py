@@ -1,3 +1,0 @@
-from antecedent_data.statement_group import group_statements, group_doc_statements, complex_pred_relation, ComplexPredicate
-from antecedent_data.connectors import get_connectors, get_full_expr, get_syntactic_rels
-

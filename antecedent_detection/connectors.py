@@ -2,7 +2,7 @@ from __future__ import annotations
 
 from typing import List, Dict, Tuple
 
-from antecedent_data.statement_group import ComplexPredicate
+from antecedent_detection.statement_group import ComplexPredicate
 
 import tree_path as tp
 from tree_path import ParsedDoc, Search, ParsedSentence, Tree

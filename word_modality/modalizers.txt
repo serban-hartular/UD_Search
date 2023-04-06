@@ -102,6 +102,7 @@ ccomp	sigur	3		stie
 ccomp	garanta	3		stie			
 ccomp	cunoaște	3		stie			
 ccomp	reuși	203		termina		vrea	POS_CONST
+ccomp	eșua	1		poate	NEG	incepe	POS_CONST
 ccomp	înceta	7		termina			
 ccomp	termina	5		termina			
 csubj	trebui	626		trebuie			
