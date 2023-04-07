@@ -13,7 +13,7 @@ from antecedent_detection import ComplexPredicate
 
 def filtered_dict_to_df(fd : List[Dict], balance_flag : bool = True) -> pd.DataFrame:
     df = pd.DataFrame(fd)
-    if not balance_flag:
+    if not balance_flag or df.empty:
         return df
     licensers = set(df['licenser_id'])
     for licenser in licensers:

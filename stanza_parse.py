@@ -2,12 +2,27 @@ from typing import Dict, List, Tuple
 
 import stanza
 from stanza.utils.conll import CoNLL
+import tree_path as tp
 
 # stanza.download('ro') # download Romanian model
 nlp = None
 def init_nlp():
     global nlp
     nlp = stanza.Pipeline('ro') # initialize Romanian neural pipeline
+
+
+def text_to_doc(text : str, conllu_filename : str = 'temp.conllu') -> tp.ParsedDoc:
+    global nlp
+    if not nlp:
+        init_nlp()
+    stanza_doc = nlp(text)
+    conllu = CoNLL.doc2conll(stanza_doc)
+    conllu = '\n'.join(['\n'.join(s) + '\n' for s in conllu])
+    with open(conllu_filename, 'w', encoding='utf-8') as handle:
+        handle.write(conllu + '\n')
+    dl = tp.DocList.from_conllu(conllu_filename, '')
+    if len(dl) != 1: raise Exception('Error! Text resulted in %d docs' % len(dl))
+    return dl[0]
 
 def articles_text_to_list(filename : str) -> List[Tuple[str, str]]:
     with open(filename, 'r', encoding='utf8') as handle:

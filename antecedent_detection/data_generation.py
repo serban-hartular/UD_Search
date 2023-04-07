@@ -32,8 +32,9 @@ def generate_candidates_for_licenser(doc : tp.ParsedDoc, licenser : tp.Tree,
     for node, g, typestr in candidate_gen_fn(doc, groups):
         if node == licenser:
             continue
-        candidate_dict = antecedent_detection.candidate_data(
-            {}, doc, licenser, node, groups, syntactic_rels, e_group, g, typestr)
+        is_good = None if antecedent is None else (antecedent == node)
+        candidate_dict = ad.data_generation.candidate_data(
+            {}, doc, licenser, node, groups, syntactic_rels, e_group, g, typestr, is_good)
         candidate_list.append(candidate_dict)
     return candidate_list
 

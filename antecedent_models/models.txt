@@ -1,14 +1,16 @@
-LogisticRegressionCV 0.9665803325256914 0.9227810650887573 0.5524475524475524
-ExtraTreesClassifier 0.9917704068844515 0.8720414201183432 0.8181818181818182
-MLPClassifier 0.9906007185228507 0.8785502958579882 0.8111888111888111
-LinearDiscriminantAnalysis 0.9154900158743421 0.842603550295858 0.5734265734265734
-LabelPropagation 0.9917704068844515 0.8837278106508876 0.8251748251748252
-RandomForestClassifier 0.9917704068844515 0.8718934911242604 0.8181818181818182
-LabelSpreading 0.9917704068844515 0.8837278106508876 0.8251748251748252
-KNeighborsClassifier 0.9888044113961066 0.888905325443787 0.2097902097902098
-MultinomialNB 0.9554682930904838 0.8930473372781065 0.38461538461538464
-BaggingClassifier 0.9917704068844515 0.8899408284023669 0.8041958041958042
-GradientBoostingClassifier 0.9825382237446737 0.9251479289940828 0.6993006993006993
-DecisionTreeClassifier 0.9917704068844515 0.871301775147929 0.8111888111888111
+Class	Test	Train	Actual
+RandomForestClassifier	0.989	0.858	0.783
+ExtraTreesClassifier	0.989	0.851	0.777
+DecisionTreeClassifier	0.989	0.850	0.752
+BaggingClassifier	0.989	0.850	0.726
+MLPClassifier	0.988	0.842	0.720
+GradientBoostingClassifier	0.979	0.955	0.656
+LogisticRegressionCV	0.964	0.949	0.561
+LinearDiscriminantAnalysis	0.891	0.828	0.535
+MultinomialNB	0.942	0.939	0.395
+KNeighborsClassifier	0.987	0.890	0.204
+
+
+Trained only on present or elided antecedents (not on nominal antecedents).
 
 labels = ['candidate_licenser_rel', 'candidate_precedent_rel', 'cataphoric', 'same_lemma', 'same_modality', 'same_mod_class', 'epist_e', 'aprecia_e', 'aspect_e', 'deont_e', 'dicendi_e', 'epist_a', 'aprecia_a', 'aspect_a', 'deont_a', 'dicendi_a', 'subjunctive', 'group_dist']

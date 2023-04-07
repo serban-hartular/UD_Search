@@ -1,20 +1,28 @@
+from __future__ import annotations
+
 from collections import defaultdict
-from typing import List, Tuple, Iterable
+from typing import List, Tuple, Dict
 
 import antecedent_detection as ad
 import antecedent_detection.df_extraction
 import tree_path as tp
+from antecedent_detection.labels import columns, group_dist
 
 
 class Model:
+    def __init__(self, **kwargs):
+        pass
     def fit(self, X, y):
         pass
     def predict_proba(self, X) -> List[List[float]]:
         pass
+    def score(self, X, y) -> float:
+        pass
 
 def guess_antecedents(doc : tp.ParsedDoc, licensers : List[tp.Tree], model : Model,
-                     labels : List[str], correct_antecedent_ids_typestr : List[Tuple[str, str]] = None) -> List[str]:
-    antecedent_ids = []
+                     labels : List[str], correct_antecedent_ids_typestr : List[Tuple[str, str]] = None) \
+        -> List[Tuple[str, float]]:
+    antecedent_guesses = []
     groups = ad.group_doc_statements(doc)
     rel_dict = defaultdict(str, ad.get_syntactic_rels(groups))
     for i, licenser in enumerate(licensers):
@@ -39,14 +47,14 @@ def guess_antecedents(doc : tp.ParsedDoc, licensers : List[tp.Tree], model : Mod
         df['y_prob'] = y_prob
         max_rows = df[df['y_prob'] == df['y_prob'].max()]
         target_id = max_rows.iloc[0]['candidate_id']
-        antecedent_ids.append(target_id)
-    return antecedent_ids
+        antecedent_guesses.append((target_id, df['y_prob'].max()))
+    return antecedent_guesses
 
-columns = ['candidate_licenser_rel', 'candidate_precedent_rel', 'cataphoric', 'same_lemma', 'same_modality', 'same_mod_class', 'epist_e', 'aprecia_e', 'aspect_e', 'deont_e', 'dicendi_e', 'epist_a', 'aprecia_a', 'aspect_a', 'deont_a', 'dicendi_a', 'subjunctive', ]
-group_dist = ['group_dist']
 
-def test_guess_antecedent(doc : tp.ParsedDoc, model : Model, labels : List[str] = None):
-    """Assumes doc is annotated"""
+def test_guess_antecedent(doc : tp.ParsedDoc, model : Model, labels : List[str] = None) -> List[Tuple]:
+    """ Assumes doc is annotated.
+        Returns list of tuple for each antecedent:
+            (licenser_id, correct_antecedent_id, guessed_antecedent_id, guess_probability) """
     if not labels:
         labels = columns + group_dist 
     licensers = [m.node for m in doc.search('.//[misc.Ellipsis=VPE misc.Antecedent=Present,External,Elided]')]
@@ -55,6 +63,8 @@ def test_guess_antecedent(doc : tp.ParsedDoc, model : Model, labels : List[str] 
     antecedent_types = [l.sdata('misc.Antecedent') for l in licensers]
     antecedent_types = ['Present' if at == 'External' else at for at in antecedent_types]
     guesses = guess_antecedents(doc, licensers, model, labels, [z for z in zip(antecedent_ids, antecedent_types)])
-    # print('\t'.join(['licenser', 'antecedent', 'guess']))
-    for z in zip(licenser_ids, antecedent_ids, guesses):
-        print('\t'.join(z))
+    guessed_ids = [g[0] for g in guesses]
+    guessed_probs = [g[1] for g in guesses]
+    # for z in zip(licenser_ids, antecedent_ids, guessed_ids, guessed_probs):
+    #     print('\t'.join([str(n) for n in z]))
+    return [z for z in zip(licenser_ids, antecedent_ids, guessed_ids, guessed_probs)]

@@ -11,22 +11,15 @@ from sklearn.semi_supervised import LabelPropagation, LabelSpreading
 from sklearn.neural_network import MLPClassifier
 from sklearn.linear_model import LogisticRegressionCV, LinearRegression
 
-from antecedent_detection.df_extraction import extract_X_y, split_by_licenser_id
+from antecedent_detection.df_extraction import extract_X_y
 
 columns = ['candidate_licenser_rel', 'candidate_precedent_rel', 'cataphoric', 'same_lemma', 'same_modality', 'same_mod_class', 'epist_e', 'aprecia_e', 'aspect_e', 'deont_e', 'dicendi_e', 'epist_a', 'aprecia_a', 'aspect_a', 'deont_a', 'dicendi_a', 'subjunctive', ]
 group_dist = ['group_dist']
 tok_dist = ['tok_dist', 'syn_dist']
 tok_dist_ln = ['ln2_tok_dist', 'ln2_syn_dist']
 
-_args = defaultdict(dict, {MLPClassifier: {'max_iter':500}, LabelPropagation: {'max_iter':2000}, LogisticRegressionCV:{'max_iter':250}})
 
 
-def create_model(data_df : pd.DataFrame, X_labels : List[str], model_class = LogisticRegressionCV) -> (LogisticRegressionCV, float, float):
-    df_train, df_test = split_by_licenser_id(data_df)
-    X_train, y_train = extract_X_y(df_train, X_labels)
-    X_test, y_test = extract_X_y(df_test, X_labels)
-    model = model_class(**_args[model_class]).fit(X_train, y_train)
-    return model, model.score(X_train, y_train), model.score(X_test, y_test)
 
 def evaluate_model(model : LogisticRegressionCV, data_df : pd.DataFrame, X_labels : List[str]) -> (pd.DataFrame, Dict):
     X, y = extract_X_y(data_df, X_labels)

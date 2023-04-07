@@ -9,6 +9,7 @@ from sklearn.naive_bayes import ComplementNB, MultinomialNB
 from sklearn.neighbors import KNeighborsClassifier
 from sklearn.semi_supervised import LabelPropagation, LabelSpreading
 
+import antecedent_detection.labels
 from tree_path import parsed_doc
 import training_data
 import pandas as pd
@@ -209,7 +210,7 @@ train_conllu = './cancan21-train-vpeonly.0.conllu'
 # df_train.to_pickle('./cancan21-train-df.p')
 # df_test.to_pickle('./cancan21-test-df.p')
 
-model_variables = [f for f in df_train.columns if f not in ['result', 'a_uid', 'e_uid']]
+model_variables = [f for f in antecedent_detection.labels.columns if f not in ['result', 'a_uid', 'e_uid']]
 
 # CATA,
 model_variables = """CCOM, rel_e, POLCNTRST, SDIST_LN, DIST_LN,

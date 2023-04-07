@@ -4,6 +4,8 @@ from typing import List, Dict
 
 import pandas as pd
 
+import antecedent_detection.labels
+
 df = pd.read_csv('lemma_modalities2.txt', sep='\t')
 
 _aspect = ['INCEPE', 'CONTINUA','TERMINA' ]
@@ -150,4 +152,4 @@ def get_modalizer(elliptic_only : bool, lemma:str, valence:str='', conj:str=''):
 # add passives
 _ms = [Modalizer.from_data_row(row) for row in df.iloc]
 _passive = [m.to_passive().to_data_row() for m in _ms if m.to_passive()]
-df = pd.concat([df, pd.DataFrame(_passive, columns=df.columns)], axis=0, ignore_index=True)
+df = pd.concat([df, pd.DataFrame(_passive, columns=antecedent_detection.labels.columns)], axis=0, ignore_index=True)
