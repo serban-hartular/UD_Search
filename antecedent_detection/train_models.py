@@ -37,16 +37,17 @@ def annotated_doc_to_data_dicts(doc : ParsedDoc, licenser_search : str = None) -
         target_id = licenser.sdata('misc.TargetID')
         if not target_id:
             continue
-        target, _ = doc.get_node_by_uid(target_id)
+        target = doc.get_node_by_uid(target_id)
         if not target:
             raise Exception('Could not find antecedent ' + target_id)
+        target_type = 'Elided' if licenser.sdata('misc.Antecedent') == 'Elided' else 'Present'
         e_group = [g for g in groups if licenser in g][0]
         a_group = [g for g in groups if target in g]
         if not a_group:
             print('Error: antecedent %s not in candidates' % target_id)
             continue
         licenser_candidates = ad.data_generation.generate_candidates_for_licenser(doc, licenser, groups, rel_dict, None,
-                                                                         target)
+                                                                                  (target, target_type))
         candidate_list.extend(licenser_candidates)
     return candidate_list
 

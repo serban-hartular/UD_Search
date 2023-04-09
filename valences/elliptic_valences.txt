@@ -171,7 +171,7 @@ ccomp	repeta	expl:pv, expl:impers, expl:pass, cop	obj, aux:pass		ccomp:pmod, xco
 ccomp	reține	expl:pv, expl:impers, expl:pass, cop	obj, aux:pass, obl:pmod		obl?despre, ccomp:pmod, xcomp:verb
 ccomp	reuși	expl:pv, expl:impers, expl:pass, cop	obj, aux:pass, iobj		ccomp:pmod, xcomp:verb
 ccomp	revela	expl:pv, expl:impers, expl:pass, cop	obj, aux:pass, obl:pmod		obl?despre, ccomp:pmod, xcomp:verb
-ccomp	ruga	expl:pv, expl:impers, expl:pass, cop	obj, aux:pass, obl:pmod		obl?despre, ccomp:pmod, xcomp:verb
+ccomp	ruga	expl:pv, expl:impers, expl:pass, cop	expl:pv, obl:pmod	obj | aux:pass	obl?despre, ccomp:pmod, xcomp:verb
 ccomp	scoate în evidență	expl:pv, expl:impers, expl:pass, cop	obj, aux:pass		ccomp, xcomp:verb
 ccomp	scrie	expl:pv, expl:impers, expl:pass, cop	obj, aux:pass, obl:pmod		obl?despre, ccomp:pmod, xcomp:verb
 ccomp	semnala	expl:pv, expl:impers, expl:pass, cop	obj, aux:pass, obl:pmod		obl?despre, ccomp, xcomp:verb

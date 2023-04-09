@@ -73,7 +73,7 @@ def apply_annotations_to_doc(annot_seq : AnnotationSequence|Dict, doc : ParsedDo
     
     for annot in annot_seq.tokens:
         uid = annot[TOKEN_ID_KEY]
-        node, _ = doc.get_node_by_uid(uid)
+        node = doc.get_node_by_uid(uid)
         if node is None: raise 'Could not find node with uid ' + uid
         aliases_keys = {v:k for k,v in key_aliases.items()}
         update_dict = {k:v for k,v in annot.items() if k in aliases_keys.keys()} # filter

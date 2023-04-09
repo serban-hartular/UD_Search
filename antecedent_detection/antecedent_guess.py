@@ -3,6 +3,8 @@ from __future__ import annotations
 from collections import defaultdict
 from typing import List, Tuple, Dict
 
+import pandas as pd
+
 import antecedent_detection as ad
 import antecedent_detection.df_extraction
 import tree_path as tp
@@ -21,8 +23,9 @@ class Model:
 
 def guess_antecedents(doc : tp.ParsedDoc, licensers : List[tp.Tree], model : Model,
                      labels : List[str], correct_antecedent_ids_typestr : List[Tuple[str, str]] = None) \
-        -> List[Tuple[str, float]]:
-    antecedent_guesses = []
+        -> (List[Tuple[str, float, str]], pd.DataFrame):
+    antecedent_guesses : List[Tuple[str, float, str]] = []
+    data_df = pd.DataFrame()
     groups = ad.group_doc_statements(doc)
     rel_dict = defaultdict(str, ad.get_syntactic_rels(groups))
     for i, licenser in enumerate(licensers):
@@ -47,8 +50,9 @@ def guess_antecedents(doc : tp.ParsedDoc, licensers : List[tp.Tree], model : Mod
         df['y_prob'] = y_prob
         max_rows = df[df['y_prob'] == df['y_prob'].max()]
         target_id = max_rows.iloc[0]['candidate_id']
-        antecedent_guesses.append((target_id, df['y_prob'].max()))
-    return antecedent_guesses
+        antecedent_guesses.append((target_id, df['y_prob'].max(), df['antecedent_type'])) #!!!!! check all uses of guess_antecedents()
+        data_df = pd.concat([data_df, df], ignore_index=True)
+    return antecedent_guesses, data_df
 
 
 def test_guess_antecedent(doc : tp.ParsedDoc, model : Model, labels : List[str] = None) -> List[Tuple]:
@@ -62,7 +66,7 @@ def test_guess_antecedent(doc : tp.ParsedDoc, model : Model, labels : List[str] 
     antecedent_ids = [n.sdata('misc.TargetID') for n in licensers]
     antecedent_types = [l.sdata('misc.Antecedent') for l in licensers]
     antecedent_types = ['Present' if at == 'External' else at for at in antecedent_types]
-    guesses = guess_antecedents(doc, licensers, model, labels, [z for z in zip(antecedent_ids, antecedent_types)])
+    guesses, df = guess_antecedents(doc, licensers, model, labels, [z for z in zip(antecedent_ids, antecedent_types)])
     guessed_ids = [g[0] for g in guesses]
     guessed_probs = [g[1] for g in guesses]
     # for z in zip(licenser_ids, antecedent_ids, guessed_ids, guessed_probs):

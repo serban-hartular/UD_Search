@@ -1,6 +1,7 @@
 from typing import List, Dict
 
 import tree_path as tp
+import word_modality
 from tree_path import ParsedDoc, Search, ParsedSentence, Tree
 import clause_info as cli
 
@@ -20,6 +21,16 @@ class ComplexPredicate(List[Tree]):
         return self[0]
     def regents(self) -> List[Tree]:
         return self[:-1]
+    def get_polarity(self) -> bool:
+        polarity = True
+        search = tp.Search('/[lemma=nu]')
+        for n in self:
+            if search.find(n):
+                polarity = not polarity
+            mod_rec = word_modality.get_node_modality(n, True)
+            if mod_rec and mod_rec[0] and mod_rec[0][0] and len(mod_rec[0][0]) > 2 and mod_rec[0][0][2].startswith('NEG'):
+                polarity = not polarity
+        return polarity
     def __str__(self):
         return str(["(%s) %s" % (n.sdata('id'), n.sdata('form')) for n in self])
     def __repr__(self):

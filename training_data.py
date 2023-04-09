@@ -98,9 +98,9 @@ def generate_antecedent_candidates(ell_node : Tree, pdoc : ParsedDoc, delta_befo
         ell_sent = pdoc.root(ell_node)
         if 'TargetID' in ell_node._data['misc']:
             a_uid = list(ell_node._data['misc']['TargetID'])[0]
-            ant_node, ant_sent = pdoc.get_node_by_uid(a_uid)
+            ant_node = pdoc.get_node_by_uid(a_uid)
         else:
-            ant_node, ant_sent = None, None
+            ant_node = None
         index0 = pdoc.index(ell_sent) - delta_before
         if index0 < 0: index0 = 0
         index1 = pdoc.index(ell_sent) + delta_after + 1

@@ -25,7 +25,7 @@ def doc_to_annotation_table(doc : ParsedDoc, doc_search : str|Search, labels : L
         targetform, targetdeprel = '',''
         #if 'misc.TargetID' in labels:
         if node.sdata('misc.TargetID'):
-            target, _ = doc.get_node_by_uid(node.sdata('misc.TargetID'))
+            target = doc.get_node_by_uid(node.sdata('misc.TargetID'))
             if target:
                 targetform = target.sdata('form')
                 targetdeprel = target.sdata('deprel')
@@ -49,7 +49,7 @@ def apply_annotation_table_to_doc(doc : ParsedDoc, annot_table : List[Dict[str, 
         labels = ['misc.Ellipsis', 'misc.Antecedent', 'misc.Info', 'misc.TargetID']
     for d in annot_table:
         uid = d['UID']
-        node, _ = doc.get_node_by_uid(uid)
+        node = doc.get_node_by_uid(uid)
         for k in labels:  # first remove
             node.remove(k) 
         for k in labels: # now add values

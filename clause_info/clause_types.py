@@ -137,7 +137,7 @@ def is_expression(node : Tree) -> str|None:
     index = tokens.id_index(node._data['id'])
     if index >= 2:
         seq = tokens[index-2:index+1]
-        seq = ' '.join([t['_lemma'] for t in seq])
+        seq = ' '.join([t['lemma'] for t in seq])
         if seq == 'nu mai putea':
             return seq
     if index >= 3:

@@ -58,7 +58,7 @@ class ParsedDoc(List[ParsedSentence]):
         if self.doc_id:
             txt = self.doc_id + '-' + txt
         return txt
-    def get_node_by_uid(self, uid : str) -> (Tree|None, ParsedSentence|None):
+    def get_node_by_uid(self, uid : str) -> Tree|None: #, ParsedSentence|None):
         """Get node by its unique id. Also return sentence root"""
         # (sent_id, node_id) = tree_path.conllu.sent_tok_id_from_unique(uid)
         
@@ -72,7 +72,7 @@ class ParsedDoc(List[ParsedSentence]):
         if not root: return (None, None)
         node = root.search(lambda n : n._data['id'] == node_id)
         node = node[0] if node else None
-        return node, root
+        return node   #, root
     
     def get_sentence_distance(self, sent_id_1 : str, sent_id_2 : str) -> int|None:
         if self.id_dict is None: self.make_id_dict()
@@ -87,11 +87,13 @@ class ParsedDoc(List[ParsedSentence]):
         if isinstance(node_uid_1, Tree):
             n1, t1 = node_uid_1, node_uid_1.root()
         else:
-            n1, t1 = self.get_node_by_uid(node_uid_1)
+            n1 = self.get_node_by_uid(node_uid_1)
+            t1 = n1.root()
         if isinstance(node_uid_2, Tree):
             n2, t2 = node_uid_2, node_uid_2.root()
         else:
-            n2, t2 = self.get_node_by_uid(node_uid_2)
+            n2 = self.get_node_by_uid(node_uid_2)
+            t2 = n2.root()
         if not all([n1, t1, n2, t2]): return None
         if t1 == t2:
             return t1.get_syntactic_distance(n1, n2)
@@ -105,11 +107,13 @@ class ParsedDoc(List[ParsedSentence]):
         if isinstance(node_uid_1, Tree):
             n1, s1 = node_uid_1, node_uid_1.root()
         else:
-            n1, s1 = self.get_node_by_uid(node_uid_1)
+            n1 = self.get_node_by_uid(node_uid_1)
+            s1 = n1.root()
         if isinstance(node_uid_2, Tree):
             n2, s2 = node_uid_2, node_uid_2.root()
         else:
-            n2, s2 = self.get_node_by_uid(node_uid_2)
+            n2 = self.get_node_by_uid(node_uid_2)
+            s2 = n2.root()
         if not all([n1, s1, n2, s2]): return None
         if s1 == s2 and n1 == n2: return 0
         s1_index = self.index(s1)
@@ -218,7 +222,7 @@ class DocList(List[ParsedDoc]):
         doc = self.get_doc(uid)
         # if len(doc) != 1: raise Exception('Found %d docs named %s' % (len(doc), doc_id))
         # doc = doc[0]
-        return doc.get_node_by_uid(uid)[0]
+        return doc.get_node_by_uid(uid)
         
     def to_conllu_file(self, outfile : str, doc_id_key = DOC_ID_KEY):
         with open(outfile, 'w', encoding='utf-8') as handle:

@@ -16,7 +16,7 @@ def vdf_datum_to_list(value) -> List[str]:
     value = [v.strip() for v in value]
     return value
 
-def create_present_absent_deprels(valence_row : dict) -> (List[str], List[str]):
+def create_present_absent_deprels(valence_row : dict) -> (List[str], List[str], str):
     elided = valence_row['Ellided'].strip()
     absent = vdf_datum_to_list(valence_row['Absent'])
     default_absent = vdf_datum_to_list(valence_row['Default Absent'])

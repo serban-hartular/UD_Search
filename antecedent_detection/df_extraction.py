@@ -23,7 +23,12 @@ def filtered_dict_to_df(fd : List[Dict], balance_flag : bool = True) -> pd.DataF
         if good_row.empty:
             print('Error: licenser %s has no correct value' % licenser)
             continue
-        df = df.append([good_row]*(candidate_count-2), ignore_index=True)
+        if len(good_row) != 1:
+            print('Error: licenser %s has %d correct values' % (licenser, len(good_row)))
+        # df = df.append([good_row]*(candidate_count-2), ignore_index=True)
+        extra_df = pd.concat([good_row]*(candidate_count-2), ignore_index=True)
+        extra_df.columns = df.columns
+        df = pd.concat([df, extra_df], ignore_index=True)
     return df
 
 def extract_X_y(df : pd.DataFrame, X_labels : List[str], y_label : str = 'y') -> (pd.DataFrame, pd.DataFrame):
