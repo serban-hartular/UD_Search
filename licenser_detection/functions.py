@@ -1,3 +1,4 @@
+from typing import Callable
 
 import valences
 import word_types
@@ -19,7 +20,7 @@ def filter(node : tp.Tree) -> bool:
     filter_results = [fn(node) for fn in filter_fns]
     return all(filter_results)
 
-def annotate_licensers(doc : tp.ParsedDoc):
+def annotate_licensers(doc : tp.ParsedDoc, ellipsis_callback_fn : Callable[[tp.Tree, tp.ParsedDoc], str] = None):
     prep_document(doc)
     for sentence in doc:
         for node in sentence.traverse():
@@ -37,3 +38,6 @@ def annotate_licensers(doc : tp.ParsedDoc):
                 node.assign('misc.Ellipsis', {'Expression'})
                 continue
             node.assign('misc.Ellipsis', {'VPE'})
+            if ellipsis_callback_fn:
+                ellipsis_callback_fn(node, doc)
+

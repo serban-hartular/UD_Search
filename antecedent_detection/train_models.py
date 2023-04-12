@@ -28,7 +28,7 @@ from sklearn.linear_model import LogisticRegressionCV, LinearRegression
 
 def annotated_doc_to_data_dicts(doc : ParsedDoc, licenser_search : str = None) -> (List[Dict], List[ComplexPredicate]):
     if not licenser_search:
-        licenser_search = './/[misc.Ellipsis=VPE misc.Antecedent=Present,External,Elliptic]'
+        licenser_search = './/[misc.Ellipsis=VPE misc.Antecedent=Present,External,Elided]'
     candidate_list = []
     groups = ad.group_doc_statements(doc)
     rel_dict = defaultdict(str, ad.get_syntactic_rels(groups))
@@ -51,15 +51,17 @@ def annotated_doc_to_data_dicts(doc : ParsedDoc, licenser_search : str = None) -
         candidate_list.extend(licenser_candidates)
     return candidate_list
 
-def annotated_doc_to_data_df(doc : ParsedDoc, licenser_search : str = None) -> pd.DataFrame:
+def annotated_doc_to_data_df(doc : ParsedDoc, licenser_search : str = None, **kwargs) -> pd.DataFrame:
     data_list = annotated_doc_to_data_dicts(doc, licenser_search)
     df = ad.df_extraction.filtered_dict_to_df(data_list)
+    if kwargs.get('balance') == True:
+        df = ad.df_extraction.balance_data_df(df)
     return df
 
-def annotated_doclist_to_data_df(dl : tp.DocList, licenser_search : str = None) -> pd.DataFrame:
+def annotated_doclist_to_data_df(dl : tp.DocList, licenser_search : str = None, **kwargs) -> pd.DataFrame:
     df_all = None
     for doc in dl:
-        df_current = annotated_doc_to_data_df(doc, licenser_search)
+        df_current = annotated_doc_to_data_df(doc, licenser_search, balance=kwargs.get('balance'))
         if df_current.empty:
             continue
         if df_all is None:

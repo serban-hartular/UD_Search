@@ -1,5 +1,6 @@
 from __future__ import annotations
 
+import dataclasses
 from collections import defaultdict
 from typing import List, Tuple, Dict
 
@@ -20,6 +21,51 @@ class Model:
         pass
     def score(self, X, y) -> float:
         pass
+
+def antecedent_proba_to_df(df : pd.DataFrame, model : Model, labels : List[str], y_prob_column : str = 'y_prob'):
+    X = df[labels]
+    y_prob = [v[1] for v in model.predict_proba(X)]
+    df[y_prob_column] = y_prob
+    return df
+
+@dataclasses.dataclass
+class AntecedentData:
+    id : str
+    type : str
+    prob : float
+    def matches(self, other : AntecedentData) -> bool:
+        return self.id == other.id and self.type == other.type
+    
+
+def extract_proba_antecedents_from_df(df : pd.DataFrame) -> Dict[str, AntecedentData]:
+    if df.empty:
+        return {}
+    antec_dict : Dict[str, AntecedentData]= {}
+    if 'y_prob' not in df.columns:
+        raise Exception('Column y_prob not present!')
+    
+    licensers = set(df['licenser_id'])
+    for licenser_id in licensers:
+        df_lic = df[df['licenser_id']==licenser_id]
+        max_prob = df_lic['y_prob'].max()
+        max_rows = df_lic[df_lic['y_prob'] == max_prob]
+        target_id = max_rows.iloc[0]['candidate_id']
+        antec_type = max_rows.iloc[0]['antecedent_type']
+        antec_dict[licenser_id] = AntecedentData(target_id, antec_type, max_prob)
+    return antec_dict
+
+def extract_correct_antecedents_from_df(df : pd.DataFrame) -> Dict[str, AntecedentData]:
+    if 'y' not in df.columns:
+        raise Exception('Column "y" not present!')
+    antec_dict : Dict[str, AntecedentData]= {}
+    licensers = set(df['licenser_id'])
+    for licenser_id in licensers:
+        good_row = df[(df['licenser_id']==licenser_id) & (df['y']==1)]
+        if len(good_row) != 1:
+            raise Exception("Licenser %s has %d good antecedents!" % (licenser_id, len(good_row)))
+        good_row = good_row.iloc[0]
+        antec_dict[licenser_id] = AntecedentData(good_row['candidate_id'], good_row['antecedent_type'], good_row['y'])
+    return antec_dict
 
 def guess_antecedents(doc : tp.ParsedDoc, licensers : List[tp.Tree], model : Model,
                      labels : List[str], correct_antecedent_ids_typestr : List[Tuple[str, str]] = None) \
@@ -44,13 +90,15 @@ def guess_antecedents(doc : tp.ParsedDoc, licensers : List[tp.Tree], model : Mod
         # done with making make sure these are among the candidates
         if not go_ahead:
             continue
-        df = antecedent_detection.df_extraction.filtered_dict_to_df(candidate_list, False)
-        X = df[labels]
-        y_prob = [v[1] for v in model.predict_proba(X)]
-        df['y_prob'] = y_prob
+        df = antecedent_detection.df_extraction.filtered_dict_to_df(candidate_list)
+        # X = df[labels]
+        # y_prob = [v[1] for v in model.predict_proba(X)]
+        # df['y_prob'] = y_prob
+        df = antecedent_proba_to_df(df, model, labels)
         max_rows = df[df['y_prob'] == df['y_prob'].max()]
         target_id = max_rows.iloc[0]['candidate_id']
-        antecedent_guesses.append((target_id, df['y_prob'].max(), df['antecedent_type'])) #!!!!! check all uses of guess_antecedents()
+        antec_type = max_rows.iloc[0]['antecedent_type']
+        antecedent_guesses.append((target_id, df['y_prob'].max(), antec_type))
         data_df = pd.concat([data_df, df], ignore_index=True)
     return antecedent_guesses, data_df
 

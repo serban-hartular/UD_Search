@@ -11,22 +11,33 @@ from antecedent_detection import ComplexPredicate
 
 
 
-def filtered_dict_to_df(fd : List[Dict], balance_flag : bool = True) -> pd.DataFrame:
+def filtered_dict_to_df(fd : List[Dict]) -> pd.DataFrame:
     df = pd.DataFrame(fd)
-    if not balance_flag or df.empty:
+    if df.empty or 'y' not in df.columns:
+        return df
+    # sanity check 
+    licensers = set(df['licenser_id'])
+    for licenser in licensers:
+        # count candidates
+        good_row = df[(df['y'] == 1) & (df['licenser_id'] == licenser)]
+        if good_row.empty:
+            print('Error: licenser %s has no correct value' % licenser)
+        if len(good_row) != 1:
+            print('Error: licenser %s has %d correct values' % (licenser, len(good_row)))
+    return df
+
+def balance_data_df(df : pd.DataFrame) -> pd.DataFrame:
+    if df.empty:
         return df
     licensers = set(df['licenser_id'])
+    df['duplicate'] = 0
     for licenser in licensers:
         # count candidates
         candidate_count = len(df[df['licenser_id'] == licenser])
         good_row = df[(df['y']==1) & (df['licenser_id']==licenser)]
-        if good_row.empty:
-            print('Error: licenser %s has no correct value' % licenser)
-            continue
-        if len(good_row) != 1:
-            print('Error: licenser %s has %d correct values' % (licenser, len(good_row)))
         # df = df.append([good_row]*(candidate_count-2), ignore_index=True)
         extra_df = pd.concat([good_row]*(candidate_count-2), ignore_index=True)
+        extra_df['duplicate'] = 1
         extra_df.columns = df.columns
         df = pd.concat([df, extra_df], ignore_index=True)
     return df

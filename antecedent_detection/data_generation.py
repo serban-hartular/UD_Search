@@ -12,10 +12,12 @@ import clause_info.clause_types
 import tree_path as tp
 from tree_path import Search
 
+group_limits = (30, 10)
+
 DATAGEN_FN = Callable[[Dict, tp.ParsedDoc, List[ad.ComplexPredicate], tp.Tree, tp.Tree, Optional[bool]], Dict]
 
-CANDIDATE_ITERATOR = Callable[[tp.ParsedDoc, List[ad.ComplexPredicate]], List[Tuple[tp.Tree, ad.ComplexPredicate, str]]]
-CANDIDATE_ITERATOR.__doc__ = "fn(doc, groups) -> [(candidate, group, type), ...]"
+CANDIDATE_ITERATOR = Callable[[tp.ParsedDoc, List[ad.ComplexPredicate], tp.Tree, ad.ComplexPredicate], List[Tuple[tp.Tree, ad.ComplexPredicate, str]]]
+CANDIDATE_ITERATOR.__doc__ = "fn(doc, groups, licenser, licenser_group=None) -> [(candidate, group, type), ...]"
 def generate_candidates_for_licenser(doc : tp.ParsedDoc, licenser : tp.Tree, 
                                      groups : List[ad.ComplexPredicate], syntactic_rels : Dict[Tuple, str], 
                                      candidate_gen_fn : CANDIDATE_ITERATOR = None,
@@ -30,7 +32,7 @@ def generate_candidates_for_licenser(doc : tp.ParsedDoc, licenser : tp.Tree,
     e_group = e_group[0]
     # for g in groups:
     #     for node in g:
-    for node, g, typestr in candidate_gen_fn(doc, groups):
+    for node, g, typestr in candidate_gen_fn(doc, groups, licenser, e_group):
         if node == licenser:
             continue
         is_good = None if antecedent is None else (antecedent[0] == node and antecedent[1] == typestr)
@@ -39,16 +41,31 @@ def generate_candidates_for_licenser(doc : tp.ParsedDoc, licenser : tp.Tree,
         candidate_list.append(candidate_dict)
     return candidate_list
 
-def list_candidates(doc : tp.ParsedDoc, groups : List[ad.ComplexPredicate]) -> List[Tuple[tp.Tree, ad.ComplexPredicate, str]]:
+def list_candidates(doc : tp.ParsedDoc, groups : List[ad.ComplexPredicate], licenser : tp.Tree,
+                    licenser_group : ad.ComplexPredicate = None)\
+        -> List[Tuple[tp.Tree, ad.ComplexPredicate, str]]:
     cl = []
+    if not licenser_group:
+        licenser_group = [g for g in groups if licenser in g]
+        if not licenser_group:
+            raise Exception('Error: licenser %s not in a group' % doc.uid(licenser))
+        licenser_group = licenser_group[0]
+    if group_limits:
+        gi = groups.index(licenser_group)
+        start = max(gi-group_limits[0], 0)
+        end = min(gi+group_limits[1], len(groups))
+        groups = groups[start:end+1]
+        
     for g in groups:
         for node in g:
+            if node == licenser: continue
             cl.append((node, g, 'Present'))
     return cl
 
-def list_candidates_with_elliptic_antecedents(doc : tp.ParsedDoc, groups : List[ad.ComplexPredicate])\
+def list_candidates_with_elliptic_antecedents(doc : tp.ParsedDoc, groups : List[ad.ComplexPredicate],
+                                              licenser : tp.Tree, licenser_group : ad.ComplexPredicate = None)\
                         -> List[Tuple[tp.Tree, ad.ComplexPredicate, str]]:
-    cl = list_candidates(doc, groups)
+    cl = list_candidates(doc, groups, licenser, licenser_group)
     to_add = []
     for node, g, typestr in cl:
         if node != g.bottom(): continue
