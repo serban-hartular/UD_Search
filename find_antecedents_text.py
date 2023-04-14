@@ -1,4 +1,5 @@
 import pickle
+import sys
 from typing import Dict, List
 
 import pandas as pd
@@ -39,17 +40,29 @@ def find_antecedents_in_text(text : str) -> pd.DataFrame:
 def doc_annotate_ellipses(doc : tp.ParsedDoc, antecedent_detection_model : Model, labels : List[str]):
     licenser_detection.annotate_licensers(doc)
     licensers = [m.node for m in doc.search('.//[misc.Ellipsis=VPE]')]
+    print('Licensers annotated', file=sys.stderr)
     antecs, df = antecedent_detection.antecedent_guess.guess_antecedents(doc, licensers, antecedent_detection_model, labels)
     for licenser, (antec_id, antec_score, antec_type) in zip(licensers, antecs):
         licenser.assign('misc.TargetID', {antec_id})
         licenser.assign('misc.Antecedent', {antec_type})
+    print('Antecedents annotated', file=sys.stderr)
         
 def text_to_ellipsis_annotated_doc(text : str, antecedent_detection_model : Model, labels : List[str]) -> tp.ParsedDoc:
     doc = stanza_parse.text_to_doc(text)
+    print('Text parsed', file=sys.stderr)
     doc_annotate_ellipses(doc, antecedent_detection_model, labels)
     return doc
 
 def textfile_to_ellipsis_annotated_doc(filename : str, antecedent_detection_model : Model, labels : List[str]) -> tp.ParsedDoc:
     with open(filename, 'r', encoding='utf-8') as handle:
         text = handle.read()
+    print('Text loaded', file=sys.stderr)
     return text_to_ellipsis_annotated_doc(text, antecedent_detection_model, labels)
+
+def parsed_text_to_ellipsis_annotated_docs(filename : str, antecedent_detection_model : Model, labels : List[str], doc_id_key : str = None) -> tp.DocList:
+    doclist = tp.DocList.from_conllu(filename, doc_id_key)
+    for doc in doclist:
+        doc_annotate_ellipses(doc, antecedent_detection_model, labels)
+    return doclist
+
+dl = parsed_text_to_ellipsis_annotated_docs('./other_texts/Jurnal_de_bord.conllu', model, labels)

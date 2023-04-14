@@ -11,7 +11,7 @@ def prep_document(doc : tp.ParsedDoc):
         full_lemma = str(valences.get_verb_lemma(verb))
         for k,v in morpho.items():
             verb.assign('misc.'+k, v)
-        verb.assign('misc.FullLemma', full_lemma)
+        verb.assign('misc.FullLemma', {full_lemma})
 
 def filter(node : tp.Tree) -> bool:
     """Returns false if to skip, true if to mark"""

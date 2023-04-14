@@ -38,6 +38,8 @@ class FullLemma:
 def get_verb_lemma(node : Tree) -> FullLemma:
     lemma = node.data('lemma')
     fixed = Search('/[deprel=fixed]').find(node)
+    _bad_ones = [m for m in fixed if '-' in m.node.sdata('lemma')]
+    fixed = [m for m in fixed if '-' not in m.node.sdata('lemma')] # this because of bad parses
     others = [Search('/[deprel=fixed lemma=%s]' % m.node.data('lemma')) for m in fixed]
     others_rep = [m.node.data('lemma') for m in fixed]
     # add adjs

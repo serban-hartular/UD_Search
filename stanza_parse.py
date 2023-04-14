@@ -8,7 +8,7 @@ import tree_path as tp
 nlp = None
 def init_nlp():
     global nlp
-    nlp = stanza.Pipeline('ro') # initialize Romanian neural pipeline
+    nlp = stanza.Pipeline('ro', download_method=None) # initialize Romanian neural pipeline
 
 
 def text_to_doc(text : str, conllu_filename : str = 'temp.conllu') -> tp.ParsedDoc:

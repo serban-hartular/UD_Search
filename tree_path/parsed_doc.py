@@ -229,7 +229,9 @@ class DocList(List[ParsedDoc]):
             for doc in self:
                 handle.write(doc.conllu(doc_id_key) + '\n')
     @staticmethod
-    def from_conllu(filename, doc_id_key : str = DOC_ID_KEY):
+    def from_conllu(filename, doc_id_key : str = None):
+        if doc_id_key is None:
+            doc_id_key = DocList.DOC_ID_KEY
         return DocList([d for d in iter_docs_from_conll(filename, doc_id_key)])
     def to_json_zip(self, filename : str):
         encoded = json.dumps([d.to_jsonable() for d in self])\

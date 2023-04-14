@@ -23,22 +23,23 @@ def get_verb_form(node : Tree, allowed_upos : Set[str] = None) -> Dict[str,Set]|
     if node._data['upos'] not in allowed_upos:
         return None
     d = {}
-    VerbForm = node._data['feats']['VerbForm']
-    id = node._data['id']
+    VerbForm = node.sdata('feats.VerbForm')
+    id = node.sdata('id')
     # is this copulative or passive voice?
     cop = Search('/[deprel=aux:pass,cop]').find(node)
     if cop:
         cop = cop[0].node
-        if 'Gender' in node._data['feats']:
+        if 'Gender' in node.data('feats'):
             d.update({'Gender':node._data['feats']['Gender']})
         if cop._data['deprel'] == 'aux:pass':
             d.update({'Voice':{'Passive'}})
-        VerbForm = cop._data['feats']['VerbForm']
+        # VerbForm = cop._data['feats']['VerbForm']
+        VerbForm = cop.sdata('feats.VerbForm')
         id = cop._data['id']
-    # try:
-    VerbForm = list(VerbForm)[0]
-    # except:
-    #     raise Exception('Empty VerbForm: ' + str(head_node))
+    # # try:
+    # VerbForm = list(VerbForm)[0]
+    # # except:
+    # #     raise Exception('Empty VerbForm: ' + str(head_node))
     before = [c for c in node.children() if int(c._data['id']) < int(id)]
     aux = [c._data['form'].lower() for c in before]
     aux = [a for a in aux if a in _auxiliaries]
